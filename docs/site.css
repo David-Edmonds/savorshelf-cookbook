@@ -4,3 +4,22 @@
 
 /* Native controls keep the same legible palette when the device uses dark mode. */
 :root{color-scheme:light}select,select option{background:#fffdf8;color:#19394a;border-color:#7b8790}
+
+/* Navy frame and ivory reading cards, with copper reserved for emphasis. */
+:root{--muted:#3e4b53;--clay:#843c29}
+body{background:#101d28;color:#faf6ee}
+header,footer{border-color:#5d6d79}nav a,footer a{color:#faf6ee}
+.hero .intro,.hero .quiet,.numbers span{color:#e0e6e9}
+.hero>.hero-copy>.eyebrow,.section-head .eyebrow{color:#efbb94}
+.hero .eyebrow{color:#efbb94}
+.hero-dish,.paths>a,.reading-page{background:#faf6ee;color:#142d3d;--muted:#3e4b53;--clay:#813c27;--ink:#142d3d}
+.hero-dish{border-color:#c2b8a8;box-shadow:10px 15px 0 #31434f}
+.hero-dish p,.hero-dish small,.paths p{color:#3e4b53}
+.hero-dish span,.paths span{color:#813c27}
+.hero .button{background:#edbc98;color:#182d3c;border:1px solid #edbc98}
+.hero .button-secondary{background:transparent;color:#faf6ee;border-color:#c2b8a8}
+.numbers{border-color:#5d6d79}
+.honest{background:#223847;color:#faf6ee;border:1px solid #5d6d79}.honest .quiet{color:#e0e6e9}
+.reading-page{margin-top:28px;margin-bottom:28px;border-radius:18px;border:1px solid #c2b8a8}
+.reading-page .button{color:#fff;background:#843c29}.reading-page .button-secondary{color:#142d3d;background:transparent}
+.skip-link{color:#142d3d}

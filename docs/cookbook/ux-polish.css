@@ -26,3 +26,23 @@ body{background:var(--ux-bg);color:var(--ink)}.public-edition-notice{margin:0!im
 :root[data-theme=dark] .cookbook-scope .btn[aria-pressed=true]{box-shadow:inset 0 0 0 2px #d6e2eb!important}
 :root[data-theme=dark] .btn:focus-visible,:root[data-theme=dark] .card-main:focus-visible,:root[data-theme=dark] input:focus-visible,:root[data-theme=dark] select:focus-visible,:root[data-theme=dark] textarea:focus-visible,:root[data-theme=dark] summary:focus-visible{outline-color:#ffd29b!important}
 :root[data-theme=dark] .recipe-pagination .btn,:root[data-theme=dark] .active-filters .btn{border-color:var(--ux-line)}
+
+/* Editorial palette: deep surroundings, warm reading surfaces, strong ink. */
+:root{--ux-muted:#3e4b53;--muted:#3e4b53}
+:root[data-theme=dark]{--ux-bg:#101d28;--bg:#101d28;--ux-muted:#e0e6e9;--muted:#e0e6e9;--ux-nav:#172b3b;--ux-line:#71828e}
+:root :is(.panel,.card,dialog,.empty-results){--ink:#142d3d;--muted:#3e4b53;--paper:#faf6ee;--light:#e8dfd0;--soft:#efe4d2;--line:#b5aa99;--green:#843c29;--on-primary:#ffffff;--danger:#922c24;--orange:#813c27;--ux-ink:#142d3d;--ux-muted:#3e4b53;--ux-surface:#faf6ee;--ux-inset:#e8dfd0;--ux-selected:#173447;--ux-clay:#813c27;--ux-line:#b5aa99;color:#142d3d;background:#faf6ee;color-scheme:light}
+:root .cookbook-search-panel{border-color:#b5aa99!important}
+:root .cookbook-scope .btn[aria-pressed=true]{background:#173447!important;color:#fffaf2!important;box-shadow:none!important}
+:root .cookbook-scope .btn:not([aria-pressed=true]){color:#34434b!important;font-weight:650}
+:root :is(.panel,.card,dialog) :is(h1,h2,h3,label,summary){color:#142d3d}
+:root :is(.panel,.card,dialog) .btn.primary{background:#843c29;border-color:#843c29;color:#ffffff}
+:root :is(.panel,.card,dialog) .chip.active{background:#173447;color:#fffaf2;border-color:#173447}
+:root :is(.panel,.card,dialog) :is(.small,.muted,.substitution,.source-note){color:#3e4b53}
+:root :is(.panel,.card,dialog) .btn:focus-visible,:root :is(.panel,.card,dialog) :is(input,select,textarea,summary):focus-visible{outline-color:#813c27!important}
+:root input::placeholder,:root textarea::placeholder{color:#465761!important}
+#cookbook-results .recipe-description{font-weight:450}#cookbook-results .recipe-meta{font-weight:600}
+:root .cookbook-full .quiet:first-child{color:#142d3d!important;background:#faf6ee!important}
+:root[data-theme=dark] .bottom-nav .nav-item.active{background:#365063!important;color:#fffaf2!important}
+:root[data-theme=dark] .cookbook-add .btn{background:#faf6ee;color:#142d3d;border-color:#c2b8a8}
+:root[data-theme=dark] .cookbook-sort select{border-color:#c2b8a8!important}
+:root[data-theme=dark] #cookbook-results .card{box-shadow:0 8px 26px #0003}

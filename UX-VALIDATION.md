@@ -31,3 +31,9 @@ Port cookbook-ui.js, language-ui.js, public-edition.js, ux-polish.css and the st
 Fixed the dark-theme search field rendering light text on white. Website surfaces now follow the selected theme together. Text-entry fields and selects use cream backgrounds with navy text in both themes, with stronger boundaries, opaque placeholders, and a distinct active scope outline in dark mode. The standalone site also keeps native select colors consistent under a dark OS preference.
 
 Run `python tests/contrast-browser.py`: 98 visible controls across light/dark system themes, five tabs, recipe dialog and editor passed computed text/placeholder contrast of at least 4.5:1 and mobile overflow checks. Dark cookbook and creator screenshots were visually inspected. This is focused contrast validation, not a full accessibility certification or physical-phone test.
+
+## Editorial palette refinement
+
+Replaced the muted blue-on-blue treatment with a navy frame, ivory reading surfaces, deep ink body text, and restrained copper accents. The homepage now uses the same palette. Dark cookbook mode retains a dark surrounding canvas but uses light panels and recipe cards; explicit light mode remains supported.
+
+Expanded the computed contrast checks to visible headings, paragraphs, labels, summaries, buttons, links and spans across the five cookbook tabs, editor and recipe dialog in both system themes, plus all four website pages. Normal text passed 4.5:1 and large text 3:1 in the sampled rendered states; image-overlay text and visually hidden labels are outside this test. Form checks and existing responsive interaction tests passed. Screenshots were visually inspected.
