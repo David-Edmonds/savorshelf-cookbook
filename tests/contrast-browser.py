@@ -29,7 +29,9 @@ with sync_playwright() as p:
   page=b.new_page(color_scheme=theme,viewport={'width':390,'height':844})
   page.goto(f'http://127.0.0.1:{server.server_port}/cookbook/')
   for tab in ['recipes','favorites','create','shopping','settings']:
-   page.locator('[data-action=tab][data-tab='+tab+']').click();count+=check(page)
+   page.locator('[data-action=tab][data-tab='+tab+']').click()
+   if tab=='recipes':page.locator('#cookbook-refine, .refine-group').evaluate_all('els=>els.forEach(e=>e.open=true)')
+   count+=check(page)
   page.locator('[data-action=tab][data-tab=recipes]').click()
   page.locator('[data-action=uc-open]').first.click();count+=check(page)
   page.locator('[data-action=uc-back]').click();page.locator('[data-action=new]').first.click();count+=check(page)
@@ -39,4 +41,3 @@ with sync_playwright() as p:
  b.close()
 server.shutdown()
 print(f'PASS: {count} visible form controls checked in light/dark system themes; text and placeholders >=4.5:1; recipe dialog and editor; no mobile overflow.')
-

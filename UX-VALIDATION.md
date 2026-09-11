@@ -37,3 +37,7 @@ Run `python tests/contrast-browser.py`: 98 visible controls across light/dark sy
 Replaced the muted blue-on-blue treatment with a navy frame, ivory reading surfaces, deep ink body text, and restrained copper accents. The homepage now uses the same palette. Dark cookbook mode retains a dark surrounding canvas but uses light panels and recipe cards; explicit light mode remains supported.
 
 Expanded the computed contrast checks to visible headings, paragraphs, labels, summaries, buttons, links and spans across the five cookbook tabs, editor and recipe dialog in both system themes, plus all four website pages. Normal text passed 4.5:1 and large text 3:1 in the sampled rendered states; image-overlay text and visually hidden labels are outside this test. Form checks and existing responsive interaction tests passed. Screenshots were visually inspected.
+
+## Reduced glare and expanded filters
+
+Replaced near-white cookbook surfaces with warm stone panels and softer input backgrounds. Explicit dark navy filter-summary text prevents the washed-out labels shown in the user screenshot. Contrast checks now open the advanced filter groups in both themes. The interaction suite and offline stylesheet check passed. Versioned stylesheet URL and appearance=4 entry link allow existing cache-first installations to fetch the new presentation without deleting saved recipes.

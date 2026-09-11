@@ -46,3 +46,14 @@ body{background:var(--ux-bg);color:var(--ink)}.public-edition-notice{margin:0!im
 :root[data-theme=dark] .cookbook-add .btn{background:#faf6ee;color:#142d3d;border-color:#c2b8a8}
 :root[data-theme=dark] .cookbook-sort select{border-color:#c2b8a8!important}
 :root[data-theme=dark] #cookbook-results .card{box-shadow:0 8px 26px #0003}
+
+/* Lower-glare reading surfaces; explicit labels prevent mixed-theme inheritance. */
+:root{--ux-bg:#d7d0c3;--bg:#d7d0c3;--ux-surface:#dfd8ca;--ux-muted:#34424b}
+:root[data-theme=dark]{--ux-bg:#101d28;--bg:#101d28;--ux-muted:#e0e6e9}
+:root :is(.panel,.card,dialog,.empty-results){--paper:#dfd8ca;--ux-surface:#dfd8ca;--light:#ccc2af;--ux-inset:#ccc2af;background:#dfd8ca;color:#142d3d}
+:root #cookbook-refine>summary,:root .refine-group>summary{color:#142d3d!important;font-weight:700}
+:root input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=color]),:root textarea,:root select,:root select option{background:#eee8dc!important;color:#142d3d!important;border-color:#687682!important}
+:root .search-clear{background:#eee8dc!important;color:#142d3d!important}
+:root .cookbook-full .quiet:first-child{background:#dfd8ca!important;color:#142d3d!important}
+:root[data-theme=dark] .cookbook-add .btn{background:#dfd8ca;color:#142d3d}
+:root{--orange:#813c27} :root:not([data-theme=dark]) .eyebrow{color:#813c27}
