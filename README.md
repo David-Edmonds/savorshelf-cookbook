@@ -1,11 +1,11 @@
-# SavorShelf standalone website — ready for publication review
+# SavorShelf
 
-Proposed new repository: David-Edmonds/savorshelf-cookbook. Nothing has been pushed or published. Do not use the portfolio repository or change its settings.
+A standalone cookbook website with recipes, cultural discovery, kitchen preferences and an Android download.
 
-After approval, create that separate repository, upload this package, and configure GitHub Pages to publish from main /docs. No build service, credentials, paid domain or backend is required. The expected default project path is /savorshelf-cookbook/; an existing user-site custom domain may affect the final hostname. Verify the actual Pages URL before reporting publication.
+Website address configured in GitHub Pages: https://david-edmonds.github.io/savorshelf-cookbook/
 
-The docs folder contains the complete static website and cookbook. It intentionally includes the recipe-related ChatGPT archive and cooking notes at David's explicit request. Publishing makes those included notes publicly readable. It does not include the complete raw account export or unrelated conversations. Read PUBLISHING-MANIFEST.json and docs/credits.html for scope and provenance. Individual Wikibooks recipes preserve CC BY-SA 4.0 attribution and author-history links.
+This repository is separate from the portfolio. GitHub Pages serves main /docs. The site intentionally includes 685 recipe-related ChatGPT entries and cooking notes with the owner's publication approval. It excludes the complete account export, unrelated conversations, private signing materials and the raw 55k recipe-source work list.
 
-Preview on Windows from this folder: python -m http.server 8080 --directory docs . Then open http://127.0.0.1:8080 . For a project-path check serve the parent folder and use /savorshelf-publishing/docs/ . Do not use file:// for the app's offline features.
+The current snapshot has 1,458 structured cards; worldwide recipe enrichment and complete image/translation coverage remain unfinished. AI illustrations are labeled. Visitors' own edits stay in their browser unless exported/shared; there is no automatic device synchronization. See the site's privacy, getting-started and source-credit pages.
 
-The public cookbook creates a browser-local collection for each visitor; it is not a cloud-sync account. Existing browser records are not cleared. English and Spanish navigation is available; full recipe translations and a unique photo for every dish remain unfinished. Missing matching photos use a labeled neutral card, never unrelated dish artwork.
+The included APK is SavorShelf 0.18.0, signed with the original certificate. Physical-phone installation remains untested. GitHub publishes changes to docs when main changes. Review the exact content and approval scope before expanding public data.

@@ -1,5 +1,5 @@
 {
-  "status": "Prepared locally in isolated website snapshot; publication approval pending",
+  "status": "Source published with owner approval; GitHub Pages deployment requested",
   "proposedRepository": "David-Edmonds/savorshelf-cookbook",
   "hosting": "GitHub Pages from main /docs; no portfolio repository changes",
   "includes": [
@@ -25,5 +25,7 @@
   "archivePreservedByteForByte": true,
   "credentialPatternScanPassed": true,
   "recipeTranslationsComplete": false,
-  "uniqueDishPhotosComplete": false
+  "uniqueDishPhotosComplete": false,
+  "repository": "David-Edmonds/savorshelf-cookbook",
+  "configuredWebsiteUrl": "https://david-edmonds.github.io/savorshelf-cookbook/"
 }
