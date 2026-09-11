@@ -1,0 +1,29 @@
+{
+  "status": "Prepared locally in isolated website snapshot; publication approval pending",
+  "proposedRepository": "David-Edmonds/savorshelf-cookbook",
+  "hosting": "GitHub Pages from main /docs; no portfolio repository changes",
+  "includes": [
+    "1458 structured recipe cards, including six completed source adaptations",
+    "685 recovered ChatGPT recipe/cooking-note entries",
+    "recipe source notes and English descriptions",
+    "all web assets and bilingual navigation",
+    "standalone landing website",
+    "Bilingual getting-started and privacy pages",
+    "Original-key signed Android 0.18.0 APK download"
+  ],
+  "excludes": [
+    "raw full ChatGPT account export",
+    "signing backups and passwords",
+    "Android signing files",
+    "server credentials",
+    ".env files",
+    "personal filesystem backups",
+    ".git",
+    "node_modules"
+  ],
+  "archiveSha256": "93d65133b10112141342cf451057565a34e8eb790f3d7ba4609d4c0e947691fe",
+  "archivePreservedByteForByte": true,
+  "credentialPatternScanPassed": true,
+  "recipeTranslationsComplete": false,
+  "uniqueDishPhotosComplete": false
+}

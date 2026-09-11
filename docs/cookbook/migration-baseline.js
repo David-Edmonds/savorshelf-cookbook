@@ -1,0 +1,2 @@
+/* Only non-secret signatures used to preserve personal edits. */
+window.OUR_TABLE_BASELINES={"starter-burgers":"50287243-2da39af9","starter-sauce":"a9cadbf-d0381cdb","apple-strawberry-cookies":"c18769b-66744a47","two-banana-bread":"dabc5d9f-e3337793","tres-leches":"b6698127-d903633b","condensed-yogurt-loaf":"4dd74c72-65d73730","yogurt-drumsticks":"a2d915aa-f7749212","garlic-dijon-thighs":"6d6c8afb-bd929f6d","sweet-garlic-wings":"8e3dc209-8e0e1975","tagine-thighs":"be220b57-2cc7f361","banana-pudding":"298847a0-4a351bc4"};
