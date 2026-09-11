@@ -25,3 +25,9 @@ Optional: set PLAYWRIGHT_CHROMIUM_EXECUTABLE to an existing Chromium executable.
 ## Integrating into the Android source later
 
 Port cookbook-ui.js, language-ui.js, public-edition.js, ux-polish.css and the stylesheet link deliberately into the current source. Keep public-edition.js website-only. sw.js controls only website caching. Do not overwrite the separate recipe-expansion work or change the Android signing identity.
+
+## Contrast follow-up
+
+Fixed the dark-theme search field rendering light text on white. Website surfaces now follow the selected theme together. Text-entry fields and selects use cream backgrounds with navy text in both themes, with stronger boundaries, opaque placeholders, and a distinct active scope outline in dark mode. The standalone site also keeps native select colors consistent under a dark OS preference.
+
+Run `python tests/contrast-browser.py`: 98 visible controls across light/dark system themes, five tabs, recipe dialog and editor passed computed text/placeholder contrast of at least 4.5:1 and mobile overflow checks. Dark cookbook and creator screenshots were visually inspected. This is focused contrast validation, not a full accessibility certification or physical-phone test.
