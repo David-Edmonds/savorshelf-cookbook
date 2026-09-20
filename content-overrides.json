@@ -1,0 +1,170 @@
+[
+  {
+    "sourceId": "historical-f8ae338a990b1599597520f3",
+    "bodySha256": "f9a9e25e0ac504c7cdc78b996fd17f0d7def3a93fa1ff7774c823d8ad8dcf00a",
+    "recipe": {
+      "id": "historical-f8ae338a990b1599597520f3",
+      "title": "Buttered Toast",
+      "description": "Thick bread is toasted crisp and buttered on both faces while hot, leaving a crunchy surface and a tender middle.",
+      "category": "Breakfast",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "bread",
+          "amount": 4,
+          "unit": "slice",
+          "name": "bread, each about 19 mm (¾ inch) thick",
+          "substitution": "Use the same number of similarly sized wheat, white or sourdough slices. Gluten-free bread may toast faster."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "softened salted butter",
+          "substitution": "Use the same weight of a spreadable dairy-free butter alternative; flavor and browning differ."
+        }
+      ],
+      "steps": [
+        "Arrange {{bread}} on a rack over a baking tray. Heat the oven to 400°F (200°C).",
+        "Toast for about 6–10 minutes, turning halfway, until both faces are crisp and golden. Watch the final minutes closely.",
+        "Spread {{butter|0.5}} over one face of the warm slices. Turn them over and spread the remaining {{butter|0.5}} over the other face.",
+        "Serve two slices per person immediately. For a larger batch, toast in uncrowded batches; do not multiply the oven temperature or per-batch time."
+      ],
+      "notes": "The source specified bread thickness and buttering both sides but no quantities. This adaptation sets four slices, 28 g butter and an oven method. Bread size changes the portion size. Yield and timing are planning estimates. This adaptation has not been kitchen-tested.",
+      "source": "The English and Australian Cookery Book (1864), Edward Abbott. https://archive.org/details/b21505524 Modern adaptation by SavorShelf. ",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-20T00:00:00Z"
+    }
+  },
+  {
+    "sourceId": "historical-7b50009f683c2e6110a9c62e",
+    "bodySha256": "0ba4eb3240a0f9fb4048f3a3ed8e63440e94ef8baf10c46f7d06ed680392b1f3",
+    "recipe": {
+      "id": "historical-7b50009f683c2e6110a9c62e",
+      "title": "Mashed Potatoes",
+      "description": "Steamed potatoes are mashed with warm milk and a little butter for a soft, light side dish, with optional oven browning.",
+      "category": "Sides",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 85,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1000,
+          "unit": "g",
+          "name": "peeled floury potatoes, cut into 3 cm chunks",
+          "substitution": "Use the same weight of russet potatoes; Yukon Gold gives a denser, creamier mash."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a dairy-free butter alternative."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of lactose-free whole milk. Unsweetened plant milk changes the flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Omit for an unsalted version; do not exchange different salts by volume."
+        }
+      ],
+      "steps": [
+        "Cover {{potatoes}} with cold water and leave for 30 minutes, as in the source; then drain.",
+        "Put the potato pieces in a steamer over simmering water, keeping them above the water. Cover and steam for 20–25 minutes until a fork meets no resistance. Keep water in the lower pan as needed for steaming.",
+        "Warm {{milk}} in a small saucepan until steaming, without boiling. Transfer the tender potatoes to a warm bowl and mash by hand.",
+        "Mix {{butter}} and {{salt}} into the hot mash. Stir in half the warm milk, {{milk|0.5}}, followed by the remaining {{milk|0.5}}, until evenly combined. Avoid a blender or food processor.",
+        "Serve as six side portions. For the optional browned finish, place in a shallow oven-safe dish and bake at 400°F (200°C) for 10–15 minutes."
+      ],
+      "notes": "The missing potato weight and salt amount are supplied as a modern formulation. Milk and butter are interpreted as 240 ml and 14 g. The original soak and steaming method are retained. Allow about 70 minutes without browning, or 85 with it. Yield and timing are planning estimates. This adaptation has not been kitchen-tested.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse Modern adaptation by SavorShelf. Mashing technique cross-check: https://www.idahopotato.com/recipes/traditional-mashed-idaho-potatoes ; quantities and steaming method above are this source adaptation, not that recipe.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 85,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-20T00:00:00Z"
+    }
+  },
+  {
+    "sourceId": "historical-dd8c7e4f64772fa37bb54bed",
+    "bodySha256": "45b0014423e6c2362de68f3850ba3532d1ad1d2bd4100cba1e857fa3dc4321a5",
+    "recipe": {
+      "id": "historical-dd8c7e4f64772fa37bb54bed",
+      "title": "Scrambled Eggs",
+      "description": "Eggs scrambled in butter with a small splash of milk form tender curds. The source’s generous pepper amount gives a pronounced peppery finish.",
+      "category": "Breakfast",
+      "servings": 3,
+      "yieldUnit": "servings",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use pasteurized shell eggs in the same number if preferred. An egg-free replacement needs a separate formulation."
+        },
+        {
+          "key": "milk",
+          "amount": 30,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use 30 ml water for a less creamy result, or the same volume of lactose-free milk."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste; salt does not provide the structure here."
+        },
+        {
+          "key": "pepper",
+          "amount": 1.5,
+          "unit": "g",
+          "name": "ground black pepper",
+          "substitution": "Use less if desired; the original recipe is strongly peppered. White pepper has a different flavor."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a dairy-free butter alternative; flavor will differ."
+        }
+      ],
+      "steps": [
+        "Whisk {{eggs}}, {{milk}}, {{salt}} and {{pepper}} in a bowl until evenly combined.",
+        "Melt {{butter}} in a large nonstick frying pan over medium-low heat; do not let it brown.",
+        "Pour in the egg mixture. Move a spatula slowly across the base and fold the setting curds over, cooking about 3–5 minutes until the eggs are set and no liquid egg remains.",
+        "Remove from the heat and divide into three portions. Serve immediately; the pan’s retained heat continues to firm the eggs."
+      ],
+      "notes": "This adaptation keeps the six-egg formula, interprets the old milk and butter measures in metric, supplies weighed seasoning and a three-portion yield, and clarifies heat and doneness. Pan size and stove heat affect timing. Yield and timing are planning estimates. This adaptation has not been kitchen-tested.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse Modern adaptation by SavorShelf. Technique cross-check: https://www.incredibleegg.org/recipe/basic-scrambled-eggs/ ; this retains the historical formula rather than the reference recipe’s proportions.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-20T00:00:00Z"
+    }
+  }
+]

@@ -17,6 +17,8 @@ with sync_playwright() as p:
  page.get_by_role('button',name='A Cake without Butter',exact=False).first.click()
  expect(page.locator('#modal .recipe-header h1')).to_have_text('A Cake without Butter',timeout=30000)
  expect(page.locator('#modal')).to_contain_text('Beat well five eggs.')
+ expect(page.locator('#modal .ingredients-panel')).to_contain_text('6 oz flour (≈170.1 g)')
+ expect(page.locator('#modal .method-panel')).to_contain_text('6 oz flour (≈170.1 g)')
  assert page.locator('#modal .recipe-content-grid .ingredients-panel').count()==1
  assert page.locator('#modal .recipe-content-grid .method-panel').count()==1
  assert page.locator('#modal .recipe-header-art .cover').count()==1

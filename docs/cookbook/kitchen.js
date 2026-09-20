@@ -4,8 +4,8 @@ const C=typeof module!=='undefined'?require('./core.js'):root.RecipeCore;
 const V=typeof module!=='undefined'?require('./versioning.js'):root.RecipeVersions;
 const clone=x=>structuredClone(x), norm=s=>String(s||'').normalize('NFKD').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 function dual(text){
- const held=[]; let s=String(text).replace(/(\d+(?:\.\d+)?)\s*(?:degrees?\s*)?([FC])\b/g, '$1°$2').replace(/\d+(?:\.\d+)?\s*°[FC]\s*(?:\/\s*|\(\s*)\d+(?:\.\d+)?\s*°[FC]\)?/gi,m=>{held.push(m);return `\uE000${held.length-1}\uE001`;});
- s=s.replace(/(\d+(?:\.\d+)?)\s*°([FC])/gi,(_,n,u)=>{n=Number(n);if(u.toUpperCase()==='F'){let c=(n-32)*5/9;c=n>=250?Math.round(c/5)*5:Math.round(c);return `${n}°F (${c}°C)`;}let f=n*9/5+32;f=n>=120?Math.round(f/5)*5:Math.round(f);return `${f}°F (${n}°C)`;});
+ const held=[]; let s=String(text).replace(/(-?\d+(?:\.\d+)?)\s*(?:degrees?\s*)?([FC])\b/g, '$1°$2').replace(/-?\d+(?:\.\d+)?\s*°[FC]\s*(?:\/\s*|\(\s*)-?\d+(?:\.\d+)?\s*°[FC]\)?/gi,m=>{held.push(m);return `\uE000${held.length-1}\uE001`;});
+ s=s.replace(/(-?\d+(?:\.\d+)?)\s*°([FC])/gi,(_,n,u)=>{n=Number(n);if(u.toUpperCase()==='F'){let c=(n-32)*5/9;c=n>=250?Math.round(c/5)*5:Math.round(c);return `${n}°F (${c}°C)`;}let f=n*9/5+32;f=n>=120?Math.round(f/5)*5:Math.round(f);return `${f}°F (${n}°C)`;});
  return s.replace(/\uE000(\d+)\uE001/g,(_,i)=>held[i]);
 }
 function ingredientText(i,factor=1){const a=i.amount===null?null:i.amount*factor;let u=C.unit(i.unit); if(a>1&&['cup','tbsp','tsp','piece','clove','slice','can','egg'].includes(u)&&!['tbsp','tsp'].includes(u))u+='s';let label=[C.fmt(a),u,i.name].filter(Boolean).join(' ');return label;}

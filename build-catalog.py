@@ -1,17 +1,24 @@
 """Build public recipe chunks; preserve source wording instead of parsed guesses."""
-import json, pathlib, hashlib, re
+import json, pathlib, hashlib, re, importlib.util
+spec=importlib.util.spec_from_file_location("repairs",pathlib.Path(__file__).with_name("recipe-repairs.py"));repairs=importlib.util.module_from_spec(spec);spec.loader.exec_module(repairs)
 root=pathlib.Path(__file__).parent
 source=root.parent.parent/'outputs/SavorShelf-Image-Tools/approved-export/Recipes.jsonl'
 out=root/'docs/cookbook/catalog'; out.mkdir(exist_ok=True)
-rows=[]; index=[]
+overrides={r['sourceId']:r for r in json.loads((root/'content-overrides.json').read_text(encoding='utf-8'))}
+rows=[]; index=[]; audit=[]
 for line in source.open(encoding='utf-8'):
-    row=json.loads(line); r=dict(row['recipe'])
+    row=json.loads(line)
+    if row['id'] in overrides:
+        override=overrides[row['id']];assert override['bodySha256']==row['bodySha256']
+        row={**row,'recipe':override['recipe'],'description':override['recipe']['description'],'appReady':True}
+    r=dict(row['recipe'])
     r['description']=row['description']
     if not row['appReady']:
-        r['ingredients']=[{'key':f'source-{n}','amount':None,'unit':'','name':s,'substitution':''} for n,s in enumerate(row['originalIngredients'])]
-        r['steps']=list(row['originalSteps'])
+        r['ingredients'],r['steps'],linked=repairs.repair(row)
+        r['sourceIngredients']=row['originalIngredients'];r['sourceSteps']=row['originalSteps']
+        audit.append({'id':row['id'],'parsedAmounts':sum(i['amount'] is not None for i in r['ingredients']),'ingredients':len(r['ingredients']),'linkedIngredients':len(linked),'remainingGaps':row['gaps'],'completed':False})
         r['servings']=1; r['yieldUnit']='source batch (yield unspecified)'
-        r['notes']='Original ingredient amounts and method are preserved. Yield is unspecified; one batch means the complete source recipe, not one serving. Source quantities do not scale automatically. Unspecified amounts and older oven wording have not been converted or verified.'
+        r['notes']='Original ingredient amounts and method are preserved. Yield is unspecified; one batch means the complete source recipe, not one serving. Recognized amounts have been structured without changing their values. Unspecified amounts and older oven wording still need recipe-specific repair. Automatic scaling remains unavailable until the full recipe is checked.'
         r['sourceWording']=True
     r['minutes']=r.get('minutes') or 0
     r['catalogId']=row['id']
@@ -27,3 +34,7 @@ for start in range(0,len(rows),250): write(out/f'{start//250:03}.json',rows[star
 write(out/'index.json',index)
 write(out/'manifest.json',{'count':len(rows),'chunks':(len(rows)+249)//250,'sourceSha256':hashlib.sha256(source.read_bytes()).hexdigest(),'sourceWording':sum(bool(r.get('sourceWording')) for r in rows),'adaptations':sum(not r.get('sourceWording') for r in rows)})
 print('Built',len(rows),'recipes;',sum(p.stat().st_size for p in out.glob('*.json')),'bytes')
+
+report=root.parent.parent/'outputs/SavorShelf-Content-Repairs';report.mkdir(exist_ok=True)
+write(report/'progress.json',{'recipes':len(rows),'completedAdaptations':sum(not r.get('sourceWording') for r in rows),'remainingRecipes':len(audit),'recipesWithParsedAmounts':sum(r['parsedAmounts']>0 for r in audit),'parsedIngredients':sum(r['parsedAmounts'] for r in audit),'linkedIngredients':sum(r['linkedIngredients'] for r in audit),'allRequirementsComplete':False})
+(report/'remaining.jsonl').write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in audit),encoding='utf-8')

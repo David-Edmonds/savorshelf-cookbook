@@ -27,6 +27,7 @@ function substitute(i){if(i.substitution?.trim())return i.substitution;const nam
  return '';
 }
 function prepare(recipe){const r={...recipe,ingredients:(recipe.ingredients||[]).map(i=>({...i,substitution:substitute(i)})),steps:[...(recipe.steps||[])]};
+ if(r.sourceWording)return r; // Partial source repairs must not infer additional amount links.
  if(!r.ingredients.length||!r.steps.length)return r;
  T.linkAmounts(r);const used=new Set(r.steps.flatMap(s=>[...s.matchAll(/\{\{([\w-]+)/g)].map(m=>m[1])));
  const unlinked=r.ingredients.filter(i=>Number.isFinite(i.amount)&&i.amount>0&&i.key&&!used.has(i.key));
