@@ -44,10 +44,10 @@
   }
   function safeText(s,max=10000){return typeof s==='string'&&s.length<=max;}
   function validRecipe(r) {
-    if(!r||!safeText(r.id,100)||!r.id||!safeText(r.title,160)||!r.title.trim())throw Error('Every recipe needs a name and ID.');
+    if(!r||!safeText(r.id,100)||!r.id||!safeText(r.title,512)||!r.title.trim())throw Error('Every recipe needs a name and ID.');
     if(!Number.isFinite(r.servings)||r.servings<1||r.servings>1000)throw Error('Invalid recipe yield.');
     if(!Array.isArray(r.ingredients)||r.ingredients.length<1||r.ingredients.length>150)throw Error('Invalid ingredient list.');
-    r.ingredients.forEach(i=>{if(!i||!safeText(i.name,300)||!i.name.trim()||!safeText(i.unit,40)||(i.amount!==null&&(!Number.isFinite(i.amount)||i.amount<0||i.amount>1000000)))throw Error('Invalid ingredient quantity or name.');});
+    r.ingredients.forEach(i=>{if(!i||!safeText(i.name,1000)||!i.name.trim()||!safeText(i.unit,40)||(i.amount!==null&&(!Number.isFinite(i.amount)||i.amount<0||i.amount>1000000)))throw Error('Invalid ingredient quantity or name.');});
     if(!Array.isArray(r.steps)||!r.steps.length||r.steps.length>100||r.steps.some(s=>!safeText(s,10000)||!s.trim()))throw Error('Invalid recipe steps.');
     for(const field of ['notes','description','versionNote','source','category','yieldUnit'])if(r[field]!==undefined&&!safeText(r[field]))throw Error('Invalid recipe text.');
     if(r.versionNames!==undefined){

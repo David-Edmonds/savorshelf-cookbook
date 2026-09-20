@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "url": "http://127.0.0.1:61944/cookbook/",
+  "count": "42,345 recipes \u00b7 1 / 1765",
+  "catalog": 40893,
+  "sourceWordingDetail": true,
+  "saveAndPersonalDataPreserved": true,
+  "pagination": true,
+  "widths": [
+    320,
+    390,
+    768,
+    1280
+  ],
+  "offlineReload": true,
+  "browserErrors": [],
+  "physicalPhone": false
+}

@@ -2,14 +2,14 @@
 const aliases={eggs:'egg',beans:'bean',onions:'onion',tomatoes:'tomato',potatoes:'potato',mushrooms:'mushroom',cloves:'clove',breasts:'breast'};
 const norm=s=>String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim().split(' ').map(w=>aliases[w]||w).join(' ');
 function quality(r){const flags=[];if(!r.minutes)flags.push('Time needed');if((r.ingredients||[]).some(i=>i.amount==null))flags.push('Check amounts');if(/placeholder/i.test(r.notes||''))flags.push('Confirm servings');if(!(r.steps||[]).length)flags.push('Instructions needed');return flags;}
-function index(rows){return rows.map((e,i)=>({...e,key:String(i),fingerprint:e.kind==='Recovered originals'?e.id:JSON.stringify([norm(e.recipe.title),e.recipe.servings,e.recipe.ingredients,e.recipe.steps]),text:norm(e.search+' '+[e.recipe.country,e.recipe.cuisine,e.recipe.regionalCuisine,...(e.recipe.ethnicCuisines||[]),...(e.recipe.cuisineTags||[])].filter(Boolean).join(' ')+' '+Object.values(e.recipe.versionNames||{}).join(' ')),flags:e.kind==='Recovered originals'?['Historical note']:quality(e.recipe)}));}
+function index(rows){return rows.map((e,i)=>({...e,key:String(i),fingerprint:e.fingerprint||(e.kind==='Recovered originals'?e.id:JSON.stringify([norm(e.recipe.title),e.recipe.servings,e.recipe.ingredients,e.recipe.steps])),text:norm(e.search+' '+[e.recipe.country,e.recipe.cuisine,e.recipe.regionalCuisine,...(e.recipe.ethnicCuisines||[]),...(e.recipe.cuisineTags||[])].filter(Boolean).join(' ')+' '+Object.values(e.recipe.versionNames||{}).join(' ')),flags:e.kind==='Recovered originals'?['Historical note']:quality(e.recipe)}));}
 function totalMinutes(r){
  if(Number.isFinite(r.totalMinutes)&&r.totalMinutes>0)return r.totalMinutes;
  const notes=String(r.notes||'');
  if(/active preparation|active time|plus.*(?:hour|minute)|overnight|refrigerat|chill|marinat|rise|rising|soak/i.test(notes))return null;
  return Number.isFinite(r.minutes)&&r.minutes>0?r.minutes:null;
 }
-function facetsMatch(e,f={}){const r=e.recipe,ingredients=(r.ingredients||[]).filter(i=>i.amount!==0),names=ingredients.map(i=>norm(i.name)),steps=norm((r.steps||[]).join(' '));
+function facetsMatch(e,f={}){if(!Object.entries(f).some(([k,v])=>k!=='sort'&&v))return true;const r=e.recipe,ingredients=(r.ingredients||[]).filter(i=>i.amount!==0),names=ingredients.map(i=>norm(i.name)),steps=norm((r.steps||[]).join(' '));
  if(f.country&&norm(r.country)!==norm(f.country))return false;
  if(f.region&&norm(r.regionalCuisine)!==norm(f.region))return false;
  if(f.ethnicity&&!(r.ethnicCuisines||[]).some(x=>norm(x)===norm(f.ethnicity)))return false;

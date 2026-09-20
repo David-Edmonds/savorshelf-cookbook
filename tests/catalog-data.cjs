@@ -1,0 +1,6 @@
+const test=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
+const base=path.join(__dirname,'../docs/cookbook'),K=require(base+'/kitchen.js'),T=require(base+'/transfer.js');
+const all=fs.readdirSync(base+'/catalog').filter(f=>/^\d+\.json$/.test(f)).flatMap(f=>JSON.parse(fs.readFileSync(base+'/catalog/'+f)));
+test('every published recipe validates without dropping long source names',()=>{assert.equal(all.length,40893);assert.equal(new Set(all.map(r=>r.id)).size,40893);for(const r of all){K.validate(r);assert.ok(r.description.trim());assert.ok(r.source.trim());}});
+test('source wording has no guessed yield or numeric parsing',()=>{let count=0;for(const r of all)if(r.sourceWording){count++;assert.equal(r.servings,1);assert.match(r.yieldUnit,/yield unspecified/);assert.ok(r.ingredients.every(i=>i.amount===null));assert.ok(!r.steps.some(s=>s.includes('{{')));}assert.equal(count,40820);});
+test('saving twice is idempotent and preserves personal metadata',()=>{const r=structuredClone(all[0]);r.notes='My note';r.rating=5;r.versionNames={original:'Family version'};const result=T.merge([r],[all[0]]);assert.equal(result.recipes.length,1);assert.equal(result.recipes[0].notes,'My note');assert.equal(result.recipes[0].rating,5);assert.equal(result.recipes[0].versionNames.original,'Family version');});

@@ -42,6 +42,7 @@ render=function(){if(fromCookbook&&tab==='recipes'&&view.type==='home'){fromCook
 detail=function(){let html=oldDetail();if(fromCookbook)html=html.replace('data-action="home"','data-action="uc-back"');return html;};
 function back(){closeModal();$('#modal').classList.remove('cookbook-full');view={type:'home'};tab='recipes';returning=true;render();}
 function open(key){const e=rows().find(e=>e.key===key);if(!e)return;returnY=window.scrollY;returnKey=key;fromCookbook=true;
+ if(e.kind==='Collection'){RecipeCatalog.open(e);return;}
  if(e.kind==='Saved'){view={type:'detail',id:e.id};detailYield=e.recipe.servings;render();window.scrollTo(0,0);return;}
  if(e.kind==='Recovered originals')readOriginal(e.id);else if(e.kind==='500 suggestions')libraryReview(e.id);else if(e.kind==='10 suggestions')tailoredReview(e.id);else if(e.kind==='Southern & Lowcountry')southernReview(e.id);else easywebReview(e.id);
  const dialog=$('#modal');dialog.classList.add('cookbook-full');dialog.insertAdjacentHTML('afterbegin',button('Back to results','uc-back','quiet'));dialog.scrollTop=0;

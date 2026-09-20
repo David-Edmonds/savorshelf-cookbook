@@ -27,5 +27,15 @@
   "recipeTranslationsComplete": false,
   "uniqueDishPhotosComplete": false,
   "repository": "David-Edmonds/savorshelf-cookbook",
-  "configuredWebsiteUrl": "https://david-edmonds.github.io/savorshelf-cookbook/"
+  "configuredWebsiteUrl": "https://david-edmonds.github.io/savorshelf-cookbook/",
+  "collectionPublication": {
+    "records": 40893,
+    "visibleCookbookRecipes": 42345,
+    "originalWording": 40820,
+    "completedAdaptations": 73,
+    "imagesRequired": false,
+    "androidChanged": false,
+    "physicalPhoneTested": false,
+    "authorization": "Owner requested publication and explicitly chose original measurement wording."
+  }
 }
