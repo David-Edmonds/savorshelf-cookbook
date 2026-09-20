@@ -10,12 +10,20 @@ with sync_playwright() as p:
  b=p.chromium.launch();page=b.new_page(viewport={'width':390,'height':844});errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
  page.goto(url,wait_until='domcontentloaded');page.wait_for_function('window.RecipeCatalog?.count===40893',timeout=90000)
  count=page.locator('#cookbook-count').inner_text()
+ baseline=page.evaluate("(()=>{view={type:'detail',id:state.recipes[0].id};detailYield=current().servings;render();const style=getComputedStyle(document.querySelector('.recipe-header h1'));const result={font:style.fontFamily,size:style.fontSize};view={type:'home'};render();return result;})()")
  before=page.evaluate("localStorage.getItem('our-table-v1')")
  assert page.locator('#cookbook-results .card').count()==24
  page.locator('#cookbook-search').fill('A Cake without Butter');expect(page.locator('#cookbook-results')).to_contain_text('A Cake without Butter')
  page.get_by_role('button',name='A Cake without Butter',exact=False).first.click()
- expect(page.locator('#modal h2')).to_have_text('A Cake without Butter',timeout=30000)
+ expect(page.locator('#modal .recipe-header h1')).to_have_text('A Cake without Butter',timeout=30000)
  expect(page.locator('#modal')).to_contain_text('Beat well five eggs.')
+ assert page.locator('#modal .recipe-content-grid .ingredients-panel').count()==1
+ assert page.locator('#modal .recipe-content-grid .method-panel').count()==1
+ assert page.locator('#modal .recipe-header-art .cover').count()==1
+ assert page.locator('#modal .recipe-header h1').evaluate('(e)=>({font:getComputedStyle(e).fontFamily,size:getComputedStyle(e).fontSize})')==baseline
+ page.locator('[data-catalog-ingredient]').first.check()
+ expect(page.locator('#catalog-ingredient-progress')).to_contain_text('1 of')
+ page.screenshot(path=str(root/'tests/catalog-design-mobile.png'))
  assert 'five 5 eggs' not in page.locator('#modal').inner_text()
  for width in [320,390,768,1280]:
   page.set_viewport_size({'width':width,'height':900});assert page.evaluate('document.documentElement.scrollWidth<=innerWidth+2')
