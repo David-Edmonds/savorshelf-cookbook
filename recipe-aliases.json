@@ -22,5 +22,35 @@
     "canonicalId": "historical-5e9ab6b63125023c04e050b4",
     "bodySha256": "e7ecc92064f007994a94e0de90f2d684b55cef752749c418d7f351aa8e7ea934",
     "reason": "Full ingredients and cooking method reviewed together; equivalent base recipe. Source attribution and any distinct optional finish retained on canonical recipe."
+  },
+  {
+    "id": "historical-9509445951d57e023b01f73d",
+    "canonicalId": "historical-b42799f5292cd308f900f0dd",
+    "bodySha256": "0c5f863055a6aa198c70a0eeed05d33bfb146ec9233db4f67c8b9d3488222e8f",
+    "reason": "Full ingredients and methods compared: repeated transcription of the same source formulation. Source credit is retained; fried bread and dry toast remain distinct serving variations where applicable."
+  },
+  {
+    "id": "historical-5e5e56697360bdb078665e3c",
+    "canonicalId": "historical-b42799f5292cd308f900f0dd",
+    "bodySha256": "f0ab0e767acaa75c1cd778e809c720a74e92e4ba83da5e2a1e872025aeb4a4db",
+    "reason": "Full ingredients and methods compared: repeated transcription of the same source formulation. Source credit is retained; fried bread and dry toast remain distinct serving variations where applicable."
+  },
+  {
+    "id": "historical-785905f9b64f7f02909b7562",
+    "canonicalId": "historical-b42799f5292cd308f900f0dd",
+    "bodySha256": "41b008af51546c4cf461054dd467ae1ac1b9e3dacb23bd4aee7c7ecc0029533d",
+    "reason": "Full ingredients and methods compared: repeated transcription of the same source formulation. Source credit is retained; fried bread and dry toast remain distinct serving variations where applicable."
+  },
+  {
+    "id": "historical-dbc8eb3673490e0bcd3f5cb0",
+    "canonicalId": "historical-5f315b26af68c87c44e53e97",
+    "bodySha256": "3941c83e6108090ae7244d5725f9024cd5b4363246c72ec2e034cc27a99f6ef3",
+    "reason": "Full ingredients and methods compared: repeated transcription of the same source formulation. Source credit is retained; fried bread and dry toast remain distinct serving variations where applicable."
+  },
+  {
+    "id": "historical-bba91ca7e7d34c8b895459a6",
+    "canonicalId": "historical-22c5476af5485ba63e844d80",
+    "bodySha256": "febd772b5303f627358128b1aa3ba523ba94a47945011da53781fd27578ed1a9",
+    "reason": "Full ingredients and methods compared: repeated transcription of the same source formulation. Source credit is retained; fried bread and dry toast remain distinct serving variations where applicable."
   }
 ]

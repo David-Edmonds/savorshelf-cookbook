@@ -1,3 +1,11 @@
+# Egg recipe repair batch - September 22, 2026
+
+Eight measured adaptations replace incomplete egg recipes; five duplicate transcriptions are consolidated after comparing ingredients and methods. Source credits and stable IDs remain, and existing saved aliases remain visible. The shallow-poached recipe retains fried-bread and dry-toast variations. Other distinct salt/vinegar formulas remain separate.
+
+Each adaptation has a dish-specific description, quantified ingredients linked in actual steps, substitutions, serving yield, estimated time, self-contained cooking instructions and declared modern adjustments. Oven recipes include Celsius/Fahrenheit. Technique references and egg guidance are linked on the cards. No image generation or physical cooking/phone testing.
+
+Effective catalog: 40,884 imported entries, 97 adaptations and 40,787 still requiring content repair; 42,336 visible recipes overall. Twelve Node checks and three local browser suites passed, including all 24 authored overrides, saved-alias preservation, scaling, offline reload and mobile layouts. This is one completed batch, not completion of the full collection.
+
 # Full-collection quantity standardization - September 22, 2026
 
 All 40,889 imported records use the existing recipe design. The source formatter recognizes numeric and written fractions, explicit whole-ingredient counts, joined metric units, and spoonful/cupful spellings. It structures 100,991 explicit amounts across 30,272 source-wording recipes and links 27,250 full ingredient phrases to method steps. Source text and stable IDs are retained. Regional pints/quarts/gills retain their source units without guessed conversions. Browser formatting runs on opened catalog cards and new saves, not existing personal records. Lazy loading is retained.

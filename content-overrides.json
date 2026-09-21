@@ -900,5 +900,557 @@
       "updatedAt": "2026-09-21T00:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-6a247ab8b8a68cac252cdd12",
+    "bodySha256": "7db6cb10c58438c6ea6eb432b62de62e2154efe4ed739faa9e5af806ecfc5ca4",
+    "recipe": {
+      "id": "historical-6a247ab8b8a68cac252cdd12",
+      "title": "Poached Eggs on Anchovy Toast",
+      "description": "Poached eggs top crisp buttered toast spread with anchovy paste for a salty, savory breakfast.",
+      "category": "Breakfast",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large hen eggs",
+          "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "poaching water",
+          "substitution": "Use drinking water; adjust depth to fit the pan. This water is drained, not consumed."
+        },
+        {
+          "key": "bread",
+          "amount": 6,
+          "unit": "",
+          "name": "bread slices, about 35 g each",
+          "substitution": "Use similarly sized gluten-free bread; toasting time may differ."
+        },
+        {
+          "key": "butter",
+          "amount": 30,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of dairy-free butter alternative; check its salt content."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon volume."
+        },
+        {
+          "key": "anchovy",
+          "amount": 12,
+          "unit": "g",
+          "name": "anchovy paste",
+          "substitution": "Omit for plain toast, or use 12 g mashed capers for a fish-free variation with a different flavor."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} to a gentle simmer in a wide saucepan, with enough depth to submerge the eggs.",
+        "Toast {{bread}}; spread with {{butter}} and then {{anchovy}}. Keep warm.",
+        "Crack {{eggs}} into separate cups. Slide gently into barely simmering water, keeping them apart; cook no more than four at a time. Check from 4 minutes and continue until whites and yolks are firm, usually 5–7 minutes. For pasteurized shell eggs only, 3–4 minutes gives a softer yolk. Lift with a slotted spoon and drain.",
+        "Top each toast with a drained egg and divide {{salt}} over the eggs. Serve immediately."
+      ],
+      "notes": "The six-egg/six-toast structure is retained; a normal saucepan replaces the hand-held dipper. Anchovy paste is the included source variation. Supplied quantities, yield and times are modern estimates, not recovered source facts. Cook ordinary eggs until both whites and yolks are firm; a soft-yolk option requires pasteurized shell eggs. Scale to whole eggs and cook in batches rather than extending the per-egg time. Not kitchen-tested.",
+      "source": "La Cuisine Creole (1885), Lafcadio Hearn. https://archive.org/details/lacuisinecreolec00hear SavorShelf measured adaptation. Technique reference: https://eggs.ca/eggs101/how-to-poach-an-egg-like-a-pro/ Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-0d8cc30aa57193ec432070f0",
+    "bodySha256": "b33dfb8758c1bccbd68a00a8b7653a242c504b2fa50bb49258438cd307345934",
+    "recipe": {
+      "id": "historical-0d8cc30aa57193ec432070f0",
+      "title": "Fried Bacon with Poached Eggs",
+      "description": "Pan-fried bacon is topped with drained poached eggs for a simple savory breakfast.",
+      "category": "Breakfast",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "bacon",
+          "amount": 150,
+          "unit": "g",
+          "name": "fresh sliced bacon",
+          "substitution": "Use 150 g turkey bacon and follow its package cooking instructions; flavor and fat differ."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large hen eggs",
+          "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "poaching water",
+          "substitution": "Use drinking water; adjust depth to fit the pan. This water is drained, not consumed."
+        }
+      ],
+      "steps": [
+        "Put {{bacon}} in a cold frying pan. Cook over medium heat, turning regularly, until fully cooked according to its package and crisp to preference, usually 8–12 minutes. Drain on a warm plate.",
+        "Meanwhile bring {{water}} to a gentle simmer in a separate saucepan.",
+        "Crack {{eggs}} into separate cups. Slide gently into barely simmering water, keeping them apart; cook no more than four at a time. Check from 4 minutes and continue until whites and yolks are firm, usually 5–7 minutes. For pasteurized shell eggs only, 3–4 minutes gives a softer yolk. Lift with a slotted spoon and drain.",
+        "Divide bacon between two warm plates and top each with a drained egg. Serve immediately."
+      ],
+      "notes": "Use sound refrigerated bacon; the source instruction to trim deteriorated bacon is not retained. Supplied quantities, yield and times are modern estimates, not recovered source facts. Cook ordinary eggs until both whites and yolks are firm; a soft-yolk option requires pasteurized shell eggs. Scale to whole eggs and cook in batches rather than extending the per-egg time. Not kitchen-tested.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Technique reference: https://eggs.ca/eggs101/how-to-poach-an-egg-like-a-pro/ Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b2d13dcc73a73d8b97f5c091",
+    "bodySha256": "81c67fec96a26bace344508f9491abe04e7654d3a9038636767df4f2136e1fea",
+    "recipe": {
+      "id": "historical-b2d13dcc73a73d8b97f5c091",
+      "title": "Huevos Escalfados en Crema (Eggs in Cream)",
+      "description": "Whole eggs bake gently with cream and butter in individual dishes for a rich, spoonable breakfast.",
+      "category": "Breakfast",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large hen eggs",
+          "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+        },
+        {
+          "key": "butter",
+          "amount": 10,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of dairy-free butter alternative; check its salt content."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon volume."
+        },
+        {
+          "key": "cream",
+          "amount": 30,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use 30 ml whole milk for a thinner, less rich finish."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (350°F). Grease two ovenproof 150–200 ml ramekins with {{butter|0.5}} and set on a baking tray.",
+        "Warm {{cream}} with the remaining {{butter|0.5}} until the butter melts; mix in {{salt}}.",
+        "Crack {{eggs}}, one into each ramekin. Divide the warm cream mixture around them.",
+        "Bake 12–18 minutes, checking from 12 minutes, and continue until whites and yolks are firm. Serve on plates beneath the hot ramekins."
+      ],
+      "notes": "Ovenproof ramekins and a measured oven temperature replace a covered plate over unspecified direct heat. Butter is divided between greasing and cream. Supplied quantities, yield and times are modern estimates, not recovered source facts. Cook ordinary eggs until both whites and yolks are firm; a soft-yolk option requires pasteurized shell eggs. Scale to whole eggs and cook in batches rather than extending the per-egg time. Not kitchen-tested.",
+      "source": "La cocinera poblana (1890), author not recorded. https://archive.org/details/lacocinerapobla00unkngoog SavorShelf measured adaptation. Technique reference: https://eggs.ca/recipes/shirred-eggs/ Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-d1864f576701d0c3954af9a7",
+    "bodySha256": "118f065f9a406f3c9740f17621d4209bf6b2ec3aaf7a55f0f15919b29af97999",
+    "recipe": {
+      "id": "historical-d1864f576701d0c3954af9a7",
+      "title": "Spinach with Hard-Boiled Eggs",
+      "description": "Tender spinach is drained, tossed with butter and topped with slices of hard-boiled egg.",
+      "category": "Sides",
+      "servings": 3,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "spinach",
+          "amount": 600,
+          "unit": "g",
+          "name": "fresh spinach, washed and tough stems removed",
+          "substitution": "Use 300 g frozen leaf spinach, cooked according to its package and drained; this is a practical substitute, not a historical volume conversion."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "water for the spinach",
+          "substitution": "Use drinking water; separate egg-boiling and cooling water is discarded."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of dairy-free butter alternative; check its salt content."
+        },
+        {
+          "key": "eggs",
+          "amount": 3,
+          "unit": "",
+          "name": "large hen eggs",
+          "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in one layer in a saucepan and cover with separate cold water by 2 cm. Bring to a boil, reduce to a gentle simmer and cook 10–12 minutes until yolks are firm. Cool under cold running water, peel and slice.",
+        "Bring {{water}} to a simmer in a large pan. Add {{spinach}} in batches, cover and cook 3–5 minutes, turning until all leaves are wilted and tender.",
+        "Drain thoroughly. Return spinach to the warm pan off the heat and toss with {{butter}}. Arrange on a dish and top with the sliced eggs."
+      ],
+      "notes": "The missing plain-spinach cross-reference is replaced with full steps. The 600 g amount is a modern batch choice, not a precise conversion of half a peck. Supplied quantities, yield and times are modern estimates, not recovered source facts. Cook ordinary eggs until both whites and yolks are firm; a soft-yolk option requires pasteurized shell eggs. Scale to whole eggs and cook in batches rather than extending the per-egg time. Not kitchen-tested.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Technique and egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-3cd9725ee236e6684da4a259",
+    "bodySha256": "87d31f4ae36052dd8c47d4350fc752fdb2033cc4623f3790c019e0f2f4887cfa",
+    "recipe": {
+      "id": "historical-3cd9725ee236e6684da4a259",
+      "title": "Tojás Ülepedve (Eggs with Sour Cream, Anchovies and Pickles)",
+      "description": "Eggs bake over sour cream with anchovy strips and tart cucumber pickle, retaining the source’s salty, tangy combination.",
+      "category": "Breakfast",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large hen eggs",
+          "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+        },
+        {
+          "key": "butter",
+          "amount": 5,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of dairy-free butter alternative; check its salt content."
+        },
+        {
+          "key": "cream",
+          "amount": 30,
+          "unit": "g",
+          "name": "sour cream",
+          "substitution": "Use 30 g full-fat plain Greek yogurt; it may separate slightly."
+        },
+        {
+          "key": "anchovy",
+          "amount": 8,
+          "unit": "g",
+          "name": "drained anchovy fillets, sliced",
+          "substitution": "Use 8 g chopped capers for a fish-free variation with a different flavor."
+        },
+        {
+          "key": "pickle",
+          "amount": 60,
+          "unit": "g",
+          "name": "drained dill-pickled cucumber, sliced",
+          "substitution": "Use the same weight of another unsweetened cucumber pickle."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (350°F). Grease a shallow ovenproof dish about 18 cm across with {{butter}} and spread {{cream}} over its base.",
+        "Crack {{eggs}} individually into a cup, then slide into the dish without breaking the yolks. Arrange {{anchovy}} between them and {{pickle}} around the edge.",
+        "Bake 15–22 minutes, checking from 15 minutes, until whites and yolks are firm. Divide between two plates and serve hot."
+      ],
+      "notes": "The 12-egg source is reduced to four eggs. An oven replaces coals; drained anchovy fillets replace cleaned, soaked whole salt anchovies. Supplied quantities, yield and times are modern estimates, not recovered source facts. Cook ordinary eggs until both whites and yolks are firm; a soft-yolk option requires pasteurized shell eggs. Scale to whole eggs and cook in batches rather than extending the per-egg time. Not kitchen-tested.",
+      "source": "Képes budapesti szakácskönyv (1901), Rézi néni. https://archive.org/details/b28112982 SavorShelf measured adaptation. Technique reference: https://eggs.ca/recipes/shirred-eggs/ Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b42799f5292cd308f900f0dd",
+    "bodySha256": "d7007b30d92fcb8b930407ba7ad8fdd2158daecce38b95d2885f74512f160fce",
+    "recipe": {
+      "id": "historical-b42799f5292cd308f900f0dd",
+      "title": "Förlorade Ägg (Shallow-Poached Eggs on Fried Bread)",
+      "description": "Shallow-poached eggs are drained and served on bread fried in butter; a dry-toast variation is retained.",
+      "category": "Breakfast",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large hen eggs",
+          "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "poaching water",
+          "substitution": "Use drinking water; adjust depth to fit the pan. This water is drained, not consumed."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon volume."
+        },
+        {
+          "key": "vinegar",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of distilled white vinegar, or omit for a milder flavor."
+        },
+        {
+          "key": "bread",
+          "amount": 4,
+          "unit": "",
+          "name": "bread slices, about 35 g each",
+          "substitution": "Use similarly sized gluten-free bread; toasting time may differ."
+        },
+        {
+          "key": "butter",
+          "amount": 20,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of dairy-free butter alternative; check its salt content."
+        }
+      ],
+      "steps": [
+        "Bring {{water}}, {{salt}} and {{vinegar}} to a boil, then lower to a barely moving simmer. Use a wide pan with about 2 cm water depth.",
+        "Crack {{eggs}} into separate cups. Slide gently into barely simmering water, keeping them apart; cook no more than four at a time. Check from 4 minutes and continue until whites and yolks are firm, usually 5–7 minutes. For pasteurized shell eggs only, 3–4 minutes gives a softer yolk. Lift with a slotted spoon and drain.",
+        "Melt {{butter}} in a separate frying pan over medium heat. Fry {{bread}} for 1–2 minutes per side until golden, in batches if needed.",
+        "Put a drained egg on each bread slice and serve hot."
+      ],
+      "notes": "The distinct water/salt/vinegar formula is retained with modern batch amounts. Gentle simmering replaces vigorous boiling where specified. Cold rinsing and decorative trimming are omitted for immediate hot service. Supplied quantities, yield and times are modern estimates, not recovered source facts. Cook ordinary eggs until both whites and yolks are firm; a soft-yolk option requires pasteurized shell eggs. Scale to whole eggs and cook in batches rather than extending the per-egg time. Not kitchen-tested.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Technique reference: https://eggs.ca/eggs101/how-to-poach-an-egg-like-a-pro/ Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T00:00:00Z",
+      "sourceAliases": [
+        "historical-9509445951d57e023b01f73d",
+        "historical-5e5e56697360bdb078665e3c",
+        "historical-785905f9b64f7f02909b7562"
+      ],
+      "variants": [
+        {
+          "id": "dry-toast",
+          "label": "On dry toast",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large hen eggs",
+              "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "poaching water",
+              "substitution": "Use drinking water; adjust depth to fit the pan. This water is drained, not consumed."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit; exchange other salt by weight rather than spoon volume."
+            },
+            {
+              "key": "vinegar",
+              "amount": 2.5,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of distilled white vinegar, or omit for a milder flavor."
+            },
+            {
+              "key": "bread",
+              "amount": 4,
+              "unit": "",
+              "name": "bread slices, about 35 g each",
+              "substitution": "Use similarly sized gluten-free bread; toasting time may differ."
+            }
+          ],
+          "steps": [
+            "Bring {{water}}, {{salt}} and {{vinegar}} to a boil, then lower to a barely moving simmer. Use a wide pan with about 2 cm water depth.",
+            "Crack {{eggs}} into separate cups. Slide gently into barely simmering water, keeping them apart; cook no more than four at a time. Check from 4 minutes and continue until whites and yolks are firm, usually 5–7 minutes. For pasteurized shell eggs only, 3–4 minutes gives a softer yolk. Lift with a slotted spoon and drain.",
+            "Toast {{bread}} until crisp. Top each slice with a drained egg and serve hot."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-5f315b26af68c87c44e53e97",
+    "bodySha256": "c41205360d5cda6fe30e3f71f41c4e2d1071343f74d248ac4f22675b307b6680",
+    "recipe": {
+      "id": "historical-5f315b26af68c87c44e53e97",
+      "title": "Förlorade Ägg (Six-Egg Pan Method)",
+      "description": "Whole eggs poach in gently simmering, acidulated water and are lifted out with their whites gathered around the yolks.",
+      "category": "Breakfast",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large hen eggs",
+          "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "poaching water",
+          "substitution": "Use drinking water; adjust depth to fit the pan. This water is drained, not consumed."
+        },
+        {
+          "key": "salt",
+          "amount": 6,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon volume."
+        },
+        {
+          "key": "vinegar",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of distilled white vinegar, or omit for a milder flavor."
+        }
+      ],
+      "steps": [
+        "Bring {{water}}, {{salt}} and {{vinegar}} to a boil, then lower to a barely moving simmer. Use a wide pan and cook the eggs in two batches.",
+        "Crack {{eggs}} into separate cups. Slide gently into barely simmering water, keeping them apart; cook no more than four at a time. Check from 4 minutes and continue until whites and yolks are firm, usually 5–7 minutes. For pasteurized shell eggs only, 3–4 minutes gives a softer yolk. Lift with a slotted spoon and drain.",
+        "Serve the drained eggs promptly on warm plates. Toast or sauce is a separate accompaniment."
+      ],
+      "notes": "The distinct water/salt/vinegar formula is retained with modern batch amounts. Gentle simmering replaces vigorous boiling where specified. Cold rinsing and decorative trimming are omitted for immediate hot service. Supplied quantities, yield and times are modern estimates, not recovered source facts. Cook ordinary eggs until both whites and yolks are firm; a soft-yolk option requires pasteurized shell eggs. Scale to whole eggs and cook in batches rather than extending the per-egg time. Not kitchen-tested.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation. Technique reference: https://eggs.ca/eggs101/how-to-poach-an-egg-like-a-pro/ Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety Equivalent source retained: Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T00:00:00Z",
+      "sourceAliases": [
+        "historical-dbc8eb3673490e0bcd3f5cb0"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-22c5476af5485ba63e844d80",
+    "bodySha256": "28860bcbe13b2b127442ff79458a6607a26909a959d7ee05ea8de7f34f72272d",
+    "recipe": {
+      "id": "historical-22c5476af5485ba63e844d80",
+      "title": "Helförlorade Ägg (Deep-Poached Eggs)",
+      "description": "Whole eggs poach in gently simmering, acidulated water and are lifted out with their whites gathered around the yolks.",
+      "category": "Breakfast",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large hen eggs",
+          "substitution": "Use large pasteurized shell eggs for a soft-yolk option. Liquid egg substitute cannot retain this whole-egg shape."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "poaching water",
+          "substitution": "Use drinking water; adjust depth to fit the pan. This water is drained, not consumed."
+        },
+        {
+          "key": "salt",
+          "amount": 18,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon volume."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of distilled white vinegar, or omit for a milder flavor."
+        }
+      ],
+      "steps": [
+        "Bring {{water}}, {{salt}} and {{vinegar}} to a boil, then lower to a barely moving simmer. Use a deep saucepan with headroom above the water.",
+        "Crack {{eggs}} into separate cups. Slide gently into barely simmering water, keeping them apart; cook no more than four at a time. Check from 4 minutes and continue until whites and yolks are firm, usually 5–7 minutes. For pasteurized shell eggs only, 3–4 minutes gives a softer yolk. Lift with a slotted spoon and drain.",
+        "Serve the drained eggs promptly on warm plates. Toast or sauce is a separate accompaniment."
+      ],
+      "notes": "The distinct water/salt/vinegar formula is retained with modern batch amounts. Gentle simmering replaces vigorous boiling where specified. Cold rinsing and decorative trimming are omitted for immediate hot service. Supplied quantities, yield and times are modern estimates, not recovered source facts. Cook ordinary eggs until both whites and yolks are firm; a soft-yolk option requires pasteurized shell eggs. Scale to whole eggs and cook in batches rather than extending the per-egg time. Not kitchen-tested.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Technique reference: https://eggs.ca/eggs101/how-to-poach-an-egg-like-a-pro/ Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T00:00:00Z",
+      "sourceAliases": [
+        "historical-bba91ca7e7d34c8b895459a6"
+      ]
+    }
   }
 ]

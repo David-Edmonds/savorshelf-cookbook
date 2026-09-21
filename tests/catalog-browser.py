@@ -12,7 +12,7 @@ threading.Thread(target=server.serve_forever,daemon=True).start()
 url=os.environ.get('SAVORSHELF_TEST_URL',f'http://127.0.0.1:{server.server_port}/cookbook/')
 with sync_playwright() as p:
  b=p.chromium.launch();page=b.new_page(viewport={'width':390,'height':844});errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
- page.goto(url,wait_until='domcontentloaded');page.wait_for_function('window.RecipeCatalog?.count===40889',timeout=90000)
+ page.goto(url,wait_until='domcontentloaded');page.wait_for_function('window.RecipeCatalog?.count===40884',timeout=90000)
  count=page.locator('#cookbook-count').inner_text()
  baseline=page.evaluate("(()=>{view={type:'detail',id:state.recipes[0].id};detailYield=current().servings;render();const style=getComputedStyle(document.querySelector('.recipe-header h1'));const result={font:style.fontFamily,size:style.fontSize};view={type:'home'};render();return result;})()")
  before=page.evaluate("localStorage.getItem('our-table-v1')")
@@ -46,17 +46,17 @@ with sync_playwright() as p:
  for r in original['recipes']:assert r==next(x for x in after if x['id']==r['id'])
  # Preserve personal metadata through catalog reload and ordinary saving.
  page.evaluate("commit(s=>{const r=s.recipes.find(r=>r.title==='A Cake without Butter');r.notes='Personal note';r.rating=4;r.versionNames={original:'My version'};})")
- saved=page.evaluate("localStorage.getItem('our-table-v1')");page.reload();page.wait_for_function('window.RecipeCatalog?.count===40889',timeout=90000)
+ saved=page.evaluate("localStorage.getItem('our-table-v1')");page.reload();page.wait_for_function('window.RecipeCatalog?.count===40884',timeout=90000)
  assert page.evaluate("localStorage.getItem('our-table-v1')")==saved
  assert page.evaluate("state.recipes.filter(r=>r.title==='A Cake without Butter').length")==1
  page.locator('[data-action=uc-clear-search]').click()
  page.locator('[data-action=uc-next]').click();expect(page.locator('#cookbook-count')).to_contain_text('2 /')
  assert page.locator('#cookbook-results .card').count()==24
- page.evaluate('navigator.serviceWorker.ready');page.reload();page.wait_for_function('window.RecipeCatalog?.count===40889',timeout=90000)
- page.context.set_offline(True);page.reload();page.wait_for_function('window.RecipeCatalog?.count===40889',timeout=90000)
+ page.evaluate('navigator.serviceWorker.ready');page.reload();page.wait_for_function('window.RecipeCatalog?.count===40884',timeout=90000)
+ page.context.set_offline(True);page.reload();page.wait_for_function('window.RecipeCatalog?.count===40884',timeout=90000)
  assert page.evaluate("localStorage.getItem('our-table-v1')")==saved
  page.context.set_offline(False)
  assert not errors,errors
- result={'status':'PASS','url':url,'count':count,'catalog':40889,'sourceWordingDetail':True,'saveAndPersonalDataPreserved':True,'pagination':True,'widths':[320,390,768,1280],'offlineReload':True,'browserErrors':errors,'physicalPhone':False}
+ result={'status':'PASS','url':url,'count':count,'catalog':40884,'sourceWordingDetail':True,'saveAndPersonalDataPreserved':True,'pagination':True,'widths':[320,390,768,1280],'offlineReload':True,'browserErrors':errors,'physicalPhone':False}
  print(json.dumps(result));(root/'tests/catalog-validation.json').write_text(json.dumps(result,indent=2));b.close()
 server.shutdown()
