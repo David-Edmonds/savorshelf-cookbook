@@ -166,5 +166,739 @@
       "versionNote": "Modern measured adaptation",
       "updatedAt": "2026-09-20T00:00:00Z"
     }
+  },
+  {
+    "sourceId": "historical-3162c9b27e2456fbcd2e8591",
+    "bodySha256": "b410c44e8b5e0cd71d8a6a77ace5f6b74ef226f225fc9d5173fe44f2e787a04a",
+    "recipe": {
+      "id": "historical-3162c9b27e2456fbcd2e8591",
+      "title": "Perunalunta (Riced Potatoes)",
+      "description": "Cooked potatoes are pressed through a ricer into a light mound and seasoned with salt; this dish contains no rice.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1000,
+          "unit": "g",
+          "name": "peeled potatoes, cut into equal 3 cm pieces",
+          "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Use floury potatoes and rinse the cut pieces.",
+        "Place the potatoes in a saucepan with {{water}}. The water should cover them by about 1 cm; add enough cold water if the pan requires it.",
+        "Bring to a boil, then simmer gently until tender to the center: about 15–20 minutes for 3 cm pieces.",
+        "Drain and let steam escape for 2–3 minutes. While hot, press through a potato ricer into a serving dish. Sprinkle evenly with {{salt}} and serve without compacting the potato."
+      ],
+      "notes": "A tenderness test replaces dependence on the source’s fixed boiling time. The riced presentation is retained without adding milk or butter. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Technique reference: https://idahopotato.com/dr-potato/best-way-to-boil-idaho-potatoes",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-4ed07776bd7c100f03b9a6c2",
+    "bodySha256": "1c9342980a9fd1b1225167af69038d0cee2006f74fb6e0a45d736d09b348c6ba",
+    "recipe": {
+      "id": "historical-4ed07776bd7c100f03b9a6c2",
+      "title": "Brambory vařené (Boiled Potatoes)",
+      "description": "Peeled potatoes receive the source’s cold soak, then simmer until tender and finish with salt and a covered rest.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 100,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1000,
+          "unit": "g",
+          "name": "peeled potatoes, cut into equal 3 cm pieces",
+          "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Cover with separate cold rinsing water for 1 hour, then drain.",
+        "Bring {{water}} to a boil in a saucepan that holds the potatoes comfortably. Carefully add the potatoes; water should just cover them. If necessary, add enough hot water to cover.",
+        "Reduce to a gentle simmer. Cook about 20–25 minutes, until a thin knife enters the center without resistance. Do not use time alone as the test.",
+        "Drain carefully and return to the warm pan off the heat. Sprinkle with {{salt}} and gently shake. Cover and leave 5 minutes, as in the source."
+      ],
+      "notes": "The hot-water start and source-specific preparation are retained. Choose a pan and water level that keep the pieces submerged. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "Národní domácí kuchařka česko-americká (1904), author not recorded. https://archive.org/details/nrodndomc00rosi SavorShelf measured adaptation. Technique reference: https://idahopotato.com/dr-potato/best-way-to-boil-idaho-potatoes",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 100,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-5d992a2b07fdbb2743fb8c63",
+    "bodySha256": "ef2efb6fb3ca63d7e99fe1df9f1907db9d3837c31271eac51f485e9b6fd6cdf4",
+    "recipe": {
+      "id": "historical-5d992a2b07fdbb2743fb8c63",
+      "title": "Keitettyjä perunoita (Boiled Potato Pieces)",
+      "description": "Evenly cut potato pieces simmer in salted water and dry briefly in the warm pan, giving tender centers without added fat.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1000,
+          "unit": "g",
+          "name": "peeled potatoes, cut into equal 3 cm pieces",
+          "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Trim to similarly sized rounded pieces; rinse. Perfect spheres are not necessary.",
+        "Bring {{water}} to a boil in a saucepan that holds the potatoes comfortably. Add {{salt}}. Carefully add the potatoes; water should just cover them. If necessary, add enough hot water to cover.",
+        "Reduce to a gentle simmer. Cook about 15–20 minutes, until a thin knife enters the center without resistance. Do not use time alone as the test.",
+        "Drain carefully and return to the warm pan off the heat. Leave uncovered for 2–3 minutes, gently shaking once, to release steam. Serve hot."
+      ],
+      "notes": "The hot-water start and source-specific preparation are retained. Choose a pan and water level that keep the pieces submerged. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Technique reference: https://idahopotato.com/dr-potato/best-way-to-boil-idaho-potatoes Equivalent source retained: Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": [
+        "historical-a4bbc8c41a8e3b554dab029d"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-7908fdad84292603f94d4bbe",
+    "bodySha256": "d7ae86c6f84e5743641042a09b15f0d7e2b42fd80bd196047110b797721b1517",
+    "recipe": {
+      "id": "historical-7908fdad84292603f94d4bbe",
+      "title": "Nieuwe aardappelen koken (Boiled New Potatoes)",
+      "description": "Scraped new potatoes simmer gently and are drained well, keeping their delicate flavor and intact shape.",
+      "category": "Sides",
+      "servings": 6,
+      "yieldUnit": "side servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1500,
+          "unit": "g",
+          "name": "small potatoes, scrubbed, about 3–4 cm across",
+          "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 15,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Scrape off loose skin under running water, then rinse.",
+        "Bring {{water}} to a boil in a saucepan that holds the potatoes comfortably. Add {{salt}}. Carefully add the potatoes; water should just cover them. If necessary, add enough hot water to cover.",
+        "Reduce to a gentle simmer. Cook about 20–25 minutes, until a thin knife enters the center without resistance. Do not use time alone as the test.",
+        "Drain carefully and return to the warm pan off the heat. Leave uncovered for 2–3 minutes, gently shaking once, to release steam. Serve hot."
+      ],
+      "notes": "The hot-water start and source-specific preparation are retained. Choose a pan and water level that keep the pieces submerged. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Technique reference: https://idahopotato.com/dr-potato/best-way-to-boil-idaho-potatoes Equivalent source retained: Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": [
+        "historical-d5ea3d462f3aece2b256d7ac"
+      ],
+      "variants": [
+        {
+          "id": "butter-parsley",
+          "label": "Butter and parsley finish",
+          "ingredients": [
+            {
+              "key": "potatoes",
+              "amount": 1500,
+              "unit": "g",
+              "name": "small potatoes, scrubbed, about 3–4 cm across",
+              "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "cooking water",
+              "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+            },
+            {
+              "key": "salt",
+              "amount": 15,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+            },
+            {
+              "key": "butter",
+              "amount": 30,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a dairy-free butter alternative."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "finely chopped parsley",
+              "substitution": "Omit, or use the same weight of chives for a different flavor."
+            }
+          ],
+          "steps": [
+            "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Scrape off loose skin under running water, then rinse.",
+            "Bring {{water}} to a boil in a saucepan that holds the potatoes comfortably. Add {{salt}}. Carefully add the potatoes; water should just cover them. If necessary, add enough hot water to cover.",
+            "Reduce to a gentle simmer. Cook about 20–25 minutes, until a thin knife enters the center without resistance. Do not use time alone as the test.",
+            "Drain carefully and return to the warm pan off the heat. Leave uncovered for 2–3 minutes, gently shaking once, to release steam. Serve hot.",
+            "While the drained potatoes are hot, gently toss them with {{butter}} and {{parsley}}."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-8272043c07584e5edfc8c702",
+    "bodySha256": "0611cf4db2989f8530f467d1d2485704333db3c22f30a13a8d8776737dc442c9",
+    "recipe": {
+      "id": "historical-8272043c07584e5edfc8c702",
+      "title": "Boiled Potatoes — Fresh-Water Method",
+      "description": "Whole potatoes are brought to a boil, given fresh water, then gently cooked and dried before peeling.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1000,
+          "unit": "g",
+          "name": "small potatoes, scrubbed, about 3–4 cm across",
+          "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+        },
+        {
+          "key": "water",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Rinse clean.",
+        "Put the potatoes in a saucepan with {{water|0.5}}, enough to cover by about 1 cm. Bring to a boil, then carefully drain.",
+        "Add the remaining cold {{water|0.5}} and {{salt}}. Bring back to a gentle boil and simmer until a thin knife reaches the centers easily, approximately 20–30 minutes after the second boil.",
+        "Drain thoroughly. Return to the warm pan off the heat for 3–5 minutes so steam can escape. Peel when cool enough to handle and serve hot."
+      ],
+      "notes": "The source’s water change is retained; drying is shortened and uses an uncovered warm pan instead of cloth near a flame. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "Miss Leslie's Complete Cookery (1851), Eliza Leslie. https://www.gutenberg.org/ebooks/60025 SavorShelf measured adaptation. Technique reference: https://idahopotato.com/dr-potato/best-way-to-boil-idaho-potatoes Equivalent source retained: The Indian Cookery Book (1880), author not recorded. https://archive.org/details/indiancookeryboo00unse",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": [
+        "historical-09bd1518ee3bf7452ac96e49"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-b5f107f05138db304f018b87",
+    "bodySha256": "e84acf1735a6580223b0fbe17d5c4bcb9c515f410a3d993306e47c6aef49b807",
+    "recipe": {
+      "id": "historical-b5f107f05138db304f018b87",
+      "title": "Oude aardappelen koken (Boiled Mature Potatoes)",
+      "description": "Peeled mature potatoes simmer until tender, then dry briefly in the warm pan for a floury finish.",
+      "category": "Sides",
+      "servings": 6,
+      "yieldUnit": "side servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1500,
+          "unit": "g",
+          "name": "peeled potatoes, cut into equal 3 cm pieces",
+          "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Rinse clean.",
+        "Bring {{water}} to a boil in a saucepan that holds the potatoes comfortably. Add {{salt}}. Carefully add the potatoes; water should just cover them. If necessary, add enough hot water to cover.",
+        "Reduce to a gentle simmer. Cook about 20–25 minutes, until a thin knife enters the center without resistance. Do not use time alone as the test.",
+        "Drain carefully and return to the warm pan off the heat. Leave uncovered for 2–3 minutes, gently shaking once, to release steam. Serve hot."
+      ],
+      "notes": "The hot-water start and source-specific preparation are retained. Choose a pan and water level that keep the pieces submerged. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Technique reference: https://idahopotato.com/dr-potato/best-way-to-boil-idaho-potatoes",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-c05a3f9107fa9a80b0506311",
+    "bodySha256": "0362a3e692f87acf076da6c6ea8f6e6398ef3ed7c79b7b82f81197cf56032255",
+    "recipe": {
+      "id": "historical-c05a3f9107fa9a80b0506311",
+      "title": "To Boil Potatoes — Peeled Pieces",
+      "description": "Peeled potato pieces simmer from a cold-water start until tender, then drain and dry briefly before serving.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1000,
+          "unit": "g",
+          "name": "peeled potatoes, cut into equal 3 cm pieces",
+          "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Rinse clean.",
+        "Place the potatoes in a saucepan with {{water}} and {{salt}}. The water should cover them by about 1 cm; add enough cold water if the pan requires it.",
+        "Bring to a boil, then simmer gently until tender to the center: about 15–20 minutes for 3 cm pieces.",
+        "Drain and let steam escape for 2–3 minutes. Serve hot."
+      ],
+      "notes": "A tenderness test replaces dependence on the source’s fixed boiling time. No butter or sauce is required for this base recipe. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "The Indian Cookery Book (1880), author not recorded. https://archive.org/details/indiancookeryboo00unse SavorShelf measured adaptation. Technique reference: https://idahopotato.com/dr-potato/best-way-to-boil-idaho-potatoes",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-c248ce777dd72a880671f99c",
+    "bodySha256": "5a21f787173cf19b66c976f35b24f26ba4f2e93627d99643c00722f02e7fa4f2",
+    "recipe": {
+      "id": "historical-c248ce777dd72a880671f99c",
+      "title": "Boiled Potatoes in Their Skins",
+      "description": "Small potatoes cook in their skins until tender, then drain and steam-dry before serving.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 1000,
+          "unit": "g",
+          "name": "small potatoes, scrubbed, about 3–4 cm across",
+          "substitution": "Use a similarly sized potato with the same texture: waxy for intact pieces; floury for ricing. Large whole potatoes need longer cooking."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Prepare {{potatoes}}. Remove sprouts and damaged or green areas; discard extensively green potatoes. Rinse clean.",
+        "Place the potatoes in a saucepan with {{water}} and {{salt}}. The water should cover them by about 1 cm; add enough cold water if the pan requires it.",
+        "Bring to a boil, then simmer gently until tender to the center: about 25–35 minutes for these small whole potatoes.",
+        "Drain and let steam escape for 2–3 minutes. Serve hot; peel when cool enough to handle if desired."
+      ],
+      "notes": "A tenderness test replaces dependence on the source’s fixed boiling time. No butter or sauce is required for this base recipe. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation. Technique reference: https://idahopotato.com/dr-potato/best-way-to-boil-idaho-potatoes",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-241f3d238a6aa69aa8f6d61e",
+    "bodySha256": "dbfa219724adf06ebeb9ee395a930e23bdaccf8c75f8b29a828c68ff6aeadf23",
+    "recipe": {
+      "id": "historical-241f3d238a6aa69aa8f6d61e",
+      "title": "Plain Rice to Serve with Curry",
+      "description": "Basmati rice is boiled in salted water and drained for a plain, separate accompaniment to curry.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "rice",
+          "amount": 225,
+          "unit": "g",
+          "name": "dry white basmati rice",
+          "substitution": "Use another non-parboiled white long-grain rice and follow its doneness cues. Brown, parboiled and quick-cooking rice need different timings and liquid ratios."
+        },
+        {
+          "key": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Rinse {{rice}} in a sieve under cold drinking water until the runoff is mostly clear.",
+        "Bring {{water}} and {{salt}} to a boil in a saucepan. Add the drained rice and return to a gentle boil.",
+        "Cook uncovered until the grains are tender but separate, checking from 10 minutes for basmati or 12 minutes for other long-grain white rice; allow up to 20 minutes if needed.",
+        "Drain in a fine sieve. Return to the warm pan off the heat for 3 minutes so excess moisture can evaporate. Gently loosen and serve separately from the main dish."
+      ],
+      "notes": "Rice type, batch size, water and salt quantities are supplied as modern choices. The source’s excess-water method is retained; rice-package timing and actual tenderness take priority over a historical fixed time. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "The Virginia Housewife; Or, Methodical Cook (1824), Mary Randolph. https://www.gutenberg.org/ebooks/12519 SavorShelf measured adaptation. Technique reference: https://www.tilda.com/blog/quick-guides/how-to-cook-the-perfect-basmati-rice/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-55b7dbbc2fab113cc67b867d",
+    "bodySha256": "559896e4d21098381a26cfcc427a1b1db15136aa748b860ed7ff177c3b4f5f26",
+    "recipe": {
+      "id": "historical-55b7dbbc2fab113cc67b867d",
+      "title": "Rice for Soup (Lihalientä riisiryynejä seassa)",
+      "description": "Plain rice is boiled, drained and briefly rinsed as a component to add to hot soup; this recipe does not make broth.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "rice",
+          "amount": 240,
+          "unit": "g",
+          "name": "dry long-grain white rice",
+          "substitution": "Use another non-parboiled white long-grain rice and follow its doneness cues. Brown, parboiled and quick-cooking rice need different timings and liquid ratios."
+        },
+        {
+          "key": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Rinse {{rice}} in a sieve under cold drinking water until the runoff is mostly clear.",
+        "Bring {{water}} and {{salt}} to a boil in a saucepan. Add the drained rice and return to a gentle boil.",
+        "Cook uncovered until the grains are tender but separate, checking from 10 minutes for basmati or 12 minutes for other long-grain white rice; allow up to 20 minutes if needed.",
+        "Drain in a fine sieve. Rinse briefly with clean cool water to stop cooking, as in the source, then drain well. Add directly to hot soup and heat through before serving; soup is a separate recipe."
+      ],
+      "notes": "Rice type, batch size, water and salt quantities are supplied as modern choices. The source’s excess-water method is retained; rice-package timing and actual tenderness take priority over a historical fixed time. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall SavorShelf measured adaptation. Technique reference: https://www.tilda.com/blog/quick-guides/how-to-cook-the-perfect-basmati-rice/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-5e9ab6b63125023c04e050b4",
+    "bodySha256": "c0c8f617f875b69c445d3b24c291b65fcd43a5a1f3c6fbb82a4588735b52d1fa",
+    "recipe": {
+      "id": "historical-5e9ab6b63125023c04e050b4",
+      "title": "Carolina Boiled Rice",
+      "description": "Long-grain white rice is boiled in abundant salted water, drained and dried briefly for separate grains.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "rice",
+          "amount": 240,
+          "unit": "g",
+          "name": "dry long-grain white rice",
+          "substitution": "Use another non-parboiled white long-grain rice and follow its doneness cues. Brown, parboiled and quick-cooking rice need different timings and liquid ratios."
+        },
+        {
+          "key": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Rinse {{rice}} in a sieve under cold drinking water until the runoff is mostly clear.",
+        "Bring {{water}} and {{salt}} to a boil in a saucepan. Add the drained rice and return to a gentle boil.",
+        "Cook uncovered until the grains are tender but separate, checking from 10 minutes for basmati or 12 minutes for other long-grain white rice; allow up to 20 minutes if needed.",
+        "Drain in a fine sieve. Return to the warm pan off the heat for 3 minutes so excess moisture can evaporate. Gently loosen and serve separately from the main dish."
+      ],
+      "notes": "Rice type, batch size, water and salt quantities are supplied as modern choices. The source’s excess-water method is retained; rice-package timing and actual tenderness take priority over a historical fixed time. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation. Technique reference: https://www.tilda.com/blog/quick-guides/how-to-cook-the-perfect-basmati-rice/ Equivalent source retained: Miss Leslie's Complete Cookery (1851), Eliza Leslie. https://www.gutenberg.org/ebooks/60025",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": [
+        "historical-e9cb9c480591a4bfa01fe3ba"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-afcfb35f8bc1bdc0a661fb55",
+    "bodySha256": "cb7df345760a44f7e47b4a68fe90da48830f932c19f7cac9e0998879b06dabb3",
+    "recipe": {
+      "id": "historical-afcfb35f8bc1bdc0a661fb55",
+      "title": "To Boil Rice — Modern Absorption Adaptation",
+      "description": "White long-grain rice cooks in measured salted water and rests covered; this is a modern adaptation of the source’s boil-and-dry method.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "rice",
+          "amount": 240,
+          "unit": "g",
+          "name": "dry white basmati rice",
+          "substitution": "Use another non-parboiled white long-grain rice and follow its doneness cues. Brown, parboiled and quick-cooking rice need different timings and liquid ratios."
+        },
+        {
+          "key": "water",
+          "amount": 480,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Rinse {{rice}} in a sieve under cold drinking water until the runoff is mostly clear.",
+        "Combine the drained rice with {{water}} and {{salt}} in a small, heavy saucepan with a close-fitting lid. Bring to a boil.",
+        "Cover, reduce to the lowest heat and cook about 12–15 minutes until the water is absorbed and the grains are tender. If still firm and dry, add 15–30 ml hot water and cook a few minutes longer.",
+        "Remove from the heat and leave covered for 10 minutes, then separate the grains gently with a fork. Do not multiply cooking time when scaling; use a suitable pan."
+      ],
+      "notes": "The source’s draining/coals stage is replaced with a measured absorption method and covered rest. The old cup ratio is not claimed as an exact modern conversion. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "The Virginia Housewife; Or, Methodical Cook (1824), Mary Randolph. https://www.gutenberg.org/ebooks/12519 SavorShelf measured adaptation. Technique reference: https://www.tilda.com/blog/quick-guides/how-to-cook-the-perfect-basmati-rice/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-fa2a937023cf0063bf9fe246",
+    "bodySha256": "f884314542b66b4704be6751c842172b7b7a2e174ea464150e484175c2ada65e",
+    "recipe": {
+      "id": "historical-fa2a937023cf0063bf9fe246",
+      "title": "Soaked Rice for Curry",
+      "description": "Pre-soaked basmati rice is cooked in plenty of water and drained, producing separate grains to serve beside curry.",
+      "category": "Sides",
+      "servings": 4,
+      "yieldUnit": "side servings",
+      "minutes": 150,
+      "ingredients": [
+        {
+          "key": "rice",
+          "amount": 240,
+          "unit": "g",
+          "name": "dry white basmati rice",
+          "substitution": "Use another non-parboiled white long-grain rice and follow its doneness cues. Brown, parboiled and quick-cooking rice need different timings and liquid ratios."
+        },
+        {
+          "key": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "cooking water",
+          "substitution": "Use drinking water; stock changes the flavor and salt level. Rinsing water is separate and is discarded."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit if preferred. Different salts can be exchanged by weight, not necessarily by spoon volume."
+        }
+      ],
+      "steps": [
+        "Rinse {{rice}} in a sieve under cold drinking water until the runoff is mostly clear. Cover with separate cold soaking water for 2 hours, then drain, retaining the source’s soak.",
+        "Bring {{water}} and {{salt}} to a boil in a saucepan. Add the drained rice and return to a gentle boil.",
+        "Cook uncovered until the grains are tender but separate, checking from 7 minutes after soaking; usually 7–10 minutes.",
+        "Drain in a fine sieve. Return to the warm pan off the heat for 3 minutes so excess moisture can evaporate. Gently loosen and serve separately from the main dish."
+      ],
+      "notes": "Rice type, batch size, water and salt quantities are supplied as modern choices. The source’s excess-water method is retained; rice-package timing and actual tenderness take priority over a historical fixed time. Quantities not stated by the source, equipment guidance, yield and timing are modern estimates. Not kitchen-tested.",
+      "source": "The Nabob's Cookery Book (1900), author not recorded. https://archive.org/details/b28060799 SavorShelf measured adaptation. Technique reference: https://www.tilda.com/blog/quick-guides/how-to-cook-the-perfect-basmati-rice/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 150,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-21T00:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]

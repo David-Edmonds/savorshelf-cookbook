@@ -1,3 +1,13 @@
+# Grouped content repair — September 21, 2026
+
+All 40,893 retained source records are indexed for resumable full-content review. Pending recipes are organized into 9,301 candidate groups using ingredient families and cooking methods, not titles. 33,387 pending records share a group with related recipes. These groups are research aids, not automatic duplicate verdicts.
+
+This batch resolves the 17-source boiled-potato/rice groups into 13 measured adaptations and four reviewed aliases. Original credits and the new-potato butter/parsley variation are retained. Existing saved alias IDs stay visible and keep their personal content. Current effective public catalog: 40,889 records; 89 adaptations; 40,800 recipes still need repair. The full task is unfinished.
+
+Small catalog/repairs.json updates are applied atomically with the catalog loader, so a repair batch need not republish all large recipe chunks. The loader supports both the prior baseline index and freshly materialized data. Offline caching includes the repair set. Regenerate with build-catalog.py. Source hashes protect authored overrides. group-repair-work.py updates the resumable local work database without erasing recorded review decisions. No paid generation or physical cooking/phone tests were performed.
+
+Local checks: 10 Node tests, collection and repair browser tests (all 16 authored overrides opened), original UX suite, duplicate-alias save preservation and measured/divided scaling. Android source and certificate were not changed.
+
 # Measurement and content repair update — September 20, 2026
 
 This is a partial content repair, not completion of the full collection. 56,690 explicitly stated ingredient amounts were parsed across 21,804 source recipes. 12,203 exact ingredient phrases were linked inside their original method steps. Original text is retained for comparison. Unknown amounts, ambiguous liquid ounces, ranges, compound quantities and unspecified cup/spoon standards are not guessed. Partial source recipes retain disabled scaling.

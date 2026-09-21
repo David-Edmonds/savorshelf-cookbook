@@ -1,0 +1,26 @@
+[
+  {
+    "id": "historical-09bd1518ee3bf7452ac96e49",
+    "canonicalId": "historical-8272043c07584e5edfc8c702",
+    "bodySha256": "00fd99f933d8f871135b69633f11d2efc1631b92e230dfc58c8e4a91baea65ee",
+    "reason": "Both source variants use a water change. Their modern repairs converge on the same measured formula and full-tenderness method; the premature second-boil stopping instruction is not retained. Both source credits remain."
+  },
+  {
+    "id": "historical-a4bbc8c41a8e3b554dab029d",
+    "canonicalId": "historical-5d992a2b07fdbb2743fb8c63",
+    "bodySha256": "e683f11cdce934e8995988d32c4e0366da44cffce66dd450ffe046aa33030e40",
+    "reason": "Full ingredients and cooking method reviewed together; equivalent base recipe. Source attribution and any distinct optional finish retained on canonical recipe."
+  },
+  {
+    "id": "historical-d5ea3d462f3aece2b256d7ac",
+    "canonicalId": "historical-7908fdad84292603f94d4bbe",
+    "bodySha256": "a6e2ac8381e5e730d2cbfd8ed0db3dc66fbe7fb666b73e6398a1b3f4d02b503b",
+    "reason": "Full ingredients and cooking method reviewed together; equivalent base recipe. Source attribution and any distinct optional finish retained on canonical recipe."
+  },
+  {
+    "id": "historical-e9cb9c480591a4bfa01fe3ba",
+    "canonicalId": "historical-5e9ab6b63125023c04e050b4",
+    "bodySha256": "e7ecc92064f007994a94e0de90f2d684b55cef752749c418d7f351aa8e7ea934",
+    "reason": "Full ingredients and cooking method reviewed together; equivalent base recipe. Source attribution and any distinct optional finish retained on canonical recipe."
+  }
+]
