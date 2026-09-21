@@ -1,6 +1,8 @@
 import pathlib,functools,http.server,threading,os,json
 from playwright.sync_api import sync_playwright,expect
 root=pathlib.Path(__file__).resolve().parents[1]
+expected=json.loads((root/'docs/cookbook/catalog/manifest.json').read_text(encoding='utf-8'))
+visible_count=expected['count']+1452
 class Quiet(http.server.SimpleHTTPRequestHandler):
  def log_message(self,*a):pass
  def do_GET(self):
@@ -11,7 +13,7 @@ server=http.server.ThreadingHTTPServer(('127.0.0.1',0),functools.partial(Quiet,d
 ids=[x['sourceId'] for x in json.loads((root/'content-overrides.json').read_text(encoding='utf-8'))]
 with sync_playwright() as p:
  browser=p.chromium.launch();page=browser.new_page(viewport={'width':390,'height':844});errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
- page.goto(os.environ.get('SAVORSHELF_TEST_URL',f'http://127.0.0.1:{server.server_port}/cookbook/'));page.wait_for_function('window.RecipeCatalog?.count===40884',timeout=90000)
+ page.goto(os.environ.get('SAVORSHELF_TEST_URL',f'http://127.0.0.1:{server.server_port}/cookbook/'));page.wait_for_function(f"window.RecipeCatalog?.count==={expected['count']}",timeout=90000)
  before=page.evaluate("localStorage.getItem('our-table-v1')")
  page.evaluate('(ids)=>window.testEntries=ids.map(id=>allEntries().find(e=>e.id===id))',ids)
  for n in range(len(ids)):

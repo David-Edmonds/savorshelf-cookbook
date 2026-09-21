@@ -1,3 +1,11 @@
+# Sauce repair batch - September 22, 2026
+
+Twenty-six individually reviewed sauce adaptations replace incomplete records; six equivalent source versions are consolidated with their source credits. Thin, medium and thick milk sauces, cream sauces, butter-rich sauces and egg-enriched sauces retain their distinct formulations. Sweet, flourless cream, mesost, browned-butter and egg/lemon finishes remain named variations. The source water-bath and saucepan versions of drawn butter converge on one disclosed modern saucepan adaptation.
+
+All ingredients have measured quantities, relevant step references and substitutions. Missing cross-references are expanded to complete steps. Source gram weights take precedence over spoon labels; other ambiguous volumes, yields and timing are explicitly modern estimates. No kitchen or physical-phone testing. References are recorded in each card; no images were generated.
+
+Effective imported catalog: 40,878 records; 123 adaptations; 40,755 still requiring recipe-specific repair. Total visible cookbook: 42,330 recipes. Thirteen Node checks and three local browser suites passed, including every one of the 50 authored overrides, named-variation quantities, source reconstruction, saved-alias preservation, responsive layouts and offline reload. This completes a batch, not the entire collection. The user's instruction to continue until all remaining entries are resolved is tracked as an active goal; hourly automation stays off.
+
 # Egg recipe repair batch - September 22, 2026
 
 Eight measured adaptations replace incomplete egg recipes; five duplicate transcriptions are consolidated after comparing ingredients and methods. Source credits and stable IDs remain, and existing saved aliases remain visible. The shallow-poached recipe retains fried-bread and dry-toast variations. Other distinct salt/vinegar formulas remain separate.

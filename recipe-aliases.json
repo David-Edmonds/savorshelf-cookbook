@@ -52,5 +52,41 @@
     "canonicalId": "historical-22c5476af5485ba63e844d80",
     "bodySha256": "febd772b5303f627358128b1aa3ba523ba94a47945011da53781fd27578ed1a9",
     "reason": "Full ingredients and methods compared: repeated transcription of the same source formulation. Source credit is retained; fried bread and dry toast remain distinct serving variations where applicable."
+  },
+  {
+    "id": "historical-ba0f74b7eea36f0f07853623",
+    "canonicalId": "historical-5cc3b735b13756a3c7516eaf",
+    "bodySha256": "44da11b8623042f0f536f89f7522159565ee919ca996eb65777298b580a8ab18",
+    "reason": "Full ingredient quantities and complete methods reviewed together: equivalent sauce formulation; all source credits retained. Meaningful cream, mesost or egg-lemon finishes remain named variations rather than separate copies."
+  },
+  {
+    "id": "historical-27bf69470acc82be7b51c095",
+    "canonicalId": "historical-6a05c3d0dac3e602dc21abe4",
+    "bodySha256": "127dab6a2b1278af5d72c709420c47dd202e1629c773ee1eec9d9ae538771be2",
+    "reason": "Full ingredient quantities and complete methods reviewed together: equivalent sauce formulation; all source credits retained. Meaningful cream, mesost or egg-lemon finishes remain named variations rather than separate copies."
+  },
+  {
+    "id": "historical-d130509a26d3c1f6a16a44ec",
+    "canonicalId": "historical-6a05c3d0dac3e602dc21abe4",
+    "bodySha256": "fab8751c6a61d792ef5bae1326f7b7268f2b4dfd20195a20ead69c5f2b7e02f7",
+    "reason": "Full ingredient quantities and complete methods reviewed together: equivalent sauce formulation; all source credits retained. Meaningful cream, mesost or egg-lemon finishes remain named variations rather than separate copies."
+  },
+  {
+    "id": "historical-8d7c585590022951e818bcc7",
+    "canonicalId": "historical-edac6ffd74d450db40a5738c",
+    "bodySha256": "b13e7e3ecdb54f3874c20eef9e5b243d5dabea4c6c09ae1be896362092ea8a73",
+    "reason": "Full ingredient quantities and complete methods reviewed together: equivalent sauce formulation; all source credits retained. Meaningful cream, mesost or egg-lemon finishes remain named variations rather than separate copies."
+  },
+  {
+    "id": "historical-50a9d64c368d386fd0fd129f",
+    "canonicalId": "historical-068bd35af3417a6ecc7d4800",
+    "bodySha256": "b2138ac8a06b1cc4ad59830c9d972a4df6ffc82436c95dd8d91df2f45095364a",
+    "reason": "Full ingredient quantities and complete methods reviewed together: equivalent sauce formulation; all source credits retained. Meaningful cream, mesost or egg-lemon finishes remain named variations rather than separate copies."
+  },
+  {
+    "id": "historical-9eb68b012c5fd0bcb97282c3",
+    "canonicalId": "historical-52f41bf29ae0a347f4c4a86a",
+    "bodySha256": "e4ea31f09dd54ff0e558c02e828fd926f74ba3662559f5a3dfd87a3d01dd6b62",
+    "reason": "The source water-bath and direct-heat versions converge on the same modern measured saucepan formula. Both full ingredient/method sources were reviewed and both credits retained; modern method changes are disclosed."
   }
 ]

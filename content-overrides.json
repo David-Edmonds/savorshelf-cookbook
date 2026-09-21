@@ -1452,5 +1452,1985 @@
         "historical-bba91ca7e7d34c8b895459a6"
       ]
     }
+  },
+  {
+    "sourceId": "historical-08848a853895b5dcff651cf2",
+    "bodySha256": "1e3e96ef891a308991a6756163020f9bd462caab374e8838fb8e30a891e5dc0b",
+    "recipe": {
+      "id": "historical-08848a853895b5dcff651cf2",
+      "title": "Melted Butter Sauce with Milk",
+      "description": "A rich butter sauce uses a little milk and water with flour to give a smooth, lightly thickened finish.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 56,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 7,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 30,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "water",
+          "amount": 90,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{milk|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{milk|0.75}} and {{water}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The source butter quantity is about 56 g; its dessertspoon and tablespoons are assigned modern amounts. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The English and Australian Cookery Book (1864), Edward Abbott. https://archive.org/details/b21505524 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b145dc6352fdda9a9d8433fb",
+    "bodySha256": "bc71d4f74d1d9bd34261cef1881c368cfb00d8c69c0b13113d7085f16359eba9",
+    "recipe": {
+      "id": "historical-b145dc6352fdda9a9d8433fb",
+      "title": "Melted Butter Sauce — Light Water Base",
+      "description": "A water-based flour sauce is finished with butter, giving a light savory coating without milk.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 28,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        }
+      ],
+      "steps": [
+        "Melt {{butter|0.5}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{water}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}.",
+        "Remove from the heat and whisk in the remaining {{butter|0.5}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The truncated method is completed. Half the butter cooks the flour; the remaining half finishes the sauce. Water is a modern 500 ml batch, not an asserted pint conversion. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Art of Living in Australia (1893), Philip E. Muskett. https://archive.org/details/artoflivinginaus00muskiala SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-25aa4710789b90b43cec1a1d",
+    "bodySha256": "00179d8229b8341b4634a550fbb9cb90b95815ac6b43381921dc8d1b8a81ea7c",
+    "recipe": {
+      "id": "historical-25aa4710789b90b43cec1a1d",
+      "title": "Thin White Sauce — Milk and Butter",
+      "description": "A thin milk sauce with a small amount of flour lightly coats vegetables or other savory dishes.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 14,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The source’s low flour ratio is retained; the milk volume is a modern 500 ml choice. Its sweet-sauce option is retained as a named variation. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Art of Living in Australia (1893), Philip E. Muskett. https://archive.org/details/artoflivinginaus00muskiala SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "sweet",
+          "label": "Sweet milk sauce",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "flour",
+              "amount": 14,
+              "unit": "g",
+              "name": "all-purpose wheat flour",
+              "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+            },
+            {
+              "key": "milk",
+              "amount": 500,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 20,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Omit for a less sweet finish; do not replace with the same weight of concentrated sweetener."
+            }
+          ],
+          "steps": [
+            "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+            "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+            "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+            "Stir {{sugar}} into the warm sauce until dissolved. Serve with a dessert."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-1e2b860d57139bd739170f52",
+    "bodySha256": "ae9d3f2cd5174967fc6b28c4cc891a96c6d920eeedb87434508b4fd541fe8c40",
+    "recipe": {
+      "id": "historical-1e2b860d57139bd739170f52",
+      "title": "White Sauce — Cold-Milk Slurry Method",
+      "description": "Flour is dispersed in cold milk before heating with butter, making a thin sauce without a separately cooked roux.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{milk|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{milk|0.75}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The slurry method is retained and the missing cooking cues are supplied; 240 ml is a modern cup choice. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b16f6ac1f7d13668d129f06c",
+    "bodySha256": "74afb5c5ae7102bc944d732883336d20216c7c167c274a207a49c9bd0d51779e",
+    "recipe": {
+      "id": "historical-b16f6ac1f7d13668d129f06c",
+      "title": "Salsa Blanca (Butter-Rich White Sauce)",
+      "description": "This butter-rich sauce has a small flour thickener and a peppery finish, rather than a milk base.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 113,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{water|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{water|0.75}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Water and cooking instructions are supplied; the high butter-to-flour ratio is retained. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "La cocinera poblana (1890), author not recorded. https://archive.org/details/lacocinerapobla00unkngoog SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-4ff024a9e7c9aee6145827c2",
+    "bodySha256": "dc8f90ce0abb22e65d37581771c4e976bd56df7ab191b2bcf39d7a3ebe513659",
+    "recipe": {
+      "id": "historical-4ff024a9e7c9aee6145827c2",
+      "title": "Sauce Blanche — Butter and Vinegar",
+      "description": "A lightly thickened butter sauce is sharpened with white wine vinegar and coarse pepper.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 113,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 4,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.3,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a fruitier flavor."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{water|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{water|0.75}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Remove from the heat and stir in {{vinegar}}. Warm gently if needed, without boiling.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The sauce base is simmered before adding vinegar, replacing the source’s instruction never to boil uncooked flour. The half-spoon flour amount is a modern 4 g choice. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "Le Cuisinier impérial (1806), A. Viard. https://archive.org/details/lecuisinierimpe00viargoog SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-edac6ffd74d450db40a5738c",
+    "bodySha256": "5dde291ac86eec876191ff9e1e0a839166cc7fad4d0f10102a7809f90666eb12",
+    "recipe": {
+      "id": "historical-edac6ffd74d450db40a5738c",
+      "title": "French Melted Butter with Vinegar and Nutmeg",
+      "description": "A concentrated butter sauce gains a mild vinegar tang and a small amount of nutmeg.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 113,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 75,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "vinegar",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a fruitier flavor."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.1,
+          "unit": "g",
+          "name": "ground nutmeg",
+          "substitution": "Omit, or use the same small weight of ground mace."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{water|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{water|0.75}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}.",
+        "Remove from the heat and stir in {{vinegar}}, {{nutmeg}}. Warm gently if needed, without boiling.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Both source versions have the same butter/flour/water/vinegar formula. The flour base now simmers before the acidic finish; 75 ml water is a modern choice for the ambiguous half-gill. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Indian Cookery Book (1880), author not recorded. https://archive.org/details/indiancookeryboo00unse SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Equivalent source retained: The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": [
+        "historical-8d7c585590022951e818bcc7"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-52f41bf29ae0a347f4c4a86a",
+    "bodySha256": "39e8588ee3c5b3d55c570ed79da80a95d83d16e56ed52618f56aee77d47d0e08",
+    "recipe": {
+      "id": "historical-52f41bf29ae0a347f4c4a86a",
+      "title": "Melted Butter — Flour-Dusted Method",
+      "description": "Butter and a small amount of flour form a rich pouring sauce with a little water.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 113,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 5,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{water|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{water|0.75}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The wineglass and dusting of flour are assigned 60 ml and 5 g. Two source versions converge on this modern saucepan formula: the covered water-bath variant is replaced with controlled direct heat so the flour can simmer. Both source credits are retained. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Indian Cookery Book (1880), author not recorded. https://archive.org/details/indiancookeryboo00unse SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Equivalent source retained: Miss Leslie's Complete Cookery (1851), Eliza Leslie. https://www.gutenberg.org/ebooks/60025",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": [
+        "historical-9eb68b012c5fd0bcb97282c3"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-3b3ae96ff5fc57da1ae07d58",
+    "bodySha256": "43b305c9921dea0b1ac14038c515bb4c8b9b79a1f0dbfc89cdd551b68d0b5990",
+    "recipe": {
+      "id": "historical-3b3ae96ff5fc57da1ae07d58",
+      "title": "Sauce Blanche — Stock and Butter",
+      "description": "A thick, stock-based sauce is cooked from butter and flour, then finished with a fresh pat of butter.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 71,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 57,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "stock",
+          "amount": 500,
+          "unit": "ml",
+          "name": "unsalted light chicken stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a meat-free variation."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Omit for a less sweet finish; do not replace with the same weight of concentrated sweetener."
+        },
+        {
+          "key": "finish",
+          "amount": 5,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{stock}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{sugar}}.",
+        "Remove from the heat and stir in {{finish}}. Warm gently if needed, without boiling.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Unsalted chicken stock is selected from the source’s broth-or-milk-and-water options; sauce remains deliberately thick. The final pat is 5 g. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "Culinary Jottings for Madras (1885), Wyvern (A.R. Kenney-Herbert). https://archive.org/details/culinaryjottings00kenn SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-fa0eba15b6d4b3cdcff07903",
+    "bodySha256": "26896f97c6a330fc0519e44508d6a2a592f0b0ef9efc9a009b477d5d4d64eb18",
+    "recipe": {
+      "id": "historical-fa0eba15b6d4b3cdcff07903",
+      "title": "Melted Butter — Concentrated Sauce",
+      "description": "A concentrated butter sauce uses very little water and a small flour thickener.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 113,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 7,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 45,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{water|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{water|0.75}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The source’s short-water formula is retained. Heat gently and whisk; the mixture is richer and thicker than a milk sauce. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Jewish Manual (1846), Judith Cohen Montefiore (attr.). https://archive.org/details/b22021371 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-4e59f40a0ce22e484a6251db",
+    "bodySha256": "9292891982f788cdba8f8f793b415ac1c27a91fb2813587f6a1c926a6b3b2350",
+    "recipe": {
+      "id": "historical-4e59f40a0ce22e484a6251db",
+      "title": "Sos Biały (Dill and Sour-Cream Sauce)",
+      "description": "Light stock sauce is finished with sour cream and chopped dill for a tangy herbal accompaniment.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "stock",
+          "amount": 240,
+          "unit": "ml",
+          "name": "unsalted light chicken stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a meat-free variation."
+        },
+        {
+          "key": "sour",
+          "amount": 60,
+          "unit": "g",
+          "name": "sour cream",
+          "substitution": "Use 60 g full-fat plain yogurt; keep below a boil to reduce splitting."
+        },
+        {
+          "key": "dill",
+          "amount": 5,
+          "unit": "g",
+          "name": "finely chopped fresh dill",
+          "substitution": "Use 5 g parsley for a different herbal flavor."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{stock}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Remove from the heat and stir in {{sour}}, {{dill}}. Warm gently if needed, without boiling.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Missing stock, sour cream and dill amounts are supplied. Stock is unsalted chicken; fish or vegetable stock can be used in the same volume. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e89b0d08c44ba10240673d45",
+    "bodySha256": "d6bcfa13b54de9507335298cb2f0c4fdef81ccec68390495e0d00ba0866d44be",
+    "recipe": {
+      "id": "historical-e89b0d08c44ba10240673d45",
+      "title": "White Sauce with Mace and Nutmeg",
+      "description": "Milk sauce is gently spiced with mace and nutmeg for a warm aromatic finish.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 12,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "mace",
+          "amount": 0.1,
+          "unit": "g",
+          "name": "ground mace",
+          "substitution": "Omit if unavailable; nutmeg is already present."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.1,
+          "unit": "g",
+          "name": "ground nutmeg",
+          "substitution": "Omit, or use the same small weight of ground mace."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Remove from the heat and stir in {{mace}}, {{nutmeg}}. Warm gently if needed, without boiling.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The missing flour and butter amounts are supplied. A pinch of ground mace replaces a whole blade, so straining is unnecessary. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-2fe49fbb75a1f95a75b6e006",
+    "bodySha256": "c7f4ff4413736f2406badc3dcb5b62a5590f63fc159b250f2500ca07e2fde0d1",
+    "recipe": {
+      "id": "historical-2fe49fbb75a1f95a75b6e006",
+      "title": "Thick White Stock Sauce with Lemon",
+      "description": "A small batch of thick white-stock sauce is sharpened with lemon juice at the end.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 21,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 12,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "stock",
+          "amount": 120,
+          "unit": "ml",
+          "name": "unsalted light chicken stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a meat-free variation."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor, or omit the acidity."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{stock}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Remove from the heat and stir in {{lemon}}. Warm gently if needed, without boiling.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The unusually small liquid-to-flour ratio is retained as a thick sauce; the lemon mentioned only in the method is included in the ingredient list. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-068bd35af3417a6ecc7d4800",
+    "bodySha256": "baedfe0ebcdbea18b8f7629954822f1f2afc44d1c44382c0233c796319e2896b",
+    "recipe": {
+      "id": "historical-068bd35af3417a6ecc7d4800",
+      "title": "Valkea Kastike (Milk and Cream Sauce)",
+      "description": "A light milk sauce is enriched with cream for a smooth, gently seasoned finish.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 480,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        },
+        {
+          "key": "cream",
+          "amount": 120,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of light cream for a less rich sauce; it may be thinner."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Remove from the heat and stir in {{cream}}. Warm gently if needed, without boiling.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Equivalent milk/cream formulations are combined. The later source’s egg-and-lemon finish is retained as a variation; it is not presented as classic hollandaise. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Equivalent source retained: Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall Egg cooking guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": [
+        "historical-50a9d64c368d386fd0fd129f"
+      ],
+      "variants": [
+        {
+          "id": "egg-lemon",
+          "label": "Egg and lemon finish",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "flour",
+              "amount": 16,
+              "unit": "g",
+              "name": "all-purpose wheat flour",
+              "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+            },
+            {
+              "key": "milk",
+              "amount": 480,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.2,
+              "unit": "g",
+              "name": "ground white pepper",
+              "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+            },
+            {
+              "key": "cream",
+              "amount": 120,
+              "unit": "ml",
+              "name": "heavy cream",
+              "substitution": "Use the same volume of light cream for a less rich sauce; it may be thinner."
+            },
+            {
+              "key": "yolk",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolk",
+              "substitution": "Omit for an egg-free but less rich finish; there is no identical substitute for this liaison."
+            },
+            {
+              "key": "lemon",
+              "amount": 5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor, or omit the acidity."
+            }
+          ],
+          "steps": [
+            "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+            "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+            "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+            "Mix in {{salt}}, {{pepper}}.",
+            "Remove from the heat and stir in {{cream}}. Warm gently if needed, without boiling.",
+            "Whisk {{yolk}} with {{lemon}} in a bowl. Whisk in a few spoonfuls of the warm sauce, then return the mixture to the saucepan.",
+            "Stir gently over low heat until the sauce reaches 71°C (160°F); do not boil. Serve immediately."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-5cc3b735b13756a3c7516eaf",
+    "bodySha256": "4cf2410c618b49f69c3c27c473d4bedaeb84e14c9865cedbd6beea3a02754052",
+    "recipe": {
+      "id": "historical-5cc3b735b13756a3c7516eaf",
+      "title": "Mjölksås (Thick Milk Sauce)",
+      "description": "A thick milk sauce uses a modest amount of butter and a touch of sugar alongside salt.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Omit for a less sweet finish; do not replace with the same weight of concentrated sweetener."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 10 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{sugar}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Repeated transcriptions of the same source are combined. The source’s ten-minute simmer is retained. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Equivalent source retained: Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": [
+        "historical-ba0f74b7eea36f0f07853623"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-6a05c3d0dac3e602dc21abe4",
+    "bodySha256": "2cb42cb997d4e39e67a9d89748b832cdecc9084df546a95469faba4966523888",
+    "recipe": {
+      "id": "historical-6a05c3d0dac3e602dc21abe4",
+      "title": "Vit Sås (White Sauce with a Butter Finish)",
+      "description": "A smooth milk sauce is finished off the heat with cold butter, giving a glossy coating for savory dishes.",
+      "category": "Sauces",
+      "servings": 12,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 40,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 40,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 700,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.5,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        },
+        {
+          "key": "finish",
+          "amount": 10,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Remove from the heat and stir in {{finish}}. Warm gently if needed, without boiling.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The source gives gram weights, so those values take precedence over its spoon labels. The mesost variation is retained. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": [
+        "historical-27bf69470acc82be7b51c095",
+        "historical-d130509a26d3c1f6a16a44ec"
+      ],
+      "variants": [
+        {
+          "id": "mesost",
+          "label": "Mesost finish for paltbread",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "flour",
+              "amount": 40,
+              "unit": "g",
+              "name": "all-purpose wheat flour",
+              "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+            },
+            {
+              "key": "milk",
+              "amount": 700,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+            },
+            {
+              "key": "salt",
+              "amount": 5,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+            },
+            {
+              "key": "finish",
+              "amount": 10,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "mesost",
+              "amount": 10,
+              "unit": "g",
+              "name": "finely grated mesost or brunost",
+              "substitution": "Omit if unavailable; another cheese will change the distinctive sweet whey-cheese flavor."
+            }
+          ],
+          "steps": [
+            "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+            "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+            "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+            "Mix in {{salt}}.",
+            "Remove from the heat and stir in {{finish}}. Warm gently if needed, without boiling.",
+            "Stir {{mesost}} into the warm sauce until melted. Serve without boiling."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-75668998fa831a315cf12613",
+    "bodySha256": "2e2bd81d1fb996c11c1cfee102081c1e0bd8318f03772c45ead0c7a1468d21db",
+    "recipe": {
+      "id": "historical-75668998fa831a315cf12613",
+      "title": "Melted Butter — Rich Water Sauce",
+      "description": "A small amount of flour helps bind water and butter into a rich savory sauce.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 113,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 7,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{water|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{water|0.75}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The wineglass is assigned 60 ml as a modern choice. The source’s flourless cream version is retained as a separate variation. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cream",
+          "label": "Flourless cream version",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 113,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "cream",
+              "amount": 60,
+              "unit": "ml",
+              "name": "heavy cream",
+              "substitution": "Use the same volume of light cream for a less rich sauce; it may be thinner."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+            }
+          ],
+          "steps": [
+            "Warm {{cream}} in a small saucepan until steaming, without boiling.",
+            "Lower the heat and whisk in {{butter}} a few small pieces at a time until smooth. Add {{salt}} and serve at once; do not boil."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-4a1cb31c9e2efd8ebbb85b4d",
+    "bodySha256": "06a88b428876d45513e0a5eaeab5ea7e4c804c94d250d15250bf67cdf1e238b1",
+    "recipe": {
+      "id": "historical-4a1cb31c9e2efd8ebbb85b4d",
+      "title": "Melted Butter — Economical Sauce",
+      "description": "This economical version uses more water and less butter for a light, lightly thickened sauce.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 57,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 7,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 250,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{water|0.25}} in a small saucepan until smooth.",
+        "Gradually whisk in the remaining {{water|0.75}}, then add {{butter}} in small pieces.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "The flour-and-water slurry method is retained; 250 ml water is a modern batch choice for the source half-pint. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e980a751cf52fd42d52f02a4",
+    "bodySha256": "9804b52f7dca1d008f02aa2befd97ee74459e119cbb17c5750333fb05c3a6aba",
+    "recipe": {
+      "id": "historical-e980a751cf52fd42d52f02a4",
+      "title": "White Stock and Cream Sauce",
+      "description": "Cream and light stock simmer together with a small flour thickener for a rich but pourable sauce.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "stock",
+          "amount": 250,
+          "unit": "ml",
+          "name": "unsalted light chicken stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a meat-free variation."
+        },
+        {
+          "key": "cream",
+          "amount": 250,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of light cream for a less rich sauce; it may be thinner."
+        },
+        {
+          "key": "flour",
+          "amount": 7,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} into {{cream}} until no dry lumps remain.",
+        "Heat {{stock}} to a gentle simmer in a heavy saucepan. Whisk in the cream mixture slowly.",
+        "Simmer gently for 10 minutes, stirring along the bottom so it does not catch. Add {{salt}} and serve warm."
+      ],
+      "notes": "The source uses stock and cream without butter; its gentle ten-minute simmer is retained. Half-pint volumes are modern 250 ml choices. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-884192e510e73f269e177ddd",
+    "bodySha256": "a8485aeaaa1ea7ea7e53af4d02e3f76ebd3d574a318327cc7cda733b2acb9004",
+    "recipe": {
+      "id": "historical-884192e510e73f269e177ddd",
+      "title": "White Sauce with Onion and Carrot",
+      "description": "Onion and carrot flavor a milk sauce that is strained smooth before serving.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 57,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled onion, finely chopped",
+          "substitution": "Use 150 g shallots for a milder flavor."
+        },
+        {
+          "key": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "name": "peeled carrot, finely chopped",
+          "substitution": "Use 80 g parsnip for a different, sweeter flavor."
+        },
+        {
+          "key": "flour",
+          "amount": 30,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.1,
+          "unit": "g",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild sauce."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a saucepan. Add {{onion}} and {{carrot}} and cook over low heat for 8–10 minutes, stirring, until softened without browning.",
+        "Stir in {{flour}} and cook for 2 minutes. Gradually whisk in {{milk}} until smooth.",
+        "Simmer gently for 10 minutes, stirring often. Press through a fine sieve into a clean pan; discard the remaining vegetable solids.",
+        "Mix in {{salt}} and {{cayenne}}. Warm gently and serve."
+      ],
+      "notes": "Vegetable and teacup-flour quantities are supplied as modern measured amounts. The vegetable infusion and straining are retained; vegetables are not counted as a separate serving. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-5778d1032c4352a93d8a40af",
+    "bodySha256": "ae7e7e238a0e82e9044df65ac657e707d2b37c8b4cd1d343786a43ffdf3fb0d6",
+    "recipe": {
+      "id": "historical-5778d1032c4352a93d8a40af",
+      "title": "Thin White Sauce — Boston Formula",
+      "description": "A light butter-and-milk sauce has just enough flour to coat gently.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 12,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 1.5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.1,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Missing cross-references are expanded to full steps. The three flour levels remain separate formulations; 240 ml milk and weighed spoon ingredients are modern choices. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-0824d6ef386ba88dcaaf52a3",
+    "bodySha256": "8cda225f6b5b50a75d3fc0ce07639d8fb9b57666872d0677c5323c666c0a2d50",
+    "recipe": {
+      "id": "historical-0824d6ef386ba88dcaaf52a3",
+      "title": "White Sauce I — Medium Thickness",
+      "description": "A medium-thickness milk sauce balances butter and flour for coating vegetables or other cooked foods.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 1.5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.1,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Missing cross-references are expanded to full steps. The three flour levels remain separate formulations; 240 ml milk and weighed spoon ingredients are modern choices. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-4365925d9b1756d9b999c47b",
+    "bodySha256": "4c8c0b252c252821ac143dc4235faf9a122aa557894a27ae18f9b9d79b3f69e5",
+    "recipe": {
+      "id": "historical-4365925d9b1756d9b999c47b",
+      "title": "White Sauce II — Thick",
+      "description": "A thicker milk sauce contains more flour than the companion thin and medium formulas.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 24,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk for a dairy-free variation; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 1.5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.1,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small heavy saucepan over low heat. Stir in {{flour}} and cook, stirring, for 2 minutes without browning.",
+        "Take off the heat and whisk in {{milk}} a little at a time until smooth.",
+        "Return to medium-low heat, whisking until the sauce gently bubbles. Lower the heat and cook 5 minutes, stirring along the bottom, until smooth and thickened. Avoid a hard boil.",
+        "Mix in {{salt}}, {{pepper}}.",
+        "Serve warm. If too thick after standing, whisk in a small splash of the recipe’s liquid to restore the intended pouring consistency."
+      ],
+      "notes": "Missing cross-references are expanded to full steps. The three flour levels remain separate formulations; 240 ml milk and weighed spoon ingredients are modern choices. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-69dfcd5ed44ecf04cc14ca53",
+    "bodySha256": "3c32061f8b034e3af8858e49d7b0ed58555a7a178ff00cee05ef469e1a8589f7",
+    "recipe": {
+      "id": "historical-69dfcd5ed44ecf04cc14ca53",
+      "title": "Salsa Blanca (Water-Based Sauce with Yolk)",
+      "description": "A flour-thickened water sauce is enriched with rendered beef fat and an egg-yolk liaison.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "flour",
+          "amount": 20,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "water",
+          "amount": 300,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        },
+        {
+          "key": "liaison",
+          "amount": 30,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Unsalted vegetable stock may replace the same volume in a savory sauce, changing its flavor."
+        },
+        {
+          "key": "fat",
+          "amount": 56,
+          "unit": "g",
+          "name": "food-grade rendered beef fat",
+          "substitution": "Use 56 g unsalted butter for a dairy-containing variation, or refined vegetable oil for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1.5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        },
+        {
+          "key": "yolk",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolk",
+          "substitution": "Omit for an egg-free but less rich finish; there is no identical substitute for this liaison."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} into {{water}} in a saucepan until smooth. Bring to a gentle simmer, stirring continuously, and cook 10 minutes over low heat.",
+        "Remove from the heat and whisk in {{fat}}, {{salt}} and {{pepper}} until incorporated.",
+        "Whisk {{yolk}} with {{liaison}} in a bowl. Gradually whisk a few spoonfuls of warm sauce into the yolk mixture, then return it to the saucepan.",
+        "Stir over low heat until the sauce reaches 71°C (160°F), without boiling. Serve immediately."
+      ],
+      "notes": "The original flour slurry and fat-at-the-end method are retained. Water amounts are supplied and the yolk liaison is now cooked. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "El Practicón: tratado completo de cocina (1894), Ángel Muro. https://archive.org/details/elpracticntrat00muro SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Egg cooking guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-f5ac77b47b9f5a4315904526",
+    "bodySha256": "2054d863568346099cfe61ec5794173772aec425e98839a1f566cb8f734b4f66",
+    "recipe": {
+      "id": "historical-f5ac77b47b9f5a4315904526",
+      "title": "Salsa Bianca (Butter Sauce with Vinegar and Yolk)",
+      "description": "A lightly browned flour base is enriched with butter, vinegar and egg yolk, giving a rich tangy sauce.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 100,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use an equal weight of a gluten-free all-purpose blend intended for sauces; texture can differ. Do not replace with an equal weight of cornstarch."
+        },
+        {
+          "key": "stock",
+          "amount": 200,
+          "unit": "ml",
+          "name": "unsalted light chicken stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a meat-free variation."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a fruitier flavor."
+        },
+        {
+          "key": "yolk",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolk",
+          "substitution": "Omit for an egg-free but less rich finish; there is no identical substitute for this liaison."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper, which leaves visible specks, or omit."
+        }
+      ],
+      "steps": [
+        "Melt {{butter|0.5}} in a saucepan. Stir in {{flour}} and cook over medium-low heat for about 3 minutes until pale golden, not dark.",
+        "Gradually whisk in {{stock}} and simmer gently for 5 minutes until smooth.",
+        "Remove from the heat and whisk in the remaining {{butter|0.5}}, {{vinegar}}, {{salt}} and {{pepper}}.",
+        "Whisk {{yolk}} in a bowl. Gradually add a few spoonfuls of warm sauce, then return everything to the pan. Stir over low heat to 71°C (160°F), without boiling. Serve immediately."
+      ],
+      "notes": "The source’s divided butter, pale-brown roux and vinegar remain. Stock and spoon quantities are supplied, and the yolk receives a controlled final heating. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "La scienza in cucina e l'arte di mangiar bene (1891), Pellegrino Artusi. https://www.gutenberg.org/ebooks/59047 SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Egg cooking guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-3bcdeb5bd770d3bb386bbc32",
+    "bodySha256": "bc70c2249a9bdde260fe5bf86b751b259d0b22c3085cffe2b866f912de8bbb80",
+    "recipe": {
+      "id": "historical-3bcdeb5bd770d3bb386bbc32",
+      "title": "Smält Smör (Melted Butter with Lemon)",
+      "description": "Gently melted butter receives a little lemon juice and salt for a simple finishing sauce.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 120,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "lemon",
+          "amount": 1.25,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor, or omit the acidity."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} gently in a small saucepan just before serving, keeping it pale.",
+        "Remove from the heat and stir in {{lemon}} and {{salt}}. Spoon over a separately prepared dish and serve immediately."
+      ],
+      "notes": "The source gram quantities are retained. The quarter-teaspoon lemon is assigned 1.25 ml. The browned-butter option is retained separately; parsley belongs to the serving dish, not this sauce. Missing or ambiguous source amounts, modern ingredient choices, sauce portions and timings are explicit adaptation estimates, not exact recovered historical measurements. Not kitchen-tested. Serve freshly made; scaling changes quantities, not temperature or cooking time.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Roux technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T12:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "browned",
+          "label": "Browned butter finish",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 120,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "lemon",
+              "amount": 1.25,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor, or omit the acidity."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially when using salted butter or stock; exchange other salt by weight."
+            }
+          ],
+          "steps": [
+            "Melt {{butter}} in a light-colored saucepan over medium-low heat. Stir as it foams, then watch closely until the milk solids turn golden brown and smell nutty, about 3–5 minutes.",
+            "Remove from the heat immediately and pour into a heatproof bowl to stop browning. Let the bubbling subside, then carefully stir in {{lemon}} and {{salt}}. Serve at once."
+          ]
+        }
+      ]
+    }
   }
 ]
