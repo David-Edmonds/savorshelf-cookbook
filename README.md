@@ -1,3 +1,9 @@
+# Full-collection quantity standardization - September 22, 2026
+
+All 40,889 imported records use the existing recipe design. The source formatter recognizes numeric and written fractions, explicit whole-ingredient counts, joined metric units, and spoonful/cupful spellings. It structures 100,991 explicit amounts across 30,272 source-wording recipes and links 27,250 full ingredient phrases to method steps. Source text and stable IDs are retained. Regional pints/quarts/gills retain their source units without guessed conversions. Browser formatting runs on opened catalog cards and new saves, not existing personal records. Lazy loading is retained.
+
+The full 40,800 source-wording recipe set passed Python/browser parser parity, exact source reconstruction and schema checks. Six parser tests, twelve Node checks and two local browser suites passed. This is quantity-format standardization, not completion of recipe-specific repairs: the collection still has 89 adaptations and 40,800 records requiring content review. Missing yields, ambiguous measures, oven settings and culinary substitutions are not invented. No Android, signing, portfolio, image-generation or physical-phone changes.
+
 # Grouped content repair — September 21, 2026
 
 All 40,893 retained source records are indexed for resumable full-content review. Pending recipes are organized into 9,301 candidate groups using ingredient families and cooking methods, not titles. 33,387 pending records share a group with related recipes. These groups are research aids, not automatic duplicate verdicts.
