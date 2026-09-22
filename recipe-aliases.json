@@ -334,5 +334,11 @@
     "canonicalId": "historical-ca73e6474300ab2bcfc053a6",
     "bodySha256": "c609fd7b73778c851a2ee3e98bbaa599f9d47d104a50c967c074306d41962c13",
     "reason": "Same whole-carrot preservation formula and bottle method; the longer source adds a brief pre-cook note. Both retained in the disclosed freezer adaptation with whole and sliced blanching instructions."
+  },
+  {
+    "id": "historical-766e9276ce31eb044df43436",
+    "canonicalId": "historical-85eea8c7cdd6303e65c520a1",
+    "bodySha256": "2162740487fce99d569f7e30a35aa723220e6a01a60bbbd36a1c86758db6b9f2",
+    "reason": "Identical formula and lemon-pie shorthand from the same book. The longer record supplies the whipped-white topping; both explicitly allow a pie-shell or light-cake base, preserved as full named variations."
   }
 ]

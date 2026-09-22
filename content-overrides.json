@@ -25032,5 +25032,1872 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-126e2a2489d2fc454322dae5",
+    "bodySha256": "a7006cb63bfcd6c5dca9816bec5effe2fa9b4358acd201d03149b0e8442845fe",
+    "recipe": {
+      "id": "historical-126e2a2489d2fc454322dae5",
+      "title": "Brandy and Lemon Pudding Sauce",
+      "description": "A light, sweet brandy-lemon sauce is gently thickened with egg yolks for pouring over warm puddings.",
+      "category": "Dessert sauces",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "swater",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sbrandy",
+          "amount": 30,
+          "unit": "ml",
+          "name": "brandy for the sauce",
+          "substitution": "Use the same volume of apple juice for an alcohol-free sauce."
+        },
+        {
+          "key": "ssugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar for the sauce",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "slemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice for the sauce",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "syolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks for the sauce",
+          "substitution": "Use 36 g pasteurized liquid egg yolk."
+        }
+      ],
+      "steps": [
+        "For the sauce, put {{swater}}, {{sbrandy}}, {{ssugar}} and {{slemon}} in a heatproof bowl over a pan of gently simmering water, without the bowl touching the water. Stir until the sugar dissolves and the mixture is hot.",
+        "Beat {{syolks}} in another bowl. Gradually whisk in the hot liquid, a small amount at a time, then return everything to the heatproof bowl over the water. Stir continuously until it lightly coats a spoon and reaches at least 71°C (160°F), without boiling. Serve promptly. This is a light pouring sauce; it thickens slightly as it cools."
+      ],
+      "notes": "The undefined quarter-glass of brandy becomes a modern 30 ml; the cup of water is 240 ml, sugar 200 g and half-lemon juice 15 ml. A measured cooked-yolk finish completes the original off-heat thickening instruction. Alcohol remains after this short heating; choose the apple-juice substitution if avoiding alcohol. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-a25b8a37074da3e54103b87f",
+    "bodySha256": "f8a8b09b6ede9a88d1eea40a4127ac5b94fe9990ecab3e1f0296dfc550627cd4",
+    "recipe": {
+      "id": "historical-a25b8a37074da3e54103b87f",
+      "title": "Lemon Hard Sauce",
+      "description": "Lemon zest brightens a firm, whipped butter-and-sugar accompaniment that softens against warm pudding.",
+      "category": "Dessert sauces",
+      "servings": 16,
+      "yieldUnit": "servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "hsugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "caster sugar for the hard sauce",
+          "substitution": "Use the same weight of superfine granulated sugar."
+        },
+        {
+          "key": "hbutter",
+          "amount": 113,
+          "unit": "g",
+          "name": "softened unsalted butter for the hard sauce",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "hzest",
+          "amount": 3,
+          "unit": "g",
+          "name": "finely grated lemon zest, without white pith",
+          "substitution": "Use the same weight of orange zest for a different flavor."
+        }
+      ],
+      "steps": [
+        "For the hard sauce, beat {{hbutter}} with {{hsugar}} for 5–8 minutes until pale and creamy, scraping the bowl. Beat in {{hzest}}. Spoon into a small dish and chill until firm; serve small spoonfuls beside the warm pudding. The fine sugar gives this traditional butter sauce a slight granular texture."
+      ],
+      "notes": "The original cup of sugar and half-cup butter become 200 g and 113 g. Fine granulated sugar is chosen to retain the original ratio with a less coarse texture. Zest, beating and chilling times are modern choices. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-6bb5f6e7e53f84b36d136c06",
+    "bodySha256": "bce2b858947551e19416040c907e542f4ef0a33b0120d818f0e061be0cb2b575",
+    "recipe": {
+      "id": "historical-6bb5f6e7e53f84b36d136c06",
+      "title": "Carrot, Potato and Fruit Pudding with Brandy Sauce",
+      "description": "Carrot and potato keep this steamed fruit-and-suet pudding moist; candied peel and warm spices flavor the dense crumb.",
+      "category": "Desserts",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 225,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 110,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "potato",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled potato, finely grated immediately before mixing",
+          "substitution": "Use the same weight of another starchy white potato; do not rinse away its starch."
+        },
+        {
+          "key": "brownsugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "soft light brown sugar",
+          "substitution": "Use the same weight of dark brown sugar for a stronger molasses flavor."
+        },
+        {
+          "key": "suet",
+          "amount": 110,
+          "unit": "g",
+          "name": "food-grade beef suet, membrane removed and finely shredded",
+          "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check whether it contains wheat flour."
+        },
+        {
+          "key": "raisins",
+          "amount": 180,
+          "unit": "g",
+          "name": "seedless raisins",
+          "substitution": "Use the same weight of sultanas."
+        },
+        {
+          "key": "currants",
+          "amount": 180,
+          "unit": "g",
+          "name": "dried Zante currants",
+          "substitution": "Use the same weight of chopped raisins; these are dried grapes, not fresh currant berries."
+        },
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "mixedpeel",
+          "amount": 30,
+          "unit": "g",
+          "name": "candied orange and lemon peel, finely chopped",
+          "substitution": "Use the same weight of candied orange peel."
+        },
+        {
+          "key": "flour",
+          "amount": 150,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain wheat flour; a gluten-free substitution needs its own tested formula."
+        },
+        {
+          "key": "soda",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "baking soda (bicarbonate of soda)",
+          "substitution": "Use the specified baking soda; baking powder is not an equal replacement."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half the amount of ground allspice for a different flavor."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace, or omit."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "steamwater",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "hot drinking water for the steaming pan",
+          "substitution": "Use hot drinking water, topping up as needed during steaming."
+        },
+        {
+          "key": "swater",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sbrandy",
+          "amount": 30,
+          "unit": "ml",
+          "name": "brandy for the sauce",
+          "substitution": "Use the same volume of apple juice for an alcohol-free sauce."
+        },
+        {
+          "key": "ssugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar for the sauce",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "slemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice for the sauce",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "syolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks for the sauce",
+          "substitution": "Use 36 g pasteurized liquid egg yolk."
+        }
+      ],
+      "steps": [
+        "Grease a heatproof 2-liter pudding basin with {{grease}}. Put a trivet in a deep lidded pot and heat {{steamwater}} to a gentle simmer; the water should reach halfway up the filled basin, so adjust the level to suit the pot.",
+        "Mix {{flour}}, {{soda}}, {{salt}}, {{cinnamon}} and {{nutmeg}}. Stir in {{suet}}, {{raisins}}, {{currants}} and {{mixedpeel}}.",
+        "Finely grate {{carrot}}. Beat {{eggs}} with {{brownsugar}}, then stir in the carrot and freshly grated {{potato}}, keeping their juices. Fold into the dry ingredients to make a thick, moist mixture.",
+        "Spoon the mixture into the basin, leaving at least 3 cm room for expansion. Cover with a sheet of baking parchment and then foil, both pleated across the center. Tie securely below the rim with kitchen string and make a string handle.",
+        "Lower onto the trivet, cover the pot and maintain a gentle simmer for 3 hours. Check the water every 30 minutes and add boiling water as needed to keep it halfway up the basin; do not let the pan boil dry.",
+        "Carefully lift out using oven gloves and the handle. Open the cover away from your face. The center should be firm and a skewer should show no wet batter; for egg-containing puddings, also check at least 71°C (160°F). If still wet, re-cover and steam another 20–30 minutes, then check again. Rest for 10 minutes, loosen the edge and turn onto a warm plate.",
+        "For the sauce, put {{swater}}, {{sbrandy}}, {{ssugar}} and {{slemon}} in a heatproof bowl over a pan of gently simmering water, without the bowl touching the water. Stir until the sugar dissolves and the mixture is hot.",
+        "Beat {{syolks}} in another bowl. Gradually whisk in the hot liquid, a small amount at a time, then return everything to the heatproof bowl over the water. Stir continuously until it lightly coats a spoon and reaches at least 71°C (160°F), without boiling. Serve promptly. This is a light pouring sauce; it thickens slightly as it cools.",
+        "Serve the warm pudding with the sauce."
+      ],
+      "notes": "The original printed page 202 genuinely contains no flour or bread. This adaptation explicitly adds 150 g flour for structure; it is not a recovered historical amount. Modern preparation weights replace cup volumes and undefined large cups. Spice and peel are specified. The full brandy sauce is a disclosed companion adapted from Greenbaum 1918, not a claim to recover Denison’s exact intended sauce. Alcohol remains in the sauce unless the apple-juice substitution is used. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Canadian Family Cook Book (1914), Grace E. Denison. https://archive.org/details/canadianfamilyco00deni_0 SavorShelf measured adaptation. Primary scan checked: Canadian Family Cook Book, printed page 202, leaf 226. Sauce component: The International Jewish Cook Book (1918), https://archive.org/details/cu31924003580952 . Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 225,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-17f54a471708f66d68c4f30c",
+    "bodySha256": "b24e38e0e78645e0bb54ccf3933579779f299b75937749eb2ceaed1a2e9608e6",
+    "recipe": {
+      "id": "historical-17f54a471708f66d68c4f30c",
+      "title": "Molasses Carrot and Potato Pudding",
+      "description": "Molasses sweetens a dense steamed pudding of grated carrot, potato, suet and dried fruit, served with sweet melted butter.",
+      "category": "Desserts",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 225,
+      "ingredients": [
+        {
+          "key": "flour",
+          "amount": 150,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain wheat flour; a gluten-free substitution needs its own tested formula."
+        },
+        {
+          "key": "suet",
+          "amount": 110,
+          "unit": "g",
+          "name": "food-grade beef suet, membrane removed and finely shredded",
+          "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check whether it contains wheat flour."
+        },
+        {
+          "key": "molasses",
+          "amount": 320,
+          "unit": "g",
+          "name": "mild unsulphured molasses",
+          "substitution": "Use the same weight of dark treacle for a different flavor; avoid bitter blackstrap molasses."
+        },
+        {
+          "key": "potato",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled potato, finely grated immediately before mixing",
+          "substitution": "Use the same weight of another starchy white potato; do not rinse away its starch."
+        },
+        {
+          "key": "carrot",
+          "amount": 110,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "currants",
+          "amount": 150,
+          "unit": "g",
+          "name": "dried Zante currants",
+          "substitution": "Use the same weight of chopped raisins; these are dried grapes, not fresh currant berries."
+        },
+        {
+          "key": "raisins",
+          "amount": 150,
+          "unit": "g",
+          "name": "seedless raisins",
+          "substitution": "Use the same weight of sultanas."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "soda",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "baking soda (bicarbonate of soda)",
+          "substitution": "Use the specified baking soda; baking powder is not an equal replacement."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "steamwater",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "hot drinking water for the steaming pan",
+          "substitution": "Use hot drinking water, topping up as needed during steaming."
+        },
+        {
+          "key": "sbutter",
+          "amount": 60,
+          "unit": "g",
+          "name": "unsalted butter for serving",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "ssugar",
+          "amount": 30,
+          "unit": "g",
+          "name": "caster sugar for serving",
+          "substitution": "Use the same weight of fine granulated sugar."
+        },
+        {
+          "key": "swater",
+          "amount": 30,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Grease a heatproof 2-liter pudding basin with {{grease}}. Put a trivet in a deep lidded pot and heat {{steamwater}} to a gentle simmer; the water should reach halfway up the filled basin, so adjust the level to suit the pot.",
+        "Mix {{flour}}, {{salt}} and {{soda}}, then stir in {{suet}}, {{currants}} and {{raisins}}. Finely grate {{carrot}} and combine with freshly grated {{potato}} and {{molasses}}, retaining the vegetable juices. Mix everything into a thick, moist batter.",
+        "Spoon the mixture into the basin, leaving at least 3 cm room for expansion. Cover with a sheet of baking parchment and then foil, both pleated across the center. Tie securely below the rim with kitchen string and make a string handle.",
+        "Lower onto the trivet, cover the pot and maintain a gentle simmer for 3 hours. Check the water every 30 minutes and add boiling water as needed to keep it halfway up the basin; do not let the pan boil dry.",
+        "Carefully lift out using oven gloves and the handle. Open the cover away from your face. The center should be firm and a skewer should show no wet batter; for egg-containing puddings, also check at least 71°C (160°F). If still wet, re-cover and steam another 20–30 minutes, then check again. Rest for 10 minutes, loosen the edge and turn onto a warm plate.",
+        "For the sweet butter, heat {{swater}} with {{ssugar}} in a small pan until dissolved. Remove from the heat and whisk in diced {{sbutter}} until melted.",
+        "Serve the warm pudding with the warm sweet butter."
+      ],
+      "notes": "Cup measures become modern weighed quantities: flour 150 g, suet 110 g, molasses 320 g, carrot 110 g, potato 150 g and dried fruits 150 g each. The source pinch of soda becomes ⅛ teaspoon. The sweet-melted-butter accompaniment is fully supplied. No eggs are added to this distinct source formula. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 225,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-883c0ab135ad2cf9baac0162",
+    "bodySha256": "0f283ffda95a83e8b9bd087f8f466cda9fae0bf40ae44b9dbbe36183b034863c",
+    "recipe": {
+      "id": "historical-883c0ab135ad2cf9baac0162",
+      "title": "Brown-Sugar Carrot and Potato Pudding",
+      "description": "A dense, egg-free steamed pudding combines grated vegetables, suet and dried fruit with soft brown sugar.",
+      "category": "Desserts",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 280,
+      "ingredients": [
+        {
+          "key": "potato",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled potato, finely grated immediately before mixing",
+          "substitution": "Use the same weight of another starchy white potato; do not rinse away its starch."
+        },
+        {
+          "key": "carrot",
+          "amount": 110,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "suet",
+          "amount": 110,
+          "unit": "g",
+          "name": "food-grade beef suet, membrane removed and finely shredded",
+          "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check whether it contains wheat flour."
+        },
+        {
+          "key": "raisins",
+          "amount": 150,
+          "unit": "g",
+          "name": "seedless raisins",
+          "substitution": "Use the same weight of sultanas."
+        },
+        {
+          "key": "currants",
+          "amount": 150,
+          "unit": "g",
+          "name": "dried Zante currants",
+          "substitution": "Use the same weight of chopped raisins; these are dried grapes, not fresh currant berries."
+        },
+        {
+          "key": "brownsugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "soft light brown sugar",
+          "substitution": "Use the same weight of dark brown sugar for a stronger molasses flavor."
+        },
+        {
+          "key": "flour",
+          "amount": 210,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain wheat flour; a gluten-free substitution needs its own tested formula."
+        },
+        {
+          "key": "soda",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "baking soda (bicarbonate of soda)",
+          "substitution": "Use the specified baking soda; baking powder is not an equal replacement."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "steamwater",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "hot drinking water for the steaming pan",
+          "substitution": "Use hot drinking water, topping up as needed during steaming."
+        }
+      ],
+      "steps": [
+        "Grease a heatproof 2-liter pudding basin with {{grease}}. Put a trivet in a deep lidded pot and heat {{steamwater}} to a gentle simmer; the water should reach halfway up the filled basin, so adjust the level to suit the pot.",
+        "Mix {{flour}} with {{soda}}. Stir in {{suet}}, {{raisins}} and {{currants}}. Finely grate {{carrot}} and combine with freshly grated {{potato}}, {{brownsugar}} and {{water}}, retaining the vegetable juices. Fold into the dry ingredients to make a thick, moist mixture.",
+        "Spoon the mixture into the basin, leaving at least 3 cm room for expansion. Cover with a sheet of baking parchment and then foil, both pleated across the center. Tie securely below the rim with kitchen string and make a string handle.",
+        "Lower onto the trivet, cover the pot and maintain a gentle simmer for 4 hours. Check the water every 30 minutes and add boiling water as needed to keep it halfway up the basin; do not let the pan boil dry.",
+        "Carefully lift out using oven gloves and the handle. Open the cover away from your face. The center should be firm and a skewer should show no wet batter; for egg-containing puddings, also check at least 71°C (160°F). If still wet, re-cover and steam another 20–30 minutes, then check again. Rest for 10 minutes, loosen the edge and turn onto a warm plate.",
+        "Serve warm, cut into small portions."
+      ],
+      "notes": "The yellow sugar is interpreted as soft light brown sugar. Cup volumes become disclosed preparation weights. A measured 60 ml water is supplied because the source gives no liquid and grated-vegetable moisture varies. Four-hour steaming is retained, with a complete covered-basin method. This has more flour and a different sweetener from the molasses pudding and is kept separately. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 280,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-4a881af3399227ab15763ab0",
+    "bodySha256": "e7e5789ba089544cb593f7ffedeb2ae525d952472b0fccf7a8549bf3d5a236cc",
+    "recipe": {
+      "id": "historical-4a881af3399227ab15763ab0",
+      "title": "Rich Carrot and Fruit Pudding with Brandy Sauce",
+      "description": "A rich carrot pudding combines suet, raisins, currants and nutmeg with egg yolks and ale, finished with a sweet brandy sauce.",
+      "category": "Desserts",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 230,
+      "ingredients": [
+        {
+          "key": "flour",
+          "amount": 113,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain wheat flour; a gluten-free substitution needs its own tested formula."
+        },
+        {
+          "key": "suet",
+          "amount": 113,
+          "unit": "g",
+          "name": "food-grade beef suet, membrane removed and finely shredded",
+          "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check whether it contains wheat flour."
+        },
+        {
+          "key": "carrot",
+          "amount": 113,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "raisins",
+          "amount": 113,
+          "unit": "g",
+          "name": "seedless raisins",
+          "substitution": "Use the same weight of sultanas."
+        },
+        {
+          "key": "currants",
+          "amount": 113,
+          "unit": "g",
+          "name": "dried Zante currants",
+          "substitution": "Use the same weight of chopped raisins; these are dried grapes, not fresh currant berries."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+        },
+        {
+          "key": "ale",
+          "amount": 70,
+          "unit": "ml",
+          "name": "ale",
+          "substitution": "Use the same volume of alcohol-free malt drink for a different flavor."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace, or omit."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "steamwater",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "hot drinking water for the steaming pan",
+          "substitution": "Use hot drinking water, topping up as needed during steaming."
+        },
+        {
+          "key": "swater",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sbrandy",
+          "amount": 30,
+          "unit": "ml",
+          "name": "brandy for the sauce",
+          "substitution": "Use the same volume of apple juice for an alcohol-free sauce."
+        },
+        {
+          "key": "ssugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar for the sauce",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "slemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice for the sauce",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "syolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks for the sauce",
+          "substitution": "Use 36 g pasteurized liquid egg yolk."
+        }
+      ],
+      "steps": [
+        "Grease a heatproof 1.5-liter pudding basin with {{grease}}. Put a trivet in a deep lidded pot and heat {{steamwater}} to a gentle simmer; the water should reach halfway up the filled basin, so adjust the level to suit the pot.",
+        "Mix {{flour}}, {{suet}}, {{raisins}}, {{currants}}, {{sugar}} and {{nutmeg}}. Finely grate {{carrot}} and stir in. Beat {{eggs}} and {{yolks}} with {{ale}}, then fold into the dry ingredients.",
+        "Spoon the mixture into the basin, leaving at least 3 cm room for expansion. Cover with a sheet of baking parchment and then foil, both pleated across the center. Tie securely below the rim with kitchen string and make a string handle.",
+        "Lower onto the trivet, cover the pot and maintain a gentle simmer for 3 hours. Check the water every 30 minutes and add boiling water as needed to keep it halfway up the basin; do not let the pan boil dry.",
+        "Carefully lift out using oven gloves and the handle. Open the cover away from your face. The center should be firm and a skewer should show no wet batter; for egg-containing puddings, also check at least 71°C (160°F). If still wet, re-cover and steam another 20–30 minutes, then check again. Rest for 10 minutes, loosen the edge and turn onto a warm plate.",
+        "For the sauce, put {{swater}}, {{sbrandy}}, {{ssugar}} and {{slemon}} in a heatproof bowl over a pan of gently simmering water, without the bowl touching the water. Stir until the sugar dissolves and the mixture is hot.",
+        "Beat {{syolks}} in another bowl. Gradually whisk in the hot liquid, a small amount at a time, then return everything to the heatproof bowl over the water. Stir continuously until it lightly coats a spoon and reaches at least 71°C (160°F), without boiling. Serve promptly. This is a light pouring sauce; it thickens slightly as it cools.",
+        "Serve the pudding warm with the sauce."
+      ],
+      "notes": "The original large batch is halved: half-pound ingredients become 113 g, one pound sugar 227 g, two eggs become one and four extra yolks become two. Half an Imperial gill becomes 70 ml. The original one-hour boil is replaced explicitly with a three-hour covered steam and a doneness check. A full baked variation preserves its other cooking option. Brandy sauce is a disclosed modern companion based on Greenbaum 1918. Alcohol may remain; use both alcohol-free substitutions if avoiding it. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "An Easy and Economical Book of Jewish Cookery (1874), Estella Atrutel. https://archive.org/details/b2807967x SavorShelf measured adaptation. Sauce component: Greenbaum 1918, https://archive.org/details/cu31924003580952 . Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 230,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "baked",
+          "label": "Baked carrot and fruit pudding",
+          "ingredients": [
+            {
+              "key": "flour",
+              "amount": 113,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "Use the same weight of plain wheat flour; a gluten-free substitution needs its own tested formula."
+            },
+            {
+              "key": "suet",
+              "amount": 113,
+              "unit": "g",
+              "name": "food-grade beef suet, membrane removed and finely shredded",
+              "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check whether it contains wheat flour."
+            },
+            {
+              "key": "carrot",
+              "amount": 113,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "raisins",
+              "amount": 113,
+              "unit": "g",
+              "name": "seedless raisins",
+              "substitution": "Use the same weight of sultanas."
+            },
+            {
+              "key": "currants",
+              "amount": 113,
+              "unit": "g",
+              "name": "dried Zante currants",
+              "substitution": "Use the same weight of chopped raisins; these are dried grapes, not fresh currant berries."
+            },
+            {
+              "key": "sugar",
+              "amount": 227,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "eggs",
+              "amount": 1,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+            },
+            {
+              "key": "ale",
+              "amount": 70,
+              "unit": "ml",
+              "name": "ale",
+              "substitution": "Use the same volume of alcohol-free malt drink for a different flavor."
+            },
+            {
+              "key": "nutmeg",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground nutmeg",
+              "substitution": "Use the same amount of ground mace, or omit."
+            },
+            {
+              "key": "grease",
+              "amount": 5,
+              "unit": "g",
+              "name": "softened unsalted butter for the dish",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "swater",
+              "amount": 240,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "sbrandy",
+              "amount": 30,
+              "unit": "ml",
+              "name": "brandy for the sauce",
+              "substitution": "Use the same volume of apple juice for an alcohol-free sauce."
+            },
+            {
+              "key": "ssugar",
+              "amount": 200,
+              "unit": "g",
+              "name": "granulated sugar for the sauce",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "slemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice for the sauce",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "syolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks for the sauce",
+              "substitution": "Use 36 g pasteurized liquid egg yolk."
+            }
+          ],
+          "steps": [
+            "Heat the oven to 160°C (320°F). Grease a 1.5-liter baking dish with {{grease}}.",
+            "Mix {{flour}}, {{suet}}, {{raisins}}, {{currants}}, {{sugar}} and {{nutmeg}}. Finely grate {{carrot}} and stir in. Beat {{eggs}} and {{yolks}} with {{ale}}, then fold into the dry ingredients.",
+            "Spoon into the dish and bake for 75–100 minutes until firm in the center, a skewer shows no wet batter and the center reaches at least 71°C (160°F). Cover loosely with foil if the top darkens before the center is ready. Rest for 15 minutes.",
+            "For the sauce, put {{swater}}, {{sbrandy}}, {{ssugar}} and {{slemon}} in a heatproof bowl over a pan of gently simmering water, without the bowl touching the water. Stir until the sugar dissolves and the mixture is hot.",
+            "Beat {{syolks}} in another bowl. Gradually whisk in the hot liquid, a small amount at a time, then return everything to the heatproof bowl over the water. Stir continuously until it lightly coats a spoon and reaches at least 71°C (160°F), without boiling. Serve promptly. This is a light pouring sauce; it thickens slightly as it cools.",
+            "Serve warm with the sauce."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-26b132fe7689afe221d8c001",
+    "bodySha256": "550f432a8d37bf69c72303737fd7a89ce4927b7aff93887718bc6df3fc49897c",
+    "recipe": {
+      "id": "historical-26b132fe7689afe221d8c001",
+      "title": "Carrot-Almond Suet Pudding with Brandy Sauce",
+      "description": "Ground almonds, carrot and citrus peel make a rich steamed pudding with a firm, moist crumb and a sweet pouring sauce.",
+      "category": "Desserts",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 220,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 85,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "crumbs",
+          "amount": 85,
+          "unit": "g",
+          "name": "plain dry breadcrumbs",
+          "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+        },
+        {
+          "key": "mixedpeel",
+          "amount": 28,
+          "unit": "g",
+          "name": "candied orange and lemon peel, finely chopped",
+          "substitution": "Use the same weight of candied orange peel."
+        },
+        {
+          "key": "suet",
+          "amount": 85,
+          "unit": "g",
+          "name": "food-grade beef suet, membrane removed and finely shredded",
+          "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check whether it contains wheat flour."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "almond",
+          "amount": 227,
+          "unit": "g",
+          "name": "finely ground blanched almonds",
+          "substitution": "Use the same weight of finely ground sunflower seeds for a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 85,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "coatsugar",
+          "amount": 10,
+          "unit": "g",
+          "name": "caster sugar for coating the basin",
+          "substitution": "Use the same weight of fine granulated sugar."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "steamwater",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "hot drinking water for the steaming pan",
+          "substitution": "Use hot drinking water, topping up as needed during steaming."
+        },
+        {
+          "key": "swater",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sbrandy",
+          "amount": 30,
+          "unit": "ml",
+          "name": "brandy for the sauce",
+          "substitution": "Use the same volume of apple juice for an alcohol-free sauce."
+        },
+        {
+          "key": "ssugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar for the sauce",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "slemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice for the sauce",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "syolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks for the sauce",
+          "substitution": "Use 36 g pasteurized liquid egg yolk."
+        }
+      ],
+      "steps": [
+        "Grease a heatproof 1.5-liter pudding basin with {{grease}}. Put a trivet in a deep lidded pot and heat {{steamwater}} to a gentle simmer; the water should reach halfway up the filled basin, so adjust the level to suit the pot.",
+        "Swirl {{coatsugar}} around the greased basin to coat it. Finely grate {{carrot}}. Mix with {{crumbs}}, {{mixedpeel}}, {{suet}}, {{almond}} and {{sugar}}. Beat {{eggs}} and mix into the dry ingredients until evenly combined.",
+        "Spoon the mixture into the basin, leaving at least 3 cm room for expansion. Cover with a sheet of baking parchment and then foil, both pleated across the center. Tie securely below the rim with kitchen string and make a string handle.",
+        "Lower onto the trivet, cover the pot and maintain a gentle simmer for 3 hours. Check the water every 30 minutes and add boiling water as needed to keep it halfway up the basin; do not let the pan boil dry.",
+        "Carefully lift out using oven gloves and the handle. Open the cover away from your face. The center should be firm and a skewer should show no wet batter; for egg-containing puddings, also check at least 71°C (160°F). If still wet, re-cover and steam another 20–30 minutes, then check again. Rest for 10 minutes, loosen the edge and turn onto a warm plate.",
+        "For the sauce, put {{swater}}, {{sbrandy}}, {{ssugar}} and {{slemon}} in a heatproof bowl over a pan of gently simmering water, without the bowl touching the water. Stir until the sugar dissolves and the mixture is hot.",
+        "Beat {{syolks}} in another bowl. Gradually whisk in the hot liquid, a small amount at a time, then return everything to the heatproof bowl over the water. Stir continuously until it lightly coats a spoon and reaches at least 71°C (160°F), without boiling. Serve promptly. This is a light pouring sauce; it thickens slightly as it cools.",
+        "Serve warm with the sauce."
+      ],
+      "notes": "The large source formula is halved: six-ounce ingredients become 85 g, two ounces peel 28 g, one pound almonds 227 g and eight eggs become four. The undefined orange-and-lemon peel is interpreted as candied peel for this sweet pudding. Basin coating and sauce are fully quantified. Its almond-rich formula remains distinct from the flour-and-fruit pudding. Brandy sauce is a disclosed companion adapted from Greenbaum 1918; use apple juice if avoiding alcohol. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "An Easy and Economical Book of Jewish Cookery (1874), Estella Atrutel. https://archive.org/details/b2807967x SavorShelf measured adaptation. Sauce component: Greenbaum 1918, https://archive.org/details/cu31924003580952 . Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 220,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1510df002d00c2833e7233cb",
+    "bodySha256": "2f84c18f03de0ae4c0fc430c3739d5719b0018bc9bd88f1fcd3895c518888b33",
+    "recipe": {
+      "id": "historical-1510df002d00c2833e7233cb",
+      "title": "Spiced Carrot and Potato Pudding with Lemon Hard Sauce",
+      "description": "Cinnamon, cloves and allspice flavor a steamed carrot-and-potato pudding enriched with butter, dried fruit and whiskey.",
+      "category": "Desserts",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 280,
+      "ingredients": [
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "butter",
+          "amount": 76,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "carrot",
+          "amount": 110,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "potato",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled potato, finely grated immediately before mixing",
+          "substitution": "Use the same weight of another starchy white potato; do not rinse away its starch."
+        },
+        {
+          "key": "raisins",
+          "amount": 150,
+          "unit": "g",
+          "name": "seedless raisins",
+          "substitution": "Use the same weight of sultanas."
+        },
+        {
+          "key": "currants",
+          "amount": 150,
+          "unit": "g",
+          "name": "dried Zante currants",
+          "substitution": "Use the same weight of chopped raisins; these are dried grapes, not fresh currant berries."
+        },
+        {
+          "key": "crumbs",
+          "amount": 180,
+          "unit": "g",
+          "name": "finely grated fresh white breadcrumbs",
+          "substitution": "Use the same weight of fresh crumbs from another plain white wheat loaf."
+        },
+        {
+          "key": "soda",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "baking soda (bicarbonate of soda)",
+          "substitution": "Use the specified baking soda; baking powder is not an equal replacement."
+        },
+        {
+          "key": "cloves",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground cloves",
+          "substitution": "Use half the amount for a milder spice flavor."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half the amount of ground allspice for a different flavor."
+        },
+        {
+          "key": "allspice",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground allspice",
+          "substitution": "Use half the amount of ground nutmeg for a different flavor."
+        },
+        {
+          "key": "syrup",
+          "amount": 30,
+          "unit": "g",
+          "name": "golden syrup",
+          "substitution": "Use the same weight of mild molasses for a darker flavor."
+        },
+        {
+          "key": "whiskey",
+          "amount": 60,
+          "unit": "ml",
+          "name": "whiskey",
+          "substitution": "Use the same volume of apple juice for an alcohol-free ingredient choice."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "steamwater",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "hot drinking water for the steaming pan",
+          "substitution": "Use hot drinking water, topping up as needed during steaming."
+        },
+        {
+          "key": "hsugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "caster sugar for the hard sauce",
+          "substitution": "Use the same weight of superfine granulated sugar."
+        },
+        {
+          "key": "hbutter",
+          "amount": 113,
+          "unit": "g",
+          "name": "softened unsalted butter for the hard sauce",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "hzest",
+          "amount": 3,
+          "unit": "g",
+          "name": "finely grated lemon zest, without white pith",
+          "substitution": "Use the same weight of orange zest for a different flavor."
+        }
+      ],
+      "steps": [
+        "Grease a heatproof 2-liter pudding basin with {{grease}}. Put a trivet in a deep lidded pot and heat {{steamwater}} to a gentle simmer; the water should reach halfway up the filled basin, so adjust the level to suit the pot.",
+        "Beat softened {{butter}} with {{sugar}}. Finely grate {{carrot}} and add with freshly grated {{potato}}, retaining their juices. Stir in {{raisins}}, {{currants}}, {{crumbs}}, {{soda}}, {{cloves}}, {{cinnamon}}, {{allspice}}, {{syrup}} and {{whiskey}} until evenly combined.",
+        "Spoon the mixture into the basin, leaving at least 3 cm room for expansion. Cover with a sheet of baking parchment and then foil, both pleated across the center. Tie securely below the rim with kitchen string and make a string handle.",
+        "Lower onto the trivet, cover the pot and maintain a gentle simmer for 4 hours. Check the water every 30 minutes and add boiling water as needed to keep it halfway up the basin; do not let the pan boil dry.",
+        "Carefully lift out using oven gloves and the handle. Open the cover away from your face. The center should be firm and a skewer should show no wet batter; for egg-containing puddings, also check at least 71°C (160°F). If still wet, re-cover and steam another 20–30 minutes, then check again. Rest for 10 minutes, loosen the edge and turn onto a warm plate.",
+        "For the hard sauce, beat {{hbutter}} with {{hsugar}} for 5–8 minutes until pale and creamy, scraping the bowl. Beat in {{hzest}}. Spoon into a small dish and chill until firm; serve small spoonfuls beside the warm pudding. The fine sugar gives this traditional butter sauce a slight granular texture.",
+        "Serve small slices of the warm pudding with the chilled hard sauce."
+      ],
+      "notes": "Cup measurements become modern preparation weights; breadcrumbs are specified as fresh. A little syrup becomes 30 g golden syrup and four tablespoons whiskey become 60 ml. The full hard sauce is recovered from the same book and included here. Source spice amounts and four-hour steaming are retained. Cooking does not guarantee all alcohol has evaporated; choose apple juice if avoiding it. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 280,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-2a6b70cd7a122a52fdf3307a",
+    "bodySha256": "51242a9018a4e24107c9d548915553a8937b5bd4ed0ae6a9f9cd39b8eea4dcbb",
+    "recipe": {
+      "id": "historical-2a6b70cd7a122a52fdf3307a",
+      "title": "Carrot-Almond Egg Pudding",
+      "description": "Whipped egg whites lighten a sweet baked carrot-and-almond pudding scented with lemon and a little white wine.",
+      "category": "Desserts",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 105,
+      "ingredients": [
+        {
+          "key": "icing",
+          "amount": 180,
+          "unit": "g",
+          "name": "powdered sugar (icing sugar), sifted",
+          "substitution": "Use the same weight of another plain icing sugar."
+        },
+        {
+          "key": "eggs",
+          "amount": 8,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+        },
+        {
+          "key": "carrot",
+          "amount": 165,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "almond",
+          "amount": 100,
+          "unit": "g",
+          "name": "finely ground blanched almonds",
+          "substitution": "Use the same weight of finely ground sunflower seeds for a different flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "finely grated lemon zest, without white pith",
+          "substitution": "Use the same weight of orange zest for a different flavor."
+        },
+        {
+          "key": "wine",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine",
+          "substitution": "Use the same volume of apple juice if avoiding alcohol."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "coatflour",
+          "amount": 10,
+          "unit": "g",
+          "name": "all-purpose flour for the pan",
+          "substitution": "Use the same weight of rice flour for coating."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 150°C (300°F). Grease a 23 cm round, deep baking dish with {{grease}} and dust with {{coatflour}}, tapping out excess. Finely grate {{carrot}}.",
+        "Separate {{eggs}} into clean bowls. Beat the yolks with {{icing}} for 4–5 minutes until thick and pale. Stir in the carrot, {{almond}}, {{zest}} and {{wine}}.",
+        "With clean beaters, whip the egg whites to soft peaks. Fold one-third into the carrot mixture to loosen it, then gently fold in the rest. Pour into the prepared dish.",
+        "Bake for 60–75 minutes until set, lightly browned and at least 71°C (160°F) in the center. Avoid opening the oven early. Rest for 15 minutes before serving in the dish; some settling is normal."
+      ],
+      "notes": "Modern cup weights are 120 g per cup powdered sugar, 110 g per cup grated carrot and 100 g per cup ground almonds. The eight separated eggs are retained. Pan preparation, temperature and doneness are supplied. This is a baked egg pudding, not a flour-based carrot cake. Alcohol may remain unless the apple-juice substitution is used. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 105,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-a825153ab8eb9c03bac6fdd3",
+    "bodySha256": "cac1ce531fbfb1055906dd8df7a98b6e01579d1bfb8f50db11176f762e754add",
+    "recipe": {
+      "id": "historical-a825153ab8eb9c03bac6fdd3",
+      "title": "Carrot Schalet with Cinnamon",
+      "description": "Cooked grated carrots bake with eggs, chicken fat and lemon into a light, gently sweet pudding with a cinnamon-sugar top.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 125,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 454,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "fat",
+          "amount": 20,
+          "unit": "g",
+          "name": "rendered chicken fat (schmaltz), softened",
+          "substitution": "Use the same weight of neutral vegetable oil for a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+        },
+        {
+          "key": "zest",
+          "amount": 6,
+          "unit": "g",
+          "name": "finely grated lemon zest, without white pith",
+          "substitution": "Use the same weight of orange zest for a different flavor."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half the amount of ground allspice for a different flavor."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace, or omit."
+        },
+        {
+          "key": "flour",
+          "amount": 24,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain wheat flour; a gluten-free substitution needs its own tested formula."
+        },
+        {
+          "key": "bakingpowder",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "baking powder",
+          "substitution": "Use the same amount of another plain baking powder."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "panfat",
+          "amount": 25,
+          "unit": "g",
+          "name": "rendered chicken fat for the dish",
+          "substitution": "Use the same weight of neutral vegetable oil."
+        },
+        {
+          "key": "topsugar",
+          "amount": 10,
+          "unit": "g",
+          "name": "granulated sugar for topping",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "topcinnamon",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground cinnamon for topping",
+          "substitution": "Omit for a milder topping."
+        }
+      ],
+      "steps": [
+        "Put {{carrot}} whole in a saucepan with {{water}}. Simmer for 20–30 minutes until tender. Drain, spread on a shallow plate and cool until no longer warm, then grate.",
+        "Heat the oven to 175°C (350°F). Separate {{eggs}}. Beat {{fat}} with {{sugar}}, then beat in the yolks one at a time. Stir in the carrot, {{zest}}, {{cinnamon}}, {{nutmeg}}, {{flour}}, {{bakingpowder}} and {{salt}}.",
+        "Using clean beaters, whip the whites to soft peaks and fold into the carrot mixture. Put {{panfat}} in a 1.5-liter metal or ceramic oven-safe dish and warm in the oven for 3 minutes, just until melted. Carefully swirl to coat.",
+        "Pour in the mixture and bake for 45–60 minutes until set and at least 71°C (160°F) in the center. Mix {{topsugar}} and {{topcinnamon}}, sprinkle over the pudding and return to the oven for 3–5 minutes. Serve hot."
+      ],
+      "notes": "A heaped spoon of chicken fat becomes 20 g; the few spoons of fat for the dish are moderated to 25 g. Three tablespoons flour become 24 g and four tablespoons sugar 50 g. The four yolks and their beaten whites remain part of the same four eggs. Separate topping quantities complete the final instruction. No dairy ingredients are introduced. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 125,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e150f13566f6fc57db8fa53b",
+    "bodySha256": "f13edc1461455cd5d09d4a0ac606092653d173f8b620ca89647fe56412e52c2f",
+    "recipe": {
+      "id": "historical-e150f13566f6fc57db8fa53b",
+      "title": "Carrot and Dried-Fruit Pudding",
+      "description": "Cooked carrot purée moistens a breadcrumb-and-suet pudding with raisins, currants and nutmeg, served steamed or baked.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 235,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 340,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "crumbs",
+          "amount": 227,
+          "unit": "g",
+          "name": "plain dry breadcrumbs",
+          "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+        },
+        {
+          "key": "suet",
+          "amount": 113,
+          "unit": "g",
+          "name": "food-grade beef suet, membrane removed and finely shredded",
+          "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check whether it contains wheat flour."
+        },
+        {
+          "key": "raisins",
+          "amount": 113,
+          "unit": "g",
+          "name": "seedless raisins",
+          "substitution": "Use the same weight of sultanas."
+        },
+        {
+          "key": "currants",
+          "amount": 113,
+          "unit": "g",
+          "name": "dried Zante currants",
+          "substitution": "Use the same weight of chopped raisins; these are dried grapes, not fresh currant berries."
+        },
+        {
+          "key": "sugar",
+          "amount": 85,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "eggs",
+          "amount": 3,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace, or omit."
+        },
+        {
+          "key": "dustsugar",
+          "amount": 10,
+          "unit": "g",
+          "name": "powdered sugar for serving",
+          "substitution": "Use the same weight of caster sugar for a different finish."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "steamwater",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "hot drinking water for the steaming pan",
+          "substitution": "Use hot drinking water, topping up as needed during steaming."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into small pieces. Simmer in {{water}} for 15–20 minutes until very tender. Drain thoroughly, mash smoothly and spread in a shallow bowl to cool until no longer warm.",
+        "Grease a heatproof 2-liter pudding basin with {{grease}}. Put a trivet in a deep lidded pot and heat {{steamwater}} to a gentle simmer; the water should reach halfway up the filled basin, so adjust the level to suit the pot.",
+        "Mix {{crumbs}}, {{suet}}, {{raisins}}, {{currants}}, {{sugar}} and {{nutmeg}}. Beat {{eggs}} with {{milk}} and stir in with the cooled carrot mash to make a thick batter.",
+        "Spoon the mixture into the basin, leaving at least 3 cm room for expansion. Cover with a sheet of baking parchment and then foil, both pleated across the center. Tie securely below the rim with kitchen string and make a string handle.",
+        "Lower onto the trivet, cover the pot and maintain a gentle simmer for 2½ hours. Check the water every 30 minutes and add boiling water as needed to keep it halfway up the basin; do not let the pan boil dry.",
+        "Carefully lift out using oven gloves and the handle. Open the cover away from your face. The center should be firm and a skewer should show no wet batter; for egg-containing puddings, also check at least 71°C (160°F). If still wet, re-cover and steam another 20–30 minutes, then check again. Rest for 10 minutes, loosen the edge and turn onto a warm plate.",
+        "Dust with {{dustsugar}} and serve warm."
+      ],
+      "notes": "The source weight ratios are retained using rounded grams. Undefined milk becomes 120 ml; a quarter nutmeg is moderated to ⅛ teaspoon ground nutmeg. The original cloth-covered boil becomes a securely covered basin steamed in a lidded pot. A full baked version preserves the other source method. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 235,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "baked",
+          "label": "Baked carrot and dried-fruit pudding",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 340,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "crumbs",
+              "amount": 227,
+              "unit": "g",
+              "name": "plain dry breadcrumbs",
+              "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+            },
+            {
+              "key": "suet",
+              "amount": 113,
+              "unit": "g",
+              "name": "food-grade beef suet, membrane removed and finely shredded",
+              "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check whether it contains wheat flour."
+            },
+            {
+              "key": "raisins",
+              "amount": 113,
+              "unit": "g",
+              "name": "seedless raisins",
+              "substitution": "Use the same weight of sultanas."
+            },
+            {
+              "key": "currants",
+              "amount": 113,
+              "unit": "g",
+              "name": "dried Zante currants",
+              "substitution": "Use the same weight of chopped raisins; these are dried grapes, not fresh currant berries."
+            },
+            {
+              "key": "sugar",
+              "amount": 85,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "eggs",
+              "amount": 3,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+            },
+            {
+              "key": "milk",
+              "amount": 120,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+            },
+            {
+              "key": "nutmeg",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground nutmeg",
+              "substitution": "Use the same amount of ground mace, or omit."
+            },
+            {
+              "key": "dustsugar",
+              "amount": 10,
+              "unit": "g",
+              "name": "powdered sugar for serving",
+              "substitution": "Use the same weight of caster sugar for a different finish."
+            },
+            {
+              "key": "grease",
+              "amount": 5,
+              "unit": "g",
+              "name": "softened unsalted butter for the dish",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into small pieces. Simmer in {{water}} for 15–20 minutes until very tender. Drain thoroughly, mash smoothly and spread in a shallow bowl to cool until no longer warm.",
+            "Heat the oven to 175°C (350°F). Grease a 2-liter baking dish with {{grease}}.",
+            "Mix {{crumbs}}, {{suet}}, {{raisins}}, {{currants}}, {{sugar}} and {{nutmeg}}. Beat {{eggs}} with {{milk}} and stir in with the cooled carrot mash to make a thick batter.",
+            "Spread the batter in the dish and bake for 55–75 minutes until firm in the center, a skewer shows no wet batter and the center reaches at least 71°C (160°F). Cover loosely with foil if browning too quickly. Rest for 15 minutes, dust with {{dustsugar}} and serve in the dish."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-d1b8b160b6be9a27001daff6",
+    "bodySha256": "d05af3f53fa5ee0a4dfc9d9c484baae6b356f4b3fd2c40b32f45ac3068bdbd6b",
+    "recipe": {
+      "id": "historical-d1b8b160b6be9a27001daff6",
+      "title": "Möhrenkoch (Rich Carrot and Egg Pudding)",
+      "description": "Finely grated carrot is cooked with a little egg, then baked with more egg, butter and soaked bread into a rich Austrian pudding.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 105,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 250,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "firstegg",
+          "amount": 62.5,
+          "unit": "g",
+          "name": "beaten whole egg for cooking with the carrots",
+          "substitution": "Use the same weight of pasteurized liquid whole egg."
+        },
+        {
+          "key": "secondegg",
+          "amount": 137.5,
+          "unit": "g",
+          "name": "beaten whole egg for the pudding mixture",
+          "substitution": "Use the same weight of pasteurized liquid whole egg."
+        },
+        {
+          "key": "yolkweight",
+          "amount": 45,
+          "unit": "g",
+          "name": "beaten pasteurized egg yolk",
+          "substitution": "Use the same weight of pasteurized liquid egg yolk."
+        },
+        {
+          "key": "butter",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "roll",
+          "amount": 35,
+          "unit": "g",
+          "name": "plain white bread roll, crust removed",
+          "substitution": "Use the same weight of plain white bread."
+        },
+        {
+          "key": "milk",
+          "amount": 100,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "sugar",
+          "amount": 85,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 150°C (300°F). Grease a 1-liter baking dish with {{grease}}. Tear {{roll}} into pieces and soak in {{milk}} for 10 minutes, then squeeze gently over a bowl; discard the excess soaking milk.",
+        "Finely grate {{carrot}}. Put in a nonstick pan over medium-low heat and stir for 8–12 minutes until softened and visible surface moisture has evaporated; do not brown. Add {{firstegg}} and stir until fully set and at least 71°C (160°F). Spread in a shallow bowl and cool until no longer warm.",
+        "Beat the cooled carrot mixture until smooth. Beat in melted and cooled {{butter}}, followed gradually by {{secondegg}}, {{yolkweight}}, the squeezed bread and {{sugar}}. Beat for 3–5 minutes until evenly combined.",
+        "Pour into the prepared dish and bake for 45–60 minutes until set and at least 71°C (160°F) in the center. If the top darkens early, cover loosely with foil. Rest for 15 minutes and serve warm, or cool promptly and refrigerate before serving cold."
+      ],
+      "notes": "The original scan confirms five whole eggs cooked with carrot, followed by eleven whole eggs and ten yolks: these are not fraction errors. This modern smaller version uses one-quarter of those egg quantities by weight, assuming 50 g per whole egg and 18 g per yolk; weigh the two whole-egg portions from 200 g beaten egg. Missing carrot, butter and bread amounts are supplied. Sugar is a chosen 85 g modern amount, not a verified conversion of the Austrian historical pound. Fifteen-minute hand mixing becomes 3–5 minutes of beating. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Allgemeines österreichisches oder neuestes Wiener Kochbuch (1825), Anna Dorn. https://archive.org/details/b21525936 SavorShelf measured adaptation. Primary scan checked: Anna Dorn 1825, recipe 517, printed page 230, leaf 312. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 105,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-85eea8c7cdd6303e65c520a1",
+    "bodySha256": "c705cfa3ec54ff015edda5f71566a6c234bc851675da41cae49b65a61fca13e6",
+    "recipe": {
+      "id": "historical-85eea8c7cdd6303e65c520a1",
+      "title": "Carrot Custard Meringue Pie",
+      "description": "A light carrot-and-vanilla custard fills a crisp pastry shell beneath a softly browned meringue topping.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "pastryflour",
+          "amount": 200,
+          "unit": "g",
+          "name": "all-purpose flour for the crust",
+          "substitution": "Use the same weight of plain wheat pastry flour."
+        },
+        {
+          "key": "pastrybutter",
+          "amount": 100,
+          "unit": "g",
+          "name": "cold unsalted butter, diced",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative suitable for pastry."
+        },
+        {
+          "key": "pastrywater",
+          "amount": 45,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "pastrysalt",
+          "amount": 1.5,
+          "unit": "g",
+          "name": "fine salt for the crust",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "dustflour",
+          "amount": 10,
+          "unit": "g",
+          "name": "all-purpose flour for rolling",
+          "substitution": "Use a small amount of rice flour for dusting."
+        },
+        {
+          "key": "carrot",
+          "amount": 85,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+        },
+        {
+          "key": "whites",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg whites",
+          "substitution": "Use pasteurized shell eggs whose whites can whip; liquid products must be labeled suitable for whipping."
+        },
+        {
+          "key": "butter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "cornflour",
+          "amount": 16,
+          "unit": "g",
+          "name": "cornstarch (cornflour)",
+          "substitution": "Use the same weight of arrowroot starch, adding it near the end and heating just until thickened."
+        },
+        {
+          "key": "vanilla",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "vanilla extract",
+          "substitution": "Use the same volume of vanilla bean paste."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        }
+      ],
+      "steps": [
+        "Mix {{pastryflour}} with {{pastrysalt}}. Rub in {{pastrybutter}} until the mixture resembles coarse crumbs. Add {{pastrywater}} and bring together without kneading, adding water a teaspoon at a time only if dry. Flatten into a disc, wrap and refrigerate for 30 minutes.",
+        "Heat the oven to 190°C (375°F). Roll the chilled pastry on {{dustflour}} to about 3 mm thick and line a 23 cm pie dish. Trim, prick the base, line with baking parchment and fill with reusable baking weights.",
+        "Bake for 15 minutes. Carefully remove the parchment and weights, then bake for 10–15 minutes until the shell is dry and lightly golden. Leave in the dish.",
+        "Finely grate {{carrot}}. Put in a small pan with {{water|0.75}}, cover and simmer for 10–15 minutes until very soft. Mash finely, keeping the cooking liquid.",
+        "Mix {{cornflour}} with {{water|0.25}} until smooth. Stir into the hot carrot along with {{sugar|0.625}} and {{salt}}. Bring to a gentle boil, stirring constantly, and cook for 1 minute until thickened.",
+        "Beat {{yolks}} in a bowl. Gradually whisk in a few spoonfuls of hot filling, then return everything to the pan. Stir over low heat until at least 71°C (160°F), without boiling. Remove from heat and stir in {{butter}} and {{vanilla}}. Spread in the prepared base.",
+        "Put {{whites}} and {{sugar|0.375}} in a clean heatproof bowl over gently simmering water, with the bowl above the water. Whisk constantly until the sugar dissolves and the mixture reaches 71°C (160°F). Remove from the pan and beat with clean electric beaters until glossy, stiff peaks form.",
+        "Spread the meringue over the filling to meet the edges. Bake at 190°C (375°F) for 5–8 minutes until the tips are lightly golden. Watch closely to avoid burning. Cool on a rack, refrigerate within 2 hours and chill for at least 2 hours before slicing."
+      ],
+      "notes": "The two records reproduce the same sugar, carrot, water, egg, butter and cornstarch formula; the shorter transcription omits the longer record’s whipped-white topping instruction. The original two eggs are separated into two yolks and two whites. The 200 g sugar is deliberately divided: 125 g for custard and 75 g for a cooked meringue. Full pastry, custard cooking and chilled setting replace the reference to lemon pie. The source alternative of a light-cake bottom is retained as a named variation. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Equivalent source retained: Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-766e9276ce31eb044df43436"
+      ],
+      "variants": [
+        {
+          "id": "cake-base",
+          "label": "Carrot custard on a light cake base",
+          "ingredients": [
+            {
+              "key": "cake",
+              "amount": 220,
+              "unit": "g",
+              "name": "prepared plain sponge cake, sliced into a 2 cm-thick layer",
+              "substitution": "Use the same weight of plain prepared angel-food cake for a lighter base."
+            },
+            {
+              "key": "carrot",
+              "amount": 85,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 240,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "sugar",
+              "amount": 200,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+            },
+            {
+              "key": "whites",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg whites",
+              "substitution": "Use pasteurized shell eggs whose whites can whip; liquid products must be labeled suitable for whipping."
+            },
+            {
+              "key": "butter",
+              "amount": 15,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "cornflour",
+              "amount": 16,
+              "unit": "g",
+              "name": "cornstarch (cornflour)",
+              "substitution": "Use the same weight of arrowroot starch, adding it near the end and heating just until thickened."
+            },
+            {
+              "key": "vanilla",
+              "amount": 2.5,
+              "unit": "ml",
+              "name": "vanilla extract",
+              "substitution": "Use the same volume of vanilla bean paste."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            }
+          ],
+          "steps": [
+            "Arrange {{cake}} in the bottom of a 23 cm oven-safe pie dish, trimming and fitting the pieces into an even layer. Heat the oven to 190°C (375°F).",
+            "Finely grate {{carrot}}. Put in a small pan with {{water|0.75}}, cover and simmer for 10–15 minutes until very soft. Mash finely, keeping the cooking liquid.",
+            "Mix {{cornflour}} with {{water|0.25}} until smooth. Stir into the hot carrot along with {{sugar|0.625}} and {{salt}}. Bring to a gentle boil, stirring constantly, and cook for 1 minute until thickened.",
+            "Beat {{yolks}} in a bowl. Gradually whisk in a few spoonfuls of hot filling, then return everything to the pan. Stir over low heat until at least 71°C (160°F), without boiling. Remove from heat and stir in {{butter}} and {{vanilla}}. Spread in the prepared base.",
+            "Put {{whites}} and {{sugar|0.375}} in a clean heatproof bowl over gently simmering water, with the bowl above the water. Whisk constantly until the sugar dissolves and the mixture reaches 71°C (160°F). Remove from the pan and beat with clean electric beaters until glossy, stiff peaks form.",
+            "Spread the meringue over the filling to meet the edges. Bake at 190°C (375°F) for 5–8 minutes until the tips are lightly golden. Watch closely to avoid burning. Cool on a rack, refrigerate within 2 hours and chill for at least 2 hours before slicing."
+          ]
+        }
+      ]
+    }
   }
 ]
