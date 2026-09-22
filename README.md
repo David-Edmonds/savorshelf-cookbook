@@ -1,3 +1,7 @@
+# Recipe content batch 035 — September 22, 2026
+
+Three Hungarian adaptations complete whipped aspic-and-oil sauce, cooked mayonnaise and cold pike-perch with cooked-yolk sauce. Full aspic, braising, chilling and pastry-garnish alternatives are supplied. Historical coffee-glass and ladle measures are distinguished from modern working amounts. Totals: 40,822 imported recipes, 457 completed adaptations, 40,365 remaining content repairs and 42,274 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 034 — September 22, 2026
 
 Six adaptations complete Picayune and Creole mayonnaise, celery salad, chicken salad, crab salad and salmon with milk sauce. Full cooking, garnishes, homemade-mayonnaise portions and mustard/egg-yolk alternatives are supplied. Two repeated source records are consolidated with old IDs and credits retained. Totals: 40,822 imported recipes, 454 completed adaptations, 40,368 remaining content repairs and 42,274 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.

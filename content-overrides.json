@@ -43173,5 +43173,401 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-96a11332db59d40eb169d287",
+    "bodySha256": "ee5cc37eed1441fc003277f7f225a83f8561b13da28cd955b4c831abfd6efd05",
+    "recipe": {
+      "id": "historical-96a11332db59d40eb169d287",
+      "title": "Hungarian Majonéz — Whipped Aspic and Oil Sauce",
+      "description": "Clear savory jelly is whisked with olive oil, lemon and vinegar into a pale coating for chilled cooked foods.",
+      "category": "Condiments",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "stock",
+          "amount": 200,
+          "unit": "ml",
+          "name": "clear unsalted chicken stock",
+          "substitution": "Use the same volume of clear unsalted fish or vegetable stock."
+        },
+        {
+          "key": "gelatin",
+          "amount": 5,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the same weight of fish gelatin of similar setting strength; agar needs a different formula."
+        },
+        {
+          "key": "oil",
+          "amount": 75,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Put {{stock|0.25}} in a small bowl, sprinkle {{gelatin}} evenly over it and leave for 5 minutes. Heat {{stock|0.75}} until steaming, remove from heat and stir in the bloomed gelatin until fully dissolved. This supplies the melted aspic required by the original.",
+        "Transfer the liquid aspic to a clean stainless-steel or glass bowl. Whisk in {{pepper}}, {{lemon}} and {{vinegar}}, then gradually add {{oil}} in a thin stream while whisking. Stand the bowl over ice water and continue whisking until pale, glossy and thick enough to spread. Keep ice water out of the sauce and remove the bowl from the bath before the mixture sets solid.",
+        "Use while still soft to coat already-cooked, thoroughly chilled fish, poultry or vegetables. The sauce firms as the gelatin cools. If it becomes too firm before spreading, stand the bowl briefly over lukewarm water and stir to loosen; do not make it hot.",
+        "Keep the sauce or coated food covered at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation. This is a refrigerated fresh sauce, not a shelf-stable preserve."
+      ],
+      "notes": "Original recipe 134 uses two coffee cups melted aspic and one small coffee cup oil. Those historical cup capacities are unspecified; 200 ml stock, 5 g modern gelatin and 75 ml oil are explicit working quantities, not verified cup conversions. Lemon, pepper, ten small condiment servings and time are supplied; a modern tablespoon vinegar becomes 15 ml. The complete aspic formula is included. Stainless steel or glass replaces the original brass bowl. The source gives serving examples with cold poultry, fish and calf brain; this entry is the standalone sauce. Its whipped texture depends on gelatin strength and temperature and has not been kitchen-tested. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Képes budapesti szakácskönyv (1901), Rézi néni. https://archive.org/details/b28112982 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-48f3e3376f148c9de1d7e0dc",
+    "bodySha256": "2e2eb14d0b71ce9b3605182622b4fc0ab28e25162613bbd7bacbe4e136adbc1e",
+    "recipe": {
+      "id": "historical-48f3e3376f148c9de1d7e0dc",
+      "title": "Majonéz Új Módon — Hungarian Cooked Mayonnaise",
+      "description": "Egg yolks, olive oil and wine vinegar are whisked over hot water into a tangy cooked sauce, then cooled while stirring.",
+      "category": "Condiments",
+      "servings": 20,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 8,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 120,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 120,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}}, {{oil}}, {{vinegar}}, {{lemon}} and {{salt}} together in a heatproof bowl until evenly blended and lightly foamy.",
+        "Set the bowl over gently simmering water, keeping its base above the water. Whisk continuously, reaching the edges of the bowl, until the mixture thickens and reaches 71°C (160°F). Lift the bowl off the heat as soon as it reaches that temperature; do not let the sauce boil or the eggs scramble.",
+        "Set the bowl over cold water and stir until completely cool, keeping the cooling water out of the sauce. Serve as a sharp condiment with cooked chilled foods.",
+        "Transfer to a clean covered container and refrigerate at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation. Stir before serving."
+      ],
+      "notes": "The full source recipe 327 specifies eight yolks, eight tablespoons oil and eight tablespoons fine wine vinegar with lemon juice. Modern 15 ml tablespoons give 120 ml each oil and vinegar. Lemon juice has no separate source quantity; 15 ml is an explicit modern addition, rather than silently replacing part of the stated vinegar. Half a teaspoon salt, twenty small condiment servings and thirty-five minutes including cooling are estimates. The source fifteen-minute claim is not a guaranteed preparation time. Its high vinegar proportion is retained; this is a distinctly sharp cooked sauce. Temperature checking is a modern addition. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Képes budapesti szakácskönyv (1901), Rézi néni. https://archive.org/details/b28112982 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Egg-dish cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-30255a4221e32ed7d039e257",
+    "bodySha256": "14dfc8302604676ede176158a3cc45cbb0a1478108f4a5f37577d90670d4f9dd",
+    "recipe": {
+      "id": "historical-30255a4221e32ed7d039e257",
+      "title": "Süllő Majonézzel — Cold Pike-Perch with Yolk Sauce",
+      "description": "Butter-braised pike-perch steaks are chilled and arranged in a ring with a cooked-yolk sauce and chopped savory jelly.",
+      "category": "Fish",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 180,
+      "ingredients": [
+        {
+          "key": "fish",
+          "amount": 1500,
+          "unit": "g",
+          "name": "cleaned pike-perch or zander, cut by the fishmonger into steaks about 3 cm thick",
+          "substitution": "Use the same weight of another firm white fish cut into similar pieces; cook to the same internal temperature."
+        },
+        {
+          "key": "butter",
+          "amount": 40,
+          "unit": "g",
+          "name": "unsalted butter for braising",
+          "substitution": "Use the same weight of a dairy-free cooking spread."
+        },
+        {
+          "key": "braisewater",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "stock",
+          "amount": 285,
+          "unit": "ml",
+          "name": "clear unsalted fish stock for the aspic",
+          "substitution": "Use the same volume of clear unsalted vegetable stock."
+        },
+        {
+          "key": "gelatin",
+          "amount": 7,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the same weight of fish gelatin of similar setting strength."
+        },
+        {
+          "key": "bloomwater",
+          "amount": 35,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "sauceaspic",
+          "amount": 60,
+          "unit": "ml",
+          "name": "liquid aspic reserved from the batch below; not an additional purchase",
+          "substitution": "Use the complete pastry-garnish variation if less jelly is wanted."
+        },
+        {
+          "key": "oil",
+          "amount": 100,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 20,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Sprinkle {{gelatin}} over {{bloomwater}} and leave for 5 minutes. Heat {{stock}} until steaming, remove from heat and stir in the bloomed gelatin until dissolved. Measure {{sauceaspic}} from this liquid mixture into a small covered bowl for the sauce. Pour the remainder into a shallow dish, cover and refrigerate for about 2 hours until set. Keep the reserved sauce portion refrigerated too; it will be gently melted later.",
+        "Pat {{fish}} dry and season with {{salt}} and {{pepper}}. Melt {{butter}} in a wide covered pan over gentle heat. Arrange the fish in one layer, add {{braisewater}}, cover and cook gently for about 15–20 minutes, until the thickest flesh reaches 63°C (145°F). Work in batches if needed, dividing the measured butter and water among the batches.",
+        "Lift out the cooked fish and drain. Spread the pieces in a shallow covered container and refrigerate promptly, within 2 hours of cooking, until cold, about 45–60 minutes. Keep the pieces intact where possible.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolks and press them through a fine sieve into a clean bowl. Refrigerate the cooked whites separately for another dish within 2 days. Gently melt the reserved sauce aspic by standing its bowl in lukewarm water, then let it cool until barely warm and still liquid.",
+        "Whisk {{oil}} into the sieved yolks in a thin stream. Gradually whisk in {{lemon}}, {{vinegar}} and the measured reserved aspic until smooth. Stand the bowl over cold water and stir just until the sauce is thick enough to spread; keep water out and do not let it set solid.",
+        "Arrange the cold fish steaks in a ring on a chilled platter and spoon the yolk sauce over them. Chop the set garnish jelly finely and arrange around the rim. Keep refrigerated until serving. Check the fish carefully for bones as you portion it; discard all bones.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The source recipe 349 gives about 1.5 kg fish, four cooked yolks, one coffee glass of oil, juice from a small lemon, a serving-spoon or ladle quantity of aspic, and a little vinegar. The translated standard cup and tablespoon are not verified source measures. This adaptation chooses 100 ml oil, 20 ml lemon, 60 ml liquid aspic and 10 ml vinegar explicitly, with complete gelatin preparation. Butter, seasoning, a small braising-water addition, six servings and timing are modern working choices. The water helps the covered fish cook gently without scorching the butter. The source permits chopped aspic or small pastry shapes around the rim; both are retained. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The pastry variation uses modern ready-rolled puff pastry as the chosen small pastry garnish and reduces the aspic to the sauce portion only. The original does not specify a pastry dough formula.",
+      "source": "Képes budapesti szakácskönyv (1901), Rézi néni. https://archive.org/details/b28112982 SavorShelf measured adaptation. Fish cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 180,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "pastry-garnish",
+          "label": "With small pastry shapes",
+          "ingredients": [
+            {
+              "key": "fish",
+              "amount": 1500,
+              "unit": "g",
+              "name": "cleaned pike-perch or zander, cut by the fishmonger into steaks about 3 cm thick",
+              "substitution": "Use the same weight of another firm white fish cut into similar pieces; cook to the same internal temperature."
+            },
+            {
+              "key": "butter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter for braising",
+              "substitution": "Use the same weight of a dairy-free cooking spread."
+            },
+            {
+              "key": "braisewater",
+              "amount": 60,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "stock",
+              "amount": 52.5,
+              "unit": "ml",
+              "name": "clear unsalted fish stock for the aspic",
+              "substitution": "Use the same volume of clear unsalted vegetable stock."
+            },
+            {
+              "key": "gelatin",
+              "amount": 1.5,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the same weight of fish gelatin of similar setting strength."
+            },
+            {
+              "key": "bloomwater",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "sauceaspic",
+              "amount": 60,
+              "unit": "ml",
+              "name": "liquid aspic reserved from the batch below; not an additional purchase",
+              "substitution": "Use the complete pastry-garnish variation if less jelly is wanted."
+            },
+            {
+              "key": "oil",
+              "amount": 100,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 20,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 10,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "pastry",
+              "amount": 150,
+              "unit": "g",
+              "name": "ready-rolled puff pastry, kept chilled",
+              "substitution": "Use the same weight of ready-rolled gluten-free puff pastry and follow its baking instructions."
+            }
+          ],
+          "steps": [
+            "Sprinkle {{gelatin}} over {{bloomwater}} and leave for 5 minutes. Heat {{stock}} until steaming, remove from heat and stir in the bloomed gelatin until dissolved. Measure {{sauceaspic}} from this small batch into a covered bowl and refrigerate for the sauce; no separate garnish jelly is needed.",
+            "Heat the oven to 200°C (390°F). Cut {{pastry}} into small rings or decorative shapes about 4 cm across. Arrange on a lined baking tray and bake for about 12–18 minutes, until puffed, golden and cooked through, following the pastry package if its directions differ. Cool on a rack.",
+            "Pat {{fish}} dry and season with {{salt}} and {{pepper}}. Melt {{butter}} in a wide covered pan over gentle heat. Arrange the fish in one layer, add {{braisewater}}, cover and cook gently for about 15–20 minutes, until the thickest flesh reaches 63°C (145°F). Work in batches if needed, dividing the measured butter and water among the batches.",
+            "Lift out the cooked fish and drain. Spread the pieces in a shallow covered container and refrigerate promptly, within 2 hours of cooking, until cold, about 45–60 minutes. Keep the pieces intact where possible.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the firm cooked yolks and press them through a fine sieve into a clean bowl. Refrigerate the cooked whites separately for another dish within 2 days. Gently melt the reserved sauce aspic by standing its bowl in lukewarm water, then let it cool until barely warm and still liquid.",
+            "Whisk {{oil}} into the sieved yolks in a thin stream. Gradually whisk in {{lemon}}, {{vinegar}} and the measured reserved aspic until smooth. Stand the bowl over cold water and stir just until the sauce is thick enough to spread; keep water out and do not let it set solid.",
+            "Arrange the cold fish steaks in a ring on a chilled platter and spoon the yolk sauce over them. Arrange the cooled pastry shapes around the rim just before serving so they stay crisp. Keep refrigerated until serving. Check the fish carefully for bones as you portion it; discard all bones.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
   }
 ]
