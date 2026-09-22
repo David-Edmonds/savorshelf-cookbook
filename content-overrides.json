@@ -41670,5 +41670,1508 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-64ebd8765b44d00b39dafa1b",
+    "bodySha256": "5d2a5d1d508b57ccdf68a502d37a33398f8282673a7a78392d3641936b9d7295",
+    "recipe": {
+      "id": "historical-64ebd8765b44d00b39dafa1b",
+      "title": "Picayune Lemon Mayonnaise",
+      "description": "A simple yolk mayonnaise alternates olive oil and lemon juice, then finishes with salt and pepper.",
+      "category": "Condiments",
+      "servings": 18,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 240,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}} in a clean bowl set on a damp towel. Measure {{oil|0.0625}} into a small cup and whisk it in a few drops at a time until evenly blended.",
+        "Measure {{lemon}} into a small cup and {{oil|0.9375}} into a jug. Gradually whisk in this remaining oil, alternating with small additions of the measured lemon juice as the sauce thickens, and finish with the last of the measured oil. Stop pouring if oil pools and whisk until it blends in.",
+        "Whisk in {{salt}} and {{pepper}} only after the oil and lemon are incorporated. The finished sauce should be smooth and creamy.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "Both imported entries repeat the same Picayune Mayonnaise Dressing paragraph. Two gills of oil are represented by a modern working 240 ml, using the book’s US context; half a lemon becomes a working 15 ml. Seasonings and eighteen small tablespoon-size servings are supplied. The method specifically uses lemon although the heading also lists vinegar; a complete vinegar alternative is supplied as an explicitly chosen variation. The original larger-salad instruction triples the yolks and all other ingredients; use the app’s serving control to triple the recipe. The cold stirring thickens an emulsion and does not cook the egg. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-df00de3bcfb2956bdbdbee94"
+      ],
+      "variants": [
+        {
+          "id": "vinegar",
+          "label": "With white wine vinegar",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the lemon base recipe if preferred."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl set on a damp towel. Measure {{oil|0.0625}} into a small cup and whisk it in a few drops at a time until evenly blended.",
+            "Measure {{vinegar}} into a small cup and {{oil|0.9375}} into a jug. Gradually whisk in this remaining oil, alternating with small additions of the measured vinegar as the sauce thickens, and finish with the last of the measured oil. Stop pouring if oil pools and whisk until it blends in.",
+            "Whisk in {{salt}} and {{pepper}} only after the oil and vinegar are incorporated. The finished sauce should be smooth and creamy.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-824a7b6da681a2b4e6fa5ef3",
+    "bodySha256": "c4028701a32e6ea238d9355c828a29d348f20629bc3aaeb32d42bbd79e9b5bf2",
+    "recipe": {
+      "id": "historical-824a7b6da681a2b4e6fa5ef3",
+      "title": "Creole Cookery Book Mustard Mayonnaise",
+      "description": "Prepared mustard seasons a yolk-and-olive-oil mayonnaise, with vinegar stirred in at the end.",
+      "category": "Condiments",
+      "servings": 18,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same amount of prepared Dijon mustard."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "oil",
+          "amount": 240,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Mix {{mustard}} and {{salt}} in a clean bowl, then whisk in {{yolks}} until smooth. Measure {{oil}} into a jug and whisk it in a few drops at a time at first, then in a thin stream once the sauce thickens. Stop adding oil if it pools and whisk until it blends in.",
+        "Gradually whisk in {{vinegar}} until smooth. Serve as a condiment with chilled cooked foods.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The source specifies one yolk, one teaspoon each prepared mustard and salt, and one tablespoon vinegar, but no oil quantity. A modern 240 ml oil batch and eighteen small condiment servings are supplied. The full teaspoon salt is retained and makes a strongly seasoned sauce; the substitution allows reduction. The red-pepper variation preserves the original suggestion for shrimp or oysters. Pasteurized yolk replaces the untreated raw yolk. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "red-pepper",
+          "label": "With red pepper",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of prepared Dijon mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "oil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            }
+          ],
+          "steps": [
+            "Mix {{mustard}} and {{salt}} in a clean bowl, then whisk in {{yolks}} until smooth. Measure {{oil}} into a jug and whisk it in a few drops at a time at first, then in a thin stream once the sauce thickens. Stop adding oil if it pools and whisk until it blends in.",
+            "Gradually whisk in {{vinegar}} until smooth. Serve as a condiment with chilled cooked foods.",
+            "Whisk in {{cayenne}} and serve with fully cooked chilled seafood.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-e0bd3b88f84c4543d959adc7",
+    "bodySha256": "f412af4bde32b3aac9550e61db1458eda1e3a04925b1f1cbdf6d5e99d06c481c",
+    "recipe": {
+      "id": "historical-e0bd3b88f84c4543d959adc7",
+      "title": "Picayune Celery Salad with Mayonnaise",
+      "description": "Crisp white celery is finely sliced, dressed with mayonnaise and finished with tender celery tips.",
+      "category": "Salads",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "celery",
+          "amount": 200,
+          "unit": "g",
+          "name": "tender pale celery stalks, washed and dried",
+          "substitution": "Use the same weight of tender inner celery stalks."
+        },
+        {
+          "key": "mayo",
+          "amount": 60,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-mayonnaise variation below; its measured portion replaces this amount."
+        },
+        {
+          "key": "celerytips",
+          "amount": 10,
+          "unit": "g",
+          "name": "tender celery leaves and inner tips, washed and dried",
+          "substitution": "Use the same weight of flat-leaf parsley."
+        }
+      ],
+      "steps": [
+        "Remove any tough strings from {{celery}} and cut crosswise into thin slices about 6 mm wide. Mix with {{mayo}} until lightly coated.",
+        "Transfer to a serving bowl and garnish with {{celerytips}}. Serve immediately while crisp.",
+        "Keep covered at 4°C (40°F) or colder and use within 1 day; the celery gradually releases moisture."
+      ],
+      "notes": "The original one pint of chopped celery is represented by a working 200 g of loosely packed sliced celery, not a universal cup-to-weight conversion. Mayonnaise amount, garnish weight and four side servings are supplied. The preceding recipe specifies quarter-inch pieces. The source explicitly prefers mustard dressing as an alternative; both its plain and optional yolk versions are retained. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. Prepared mayonnaise is a modern shortcut. The complete homemade variation supplies the Picayune one-yolk formula, reserves the specified portion and accounts for surplus sauce. Allow about 15 additional minutes for making it.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade Picayune mayonnaise",
+          "ingredients": [
+            {
+              "key": "celery",
+              "amount": 200,
+              "unit": "g",
+              "name": "tender pale celery stalks, washed and dried",
+              "substitution": "Use the same weight of tender inner celery stalks."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 60,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "celerytips",
+              "amount": 10,
+              "unit": "g",
+              "name": "tender celery leaves and inner tips, washed and dried",
+              "substitution": "Use the same weight of flat-leaf parsley."
+            },
+            {
+              "key": "hmyolks",
+              "amount": 1,
+              "unit": "",
+              "name": "for homemade mayonnaise: large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "hmoil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "for homemade mayonnaise: olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "hmlemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "for homemade mayonnaise: lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "hmsalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "for homemade mayonnaise: fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "hmpepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "for homemade mayonnaise: ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{hmyolks}} in a clean bowl set on a damp towel. Measure {{hmoil|0.0625}} into a small cup and whisk it in a few drops at a time until evenly blended.",
+            "Measure {{hmlemon}} into a small cup and {{hmoil|0.9375}} into a jug. Gradually whisk in this remaining oil, alternating with small additions of the measured lemon juice as the sauce thickens, and finish with the last of the measured oil. Stop pouring if oil pools and whisk until it blends in.",
+            "Whisk in {{hmsalt}} and {{hmpepper}} only after the oil and lemon are incorporated. The finished sauce should be smooth and creamy.",
+            "Cover and refrigerate the homemade sauce while preparing the rest of the dish.",
+            "Remove any tough strings from {{celery}} and cut crosswise into thin slices about 6 mm wide. Mix with {{mayoreserve}} until lightly coated.",
+            "Transfer to a serving bowl and garnish with {{celerytips}}. Serve immediately while crisp.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day; the celery gradually releases moisture.",
+            "The measured mayonnaise portion comes from this homemade batch, which makes about 270 ml. Refrigerate extra sauce separately at 4°C (40°F) or colder and use within 3 days; do not add all the extra sauce to the dish."
+          ]
+        },
+        {
+          "id": "mustard-dressing",
+          "label": "With mustard dressing",
+          "ingredients": [
+            {
+              "key": "celery",
+              "amount": 200,
+              "unit": "g",
+              "name": "tender pale celery stalks, washed and dried",
+              "substitution": "Use the same weight of tender inner celery stalks."
+            },
+            {
+              "key": "celerytips",
+              "amount": 10,
+              "unit": "g",
+              "name": "tender celery leaves and inner tips, washed and dried",
+              "substitution": "Use the same weight of flat-leaf parsley."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of Dijon mustard."
+            },
+            {
+              "key": "oil",
+              "amount": 30,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Mix {{mustard}} in a small bowl with {{oil}}, adding the oil drop by drop at first while whisking. Gradually whisk in {{vinegar}}, {{salt}} and {{pepper}} until blended. Whisk again if it separates.",
+            "Remove tough strings from {{celery}}, slice crosswise about 6 mm thick and toss with the dressing. Garnish with {{celerytips}} and serve immediately.",
+            "Keep covered and refrigerated at 4°C (40°F) or colder and use within 1 day."
+          ]
+        },
+        {
+          "id": "mustard-yolk",
+          "label": "With mustard and yolk dressing",
+          "ingredients": [
+            {
+              "key": "celery",
+              "amount": 200,
+              "unit": "g",
+              "name": "tender pale celery stalks, washed and dried",
+              "substitution": "Use the same weight of tender inner celery stalks."
+            },
+            {
+              "key": "celerytips",
+              "amount": 10,
+              "unit": "g",
+              "name": "tender celery leaves and inner tips, washed and dried",
+              "substitution": "Use the same weight of flat-leaf parsley."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of Dijon mustard."
+            },
+            {
+              "key": "oil",
+              "amount": 30,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} and {{mustard}} in a small bowl with {{oil}}, adding the oil drop by drop at first while whisking. Gradually whisk in {{vinegar}}, {{salt}} and {{pepper}} until blended. Whisk again if it separates.",
+            "Remove tough strings from {{celery}}, slice crosswise about 6 mm thick and toss with the dressing. Garnish with {{celerytips}} and serve immediately.",
+            "Keep covered and refrigerated at 4°C (40°F) or colder and use within 1 day."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-d0437bc640f881c4d2e48d58",
+    "bodySha256": "2595ce8e3a346cf1983c4fb78c221de55693d06357e2580a0a6b13363b79350f",
+    "recipe": {
+      "id": "historical-d0437bc640f881c4d2e48d58",
+      "title": "Picayune Chicken Salad with Mayonnaise",
+      "description": "Poached chicken and crisp celery are topped with mayonnaise and arranged with eggs, asparagus, beets, olives and lemon.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 120,
+      "ingredients": [
+        {
+          "key": "chicken",
+          "amount": 700,
+          "unit": "g",
+          "name": "raw boneless skinless chicken breast",
+          "substitution": "Use the same weight of boneless skinless chicken thigh, cooking to the same safe temperature."
+        },
+        {
+          "key": "stock",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock for poaching",
+          "substitution": "Use the same volume of unsalted vegetable stock."
+        },
+        {
+          "key": "cookedchicken",
+          "amount": 500,
+          "unit": "g",
+          "name": "cooked chicken reserved from poaching below; not an additional purchase",
+          "substitution": "Use the same weight of plain commercially cooked chicken for the source leftover-chicken option, omitting the raw-chicken poaching step."
+        },
+        {
+          "key": "celery",
+          "amount": 170,
+          "unit": "g",
+          "name": "tender celery stalks, washed and dried",
+          "substitution": "Use the same weight of tender inner celery stalks."
+        },
+        {
+          "key": "onion",
+          "amount": 1,
+          "unit": "",
+          "name": "small onion, peeled and finely chopped",
+          "substitution": "Use one small shallot per onion for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "mayo",
+          "amount": 120,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-mayonnaise variation below; its measured portion replaces this amount."
+        },
+        {
+          "key": "eggs",
+          "amount": 3,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "beet",
+          "amount": 150,
+          "unit": "g",
+          "name": "raw beetroot, scrubbed",
+          "substitution": "Use the same weight of plain commercially cooked beetroot; omit its boiling step."
+        },
+        {
+          "key": "beetwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "asparagus",
+          "amount": 120,
+          "unit": "g",
+          "name": "asparagus tips, trimmed",
+          "substitution": "Use the same weight of trimmed green beans; cook until tender."
+        },
+        {
+          "key": "asparaguswater",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "olives",
+          "amount": 40,
+          "unit": "g",
+          "name": "drained pitted green olives",
+          "substitution": "Use the same weight of pitted black olives."
+        },
+        {
+          "key": "garnishlemon",
+          "amount": 1,
+          "unit": "",
+          "name": "small lemon, washed and sliced",
+          "substitution": "Use one small lime per lemon."
+        },
+        {
+          "key": "celerytips",
+          "amount": 10,
+          "unit": "g",
+          "name": "tender celery leaves and inner tips, washed and dried",
+          "substitution": "Use the same weight of flat-leaf parsley."
+        }
+      ],
+      "steps": [
+        "Bring {{stock}} to a gentle simmer, add {{chicken}} and poach for about 15–20 minutes until the thickest part reaches 74°C (165°F). Lift out and measure {{cookedchicken}} from the cooked meat. Cut into pieces about 2 cm across, spread in a shallow container and refrigerate promptly until cold, about 45–60 minutes. Refrigerate extra cooked meat and broth separately for use within 2 days.",
+        "Cover {{beet}} with {{beetwater}} in a saucepan, topping up with drinking water only if needed to cover. Simmer for about 30–45 minutes until a knife enters easily. Drain, cool enough to handle, peel and slice thinly. Refrigerate promptly in a covered shallow container until cold.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Slice the firm hard-boiled eggs and refrigerate. Bring {{asparaguswater}} to a boil, add {{asparagus}} and simmer for about 2–4 minutes until tender. Drain, refresh under cold drinking water, drain thoroughly and refrigerate until assembly.",
+        "Finely slice {{celery}} and mix with the cold measured chicken, {{onion}}, {{salt}} and {{pepper}}. Arrange on a platter and spread {{mayo}} over the top. Garnish with the cold beet slices, asparagus, sliced eggs, {{olives}}, {{garnishlemon}} and {{celerytips}}. Serve cold.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "This follows the original chicken chapter recipe, not a different layered salad elsewhere in the book. A modern 500 g cooked chicken portion and 170 g celery represent the source’s approximately one-third celery relative to chicken. The original onion and three hard-boiled eggs are retained; although the source method omits the listed eggs, they are used as garnish here. All other amounts, poaching, vegetable cooking, chilling and six portions are supplied. Preparing eggs and vegetables while the chicken chills keeps the estimated total near two hours. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. Prepared mayonnaise is a modern shortcut. The complete homemade variation supplies the Picayune one-yolk formula, reserves the specified portion and accounts for surplus sauce. Allow about 15 additional minutes for making it.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 120,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade Picayune mayonnaise",
+          "ingredients": [
+            {
+              "key": "chicken",
+              "amount": 700,
+              "unit": "g",
+              "name": "raw boneless skinless chicken breast",
+              "substitution": "Use the same weight of boneless skinless chicken thigh, cooking to the same safe temperature."
+            },
+            {
+              "key": "stock",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "unsalted prepared chicken stock for poaching",
+              "substitution": "Use the same volume of unsalted vegetable stock."
+            },
+            {
+              "key": "cookedchicken",
+              "amount": 500,
+              "unit": "g",
+              "name": "cooked chicken reserved from poaching below; not an additional purchase",
+              "substitution": "Use the same weight of plain commercially cooked chicken for the source leftover-chicken option, omitting the raw-chicken poaching step."
+            },
+            {
+              "key": "celery",
+              "amount": 170,
+              "unit": "g",
+              "name": "tender celery stalks, washed and dried",
+              "substitution": "Use the same weight of tender inner celery stalks."
+            },
+            {
+              "key": "onion",
+              "amount": 1,
+              "unit": "",
+              "name": "small onion, peeled and finely chopped",
+              "substitution": "Use one small shallot per onion for a milder flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 120,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "eggs",
+              "amount": 3,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "beet",
+              "amount": 150,
+              "unit": "g",
+              "name": "raw beetroot, scrubbed",
+              "substitution": "Use the same weight of plain commercially cooked beetroot; omit its boiling step."
+            },
+            {
+              "key": "beetwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "asparagus",
+              "amount": 120,
+              "unit": "g",
+              "name": "asparagus tips, trimmed",
+              "substitution": "Use the same weight of trimmed green beans; cook until tender."
+            },
+            {
+              "key": "asparaguswater",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "olives",
+              "amount": 40,
+              "unit": "g",
+              "name": "drained pitted green olives",
+              "substitution": "Use the same weight of pitted black olives."
+            },
+            {
+              "key": "garnishlemon",
+              "amount": 1,
+              "unit": "",
+              "name": "small lemon, washed and sliced",
+              "substitution": "Use one small lime per lemon."
+            },
+            {
+              "key": "celerytips",
+              "amount": 10,
+              "unit": "g",
+              "name": "tender celery leaves and inner tips, washed and dried",
+              "substitution": "Use the same weight of flat-leaf parsley."
+            },
+            {
+              "key": "hmyolks",
+              "amount": 1,
+              "unit": "",
+              "name": "for homemade mayonnaise: large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "hmoil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "for homemade mayonnaise: olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "hmlemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "for homemade mayonnaise: lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "hmsalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "for homemade mayonnaise: fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "hmpepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "for homemade mayonnaise: ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{hmyolks}} in a clean bowl set on a damp towel. Measure {{hmoil|0.0625}} into a small cup and whisk it in a few drops at a time until evenly blended.",
+            "Measure {{hmlemon}} into a small cup and {{hmoil|0.9375}} into a jug. Gradually whisk in this remaining oil, alternating with small additions of the measured lemon juice as the sauce thickens, and finish with the last of the measured oil. Stop pouring if oil pools and whisk until it blends in.",
+            "Whisk in {{hmsalt}} and {{hmpepper}} only after the oil and lemon are incorporated. The finished sauce should be smooth and creamy.",
+            "Cover and refrigerate the homemade sauce while preparing the rest of the dish.",
+            "Bring {{stock}} to a gentle simmer, add {{chicken}} and poach for about 15–20 minutes until the thickest part reaches 74°C (165°F). Lift out and measure {{cookedchicken}} from the cooked meat. Cut into pieces about 2 cm across, spread in a shallow container and refrigerate promptly until cold, about 45–60 minutes. Refrigerate extra cooked meat and broth separately for use within 2 days.",
+            "Cover {{beet}} with {{beetwater}} in a saucepan, topping up with drinking water only if needed to cover. Simmer for about 30–45 minutes until a knife enters easily. Drain, cool enough to handle, peel and slice thinly. Refrigerate promptly in a covered shallow container until cold.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Slice the firm hard-boiled eggs and refrigerate. Bring {{asparaguswater}} to a boil, add {{asparagus}} and simmer for about 2–4 minutes until tender. Drain, refresh under cold drinking water, drain thoroughly and refrigerate until assembly.",
+            "Finely slice {{celery}} and mix with the cold measured chicken, {{onion}}, {{salt}} and {{pepper}}. Arrange on a platter and spread {{mayoreserve}} over the top. Garnish with the cold beet slices, asparagus, sliced eggs, {{olives}}, {{garnishlemon}} and {{celerytips}}. Serve cold.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.",
+            "The measured mayonnaise portion comes from this homemade batch, which makes about 270 ml. Refrigerate extra sauce separately at 4°C (40°F) or colder and use within 3 days; do not add all the extra sauce to the dish."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-32fd07fb803337dba6d51f38",
+    "bodySha256": "accabb08a4c68c1377dce2c52f9ecf1c14d5587ba99d5f4d08ef822fd9001e7c",
+    "recipe": {
+      "id": "historical-32fd07fb803337dba6d51f38",
+      "title": "Picayune Crab Salad with Mayonnaise",
+      "description": "Crab cooked in an aromatic herb-and-spice broth is served cold on lettuce with mayonnaise, eggs, beets and celery tips.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 160,
+      "ingredients": [
+        {
+          "key": "crabs",
+          "amount": 12,
+          "unit": "",
+          "name": "small whole blue crabs, about 200 g each, freshly dispatched and cleaned by the fishmonger, kept chilled",
+          "substitution": "Use enough commercially cooked picked crab to supply the measured meat portion below, and omit the crab boil."
+        },
+        {
+          "key": "crabwater",
+          "amount": 5000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "boilcelery",
+          "amount": 200,
+          "unit": "g",
+          "name": "celery stalks and tops, cleaned and chopped",
+          "substitution": "Use the same weight of cleaned celery stalks."
+        },
+        {
+          "key": "allspice",
+          "amount": 24,
+          "unit": "",
+          "name": "whole allspice berries",
+          "substitution": "Use half a teaspoon ground allspice for the entire base batch; scale proportionally."
+        },
+        {
+          "key": "thyme",
+          "amount": 4,
+          "unit": "",
+          "name": "small fresh thyme sprigs",
+          "substitution": "Use 1 teaspoon dried thyme for this base batch; scale proportionally."
+        },
+        {
+          "key": "basil",
+          "amount": 4,
+          "unit": "",
+          "name": "small fresh basil sprigs",
+          "substitution": "Use 1 teaspoon dried basil for this base batch; scale proportionally."
+        },
+        {
+          "key": "marjoram",
+          "amount": 4,
+          "unit": "",
+          "name": "small fresh marjoram sprigs",
+          "substitution": "Use 1 teaspoon dried marjoram for this base batch; scale proportionally."
+        },
+        {
+          "key": "chives",
+          "amount": 4,
+          "unit": "",
+          "name": "fresh chive stalks",
+          "substitution": "Use the same number of thin spring-onion greens."
+        },
+        {
+          "key": "mace",
+          "amount": 3,
+          "unit": "",
+          "name": "small blades of mace",
+          "substitution": "Use one-quarter teaspoon ground mace for this base batch; scale proportionally."
+        },
+        {
+          "key": "bay",
+          "amount": 3,
+          "unit": "",
+          "name": "dried bay leaves",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "chili",
+          "amount": 1,
+          "unit": "",
+          "name": "small dried red chili",
+          "substitution": "Omit for a milder broth."
+        },
+        {
+          "key": "boilcayenne",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild broth."
+        },
+        {
+          "key": "boilpepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground black pepper for the broth",
+          "substitution": "Reduce to taste."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 75,
+          "unit": "g",
+          "name": "salt for the crab cooking water",
+          "substitution": "Reduce to taste."
+        },
+        {
+          "key": "crabmeat",
+          "amount": 300,
+          "unit": "g",
+          "name": "cooked picked crabmeat reserved from the boil below; not an additional purchase",
+          "substitution": "Use the same weight of commercially cooked picked crab."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "lettuce",
+          "amount": 120,
+          "unit": "g",
+          "name": "crisp lettuce leaves, washed and dried",
+          "substitution": "Use the same weight of romaine leaves."
+        },
+        {
+          "key": "mayo",
+          "amount": 90,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-mayonnaise variation below; its measured portion replaces this amount."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "beet",
+          "amount": 150,
+          "unit": "g",
+          "name": "raw beetroot, scrubbed",
+          "substitution": "Use the same weight of plain commercially cooked beetroot; omit its boiling step."
+        },
+        {
+          "key": "beetwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "celerytips",
+          "amount": 10,
+          "unit": "g",
+          "name": "tender celery leaves and inner tips, washed and dried",
+          "substitution": "Use the same weight of flat-leaf parsley."
+        }
+      ],
+      "steps": [
+        "Bring {{crabwater}} to a boil in a large stockpot with {{boilcelery}}, {{allspice}}, {{thyme}}, {{basil}}, {{marjoram}}, {{chives}}, {{mace}}, {{bay}}, {{chili}}, {{boilcayenne}}, {{boilpepper}} and {{boilsalt}}. Simmer for 15 minutes to flavor the water.",
+        "Add {{crabs}}, working in batches if necessary so they remain submerged. Return to a boil and cook for about 10–15 minutes for this size, until the meat is opaque and reaches 63°C (145°F). Cooking time varies with crab size; check the meat rather than relying on shell color alone.",
+        "Lift out, drain and allow to cool just enough to handle. Remove the upper shells, gills, stomach sacs and internal organs, then crack the claws and body sections and pick out the white meat. Check carefully for shell fragments. Measure {{crabmeat}} into a shallow container and refrigerate promptly until cold. Refrigerate any extra picked meat separately for another dish within 2 days. Discard the shells and strained cooking solids.",
+        "Cover {{beet}} with {{beetwater}} in a saucepan, topping up with drinking water only if needed to cover. Simmer for about 30–45 minutes until a knife enters easily. Drain, cool enough to handle, peel and slice thinly. Refrigerate promptly in a covered shallow container until cold.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Cut the firm hard-boiled eggs into wedges and keep refrigerated. Season the cold measured crabmeat with {{salt}} and {{pepper}}. Arrange {{lettuce}} on a chilled platter, mound the crabmeat on top and spread {{mayo}} over it. Garnish with the beet slices, egg wedges and {{celerytips}}.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original pint of picked crab is standardized to a modern 300 g working portion, with four servings. The complete referenced boil is expanded using its dozen crabs, celery, allspice, herbs, mace, bay and peppers; water, salt, modern crab size and temperature checking are supplied. Fresh fishmonger-dispatched crabs replace the historical live-boiling instruction. The crab count intentionally supplies more than the measured picked-meat portion because yield varies; surplus meat is accounted for. Beet, egg, lettuce and sauce amounts and full preparation are supplied. Total time assumes vegetables and eggs cook while the crab cools. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. Prepared mayonnaise is a modern shortcut. The complete homemade variation supplies the Picayune one-yolk formula, reserves the specified portion and accounts for surplus sauce. Allow about 15 additional minutes for making it.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 160,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade Picayune mayonnaise",
+          "ingredients": [
+            {
+              "key": "crabs",
+              "amount": 12,
+              "unit": "",
+              "name": "small whole blue crabs, about 200 g each, freshly dispatched and cleaned by the fishmonger, kept chilled",
+              "substitution": "Use enough commercially cooked picked crab to supply the measured meat portion below, and omit the crab boil."
+            },
+            {
+              "key": "crabwater",
+              "amount": 5000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "boilcelery",
+              "amount": 200,
+              "unit": "g",
+              "name": "celery stalks and tops, cleaned and chopped",
+              "substitution": "Use the same weight of cleaned celery stalks."
+            },
+            {
+              "key": "allspice",
+              "amount": 24,
+              "unit": "",
+              "name": "whole allspice berries",
+              "substitution": "Use half a teaspoon ground allspice for the entire base batch; scale proportionally."
+            },
+            {
+              "key": "thyme",
+              "amount": 4,
+              "unit": "",
+              "name": "small fresh thyme sprigs",
+              "substitution": "Use 1 teaspoon dried thyme for this base batch; scale proportionally."
+            },
+            {
+              "key": "basil",
+              "amount": 4,
+              "unit": "",
+              "name": "small fresh basil sprigs",
+              "substitution": "Use 1 teaspoon dried basil for this base batch; scale proportionally."
+            },
+            {
+              "key": "marjoram",
+              "amount": 4,
+              "unit": "",
+              "name": "small fresh marjoram sprigs",
+              "substitution": "Use 1 teaspoon dried marjoram for this base batch; scale proportionally."
+            },
+            {
+              "key": "chives",
+              "amount": 4,
+              "unit": "",
+              "name": "fresh chive stalks",
+              "substitution": "Use the same number of thin spring-onion greens."
+            },
+            {
+              "key": "mace",
+              "amount": 3,
+              "unit": "",
+              "name": "small blades of mace",
+              "substitution": "Use one-quarter teaspoon ground mace for this base batch; scale proportionally."
+            },
+            {
+              "key": "bay",
+              "amount": 3,
+              "unit": "",
+              "name": "dried bay leaves",
+              "substitution": "Omit if unavailable."
+            },
+            {
+              "key": "chili",
+              "amount": 1,
+              "unit": "",
+              "name": "small dried red chili",
+              "substitution": "Omit for a milder broth."
+            },
+            {
+              "key": "boilcayenne",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild broth."
+            },
+            {
+              "key": "boilpepper",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "ground black pepper for the broth",
+              "substitution": "Reduce to taste."
+            },
+            {
+              "key": "boilsalt",
+              "amount": 75,
+              "unit": "g",
+              "name": "salt for the crab cooking water",
+              "substitution": "Reduce to taste."
+            },
+            {
+              "key": "crabmeat",
+              "amount": 300,
+              "unit": "g",
+              "name": "cooked picked crabmeat reserved from the boil below; not an additional purchase",
+              "substitution": "Use the same weight of commercially cooked picked crab."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "lettuce",
+              "amount": 120,
+              "unit": "g",
+              "name": "crisp lettuce leaves, washed and dried",
+              "substitution": "Use the same weight of romaine leaves."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 90,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "beet",
+              "amount": 150,
+              "unit": "g",
+              "name": "raw beetroot, scrubbed",
+              "substitution": "Use the same weight of plain commercially cooked beetroot; omit its boiling step."
+            },
+            {
+              "key": "beetwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "celerytips",
+              "amount": 10,
+              "unit": "g",
+              "name": "tender celery leaves and inner tips, washed and dried",
+              "substitution": "Use the same weight of flat-leaf parsley."
+            },
+            {
+              "key": "hmyolks",
+              "amount": 1,
+              "unit": "",
+              "name": "for homemade mayonnaise: large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "hmoil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "for homemade mayonnaise: olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "hmlemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "for homemade mayonnaise: lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "hmsalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "for homemade mayonnaise: fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "hmpepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "for homemade mayonnaise: ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{hmyolks}} in a clean bowl set on a damp towel. Measure {{hmoil|0.0625}} into a small cup and whisk it in a few drops at a time until evenly blended.",
+            "Measure {{hmlemon}} into a small cup and {{hmoil|0.9375}} into a jug. Gradually whisk in this remaining oil, alternating with small additions of the measured lemon juice as the sauce thickens, and finish with the last of the measured oil. Stop pouring if oil pools and whisk until it blends in.",
+            "Whisk in {{hmsalt}} and {{hmpepper}} only after the oil and lemon are incorporated. The finished sauce should be smooth and creamy.",
+            "Cover and refrigerate the homemade sauce while preparing the rest of the dish.",
+            "Bring {{crabwater}} to a boil in a large stockpot with {{boilcelery}}, {{allspice}}, {{thyme}}, {{basil}}, {{marjoram}}, {{chives}}, {{mace}}, {{bay}}, {{chili}}, {{boilcayenne}}, {{boilpepper}} and {{boilsalt}}. Simmer for 15 minutes to flavor the water.",
+            "Add {{crabs}}, working in batches if necessary so they remain submerged. Return to a boil and cook for about 10–15 minutes for this size, until the meat is opaque and reaches 63°C (145°F). Cooking time varies with crab size; check the meat rather than relying on shell color alone.",
+            "Lift out, drain and allow to cool just enough to handle. Remove the upper shells, gills, stomach sacs and internal organs, then crack the claws and body sections and pick out the white meat. Check carefully for shell fragments. Measure {{crabmeat}} into a shallow container and refrigerate promptly until cold. Refrigerate any extra picked meat separately for another dish within 2 days. Discard the shells and strained cooking solids.",
+            "Cover {{beet}} with {{beetwater}} in a saucepan, topping up with drinking water only if needed to cover. Simmer for about 30–45 minutes until a knife enters easily. Drain, cool enough to handle, peel and slice thinly. Refrigerate promptly in a covered shallow container until cold.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Cut the firm hard-boiled eggs into wedges and keep refrigerated. Season the cold measured crabmeat with {{salt}} and {{pepper}}. Arrange {{lettuce}} on a chilled platter, mound the crabmeat on top and spread {{mayoreserve}} over it. Garnish with the beet slices, egg wedges and {{celerytips}}.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.",
+            "The measured mayonnaise portion comes from this homemade batch, which makes about 270 ml. Refrigerate extra sauce separately at 4°C (40°F) or colder and use within 3 days; do not add all the extra sauce to the dish."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-49cbb1e030a4e423f4c65a85",
+    "bodySha256": "2136e3c88836b9b920d20f7254be15c824d96d8831d4c9bd6cdb8132ba79f0b6",
+    "recipe": {
+      "id": "historical-49cbb1e030a4e423f4c65a85",
+      "title": "Picayune Salmon with Milk Sauce and Mayonnaise",
+      "description": "Canned salmon is cooked in a parsley milk sauce, chilled, and served on lettuce beneath mayonnaise with egg and celery garnish.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 90,
+      "ingredients": [
+        {
+          "key": "salmon",
+          "amount": 250,
+          "unit": "g",
+          "name": "canned cooked salmon, drained weight, skin and large bones removed",
+          "substitution": "Use the same weight of fully cooked boneless salmon."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened unflavored soy milk."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a neutral cooking oil."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "plain wheat flour",
+          "substitution": "Use the same weight of a plain gluten-free flour blend; thickening may differ."
+        },
+        {
+          "key": "parsley",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "lettuce",
+          "amount": 2,
+          "unit": "",
+          "name": "small crisp lettuce heads, about 120 g each",
+          "substitution": "Use the same total weight of romaine hearts."
+        },
+        {
+          "key": "mayo",
+          "amount": 90,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-mayonnaise variation below; its measured portion replaces this amount."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "celerytips",
+          "amount": 10,
+          "unit": "g",
+          "name": "tender celery leaves and inner tips, washed and dried",
+          "substitution": "Use the same weight of flat-leaf parsley."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a saucepan over gentle heat. Stir in {{flour}} and cook for 1 minute without browning. Gradually whisk in {{milk}} until smooth and bring to a gentle simmer.",
+        "Flake {{salmon}} and add it to the sauce with {{parsley}}, {{salt}} and {{pepper}}. Simmer gently for about 10 minutes, stirring to prevent sticking, until thoroughly hot and thickened. Transfer to a shallow container, cover and refrigerate promptly until cold, allowing about 45–60 minutes.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Slice the firm hard-boiled eggs and keep chilled. Separate, wash and thoroughly dry {{lettuce}}. Arrange the crisp inner leaves on a platter and tear the outer leaves into fine strips around them.",
+        "Spoon the cold salmon mixture onto the lettuce bed and cover with {{mayo}}. Garnish with the egg slices and {{celerytips}} and serve cold.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "Both imported entries reproduce the same salmon-mayonnaise recipe; entry75 is truncated before the cooling, lettuce assembly and final garnish. The original can size is unspecified and becomes a modern 250 g drained portion. One modern cup milk, one tablespoon butter, two tablespoons flour and one tablespoon parsley are retained with working metric amounts; seasoning, mayonnaise, egg count and four servings are supplied. The full original uses two young lettuce heads and hard-boiled egg and celery garnish. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. Prepared mayonnaise is a modern shortcut. The complete homemade variation supplies the Picayune one-yolk formula, reserves the specified portion and accounts for surplus sauce. Allow about 15 additional minutes for making it.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 90,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-69c9a86908ef76883e9acc2e"
+      ],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade Picayune mayonnaise",
+          "ingredients": [
+            {
+              "key": "salmon",
+              "amount": 250,
+              "unit": "g",
+              "name": "canned cooked salmon, drained weight, skin and large bones removed",
+              "substitution": "Use the same weight of fully cooked boneless salmon."
+            },
+            {
+              "key": "milk",
+              "amount": 240,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened unflavored soy milk."
+            },
+            {
+              "key": "butter",
+              "amount": 14,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a neutral cooking oil."
+            },
+            {
+              "key": "flour",
+              "amount": 16,
+              "unit": "g",
+              "name": "plain wheat flour",
+              "substitution": "Use the same weight of a plain gluten-free flour blend; thickening may differ."
+            },
+            {
+              "key": "parsley",
+              "amount": 1,
+              "unit": "tbsp",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same amount of finely chopped chives."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "lettuce",
+              "amount": 2,
+              "unit": "",
+              "name": "small crisp lettuce heads, about 120 g each",
+              "substitution": "Use the same total weight of romaine hearts."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 90,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "celerytips",
+              "amount": 10,
+              "unit": "g",
+              "name": "tender celery leaves and inner tips, washed and dried",
+              "substitution": "Use the same weight of flat-leaf parsley."
+            },
+            {
+              "key": "hmyolks",
+              "amount": 1,
+              "unit": "",
+              "name": "for homemade mayonnaise: large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "hmoil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "for homemade mayonnaise: olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "hmlemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "for homemade mayonnaise: lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "hmsalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "for homemade mayonnaise: fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "hmpepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "for homemade mayonnaise: ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{hmyolks}} in a clean bowl set on a damp towel. Measure {{hmoil|0.0625}} into a small cup and whisk it in a few drops at a time until evenly blended.",
+            "Measure {{hmlemon}} into a small cup and {{hmoil|0.9375}} into a jug. Gradually whisk in this remaining oil, alternating with small additions of the measured lemon juice as the sauce thickens, and finish with the last of the measured oil. Stop pouring if oil pools and whisk until it blends in.",
+            "Whisk in {{hmsalt}} and {{hmpepper}} only after the oil and lemon are incorporated. The finished sauce should be smooth and creamy.",
+            "Cover and refrigerate the homemade sauce while preparing the rest of the dish.",
+            "Melt {{butter}} in a saucepan over gentle heat. Stir in {{flour}} and cook for 1 minute without browning. Gradually whisk in {{milk}} until smooth and bring to a gentle simmer.",
+            "Flake {{salmon}} and add it to the sauce with {{parsley}}, {{salt}} and {{pepper}}. Simmer gently for about 10 minutes, stirring to prevent sticking, until thoroughly hot and thickened. Transfer to a shallow container, cover and refrigerate promptly until cold, allowing about 45–60 minutes.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Slice the firm hard-boiled eggs and keep chilled. Separate, wash and thoroughly dry {{lettuce}}. Arrange the crisp inner leaves on a platter and tear the outer leaves into fine strips around them.",
+            "Spoon the cold salmon mixture onto the lettuce bed and cover with {{mayoreserve}}. Garnish with the egg slices and {{celerytips}} and serve cold.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.",
+            "The measured mayonnaise portion comes from this homemade batch, which makes about 270 ml. Refrigerate extra sauce separately at 4°C (40°F) or colder and use within 3 days; do not add all the extra sauce to the dish."
+          ]
+        }
+      ]
+    }
   }
 ]

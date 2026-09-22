@@ -412,5 +412,17 @@
     "canonicalId": "historical-eb1e5aa1a583d6fe648359af",
     "bodySha256": "103a279242eb382a2508559c1d881df4ecdca427ffe8a2133055deae6f13d1ef",
     "reason": "Truncated extraction of the same original Bialy Majonez z Ryb paragraph; canonical62 retains the complete gelatin-oil coating and all garnishes."
+  },
+  {
+    "id": "historical-df00de3bcfb2956bdbdbee94",
+    "canonicalId": "historical-64ebd8765b44d00b39dafa1b",
+    "bodySha256": "ed3f58fe18efd1fd9d547eb70407168394a9d772661a5539067756faa7203985",
+    "reason": "Same original Picayune Mayonnaise Dressing paragraph, including one yolk, about two gills oil, half a lemon and an oil finish; larger-batch guidance retained in canonical78."
+  },
+  {
+    "id": "historical-69c9a86908ef76883e9acc2e",
+    "canonicalId": "historical-49cbb1e030a4e423f4c65a85",
+    "bodySha256": "1e71c04258fa6313f928319174e22e76a4132539dc56aa0a330ac05d9f93038a",
+    "reason": "Truncated version of the same Picayune Mayonnaise de Saumon paragraph; complete77 retains cooking, chilling, lettuce assembly, mayonnaise and egg/celery garnish."
   }
 ]

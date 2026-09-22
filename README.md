@@ -1,3 +1,7 @@
+# Recipe content batch 034 — September 22, 2026
+
+Six adaptations complete Picayune and Creole mayonnaise, celery salad, chicken salad, crab salad and salmon with milk sauce. Full cooking, garnishes, homemade-mayonnaise portions and mustard/egg-yolk alternatives are supplied. Two repeated source records are consolidated with old IDs and credits retained. Totals: 40,822 imported recipes, 454 completed adaptations, 40,368 remaining content repairs and 42,274 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 033 — September 22, 2026
 
 Two large Polish fish platters now include full poaching, gelatin-oil coating or staged-yolk mayonnaise, decorative aspic, cooked garnishes and chilling. One truncated source is consolidated into its complete counterpart, retaining its old ID and credit. Modern gelatin and historical-unit choices are identified explicitly. Totals: 40,824 imported recipes, 448 completed adaptations, 40,376 remaining content repairs and 42,276 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
