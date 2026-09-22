@@ -35398,5 +35398,864 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-a41d62107c5336bdcd78adbe",
+    "bodySha256": "ca5d3a778d70c3c643cc430f19e5d3fd5d0a6a5927344edfbb45aa1a6ea18c79",
+    "recipe": {
+      "id": "historical-a41d62107c5336bdcd78adbe",
+      "title": "Forloren Mayonnaise — Danish Cooked Dressing",
+      "description": "A thick stock-and-butter dressing is enriched with cooked yolks, cooled, and finished with tarragon vinegar and a modest amount of oil.",
+      "category": "Condiments",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 60,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 60,
+          "unit": "g",
+          "name": "plain flour",
+          "substitution": "Use the same weight of a plain gluten-free flour blend suitable for sauces."
+        },
+        {
+          "key": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock",
+          "substitution": "Use the same volume of unsalted prepared vegetable stock."
+        },
+        {
+          "key": "yolks",
+          "amount": 5,
+          "unit": "",
+          "name": "large egg yolks",
+          "substitution": "Use 18 g pasteurized liquid egg yolk per yolk; the sauce is still cooked."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a saucepan over medium-low heat. Stir in {{flour}} and cook for 2 minutes, stirring, without browning. Gradually whisk in {{stock}} to make a smooth sauce. Bring to a gentle simmer and cook for 5 minutes, stirring frequently, until very thick.",
+        "Beat {{yolks}} in a heatproof bowl. Remove the pan from the heat. Gradually whisk a few spoonfuls of the hot sauce into the yolks, then return the mixture to the pan. Cook over low heat, stirring constantly, until the sauce reaches 71°C (160°F) throughout; do not let it boil or catch on the bottom.",
+        "Transfer to a shallow bowl. Set over a larger bowl of ice water and stir frequently for about 15–20 minutes until cold, keeping the ice water out of the sauce.",
+        "Gradually whisk {{oil}} into the cold sauce, followed by {{vinegar}}, {{salt}} and {{pepper}}. It should be thick and spoonable. Use with cooked chilled poultry, fish or vegetables.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 3 days. Refrigerate within 2 hours of preparation, or within 1 hour above 32°C (90°F). This is a fresh cooked dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The original page reads Tres Gr (12 Kvint): 60 g butter, not the extracted 30 g. Both butter and flour are therefore 60 g. Four modern tablespoons supply 60 ml oil. The stock volume, acid, seasoning, yield and timing are supplied modern quantities. The original cooked-yolk liaison is expanded to a measured cooking endpoint and rapid cooling. Twenty-four small dressing portions are estimated. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-a41aeb1d1bf73945030f8be6",
+    "bodySha256": "9ca0aca02c7fb167e1499c14f3ca6b54d8611ba2ed8a35d62b4e2f5307ed704d",
+    "recipe": {
+      "id": "historical-a41aeb1d1bf73945030f8be6",
+      "title": "Ægte Majonaise — Danish Lemon-and-Wine Sauce",
+      "description": "A small yolk-rich sauce combines a sieved cooked yolk, a pasteurized yolk, lemon and white wine, with little oil.",
+      "category": "Condiments",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "wine",
+          "amount": 10,
+          "unit": "ml",
+          "name": "dry white wine",
+          "substitution": "Use the same volume of unsalted vegetable stock for an alcohol-free version with a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the cooked yolk and push through a fine sieve into a clean bowl. Refrigerate the white for another dish. Beat in {{yolks}} and {{salt}} until smooth.",
+        "Gradually beat in {{oil}}, a few drops at a time. Slowly mix in {{lemon}} and {{wine}} until evenly blended. This source formula is yolk-rich and uses very little oil; it makes a soft coating rather than a large batch of high-oil mayonnaise.",
+        "Serve in small portions with already-cooked chilled fish or vegetables.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The original allows two uncooked yolks or two cooked yolks and prefers one of each. The preferred mixed-yolk version is used here, with a commercially pasteurized uncooked yolk. The original explicitly gives one tablespoon of oil, standardized to 15 ml. Half a lemon becomes a supplied modern 15 ml juice; the unspecified white wine and salt are supplied working amounts. Both all-uncooked and all-cooked yolk versions are retained, together with the optional white-pepper-and-sugar seasoning. Four small condiment servings are estimated; the uncooked-yolk variation takes about 15 minutes. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Illustreret kogebog for by og land (1899), author not recorded. https://archive.org/details/BSG_8SCSUP9079NOR SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "two-raw-yolks",
+          "label": "With two pasteurized uncooked yolks",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "wine",
+              "amount": 10,
+              "unit": "ml",
+              "name": "dry white wine",
+              "substitution": "Use the same volume of unsalted vegetable stock for an alcohol-free version with a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} and {{salt}} in a clean bowl until smooth. Use commercially pasteurized yolks because this sauce is not cooked.",
+            "Gradually beat in {{oil}}, a few drops at a time. Slowly mix in {{lemon}} and {{wine}} until evenly blended. This source formula is yolk-rich and uses very little oil; it makes a soft coating rather than a large batch of high-oil mayonnaise.",
+            "Serve in small portions with already-cooked chilled fish or vegetables.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "two-cooked-yolks",
+          "label": "With two cooked yolks",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "oil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "wine",
+              "amount": 10,
+              "unit": "ml",
+              "name": "dry white wine",
+              "substitution": "Use the same volume of unsalted vegetable stock for an alcohol-free version with a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the cooked yolks and push through a fine sieve into a clean bowl. Refrigerate the whites for another dish. Beat the sieved yolks with {{salt}} until smooth.",
+            "Gradually beat in {{oil}}, a few drops at a time. Slowly mix in {{lemon}} and {{wine}} until evenly blended. This source formula is yolk-rich and uses very little oil; it makes a soft coating rather than a large batch of high-oil mayonnaise.",
+            "Serve in small portions with already-cooked chilled fish or vegetables.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "pepper-sugar",
+          "label": "With white pepper and sugar",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 1,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "wine",
+              "amount": 10,
+              "unit": "ml",
+              "name": "dry white wine",
+              "substitution": "Use the same volume of unsalted vegetable stock for an alcohol-free version with a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Omit for the plain source version."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "powdered white sugar",
+              "substitution": "Omit for the plain source version."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the cooked yolk and push through a fine sieve into a clean bowl. Refrigerate the white for another dish. Beat in {{yolks}} and {{salt}} until smooth.",
+            "Gradually beat in {{oil}}, a few drops at a time. Slowly mix in {{lemon}} and {{wine}} until evenly blended. This source formula is yolk-rich and uses very little oil; it makes a soft coating rather than a large batch of high-oil mayonnaise.",
+            "Stir {{whitepepper}} and {{sugar}} into the finished sauce until evenly distributed.",
+            "Serve in small portions with already-cooked chilled fish or vegetables.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-ad057b7bc4f9e319fd272537",
+    "bodySha256": "2659184db1e30f19c421e996e2c4cc8808d686611193d5ecfa2f4f0c230abf8b",
+    "recipe": {
+      "id": "historical-ad057b7bc4f9e319fd272537",
+      "title": "Cold Fish with Danish Lemon-and-Wine Mayonnaise",
+      "description": "Chilled poached fish is coated with a small amount of lemon-and-white-wine mayonnaise made from cooked and pasteurized yolks.",
+      "category": "Main dishes",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 80,
+      "ingredients": [
+        {
+          "key": "fish",
+          "amount": 300,
+          "unit": "g",
+          "name": "raw boneless skinless white fish fillets",
+          "substitution": "Use the same weight of cod, hake or sea bass fillets; check carefully for bones."
+        },
+        {
+          "key": "fishwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "wine",
+          "amount": 10,
+          "unit": "ml",
+          "name": "dry white wine",
+          "substitution": "Use the same volume of unsalted vegetable stock for an alcohol-free version with a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        }
+      ],
+      "steps": [
+        "Bring {{fishwater}} to a gentle simmer in a wide pan. Add {{fish}} and poach for about 8–12 minutes until the thickest part reaches 63°C (145°F) and the fish flakes easily. Lift out, drain and check for bones without breaking the pieces unnecessarily. Spread in a shallow container and refrigerate promptly, within 2 hours of cooking, until cold, about 45 minutes.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the cooked yolk and push through a fine sieve into a clean bowl. Refrigerate the white for another dish. Beat in {{yolks}} and {{salt}} until smooth.",
+        "Gradually beat in {{oil}}, a few drops at a time. Slowly mix in {{lemon}} and {{wine}} until evenly blended. This source formula is yolk-rich and uses very little oil; it makes a soft coating rather than a large batch of high-oil mayonnaise.",
+        "Place the cold fish pieces on a platter and spoon the mayonnaise over them. Serve chilled.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original allows two uncooked yolks or two cooked yolks and prefers one of each. The preferred mixed-yolk version is used here, with a commercially pasteurized uncooked yolk. The original explicitly gives one tablespoon of oil, standardized to 15 ml. Half a lemon becomes a supplied modern 15 ml juice; the unspecified white wine and salt are supplied working amounts. The short fish entry refers to sauce 265; that sauce is supplied in full. Missing fish weight, poaching water, yield and cooking/cooling time are modern additions. The whole boneless pieces in the source mean intact serving pieces, not necessarily a whole fish. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Illustreret kogebog for by og land (1899), author not recorded. https://archive.org/details/BSG_8SCSUP9079NOR SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 80,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "two-raw-yolks",
+          "label": "With two pasteurized uncooked yolks",
+          "ingredients": [
+            {
+              "key": "fish",
+              "amount": 300,
+              "unit": "g",
+              "name": "raw boneless skinless white fish fillets",
+              "substitution": "Use the same weight of cod, hake or sea bass fillets; check carefully for bones."
+            },
+            {
+              "key": "fishwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "wine",
+              "amount": 10,
+              "unit": "ml",
+              "name": "dry white wine",
+              "substitution": "Use the same volume of unsalted vegetable stock for an alcohol-free version with a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            }
+          ],
+          "steps": [
+            "Bring {{fishwater}} to a gentle simmer in a wide pan. Add {{fish}} and poach for about 8–12 minutes until the thickest part reaches 63°C (145°F) and the fish flakes easily. Lift out, drain and check for bones without breaking the pieces unnecessarily. Spread in a shallow container and refrigerate promptly, within 2 hours of cooking, until cold, about 45 minutes.",
+            "Whisk {{yolks}} and {{salt}} in a clean bowl until smooth. Use commercially pasteurized yolks because this sauce is not cooked.",
+            "Gradually beat in {{oil}}, a few drops at a time. Slowly mix in {{lemon}} and {{wine}} until evenly blended. This source formula is yolk-rich and uses very little oil; it makes a soft coating rather than a large batch of high-oil mayonnaise.",
+            "Place the cold fish pieces on a platter and spoon the mayonnaise over them. Serve chilled.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        },
+        {
+          "id": "two-cooked-yolks",
+          "label": "With two cooked yolks",
+          "ingredients": [
+            {
+              "key": "fish",
+              "amount": 300,
+              "unit": "g",
+              "name": "raw boneless skinless white fish fillets",
+              "substitution": "Use the same weight of cod, hake or sea bass fillets; check carefully for bones."
+            },
+            {
+              "key": "fishwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "oil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "wine",
+              "amount": 10,
+              "unit": "ml",
+              "name": "dry white wine",
+              "substitution": "Use the same volume of unsalted vegetable stock for an alcohol-free version with a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            }
+          ],
+          "steps": [
+            "Bring {{fishwater}} to a gentle simmer in a wide pan. Add {{fish}} and poach for about 8–12 minutes until the thickest part reaches 63°C (145°F) and the fish flakes easily. Lift out, drain and check for bones without breaking the pieces unnecessarily. Spread in a shallow container and refrigerate promptly, within 2 hours of cooking, until cold, about 45 minutes.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the cooked yolks and push through a fine sieve into a clean bowl. Refrigerate the whites for another dish. Beat the sieved yolks with {{salt}} until smooth.",
+            "Gradually beat in {{oil}}, a few drops at a time. Slowly mix in {{lemon}} and {{wine}} until evenly blended. This source formula is yolk-rich and uses very little oil; it makes a soft coating rather than a large batch of high-oil mayonnaise.",
+            "Place the cold fish pieces on a platter and spoon the mayonnaise over them. Serve chilled.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        },
+        {
+          "id": "pepper-sugar",
+          "label": "With white pepper and sugar",
+          "ingredients": [
+            {
+              "key": "fish",
+              "amount": 300,
+              "unit": "g",
+              "name": "raw boneless skinless white fish fillets",
+              "substitution": "Use the same weight of cod, hake or sea bass fillets; check carefully for bones."
+            },
+            {
+              "key": "fishwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "eggs",
+              "amount": 1,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "wine",
+              "amount": 10,
+              "unit": "ml",
+              "name": "dry white wine",
+              "substitution": "Use the same volume of unsalted vegetable stock for an alcohol-free version with a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Omit for the plain source version."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "powdered white sugar",
+              "substitution": "Omit for the plain source version."
+            }
+          ],
+          "steps": [
+            "Bring {{fishwater}} to a gentle simmer in a wide pan. Add {{fish}} and poach for about 8–12 minutes until the thickest part reaches 63°C (145°F) and the fish flakes easily. Lift out, drain and check for bones without breaking the pieces unnecessarily. Spread in a shallow container and refrigerate promptly, within 2 hours of cooking, until cold, about 45 minutes.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the cooked yolk and push through a fine sieve into a clean bowl. Refrigerate the white for another dish. Beat in {{yolks}} and {{salt}} until smooth.",
+            "Gradually beat in {{oil}}, a few drops at a time. Slowly mix in {{lemon}} and {{wine}} until evenly blended. This source formula is yolk-rich and uses very little oil; it makes a soft coating rather than a large batch of high-oil mayonnaise.",
+            "Stir {{whitepepper}} and {{sugar}} into the finished sauce until evenly distributed.",
+            "Place the cold fish pieces on a platter and spoon the mayonnaise over them. Serve chilled.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-c0d685653aed50a4aac78d48",
+    "bodySha256": "0b6a49e70a200590bb28a52ce150ef1e5ebd8ea050b05875fe46c08e0151c311",
+    "recipe": {
+      "id": "historical-c0d685653aed50a4aac78d48",
+      "title": "Hvidkaal-Salat — Chopped Cabbage with Mustard Mayonnaise",
+      "description": "Finely chopped raw cabbage is dressed with mustard mayonnaise and garnished with tender cooked carrot and shredded green lettuce.",
+      "category": "Salads",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "cabbage",
+          "amount": 600,
+          "unit": "g",
+          "name": "white cabbage, outer leaves and core removed, prepared weight",
+          "substitution": "Use the same weight of green cabbage; texture differs."
+        },
+        {
+          "key": "carrots",
+          "amount": 150,
+          "unit": "g",
+          "name": "carrots, peeled and cut into thick rounds",
+          "substitution": "Use the same weight of yellow carrots."
+        },
+        {
+          "key": "carrotwater",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "lettuce",
+          "amount": 50,
+          "unit": "g",
+          "name": "green lettuce leaves, washed and dried",
+          "substitution": "Use the same weight of romaine leaves."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 250,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 15,
+          "unit": "ml",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same volume of Dijon mustard."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper; the appearance changes."
+        }
+      ],
+      "steps": [
+        "Put {{carrots}} in a small pan with {{carrotwater}}. Bring to a boil and simmer for 8–12 minutes until tender. Drain, spread in a shallow dish and refrigerate until cold, about 20 minutes, then chop coarsely.",
+        "Remove any remaining damaged leaves from {{cabbage}}, rinse and dry it, then chop finely. Thinly shred {{lettuce}} and reserve for garnish.",
+        "Whisk {{yolks}}, {{salt}} and {{mustard}} in a clean bowl. Gradually whisk in {{oil}}, starting drop by drop, then in a thin stream as the sauce thickens. Add {{vinegar}} in small additions while whisking, followed by {{whitepepper}}.",
+        "Fold the finely chopped cabbage into the mayonnaise until evenly coated. Mound in a serving bowl and garnish with the cold chopped carrots and shredded lettuce. Serve chilled.",
+        "Keep covered at 4°C (40°F) or colder. Refrigerate within 2 hours, or within 1 hour above 32°C (90°F), and use within 2 days. The cabbage releases liquid as it stands; stir before serving."
+      ],
+      "notes": "The full original specifies raw chopped white cabbage, mustard mayonnaise, cooked chopped carrot and green lettuce. A small cabbage is standardized to 600 g prepared weight. The sauce uses the same book’s two-yolk/250 ml oil formula from recipe 243, with the mustard required by this salad. Vegetable, acid, mustard and seasoning amounts are modern working quantities. The sauce-only colorings and duck-egg option in the general mayonnaise reference are not required ingredients of this cabbage salad. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The general sauce’s lemon alternative is retained as a full named variation.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lemon",
+          "label": "With lemon mustard mayonnaise",
+          "ingredients": [
+            {
+              "key": "cabbage",
+              "amount": 600,
+              "unit": "g",
+              "name": "white cabbage, outer leaves and core removed, prepared weight",
+              "substitution": "Use the same weight of green cabbage; texture differs."
+            },
+            {
+              "key": "carrots",
+              "amount": 150,
+              "unit": "g",
+              "name": "carrots, peeled and cut into thick rounds",
+              "substitution": "Use the same weight of yellow carrots."
+            },
+            {
+              "key": "carrotwater",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "lettuce",
+              "amount": 50,
+              "unit": "g",
+              "name": "green lettuce leaves, washed and dried",
+              "substitution": "Use the same weight of romaine leaves."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemonacid",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the tarragon-vinegar base recipe if preferred."
+            },
+            {
+              "key": "mustard",
+              "amount": 15,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of Dijon mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of black pepper; the appearance changes."
+            }
+          ],
+          "steps": [
+            "Put {{carrots}} in a small pan with {{carrotwater}}. Bring to a boil and simmer for 8–12 minutes until tender. Drain, spread in a shallow dish and refrigerate until cold, about 20 minutes, then chop coarsely.",
+            "Remove any remaining damaged leaves from {{cabbage}}, rinse and dry it, then chop finely. Thinly shred {{lettuce}} and reserve for garnish.",
+            "Whisk {{yolks}}, {{salt}} and {{mustard}} in a clean bowl. Gradually whisk in {{oil}}, starting drop by drop, then in a thin stream as the sauce thickens. Add {{lemonacid}} in small additions while whisking, followed by {{whitepepper}}.",
+            "Fold the finely chopped cabbage into the mayonnaise until evenly coated. Mound in a serving bowl and garnish with the cold chopped carrots and shredded lettuce. Serve chilled.",
+            "Keep covered at 4°C (40°F) or colder. Refrigerate within 2 hours, or within 1 hour above 32°C (90°F), and use within 2 days. The cabbage releases liquid as it stands; stir before serving."
+          ]
+        }
+      ]
+    }
   }
 ]

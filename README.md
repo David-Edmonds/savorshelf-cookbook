@@ -1,3 +1,7 @@
+# Recipe content batch 026 — September 22, 2026
+
+Four adaptations complete Danish cooked mayonnaise, lemon-and-wine mayonnaise, cold fish with that sauce, and chopped cabbage salad with mustard mayonnaise. Full egg preparation, fish and carrot cooking, measured acid and seasoning, and meaningful yolk and lemon variations are supplied. An original scan restores 60 g butter in the cooked sauce. Totals: 40,833 imported recipes, 416 completed adaptations, 40,417 remaining content repairs and 42,285 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 025 — September 22, 2026
 
 Six adaptations complete Poblana garlic fish, Mexican layered fish, Poblana mahonesa and bayoneta, Artusi mayonnaise and his fish-beet-potato salad. Full chicken, vinegar, herb, cooked-yolk and caper-olive variations are retained. One equivalent yolk-rich sauce is merged with its original ID and source credit preserved. Totals: 40,833 imported recipes, 412 completed adaptations, 40,421 remaining content repairs and 42,285 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
