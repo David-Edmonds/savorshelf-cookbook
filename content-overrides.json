@@ -21106,5 +21106,2079 @@
         "historical-00c1ef29c072620e81161f01"
       ]
     }
+  },
+  {
+    "sourceId": "historical-0f187c9d648092ca2ba86016",
+    "bodySha256": "277d9e231950286ba3104625edcdd6061c83d5c61a534895ddc614af7162a60e",
+    "recipe": {
+      "id": "historical-0f187c9d648092ca2ba86016",
+      "title": "Nákyp z Mrkve (Carrot and Marrow Soufflé)",
+      "description": "Finely grated carrots, marrow and breadcrumbs make a lightly sweet spiced soufflé, lifted with beaten egg whites.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 350,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "marrow",
+          "amount": 60,
+          "unit": "g",
+          "name": "food-grade beef marrow, removed from bones and finely minced",
+          "substitution": "Use the same weight of softened unsalted butter for a marrow-free variation."
+        },
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use six large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+        },
+        {
+          "key": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "crumbs",
+          "amount": 100,
+          "unit": "g",
+          "name": "plain dry breadcrumbs",
+          "substitution": "Use the same weight of plain wheat bread dried and finely grated."
+        },
+        {
+          "key": "allspice",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground allspice",
+          "substitution": "Use the same amount of cinnamon for a different flavor."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace, or omit."
+        },
+        {
+          "key": "fennel",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground fennel seed",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "coating",
+          "amount": 10,
+          "unit": "g",
+          "name": "plain dry breadcrumbs for the dish",
+          "substitution": "Use the same weight of fine plain cracker crumbs."
+        },
+        {
+          "key": "finishsugar",
+          "amount": 5,
+          "unit": "g",
+          "name": "caster sugar for serving",
+          "substitution": "Omit for a less sweet finish."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 175°C (350°F). Grease a 1.5-liter soufflé dish with {{grease}} and coat it with {{coating}}. Finely grate {{carrot}} and mix with {{salt}}.",
+        "Separate {{eggs}} into yolks and whites, keeping the whites in a clean grease-free bowl. Beat {{marrow}} with {{sugar}} until evenly combined, then beat in the yolks one at a time.",
+        "Stir in the carrots, {{crumbs}}, {{allspice}}, {{nutmeg}} and {{fennel}}. Beat the reserved whites to firm peaks and fold into the mixture in three additions, retaining as much air as possible.",
+        "Spoon into the prepared dish, leaving at least 3 cm of headroom. Bake for 40–50 minutes until risen, set in the center and at least 74°C (165°F) in the middle. Use additional dishes if scaling up.",
+        "Sprinkle with {{finishsugar}} and serve immediately in the baking dish; the soufflé will settle as it cools."
+      ],
+      "notes": "The original page 380 says 6 dekagrams of rubbed marrow, not 6 dekagrams of grated carrot. This correction retains marrow at 60 g. Carrot and breadcrumb weights, pan size and oven settings are modern choices. Folding whites in last replaces the source half-hour warm-water stirring, which would lose their aeration. Butter replaces tallow only for greasing. A butter substitution for marrow is offered explicitly; the base is not vegetarian. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Česká kuchařka (1883), Marie Dumková. https://archive.org/details/ceska_kucharka-dumkova SavorShelf measured adaptation. Primary scan checked: Česká kuchařka recipe1366, printed page380, Internet Archive leaf386. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-9da4e06d526310c92817b842",
+    "bodySha256": "e66034db789db9705454f1be446bdb3e33ed684f15177e9ecfb51064b7a08b45",
+    "recipe": {
+      "id": "historical-9da4e06d526310c92817b842",
+      "title": "Skopové s Mrkví (Mutton Ribs with Carrots)",
+      "description": "Tender mutton ribs and carrot strips are brought together in a light roux-thickened broth with a small caramel finish.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 190,
+      "ingredients": [
+        {
+          "key": "mutton",
+          "amount": 1500,
+          "unit": "g",
+          "name": "raw mutton ribs cut into manageable sections",
+          "substitution": "Use the same weight of lamb ribs; begin checking tenderness earlier."
+        },
+        {
+          "key": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 6,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "celery",
+          "amount": 100,
+          "unit": "g",
+          "name": "trimmed celery stalks",
+          "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+        },
+        {
+          "key": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "carrot",
+          "amount": 800,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "butter",
+          "amount": 40,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 13,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "flour",
+          "amount": 20,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "caramel",
+          "amount": 8,
+          "unit": "g",
+          "name": "granulated sugar for the caramel finish",
+          "substitution": "Omit this small finishing caramel if preferred."
+        },
+        {
+          "key": "caramelwater",
+          "amount": 30,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "brothportion",
+          "amount": 600,
+          "unit": "ml",
+          "name": "strained mutton cooking broth reserved in the steps",
+          "substitution": "Use the same volume of unsalted prepared beef stock if necessary."
+        }
+      ],
+      "steps": [
+        "Put {{mutton}} in a stockpot with {{water}}, {{salt}}, quartered {{onion}}, roughly chopped {{celery}} and {{parsley}}. Bring to a simmer, skim the foam and cook gently for 2–2½ hours until the meat is tender and pulls easily from the bone. Keep the meat submerged with extra hot water as needed.",
+        "Lift out the ribs and keep covered and hot. Strain the broth and skim surface fat. Measure {{brothportion}}; cool any unused broth promptly in shallow containers and refrigerate for another use.",
+        "Cut {{carrot}} into strips about 5 mm thick. Melt {{butter|0.65}} in a wide saucepan, add the carrots, {{pepper}}, {{sugar}} and the measured broth. Cover loosely and simmer for 20–30 minutes until tender.",
+        "Melt {{butter|0.35}} in a small pan, stir in {{flour}} and cook for 2 minutes. Gradually whisk in several spoonfuls of hot carrot broth, then stir the smooth roux mixture back into the carrots. Simmer for 5 minutes.",
+        "In a separate small pan, heat {{caramel}} with {{caramelwater|0.3333333333333333}} until pale amber. Take off the heat and carefully add {{caramelwater|0.6666666666666667}}, keeping your hands back from the steam. Stir until dissolved, then add to the carrots.",
+        "Add the cooked ribs and simmer gently for 5–10 minutes until everything is hot. Remove any loose bones before serving."
+      ],
+      "notes": "Salted ribs are interpreted as fresh ribs seasoned before simmering, not commercially cured ribs. The undefined stock vegetables become onion, celery and parsley. Meat, carrot, broth and roux weights are modern choices; the source caramel is retained as a small measured finish. The alternative cabbage preparations are named variations. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Národní domácí kuchařka česko-americká (1904), author not recorded. https://archive.org/details/nrodndomc00rosi SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 190,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cabbage",
+          "label": "Mutton with cabbage",
+          "ingredients": [
+            {
+              "key": "mutton",
+              "amount": 1500,
+              "unit": "g",
+              "name": "raw mutton ribs cut into manageable sections",
+              "substitution": "Use the same weight of lamb ribs; begin checking tenderness earlier."
+            },
+            {
+              "key": "water",
+              "amount": 2500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 6,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "onion",
+              "amount": 150,
+              "unit": "g",
+              "name": "peeled onion",
+              "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+            },
+            {
+              "key": "celery",
+              "amount": 100,
+              "unit": "g",
+              "name": "trimmed celery stalks",
+              "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+            },
+            {
+              "key": "parsley",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of chives, or omit."
+            },
+            {
+              "key": "butter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 13,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "flour",
+              "amount": 20,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "caramel",
+              "amount": 8,
+              "unit": "g",
+              "name": "granulated sugar for the caramel finish",
+              "substitution": "Omit this small finishing caramel if preferred."
+            },
+            {
+              "key": "caramelwater",
+              "amount": 30,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "brothportion",
+              "amount": 600,
+              "unit": "ml",
+              "name": "strained mutton cooking broth reserved in the steps",
+              "substitution": "Use the same volume of unsalted prepared beef stock if necessary."
+            },
+            {
+              "key": "carrot",
+              "amount": 800,
+              "unit": "g",
+              "name": "trimmed white cabbage",
+              "substitution": "Use the carrot base version instead."
+            }
+          ],
+          "steps": [
+            "Put {{mutton}} in a stockpot with {{water}}, {{salt}}, quartered {{onion}}, roughly chopped {{celery}} and {{parsley}}. Bring to a simmer, skim the foam and cook gently for 2–2½ hours until the meat is tender and pulls easily from the bone. Keep the meat submerged with extra hot water as needed.",
+            "Lift out the ribs and keep covered and hot. Strain the broth and skim surface fat. Measure {{brothportion}}; cool any unused broth promptly in shallow containers and refrigerate for another use.",
+            "Cut {{carrot}} into small wedges. Melt {{butter|0.65}} in a wide saucepan, add the vegetables, {{pepper}}, {{sugar}} and the measured broth. Cover loosely and simmer for 20–30 minutes until tender.",
+            "Melt {{butter|0.35}} in a small pan, stir in {{flour}} and cook for 2 minutes. Gradually whisk in several spoonfuls of hot vegetable broth, then stir the smooth roux mixture back into the vegetables. Simmer for 5 minutes.",
+            "In a separate small pan, heat {{caramel}} with {{caramelwater|0.3333333333333333}} until pale amber. Take off the heat and carefully add {{caramelwater|0.6666666666666667}}, keeping your hands back from the steam. Stir until dissolved, then add to the vegetables.",
+            "Add the cooked ribs and simmer gently for 5–10 minutes until everything is hot. Remove any loose bones before serving."
+          ]
+        },
+        {
+          "id": "mixed",
+          "label": "Mutton with carrots and cabbage",
+          "ingredients": [
+            {
+              "key": "mutton",
+              "amount": 1500,
+              "unit": "g",
+              "name": "raw mutton ribs cut into manageable sections",
+              "substitution": "Use the same weight of lamb ribs; begin checking tenderness earlier."
+            },
+            {
+              "key": "water",
+              "amount": 2500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 6,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "onion",
+              "amount": 150,
+              "unit": "g",
+              "name": "peeled onion",
+              "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+            },
+            {
+              "key": "celery",
+              "amount": 100,
+              "unit": "g",
+              "name": "trimmed celery stalks",
+              "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+            },
+            {
+              "key": "parsley",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of chives, or omit."
+            },
+            {
+              "key": "butter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 13,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "flour",
+              "amount": 20,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "caramel",
+              "amount": 8,
+              "unit": "g",
+              "name": "granulated sugar for the caramel finish",
+              "substitution": "Omit this small finishing caramel if preferred."
+            },
+            {
+              "key": "caramelwater",
+              "amount": 30,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "brothportion",
+              "amount": 600,
+              "unit": "ml",
+              "name": "strained mutton cooking broth reserved in the steps",
+              "substitution": "Use the same volume of unsalted prepared beef stock if necessary."
+            },
+            {
+              "key": "carrot",
+              "amount": 400,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "cabbage",
+              "amount": 400,
+              "unit": "g",
+              "name": "trimmed white cabbage",
+              "substitution": "Use the same weight of Savoy cabbage."
+            }
+          ],
+          "steps": [
+            "Put {{mutton}} in a stockpot with {{water}}, {{salt}}, quartered {{onion}}, roughly chopped {{celery}} and {{parsley}}. Bring to a simmer, skim the foam and cook gently for 2–2½ hours until the meat is tender and pulls easily from the bone. Keep the meat submerged with extra hot water as needed.",
+            "Lift out the ribs and keep covered and hot. Strain the broth and skim surface fat. Measure {{brothportion}}; cool any unused broth promptly in shallow containers and refrigerate for another use.",
+            "Cut {{carrot}} into 5 mm strips and {{cabbage}} into small wedges. Melt {{butter|0.65}} in a wide saucepan, add the vegetables, {{pepper}}, {{sugar}} and the measured broth. Cover loosely and simmer for 20–30 minutes until tender.",
+            "Melt {{butter|0.35}} in a small pan, stir in {{flour}} and cook for 2 minutes. Gradually whisk in several spoonfuls of hot vegetable broth, then stir the smooth roux mixture back into the vegetables. Simmer for 5 minutes.",
+            "In a separate small pan, heat {{caramel}} with {{caramelwater|0.3333333333333333}} until pale amber. Take off the heat and carefully add {{caramelwater|0.6666666666666667}}, keeping your hands back from the steam. Stir until dissolved, then add to the vegetables.",
+            "Add the cooked ribs and simmer gently for 5–10 minutes until everything is hot. Remove any loose bones before serving."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-2c20962eed42a45046b14e73",
+    "bodySha256": "e41bcd9f5ae2a4b668f2e4a69e39d5c7676a4c6992d1ed4978852f213a49c8f0",
+    "recipe": {
+      "id": "historical-2c20962eed42a45046b14e73",
+      "title": "Pato con Zanahoria (Duck and Carrot Braise)",
+      "description": "Duck pieces brown in butter, then simmer with carrot rounds in a lightly thickened cooking broth.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 125,
+      "ingredients": [
+        {
+          "key": "duck",
+          "amount": 1800,
+          "unit": "g",
+          "name": "raw bone-in duck pieces, trimmed of excess skin and fat",
+          "substitution": "Use the same weight of duck legs; cook until tender and at least 74°C (165°F)."
+        },
+        {
+          "key": "butter",
+          "amount": 70,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "water",
+          "amount": 900,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Pat {{duck}} dry and season with {{salt}}. Melt {{butter|0.8}} in a heavy casserole over medium heat. Brown the duck in batches, skin side first, for 8–10 minutes per batch, keeping the butter from burning. Lift the pieces onto a plate.",
+        "Pour off excess rendered fat, leaving a thin coating in the casserole. In a small saucepan, melt {{butter|0.2}}, stir in {{flour}} and cook for 2 minutes. Gradually whisk in {{water}} until smooth.",
+        "Return the duck to the casserole, pour over the flour mixture and add {{pepper}}. Bring to a gentle simmer, cover loosely and cook for 35–45 minutes, turning once.",
+        "Cut {{carrot}} into 1 cm rounds and add to the casserole. Simmer for another 25–35 minutes until the carrots and duck are tender and the thickest duck flesh reaches at least 74°C (165°F), avoiding bone. Add hot water if the sauce becomes too thick.",
+        "Skim excess surface fat and serve hot. If using mixed duck cuts, remove any breast pieces that finish early and return them just before serving."
+      ],
+      "notes": "Four spoonfuls of butter become 56 g, with 14 g separately supplied for the flour roux. Duck, carrot and water amounts are modern choices. Carrots are added later than in the brief source so they retain their shape while the duck tenderizes. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Consejos prácticos sobre cocina, pastelería y repostería al estilo del país (1922), author not recorded. https://archive.org/details/consejosprcti00lpezguate SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 125,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ef789d3ff02ce0bbdb553f82",
+    "bodySha256": "ba818a342dc40b0d6cf30bd857865ec0f774a300108b20210db54794ad148919",
+    "recipe": {
+      "id": "historical-ef789d3ff02ce0bbdb553f82",
+      "title": "Pollos con Zanahoria, Ham and Chorizo",
+      "description": "Chicken and carrots braise with ham, chorizo and warm spices, finished with sherry, chiles, olives and capers.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 90,
+      "ingredients": [
+        {
+          "key": "chicken",
+          "amount": 1500,
+          "unit": "g",
+          "name": "raw bone-in chicken pieces",
+          "substitution": "Use the same weight of bone-in turkey pieces; cook to at least 74°C (165°F) and until tender."
+        },
+        {
+          "key": "ham",
+          "amount": 100,
+          "unit": "g",
+          "name": "fully cooked ham, diced",
+          "substitution": "Use the same weight of fully cooked smoked turkey."
+        },
+        {
+          "key": "chorizo",
+          "amount": 150,
+          "unit": "g",
+          "name": "firm cured chorizo labeled ready to eat, sliced",
+          "substitution": "Use the same weight of fully cooked smoked sausage; fresh raw chorizo needs separate cooking before use."
+        },
+        {
+          "key": "carrot",
+          "amount": 500,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "lard",
+          "amount": 15,
+          "unit": "g",
+          "name": "food-grade pork lard",
+          "substitution": "Use the same weight of neutral vegetable oil."
+        },
+        {
+          "key": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "name": "fresh thyme leaves",
+          "substitution": "Use 0.25 tsp dried thyme per 2 g fresh."
+        },
+        {
+          "key": "water",
+          "amount": 600,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "oil",
+          "amount": 10,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        },
+        {
+          "key": "clove",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground cloves",
+          "substitution": "Omit for a milder stew."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half the amount of ground allspice for a different flavor."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "sherry",
+          "amount": 30,
+          "unit": "ml",
+          "name": "dry sherry",
+          "substitution": "Use 25 ml unsalted chicken stock plus 5 ml white wine vinegar for an alcohol-free variation."
+        },
+        {
+          "key": "chiles",
+          "amount": 30,
+          "unit": "g",
+          "name": "drained pickled jalapeño slices",
+          "substitution": "Use the same weight of roasted sweet pepper for a mild garnish."
+        },
+        {
+          "key": "olives",
+          "amount": 60,
+          "unit": "g",
+          "name": "pitted green olives, drained",
+          "substitution": "Use the same weight of pitted black olives."
+        },
+        {
+          "key": "capers",
+          "amount": 15,
+          "unit": "g",
+          "name": "capers, rinsed and drained",
+          "substitution": "Use the same weight of finely chopped cornichons."
+        }
+      ],
+      "steps": [
+        "Heat {{lard}} in a wide casserole. Pat {{chicken}} dry and brown in batches for 8–10 minutes per batch. Add {{ham}}, {{chorizo}}, {{thyme}} and {{carrot}} cut in 1 cm rounds; cook, turning, for 3 minutes.",
+        "Add {{water}}, {{oil}}, {{clove}}, {{cinnamon}} and {{pepper}}. Bring to a simmer, cover loosely and cook for 35–50 minutes until the chicken is tender and reaches at least 74°C (165°F) in the thickest flesh away from bone. Add water if needed to prevent drying.",
+        "Stir in {{sherry}} and heat for 2 minutes. Skim excess surface fat. Spoon onto a platter and garnish with {{chiles}}, {{olives}} and {{capers}}. Serve hot."
+      ],
+      "notes": "Every amount beyond the spoonful of lard is supplied as a modern domestic batch. Firm ready-to-eat chorizo and cooked ham are explicit product choices; the source does not identify whether its sausage was raw or cured. No extra salt is added because the meats and garnishes are salty. Sherry remains alcoholic after cooking. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "La cocinera poblana (1890), author not recorded. https://archive.org/details/lacocinerapobla00unkngoog SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 90,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-19ca39deea2df4677511eb89",
+    "bodySha256": "033e74262b6ca2ce6deb26f8c23c3649dae612886edc78201f2b309a3b03f6af",
+    "recipe": {
+      "id": "historical-19ca39deea2df4677511eb89",
+      "title": "Frango Ensopado com Cenouras (Chicken Stew with Carrots)",
+      "description": "Chicken and carrots simmer in a lightly tangy broth thickened with butter and flour and finished with a gently cooked yolk.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 100,
+      "ingredients": [
+        {
+          "key": "chicken",
+          "amount": 1500,
+          "unit": "g",
+          "name": "raw bone-in chicken pieces",
+          "substitution": "Use the same weight of bone-in turkey pieces; cook to at least 74°C (165°F) and until tender."
+        },
+        {
+          "key": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "flour",
+          "amount": 12,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of apple cider vinegar."
+        },
+        {
+          "key": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        }
+      ],
+      "steps": [
+        "Put {{chicken}} in a casserole with {{water}} and {{salt}}. Bring slowly to a simmer, skim foam and cook gently for 25–30 minutes.",
+        "Cut {{carrot}} into 1 cm rounds and add with {{parsley}} and {{vinegar}}. Mash softened {{butter}} with {{flour}} until smooth, loosen with a few spoonfuls of hot broth and stir into the casserole.",
+        "Simmer for 25–35 minutes, stirring carefully, until the carrots are tender, the flour is cooked and the chicken reaches at least 74°C (165°F) in the thickest flesh away from bone. Add water if necessary to keep a loose sauce.",
+        "Stir in {{sugar}}. Whisk {{yolks}} in a bowl, gradually whisk in a little hot broth, then return to the casserole over low heat. Stir until the sauce reaches 74°C (165°F), without boiling, and serve promptly."
+      ],
+      "notes": "The two unspecified source chickens become one measured 1.5 kg batch. The source initial boiling water and later four cups are replaced by one explicit 1.2 liter starting liquid to avoid an undefined stock component. Missing carrot, salt and flour quantities are supplied. The egg finish is tempered and heated, not stirred in raw at serving. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Cozinheiro Nacional (1874), author not recorded. https://archive.org/details/cozinheiro-nacional SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 100,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-c8f3bbb452293eb6ce1757ea",
+    "bodySha256": "ccee8666b8558bc8ab306354464a3e25cd80aa49868b9e893e21a7a2c9185c9a",
+    "recipe": {
+      "id": "historical-c8f3bbb452293eb6ce1757ea",
+      "title": "Lombo Estufado with Carrots and Reduced Beef Jus",
+      "description": "Beef loin cooks gently with small carrots, then rests while its cooking juices are strained, skimmed and reduced.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 95,
+      "ingredients": [
+        {
+          "key": "loin",
+          "amount": 1200,
+          "unit": "g",
+          "name": "boneless beef sirloin roast, tied into an even shape",
+          "substitution": "Use the same weight of a beef tenderloin roast; begin checking its temperature earlier."
+        },
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "oil",
+          "amount": 20,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        },
+        {
+          "key": "stock",
+          "amount": 600,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 160°C (320°F). Pat {{loin}} dry and season with {{salt}} and {{pepper}}. Heat {{oil}} in an oven-safe lidded casserole and brown the beef on all sides for 8–10 minutes.",
+        "Add {{stock}}, scraping up the browned juices. Add {{carrot}}, choosing slender carrots left whole or thick ones halved lengthwise. Baste the beef and carrots with the liquid and cover.",
+        "Cook in the oven for 45–70 minutes, basting once, until the beef reaches at least 63°C (145°F) in the center. Check early and remove the beef when ready; let it rest at least 3 minutes, preferably 10, loosely covered. If the carrots need longer, continue cooking them in the covered casserole until tender.",
+        "Lift the carrots onto a warm platter. Strain the cooking liquid through a fine sieve into a saucepan, skim off excess fat and simmer until reduced to about half its starting volume.",
+        "Slice the rested beef and arrange beside the carrots. Spoon a little jus over both and serve the rest separately."
+      ],
+      "notes": "The source only gives beef loin, carrots and an as-usual braise. This is a disclosed complete modern preparation using prepared stock, measured seasoning, a gentle oven and a thermometer endpoint rather than a long stew that would dry lean loin. The strained reduced cooking jus supplies the missing meat essence; it is not claimed to reproduce an unidentified historical stock formula. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Cozinheiro Nacional (1874), author not recorded. https://archive.org/details/cozinheiro-nacional SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 95,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-596ace5097768b4ddddb37d7",
+    "bodySha256": "582b379157c6659731dfa72dbe47f67da04f6b4d6a89dce483901b89c29b5850",
+    "recipe": {
+      "id": "historical-596ace5097768b4ddddb37d7",
+      "title": "Pato Refogado com Cenouras (Lemon-Brandy Duck)",
+      "description": "Duck is marinated with lemon and garlic, browned in butter and braised with carrots and a little brandy.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 310,
+      "ingredients": [
+        {
+          "key": "duck",
+          "amount": 1800,
+          "unit": "g",
+          "name": "raw bone-in duck pieces, trimmed of excess skin and fat",
+          "substitution": "Use the same weight of duck legs; cook until tender and at least 74°C (165°F)."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "lemon",
+          "amount": 45,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "name": "peeled garlic, finely minced",
+          "substitution": "Use half the weight of garlic paste without added salt."
+        },
+        {
+          "key": "butter",
+          "amount": 25,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "water",
+          "amount": 600,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "brandy",
+          "amount": 45,
+          "unit": "ml",
+          "name": "brandy",
+          "substitution": "Use the same volume of unsalted chicken stock for an alcohol-free variation."
+        },
+        {
+          "key": "flour",
+          "amount": 4,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        }
+      ],
+      "steps": [
+        "Mix {{salt}}, {{pepper}}, {{lemon}} and {{garlic}} in a food-safe container. Add {{duck}}, turn to coat, cover and marinate for 3 hours in the refrigerator at 4°C (40°F) or colder.",
+        "Lift out the duck and pat dry; discard the used marinade. Melt {{butter}} in a heavy casserole over medium heat and brown the duck in batches for 8–10 minutes per batch. Pour off excess rendered fat.",
+        "Take the casserole away from any flame. Stir in {{flour}}, then carefully add {{brandy}} and {{water}}. Return to the heat, bring to a simmer and cover loosely.",
+        "Simmer for 35–45 minutes. Add {{carrot}} cut into 1 cm rounds and cook for 25–35 minutes more, until the duck and carrots are tender and the thickest duck flesh reaches at least 74°C (165°F), avoiding bone. Add water if the sauce reduces too far.",
+        "Skim surface fat and serve hot. Remove any breast pieces that cook earlier than the legs and return them just before serving."
+      ],
+      "notes": "The original paragraph lists salt, pepper, lemon and garlic for the marinade, then refers to it as vinho velho without separately adding wine. This adaptation uses the explicitly listed marinade and does not invent a wine quantity. The later aguardente becomes 45 ml brandy; the undefined cup of water is deliberately increased to 600 ml for a workable covered braise. Carrots are added later for texture. Discarding marinade and refrigerated holding are modern handling choices. Brandy remains alcoholic after cooking. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Cozinheiro Nacional (1874), author not recorded. https://archive.org/details/cozinheiro-nacional SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 310,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e096dde4f97d4264d546344e",
+    "bodySha256": "6070f85eb469930c8944a9fe38ceb4d0dd7be4700906a1a5071838824c9773fa",
+    "recipe": {
+      "id": "historical-e096dde4f97d4264d546344e",
+      "title": "Cinouras de Tigelada (Sweet-Tart Carrot and Egg Bake)",
+      "description": "Batter-fried carrots are layered with a sweet-tart herb sauce and baked under beaten eggs until golden.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 85,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 750,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "flour",
+          "amount": 100,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "batterwater",
+          "amount": 130,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "oil",
+          "amount": 120,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        },
+        {
+          "key": "butter",
+          "amount": 40,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "cilantro",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh cilantro, chopped",
+          "substitution": "Use the same weight of parsley for a different flavor."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "mint",
+          "amount": 3,
+          "unit": "g",
+          "name": "fresh mint leaves, chopped",
+          "substitution": "Omit if unavailable; oregano is not an equivalent flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of apple cider vinegar."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use the same amount of ground allspice for a different flavor."
+        },
+        {
+          "key": "honey",
+          "amount": 25,
+          "unit": "g",
+          "name": "honey",
+          "substitution": "Use 20 g granulated sugar plus 5 ml water."
+        },
+        {
+          "key": "saucewater",
+          "amount": 100,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg only where the eggs do not need to be separated."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (355°F). Cut {{carrot}} into quarters lengthwise, shortening very long pieces. Bring {{water}} and {{salt}} to a boil and simmer the carrots for 12–18 minutes until just tender. Drain and pat dry.",
+        "Whisk {{flour}} with {{batterwater}} to make a smooth coating batter. Heat {{oil}} in a wide skillet over medium heat. Dip the carrots in the batter, let excess drip away and fry in batches for 3–4 minutes per side until the coating is golden. Drain on a rack and arrange in a shallow 2 liter baking dish.",
+        "Melt {{butter}} in a clean pan. Add finely chopped {{onion}} and soften for 8–10 minutes. Add {{parsley}}, {{cilantro}}, {{mint}}, {{vinegar}}, {{cinnamon}}, {{honey}} and {{saucewater}}. Simmer for 5 minutes and spoon evenly over the carrots.",
+        "Beat {{eggs}} until evenly combined and pour over the carrots and sauce. Bake for 20–30 minutes until set in the center, golden on top and at least 71°C (160°F) in the egg layer. Rest for 5 minutes, then serve."
+      ],
+      "notes": "The original pages 128–129 were visually checked. Polme de farinha is a flour batter, not dry flour dusting; hortelã is mint, not oregano. The omitted final line specifies SIX BEATEN EGGS and gentle heat above and below until browned. A conventional oven supplies that finish. Repeated parsley names are combined, and missing amounts, batter liquid and sauce water are modern choices. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Arte de cozinha (1834), author not recorded. https://archive.org/details/b22024700 SavorShelf measured adaptation. Primary scan verified: Arte de cozinha, printed pages128–129, Internet Archive leaves130–131. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 85,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-d49790106ea9ee1d9ea5634c",
+    "bodySha256": "0f8784717ab67cabb51bfd9acd6ab12d0be4a5e61e76834b30e27d1cb5a2050c",
+    "recipe": {
+      "id": "historical-d49790106ea9ee1d9ea5634c",
+      "title": "Stewed Steak with Carrots, Turnips and Saffron",
+      "description": "Braising steak cooks slowly with carrot, turnip and onion, then receives a light saffron-scented thickening.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 165,
+      "ingredients": [
+        {
+          "key": "beef",
+          "amount": 800,
+          "unit": "g",
+          "name": "boneless beef chuck, trimmed",
+          "substitution": "Use the same weight of boneless beef shin; allow additional simmering time until tender."
+        },
+        {
+          "key": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "turnip",
+          "amount": 400,
+          "unit": "g",
+          "name": "peeled turnip",
+          "substitution": "Use the same weight of peeled rutabaga; allow extra cooking time until tender."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace, or omit."
+        },
+        {
+          "key": "water",
+          "amount": 900,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "flour",
+          "amount": 3,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "saffron",
+          "amount": 0.05,
+          "unit": "g",
+          "name": "saffron threads",
+          "substitution": "Omit if unavailable; turmeric changes the flavor and is not an equivalent substitute."
+        },
+        {
+          "key": "slurrywater",
+          "amount": 30,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Cut {{beef}} into four thick portions. Put in a saucepan with {{water}}, {{salt}}, {{pepper}} and {{nutmeg}}. Bring to a gentle simmer, skim foam, cover loosely and cook for 90 minutes.",
+        "Cut {{carrot}} and {{turnip}} into pieces about 5 cm long and 1 cm thick; cut {{onion}} into wedges. Add the vegetables to the beef and simmer for 40–60 minutes until both meat and vegetables are tender, adding hot water if needed.",
+        "Crush {{saffron}} and mix with a spoonful of hot broth in a small bowl; let steep for 5 minutes. Whisk {{flour}} with {{slurrywater}} until smooth.",
+        "Stir the saffron mixture and flour slurry into the stew. Simmer for 5–7 minutes, stirring, until the flour is cooked. Serve hot."
+      ],
+      "notes": "Braising steak is explicitly chosen as chuck rather than a quick-cooking tender steak. Missing meat, liquid and vegetable weights are supplied; vegetables are added after the initial meat simmer to preserve their shape. The source small teaspoon of flour gives only light thickening. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "An Easy and Economical Book of Jewish Cookery (1874), Estella Atrutel. https://archive.org/details/b2807967x SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 165,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-98f43b001e8313a38669ffaf",
+    "bodySha256": "c09d9e5d04196de88c651b77d0ec6ee8687f250ffd15dd29d443745fe2707a17",
+    "recipe": {
+      "id": "historical-98f43b001e8313a38669ffaf",
+      "title": "Boiled Beef with Carrot-Cream Sauce",
+      "description": "Gently simmered beef is served with a smooth sauce of carrots, aromatics, butter and cream.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 200,
+      "ingredients": [
+        {
+          "key": "beef",
+          "amount": 1200,
+          "unit": "g",
+          "name": "boneless beef chuck, trimmed",
+          "substitution": "Use the same weight of boneless beef shin; allow additional simmering time until tender."
+        },
+        {
+          "key": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 6,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "onion",
+          "amount": 200,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "celery",
+          "amount": 100,
+          "unit": "g",
+          "name": "trimmed celery stalks",
+          "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "name": "fresh thyme leaves",
+          "substitution": "Use 0.25 tsp dried thyme per 2 g fresh."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "cream",
+          "amount": 120,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of unsweetened plant cream suitable for cooking."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Put {{beef}} in a stockpot with {{water}} and {{salt}}. Bring slowly to a simmer, skim the foam, cover loosely and cook for 2–2½ hours until nearly tender. Add water if needed to keep the beef submerged.",
+        "Add {{carrot}} cut in chunks, quartered {{onion}}, chopped {{celery}}, {{parsley}} and {{thyme}}. Simmer for 30–40 minutes until the beef and vegetables are tender.",
+        "Lift out the beef and keep covered and hot. Lift out the vegetables and press them through a sieve into a clean saucepan, adding a little cooking broth as needed to make a smooth purée. Reserve the rest of the broth for another meal, cooling it promptly in shallow containers.",
+        "Stir {{butter}}, {{cream}} and {{pepper}} into the purée and simmer gently for 3–5 minutes, stirring. Add a little reserved hot broth if needed to give a pourable sauce.",
+        "Slice or portion the beef and place on a warm platter. Spoon the carrot sauce around it and serve immediately."
+      ],
+      "notes": "The source title and method require bouilli but omit beef from the ingredient list; a full 1.2 kg simmered-beef component is supplied. The listed onion, celery and herbs are incorporated into the sauce vegetables rather than silently omitted. A gill of cream becomes a modern 120 ml; this is a disclosed complete reconstruction of the abbreviated source method. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 200,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-635e338a9824eee95d48d845",
+    "bodySha256": "ee4d7daf057e7dda4cb488fd033f2043025917e908a2a265396516c5002eab47",
+    "recipe": {
+      "id": "historical-635e338a9824eee95d48d845",
+      "title": "Carrots Sautés à la Créole with Chaurice",
+      "description": "Carrots finish slowly with Creole pork sausage, ham, tomato, herbs and a splash of white wine.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 90,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 900,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "scallions",
+          "amount": 60,
+          "unit": "g",
+          "name": "scallions, white and green parts finely sliced",
+          "substitution": "Use the same weight of trimmed leek, cooking until tender."
+        },
+        {
+          "key": "ham",
+          "amount": 30,
+          "unit": "g",
+          "name": "fully cooked ham, finely diced",
+          "substitution": "Use the same weight of fully cooked smoked turkey."
+        },
+        {
+          "key": "sausage",
+          "amount": 300,
+          "unit": "g",
+          "name": "raw pork chaurice, about three links",
+          "substitution": "Use the same weight of raw spicy pork sausage; the Creole seasoning will differ."
+        },
+        {
+          "key": "tomato",
+          "amount": 180,
+          "unit": "g",
+          "name": "ripe tomato, finely chopped with its juice",
+          "substitution": "Use the same weight of canned chopped tomatoes."
+        },
+        {
+          "key": "stock",
+          "amount": 240,
+          "unit": "ml",
+          "name": "unsalted prepared beef bouillon",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "wine",
+          "amount": 120,
+          "unit": "ml",
+          "name": "dry white wine",
+          "substitution": "Use 110 ml unsalted broth plus 10 ml lemon juice for an alcohol-free variation."
+        },
+        {
+          "key": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "name": "fresh thyme leaves",
+          "substitution": "Use 0.25 tsp dried thyme per 2 g fresh."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "bay",
+          "amount": 1,
+          "unit": "",
+          "name": "dried bay leaf",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "garlic",
+          "amount": 3,
+          "unit": "g",
+          "name": "peeled garlic, finely minced",
+          "substitution": "Use half the weight of garlic paste without added salt."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm rounds. Bring {{water}} and {{salt}} to a boil, add the carrots and cook for 10–15 minutes until just tender. Drain.",
+        "Melt {{butter}} in a wide casserole. Add finely chopped {{onion}} and {{scallions}} and cook for 5–7 minutes until lightly golden. Add {{ham}} and {{sausage}} and cook for 3 minutes, turning the links.",
+        "Add {{thyme}}, {{parsley}}, {{bay}}, {{garlic}} and {{tomato}}. Cook for 3 minutes, then add {{stock}}, {{wine}} and {{pepper}}. Bring to a gentle simmer and cook for 10 minutes.",
+        "Add the carrots, cover loosely and simmer gently for 25–30 minutes until the sausage reaches at least 71°C (160°F) in the center and the carrots are very tender. Add water if the sauce becomes too thick.",
+        "Remove the bay leaf, slice the cooked sausage into portions and serve hot."
+      ],
+      "notes": "The source ingredient list says six sausages but its method says three; this adaptation chooses three links weighing 300 g total. The contradictory square-inch ham measures become a disclosed 30 g. The source shallots with greens and whites are interpreted as scallions. The initial 90-minute carrot boil is shortened while retaining the long finished stew. Wine remains alcoholic after cooking. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 90,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b02a91a8a6d7292dc217abe2",
+    "bodySha256": "61ecb3fa96d7f40f785d6cf98acb5f79bcdcaf5491422254d366f1d8e32eea24",
+    "recipe": {
+      "id": "historical-b02a91a8a6d7292dc217abe2",
+      "title": "Zanahorias Rellenas with Sardines and Tomato-Achiote Sauce",
+      "description": "Hollowed carrots hold a sardine, tomato and parsley filling and are served with a thin tomato-achiote sauce.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 95,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 800,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "filltomato",
+          "amount": 150,
+          "unit": "g",
+          "name": "ripe tomato, finely chopped for the filling",
+          "substitution": "Use the same weight of canned chopped tomatoes, drained."
+        },
+        {
+          "key": "fillonion",
+          "amount": 75,
+          "unit": "g",
+          "name": "onion, finely chopped for the filling",
+          "substitution": "Use the same weight of shallot."
+        },
+        {
+          "key": "fillparsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, chopped for the filling",
+          "substitution": "Use the same weight of cilantro for a different flavor."
+        },
+        {
+          "key": "filloil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        },
+        {
+          "key": "sardines",
+          "amount": 150,
+          "unit": "g",
+          "name": "canned sardines, drained weight",
+          "substitution": "Use the same weight of drained canned mackerel; flavor differs."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "saucetomato",
+          "amount": 250,
+          "unit": "g",
+          "name": "ripe tomato, chopped for the sauce",
+          "substitution": "Use the same weight of canned chopped tomatoes."
+        },
+        {
+          "key": "sauceonion",
+          "amount": 75,
+          "unit": "g",
+          "name": "onion, finely chopped for the sauce",
+          "substitution": "Use the same weight of shallot."
+        },
+        {
+          "key": "sauceoil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        },
+        {
+          "key": "bread",
+          "amount": 5,
+          "unit": "g",
+          "name": "soft white breadcrumbs",
+          "substitution": "Use the same weight of soft gluten-free breadcrumbs."
+        },
+        {
+          "key": "achiote",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground annatto (achiote)",
+          "substitution": "Use the same amount of sweet paprika for a different color and flavor."
+        },
+        {
+          "key": "saucewater",
+          "amount": 150,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Choose thick {{carrot}}, cutting very long ones across into 8–10 cm lengths. Bring {{water}} and {{salt}} to a boil, add the carrots and cook for 15–25 minutes until just tender enough to hollow without breaking. Drain and let cool briefly.",
+        "Cut a thin lengthwise lid from each carrot piece. Scoop out a shallow channel, leaving a sturdy wall. Finely chop the scooped carrot and keep it for the sauce; reserve the lids.",
+        "Heat {{filloil}} in a skillet and soften {{fillonion}} for 5 minutes. Add {{filltomato}} and {{fillparsley}} and cook for 8–10 minutes until thick. Fold in flaked {{sardines}} and warm for 2 minutes.",
+        "Heat {{sauceoil}} in a saucepan, add {{sauceonion}} and cook for 5 minutes. Add {{saucetomato}}, {{bread}}, {{achiote}}, {{saucewater}} and the reserved chopped carrot. Simmer for 10–15 minutes until the onion is tender. Mash or blend to a thin sauce, adding a little water if needed.",
+        "Spoon the sardine filling into the hollow carrots, adding any extra filling to the sauce. Set the reserved carrot lids on top.",
+        "Heat the oven to 180°C (355°F). Spread the sauce in a shallow baking dish, place the stuffed carrots on it and cover. Bake for 15–20 minutes until the filling reaches 74°C (165°F).",
+        "Scatter {{parsley}} over the carrots and serve with the sauce."
+      ],
+      "notes": "All missing amounts and the oven finish are supplied. A lengthwise lid and shallow channel replace a fragile fully hollow carrot; scooped carrot is used in the sauce. Extra filling joins the sauce rather than being wasted. The source vinegar-bay warming method and egg-fried option are separate complete variations. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. The fried variation adds a light flour dusting to help the egg coat adhere. Frying oil is the pan quantity; not all is absorbed.",
+      "source": "Consejos prácticos sobre cocina, pastelería y repostería al estilo del país (1922), author not recorded. https://archive.org/details/consejosprcti00lpezguate SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 95,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "vinegar-bay",
+          "label": "Stuffed carrots with vinegar and bay",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 800,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 4,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "filltomato",
+              "amount": 150,
+              "unit": "g",
+              "name": "ripe tomato, finely chopped for the filling",
+              "substitution": "Use the same weight of canned chopped tomatoes, drained."
+            },
+            {
+              "key": "fillonion",
+              "amount": 75,
+              "unit": "g",
+              "name": "onion, finely chopped for the filling",
+              "substitution": "Use the same weight of shallot."
+            },
+            {
+              "key": "fillparsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, chopped for the filling",
+              "substitution": "Use the same weight of cilantro for a different flavor."
+            },
+            {
+              "key": "filloil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "neutral vegetable oil",
+              "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+            },
+            {
+              "key": "sardines",
+              "amount": 150,
+              "unit": "g",
+              "name": "canned sardines, drained weight",
+              "substitution": "Use the same weight of drained canned mackerel; flavor differs."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of chives, or omit."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of apple cider vinegar."
+            },
+            {
+              "key": "bay",
+              "amount": 1,
+              "unit": "",
+              "name": "dried bay leaf",
+              "substitution": "Omit if unavailable."
+            },
+            {
+              "key": "bakewater",
+              "amount": 100,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            }
+          ],
+          "steps": [
+            "Choose thick {{carrot}}, cutting very long ones across into 8–10 cm lengths. Bring {{water}} and {{salt}} to a boil, add the carrots and cook for 15–25 minutes until just tender enough to hollow without breaking. Drain and let cool briefly.",
+            "Cut a thin lengthwise lid from each carrot piece. Scoop out a shallow channel, leaving a sturdy wall. Finely chop the scooped carrot and reserve it for the baking dish; reserve the lids.",
+            "Heat {{filloil}} in a skillet and soften {{fillonion}} for 5 minutes. Add {{filltomato}} and {{fillparsley}} and cook for 8–10 minutes until thick. Fold in flaked {{sardines}} and warm for 2 minutes.",
+            "Spoon the sardine filling into the carrot channels and set the lids on top. Place them in a shallow baking dish with the reserved chopped carrot and any extra filling.",
+            "Heat the oven to 180°C (355°F). Add {{vinegar}}, {{bay}} and {{bakewater}} to the dish, cover and bake for 15–20 minutes until the filling reaches 74°C (165°F). Remove the bay leaf.",
+            "Scatter {{parsley}} over the carrots and serve with the light pan juices."
+          ]
+        },
+        {
+          "id": "egg-fried",
+          "label": "Egg-coated fried stuffed carrots",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 800,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 4,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "filltomato",
+              "amount": 150,
+              "unit": "g",
+              "name": "ripe tomato, finely chopped for the filling",
+              "substitution": "Use the same weight of canned chopped tomatoes, drained."
+            },
+            {
+              "key": "fillonion",
+              "amount": 75,
+              "unit": "g",
+              "name": "onion, finely chopped for the filling",
+              "substitution": "Use the same weight of shallot."
+            },
+            {
+              "key": "fillparsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, chopped for the filling",
+              "substitution": "Use the same weight of cilantro for a different flavor."
+            },
+            {
+              "key": "filloil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "neutral vegetable oil",
+              "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+            },
+            {
+              "key": "sardines",
+              "amount": 150,
+              "unit": "g",
+              "name": "canned sardines, drained weight",
+              "substitution": "Use the same weight of drained canned mackerel; flavor differs."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of chives, or omit."
+            },
+            {
+              "key": "saucetomato",
+              "amount": 250,
+              "unit": "g",
+              "name": "ripe tomato, chopped for the sauce",
+              "substitution": "Use the same weight of canned chopped tomatoes."
+            },
+            {
+              "key": "sauceonion",
+              "amount": 75,
+              "unit": "g",
+              "name": "onion, finely chopped for the sauce",
+              "substitution": "Use the same weight of shallot."
+            },
+            {
+              "key": "sauceoil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "neutral vegetable oil",
+              "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+            },
+            {
+              "key": "bread",
+              "amount": 5,
+              "unit": "g",
+              "name": "soft white breadcrumbs",
+              "substitution": "Use the same weight of soft gluten-free breadcrumbs."
+            },
+            {
+              "key": "achiote",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground annatto (achiote)",
+              "substitution": "Use the same amount of sweet paprika for a different color and flavor."
+            },
+            {
+              "key": "saucewater",
+              "amount": 150,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use 50 g pasteurized liquid whole egg per egg only where the eggs do not need to be separated."
+            },
+            {
+              "key": "coatflour",
+              "amount": 20,
+              "unit": "g",
+              "name": "all-purpose flour for coating",
+              "substitution": "Use the same weight of a gluten-free plain flour blend."
+            },
+            {
+              "key": "fryoil",
+              "amount": 200,
+              "unit": "ml",
+              "name": "neutral vegetable oil",
+              "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+            }
+          ],
+          "steps": [
+            "Choose thick {{carrot}}, cutting very long ones across into 8–10 cm lengths. Bring {{water}} and {{salt}} to a boil, add the carrots and cook for 15–25 minutes until just tender enough to hollow without breaking. Drain and let cool briefly.",
+            "Cut a thin lengthwise lid from each carrot piece. Scoop out a shallow channel, leaving a sturdy wall. Finely chop the scooped carrot and keep it for the sauce; reserve the lids.",
+            "Heat {{filloil}} in a skillet and soften {{fillonion}} for 5 minutes. Add {{filltomato}} and {{fillparsley}} and cook for 8–10 minutes until thick. Fold in flaked {{sardines}} and warm for 2 minutes.",
+            "Heat {{sauceoil}} in a saucepan, add {{sauceonion}} and cook for 5 minutes. Add {{saucetomato}}, {{bread}}, {{achiote}}, {{saucewater}} and the reserved chopped carrot. Simmer for 10–15 minutes until the onion is tender. Mash or blend to a thin sauce, adding a little water if needed.",
+            "Spoon the sardine filling into the hollow carrots, adding any extra filling to the sauce. Set the reserved carrot lids on top.",
+            "Keep the sauce warm. Secure each carrot lid with a wooden toothpick. Beat {{eggs}} in a shallow bowl and put {{coatflour}} on a plate. Lightly dust the closed carrots with flour, then coat with beaten egg.",
+            "Heat {{fryoil}} in a deep skillet to 160–170°C (320–340°F), with the oil no more than one-third of the pan depth. Fry in small batches for 3–4 minutes per side, turning gently, until the coating is golden and the filling reaches 74°C (165°F). Drain on a rack.",
+            "Remove and count every toothpick before serving. Place the carrots on the warm sauce and scatter with {{parsley}}."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-c1c96873c42e90b6062c3724",
+    "bodySha256": "8ebbf5fd0db5d76504e20beca92826d3279e2b29bb93c00373d7aca5c5db65be",
+    "recipe": {
+      "id": "historical-c1c96873c42e90b6062c3724",
+      "title": "Krebs-Butter (Crayfish Butter)",
+      "description": "Cooked crayfish shells gently infuse butter with shellfish flavor and a warm red-orange color.",
+      "category": "Sauces",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "crayfish",
+          "amount": 750,
+          "unit": "g",
+          "name": "fully cooked whole crayfish, chilled, about 15 medium ones",
+          "substitution": "Use the shells from fully cooked shell-on shrimp of similar total weight for a different shellfish butter."
+        },
+        {
+          "key": "shellbutter",
+          "amount": 200,
+          "unit": "g",
+          "name": "unsalted butter for the shell infusion",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor differs."
+        }
+      ],
+      "steps": [
+        "Peel {{crayfish}}, collecting the tail and claw meat in a clean bowl. Refrigerate the meat promptly. Keep only the clean red shells; discard guts and any gills or other soft head contents. Crush the shells coarsely in a sturdy bag with a rolling pin, avoiding sharp fragments.",
+        "Melt {{shellbutter}} in a saucepan. Add the crushed shells and cook over low heat for 10–15 minutes, stirring, until the butter is fragrant and colored; do not let it burn.",
+        "Pour through a fine sieve lined with two layers of damp clean muslin into a heatproof bowl. Press lightly with a spoon to recover the butter, without forcing shell fragments through. Discard the shells and check that the strained butter is free of grit.",
+        "Use the strained butter immediately in a sauce, or cool it promptly in a shallow covered container and refrigerate within 2 hours. Use within 3 days or freeze. The reserved crayfish meat can be served separately or used in a pie or salad, keeping it refrigerated until needed."
+      ],
+      "notes": "The original recipe 275 was visually checked: it gives 20 DEKAGRAMS of butter, not 20 teaspoons. This becomes 200 g. Fifteen unspecified crayfish become a modern 750 g purchase weight of fully cooked whole crayfish. Gentle shell infusion and cloth filtering replace pounding shells to a paste and chilling butter directly in water, reducing grit. Yield is roughly 150–180 g butter depending on straining, plus reserved meat. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Primary scan verified: Wiener Kochbuch recipe275, printed page64, Internet Archive leaf64. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ae7c7cbef07ce3cc6516c6e1",
+    "bodySha256": "e3f95ab345b19d91bd99e029c747c67be98b980f855b34353f0dbb2a6ce33ce1",
+    "recipe": {
+      "id": "historical-ae7c7cbef07ce3cc6516c6e1",
+      "title": "Erdäpfel-Pastete with Anchovies, Egg and Crayfish",
+      "description": "Puff pastry encloses a light potato filling layered with hard-cooked eggs, anchovies and crayfish, with crayfish-cream sauce alongside.",
+      "category": "Main dishes",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 150,
+      "ingredients": [
+        {
+          "key": "potato",
+          "amount": 240,
+          "unit": "g",
+          "name": "peeled floury potatoes",
+          "substitution": "Use the same weight of another floury potato variety."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "butter",
+          "amount": 160,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use four large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+        },
+        {
+          "key": "roll",
+          "amount": 80,
+          "unit": "g",
+          "name": "plain white bread roll without crust",
+          "substitution": "Use the same weight of soft white bread without crust."
+        },
+        {
+          "key": "milk",
+          "amount": 100,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pastry",
+          "amount": 500,
+          "unit": "g",
+          "name": "ready-to-use puff pastry, chilled",
+          "substitution": "Use the same weight of dairy-free puff pastry; follow its baking instructions if they differ."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "dustflour",
+          "amount": 10,
+          "unit": "g",
+          "name": "all-purpose flour for the dish and rolling",
+          "substitution": "Use a small amount of rice flour for dusting."
+        },
+        {
+          "key": "hardeggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large fully hard-boiled eggs, peeled and chilled",
+          "substitution": "Use three small fully hard-boiled eggs."
+        },
+        {
+          "key": "anchovies",
+          "amount": 25,
+          "unit": "g",
+          "name": "oil-packed anchovy fillets, drained and finely chopped",
+          "substitution": "Use the same weight of finely chopped capers for a different, fish-free seasoning; the pie still contains shellfish."
+        },
+        {
+          "key": "eggwash",
+          "amount": 1,
+          "unit": "",
+          "name": "large egg for brushing the pastry",
+          "substitution": "Use 30 ml milk instead; the pastry will be less glossy."
+        },
+        {
+          "key": "crayfish",
+          "amount": 750,
+          "unit": "g",
+          "name": "fully cooked whole crayfish, chilled, about 15 medium ones",
+          "substitution": "Use the shells from fully cooked shell-on shrimp of similar total weight for a different shellfish butter."
+        },
+        {
+          "key": "shellbutter",
+          "amount": 200,
+          "unit": "g",
+          "name": "unsalted butter for the shell infusion",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor differs."
+        },
+        {
+          "key": "infusedbutter",
+          "amount": 100,
+          "unit": "g",
+          "name": "strained crayfish butter reserved from the component in the steps",
+          "substitution": "Use the measured butter made below, not an additional purchase."
+        },
+        {
+          "key": "sauceflour",
+          "amount": 40,
+          "unit": "g",
+          "name": "all-purpose flour for the sauce",
+          "substitution": "Use the same weight of a gluten-free blend labeled for sauces."
+        },
+        {
+          "key": "cream",
+          "amount": 500,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of unsweetened plant cream suitable for cooking."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        }
+      ],
+      "steps": [
+        "Peel {{crayfish}}, collecting the tail and claw meat in a clean bowl. Refrigerate the meat promptly. Keep only the clean red shells; discard guts and any gills or other soft head contents. Crush the shells coarsely in a sturdy bag with a rolling pin, avoiding sharp fragments.",
+        "Melt {{shellbutter}} in a saucepan. Add the crushed shells and cook over low heat for 10–15 minutes, stirring, until the butter is fragrant and colored; do not let it burn.",
+        "Pour through a fine sieve lined with two layers of damp clean muslin into a heatproof bowl. Press lightly with a spoon to recover the butter, without forcing shell fragments through. Discard the shells and check that the strained butter is free of grit.",
+        "Measure {{infusedbutter}} from the strained butter for the sauce. Cool and refrigerate the remaining butter promptly for another meal. Keep the reserved crayfish meat refrigerated until assembling the pie.",
+        "Cut {{potato}} into small chunks. Bring {{water}} to a boil, add the potatoes and cook for 15–20 minutes until tender. Drain thoroughly, mash smoothly and let cool until no longer warm.",
+        "Soak {{roll}} in {{milk}} for 5 minutes, then squeeze out excess milk. Separate {{eggs}}, putting the whites in a clean grease-free bowl. Beat softened {{butter}} until fluffy, beat in the yolks one at a time and stir in the cooled potato, soaked bread and {{salt}}.",
+        "Beat the reserved whites to firm peaks and fold into the potato mixture. Heat the oven to 200°C (390°F), with a metal baking tray inside. Grease a deep 23 cm pie dish with {{grease}} and dust lightly with part of {{dustflour}}.",
+        "Use the remaining dusting flour to roll {{pastry}} to about 3–4 mm thickness, making a base and lid. Line the dish with the base. Spread in half the potato mixture, layer with sliced {{hardeggs}}, {{anchovies}} and all the reserved crayfish meat, then cover with the remaining potato mixture.",
+        "Cover with the pastry lid, trim and seal the edges and cut several steam vents. Beat {{eggwash}} and brush a thin layer over the pastry, discarding unused egg wash. Bake on the hot tray for 20 minutes, then reduce the oven to 180°C (355°F) and bake for 35–50 minutes more until the pastry is cooked through and the center reaches 74°C (165°F). Shield the top loosely with foil if it browns too quickly.",
+        "While the pie bakes, melt the measured crayfish butter in a saucepan. Stir in {{sauceflour}} and cook for 2 minutes. Gradually whisk in {{cream}} and simmer gently for 5–7 minutes, stirring, until smooth. Stir in {{lemon}}; loosen with a little water if needed.",
+        "Let the pie rest for 10 minutes, then serve slices with the warm sauce alongside. Keep the pie in its dish rather than turning it out."
+      ],
+      "notes": "The original recipe 1086 is potato pastry with anchovies, hard-boiled eggs and crayfish. The German word Sardellen identifies anchovies. The scan contains no carrots or truffles. It lists 16 dekagrams butter,24 dekagrams cooked potato,8 dekagrams rolls and a halfLITER of cream. This adaptation uses 240 g peeled potato as a practical starting weight and supplies missing egg, anchovy, crayfish, milk and pastry amounts. The full same-book crayfish-butter component is included. Sauce flour is deliberately reduced from 100 g to 40 g for a pourable accompaniment; thin pastry replaces the finger-thick source pastry to bake through reliably. The source permits serving sauce separately, which is used here. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Primary scan verified: Wiener Kochbuch recipe1086, printed page247, leaf247; complete component recipe275, page64. Original title and source text remain in the immutable record. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Egg handling: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 150,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]
