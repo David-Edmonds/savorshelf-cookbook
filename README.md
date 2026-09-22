@@ -1,3 +1,7 @@
+# Recipe content batch 022 — September 22, 2026
+
+Eight complete adaptations cover fish and tomato salads and six distinct mayonnaise sauces. Full cooked-yolk preparation, fish cooking, chilling and meaningful butter, mustard, olive, anchovy and herring variations are supplied. Modern quantities are distinguished from recovered source proportions. Totals: 40,835 imported recipes, 398 completed adaptations, 40,437 remaining content repairs and 42,287 visible recipes. No new duplicate merge. The collection remains unfinished; kitchen and physical-phone tests remain unverified. Saved data, Android, portfolio and automations are unchanged.
+
 # Recipe content batch 021 — September 22, 2026
 
 Eight distinct mayonnaise and cooked-dressing recipes now have complete measured methods, substitutions and meaningful cream/mustard variations. Original-page corrections restore oil, butter, cream, mustard, salt and pepper amounts. Modern working volumes, pasteurized raw yolks, cooking endpoints and refrigeration are explicit. Totals: 40,835 imported recipes, 390 completed adaptations, 40,445 remaining content repairs and 42,287 visible recipes. No new duplicate merge. The collection remains unfinished; kitchen and physical-phone testing remain unverified. No Android, portfolio, personal-data or automation changes.
