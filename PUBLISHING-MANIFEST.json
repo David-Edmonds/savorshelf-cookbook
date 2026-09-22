@@ -39,14 +39,14 @@
     "authorization": "Owner requested publication and explicitly chose original measurement wording."
   },
   "contentRepair": {
-    "recipes": 40877,
-    "mergedDuplicateSources": 16,
-    "completedAdaptations": 138,
-    "remainingRecipes": 40739,
-    "recipesWithParsedAmounts": 30227,
-    "parsedIngredients": 100877,
-    "linkedIngredients": 27228,
+    "recipes": 40872,
+    "mergedDuplicateSources": 21,
+    "completedAdaptations": 145,
+    "remainingRecipes": 40727,
+    "recipesWithParsedAmounts": 30220,
+    "parsedIngredients": 100867,
+    "linkedIngredients": 27227,
     "allRequirementsComplete": false
   },
-  "effectiveCookbookRecipes": 42329
+  "effectiveCookbookRecipes": 42324
 }

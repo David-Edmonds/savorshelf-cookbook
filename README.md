@@ -1,3 +1,7 @@
+## September 22 — apple-sauce batch 006
+
+Seven measured apple-sauce adaptations and five reviewed duplicate consolidations retain the different sugar, butter, vanilla and spice formulas. Historical storage practices are replaced by refrigerator/freezer handling. Current totals: 40,872 imported records, 145 completed adaptations, 40,727 remaining content repairs and 42,324 visible recipes. These are modern, untested adaptations; the full collection is not finished. Android, portfolio and personal saved data are unchanged.
+
 ## September 22 — measured sauce and vegetable batch 005
 
 Fifteen additional source recipes now have complete measured adaptations, with dish-specific descriptions, self-contained cooking steps, inline quantities, substitutions and named variations. One equivalent whole-artichoke source is consolidated with its cooling/reheating variation and both credits preserved. Current totals: 40,877 imported records, 138 completed adaptations, 40,739 remaining content repairs, and 42,329 visible cookbook recipes. New measurements, yields and timings are disclosed modern estimates; recipes have not been kitchen-tested. Images remain waived; Android and portfolio are unchanged.

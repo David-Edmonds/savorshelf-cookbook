@@ -94,5 +94,35 @@
     "canonicalId": "historical-ab6b4890fba0b53e6d07646e",
     "bodySha256": "47c97274a6f6741faa037a10e444dd7b24d0a12ac05f7c54139fbf14e504e0f5",
     "reason": "Both full sources consist of whole cooked globe artichokes with white sauce. The Mexican cooling/reheating and sauce-in-center presentation remains a named variation; both source credits and saved IDs are preserved."
+  },
+  {
+    "id": "historical-82e320669c43ba1739da325c",
+    "canonicalId": "historical-0c9d698dd3306b18d84fa64b",
+    "bodySha256": "1268c479e7f72a522345c0cebb1ea2e5758e285eead0daccd913d6a6d4528d8e",
+    "reason": "Full ingredients and methods reviewed together: equivalent apple-sauce formula. Source credits retained; modern water/fruit weights and any removal of historical storage practices are disclosed in the canonical adaptation."
+  },
+  {
+    "id": "historical-7bd978afa10cc767d08bbc82",
+    "canonicalId": "historical-3857f5cc1674d352c0a9c599",
+    "bodySha256": "f07895df49668a18e723f67db05feac87b76508c52732dbb61426d34d620b505",
+    "reason": "Full ingredients and methods reviewed together: equivalent apple-sauce formula. Source credits retained; modern water/fruit weights and any removal of historical storage practices are disclosed in the canonical adaptation."
+  },
+  {
+    "id": "historical-439746b772648b266aa7b551",
+    "canonicalId": "historical-6b93e1af8b5be685d56e023e",
+    "bodySha256": "c6e8d83a62fdb16e62bf350aa69d7c2b1e4c80642e6338f26d06d56a172d821f",
+    "reason": "Full ingredients and methods reviewed together: equivalent apple-sauce formula. Source credits retained; modern water/fruit weights and any removal of historical storage practices are disclosed in the canonical adaptation."
+  },
+  {
+    "id": "historical-8b215e30528bf0bf51321ec5",
+    "canonicalId": "historical-6b93e1af8b5be685d56e023e",
+    "bodySha256": "6d166568313eae2b93795fea68c3c1dee786f270b81d48dbbfc61d11fba58f87",
+    "reason": "Full ingredients and methods reviewed together: equivalent apple-sauce formula. Source credits retained; modern water/fruit weights and any removal of historical storage practices are disclosed in the canonical adaptation."
+  },
+  {
+    "id": "historical-5cba2b0a8836eefac7acf407",
+    "canonicalId": "historical-95cac5255f40f3aedaa6c86a",
+    "bodySha256": "77350537ad6c7cdc2f7fb28219f0e14b2de3059f41a66dd2b23fceed018185ce",
+    "reason": "Full ingredients and methods reviewed together: equivalent apple-sauce formula. Source credits retained; modern water/fruit weights and any removal of historical storage practices are disclosed in the canonical adaptation."
   }
 ]

@@ -4934,5 +4934,430 @@
       "updatedAt": "2026-09-22T13:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-0c9d698dd3306b18d84fa64b",
+    "bodySha256": "73e81760fbb4461e8a15320f9816b2306f7b2138fbbadbcd80e5198c88f2534b",
+    "recipe": {
+      "id": "historical-0c9d698dd3306b18d84fa64b",
+      "title": "Apple Sauce with Butter",
+      "description": "Tart apples are simmered and mashed, then finished with butter and a little sugar for a smooth accompaniment.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 900,
+          "unit": "g",
+          "name": "tart apples, weighed after peeling and coring",
+          "substitution": "Use the same prepared weight of another cooking apple; sweetness and the time needed to soften will vary."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter sauce with a different flavor."
+        },
+        {
+          "key": "butter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a dairy-free butter alternative, or omit for a less rich sauce."
+        },
+        {
+          "key": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste for a less sweet sauce; this is a refrigerated food, not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into roughly 2 cm pieces. Put them in a heavy saucepan with {{water}}.",
+        "Bring just to a boil, cover and lower the heat. Simmer for 15–25 minutes, stirring frequently, until the apples collapse easily under a spoon. Add a small splash of water only if the pan begins to dry.",
+        "Mash the apples with a potato masher, or press through a sieve for a smoother sauce.",
+        "Stir {{butter}} and {{sugar}} into the hot mashed apples until melted and dissolved.",
+        "Serve warm, or transfer to shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Freeze portions for longer storage. This is not a canning recipe."
+      ],
+      "notes": "Two six-apple sources have the same butter-and-sugar finish. Prepared apple weight replaces variable fruit size. Water is increased from the Abbott source spoonful to a practical 120 ml to limit scorching; the Beeton source gives no fixed water quantity. Both sources are retained. Missing amounts, portion yields and timings are disclosed modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature.",
+      "source": "The English and Australian Cookery Book (1864), Edward Abbott. https://archive.org/details/b21505524 SavorShelf measured adaptation. Apple preparation and simmering reference: https://extension.rutgers.edu/recipes/applesauce Equivalent source retained: The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T14:00:00Z",
+      "sourceAliases": [
+        "historical-82e320669c43ba1739da325c"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-3857f5cc1674d352c0a9c599",
+    "bodySha256": "72f893063e89e19fc50bab8caf522215e36dbd5335ed2c08fd58600ea90ca823",
+    "recipe": {
+      "id": "historical-3857f5cc1674d352c0a9c599",
+      "title": "Unsweetened Apple Sauce",
+      "description": "Apples and water cook down to a simple mashed sauce with no added sugar or fat.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 750,
+          "unit": "g",
+          "name": "tart apples, weighed after peeling and coring",
+          "substitution": "Use the same prepared weight of another cooking apple; sweetness and the time needed to soften will vary."
+        },
+        {
+          "key": "water",
+          "amount": 150,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter sauce with a different flavor."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into roughly 2 cm pieces. Put them in a heavy saucepan with {{water}}.",
+        "Bring just to a boil, cover and lower the heat. Simmer for 15–25 minutes, stirring frequently, until the apples collapse easily under a spoon. Add a small splash of water only if the pan begins to dry.",
+        "Mash the apples with a potato masher, or press through a sieve for a smoother sauce.",
+        "Serve warm, or transfer to shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Freeze portions for longer storage. This is not a canning recipe."
+      ],
+      "notes": "The two reviewed sources share only apples and water, simmered and mashed. Missing quantities are supplied; no sugar, spice or fat has been added. Tartness depends on the apples. Missing amounts, portion yields and timings are disclosed modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature.",
+      "source": "The Jewish Manual (1846), Judith Cohen Montefiore (attr.). https://archive.org/details/b22021371 SavorShelf measured adaptation. Apple preparation and simmering reference: https://extension.rutgers.edu/recipes/applesauce Equivalent source retained: La Cuisine Creole (1885), Lafcadio Hearn. https://archive.org/details/lacuisinecreolec00hear",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T14:00:00Z",
+      "sourceAliases": [
+        "historical-7bd978afa10cc767d08bbc82"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-7383481118b1704589f9aa12",
+    "bodySha256": "060f3ccadf909640336d115a9ad511ab1da3d7b587b75b3d2f1e4c8b74d72aab",
+    "recipe": {
+      "id": "historical-7383481118b1704589f9aa12",
+      "title": "Apple Sauce Victoria with Vanilla",
+      "description": "A smooth, sieved apple sauce is lightly sweetened and finished with vanilla.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 1000,
+          "unit": "g",
+          "name": "tart apples, weighed after peeling and coring",
+          "substitution": "Use the same prepared weight of another cooking apple; sweetness and the time needed to soften will vary."
+        },
+        {
+          "key": "water",
+          "amount": 200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter sauce with a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste for a less sweet sauce; this is a refrigerated food, not a shelf-stable preserve."
+        },
+        {
+          "key": "vanilla",
+          "amount": 5,
+          "unit": "ml",
+          "name": "vanilla extract",
+          "substitution": "Use 2 g finely grated lemon zest for a different flavor, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into roughly 2 cm pieces. Put them in a heavy saucepan with {{water}}.",
+        "Bring just to a boil, cover and lower the heat. Simmer for 15–25 minutes, stirring frequently, until the apples collapse easily under a spoon. Add a small splash of water only if the pan begins to dry.",
+        "Mash the apples with a potato masher, or press through a sieve for a smoother sauce.",
+        "Press the mashed apples through a fine sieve if they are not already smooth. Stir in {{sugar}} until dissolved, then stir in {{vanilla}} off the heat.",
+        "Serve warm, or transfer to shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Freeze portions for longer storage. This is not a canning recipe."
+      ],
+      "notes": "The source vanilla teaspoon becomes 5 ml. Apple, water and sugar amounts are supplied. A controlled simmer replaces the very brisk boil to reduce scorching while retaining the smooth texture. Missing amounts, portion yields and timings are disclosed modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Apple preparation and simmering reference: https://extension.rutgers.edu/recipes/applesauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T14:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-7d66caf84ba2fcfbd949b5cf",
+    "bodySha256": "140141e4acf8667e54875b85dc43cd2739321f0f30ce3e355c8d789829cbb0fa",
+    "recipe": {
+      "id": "historical-7d66caf84ba2fcfbd949b5cf",
+      "title": "Spiced Apple Sauce with Butter",
+      "description": "Apples cook into a thick sauce with clove and cinnamon, then receive a butter-and-sugar finish.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 65,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 900,
+          "unit": "g",
+          "name": "tart apples, weighed after peeling and coring",
+          "substitution": "Use the same prepared weight of another cooking apple; sweetness and the time needed to soften will vary."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter sauce with a different flavor."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a dairy-free butter alternative, or omit for a less rich sauce."
+        },
+        {
+          "key": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste for a less sweet sauce; this is a refrigerated food, not a shelf-stable preserve."
+        },
+        {
+          "key": "cloves",
+          "amount": 0.5,
+          "unit": "g",
+          "name": "ground cloves",
+          "substitution": "Omit for a milder sauce; there is no identical substitute."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 2,
+          "unit": "g",
+          "name": "ground cinnamon",
+          "substitution": "Use 1 g ground allspice for a different spice profile, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into 2 cm pieces and put in a heavy saucepan with {{water}}, {{cloves}} and {{cinnamon}}.",
+        "Bring to a gentle simmer, partly cover and cook for about 45 minutes, stirring often and mashing as the apples soften. Add water in small splashes if needed to stop the bottom catching.",
+        "Press through a coarse sieve. Return to the pan, add {{sugar}} and {{butter}}, and simmer gently for another 5 minutes, stirring until smooth.",
+        "Serve warm, or transfer to shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Freeze portions for longer storage. This is not a canning recipe."
+      ],
+      "notes": "The source long simmer and butter finish remain. Ground clove and cinnamon quantities are modern choices in place of grinding four cloves and an unspecified stick. Six variable apples become 900 g prepared fruit. Missing amounts, portion yields and timings are disclosed modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Apple preparation and simmering reference: https://extension.rutgers.edu/recipes/applesauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 65,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T14:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-6b93e1af8b5be685d56e023e",
+    "bodySha256": "b0395041fff01be23bbefe267a9ab3bd73cf953c48b8740026cbc6f4704f05ae",
+    "recipe": {
+      "id": "historical-6b93e1af8b5be685d56e023e",
+      "title": "Enkelt Äppelmos (Sweet Lemon Apple Sauce)",
+      "description": "A sweet, thick apple sauce retains the source ratio of one part sugar to two parts prepared apple, with lemon juice and zest.",
+      "category": "Sauces",
+      "servings": 16,
+      "yieldUnit": "sauce portions",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 1000,
+          "unit": "g",
+          "name": "tart apples, weighed after peeling and coring",
+          "substitution": "Use the same prepared weight of another cooking apple; sweetness and the time needed to soften will vary."
+        },
+        {
+          "key": "water",
+          "amount": 200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter sauce with a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 500,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste for a less sweet sauce; this is a refrigerated food, not a shelf-stable preserve."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 1,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into small pieces and put in a heavy saucepan with {{water}}, {{sugar}}, {{lemon}} and {{zest}}.",
+        "Warm gently, stirring until the sugar dissolves. Simmer over low heat for 25–35 minutes, stirring frequently along the bottom, until the apples break down to a thick pulp. Add a little water only if needed to prevent scorching.",
+        "Mash thoroughly or pass through a sieve. If too thin, simmer uncovered for a few more minutes while stirring.",
+        "Serve warm, or transfer to shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Freeze portions for longer storage. This is not a canning recipe."
+      ],
+      "notes": "Three equivalent transcriptions are consolidated. The half-weight sugar ratio is retained in a smaller batch; the ambiguous apple-volume and water notation are replaced by explicit modern weights and volume. The historical jar covering is replaced by refrigeration or freezing, not presented as safe preservation. Missing amounts, portion yields and timings are disclosed modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation. Apple preparation and simmering reference: https://extension.rutgers.edu/recipes/applesauce Equivalent source retained: Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 Equivalent source retained: Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T14:00:00Z",
+      "sourceAliases": [
+        "historical-439746b772648b266aa7b551",
+        "historical-8b215e30528bf0bf51321ec5"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-95cac5255f40f3aedaa6c86a",
+    "bodySha256": "d6c6105fd498fcf0e601484ad51e92dd5a5b336fa508543b2ecc4062198d76ec",
+    "recipe": {
+      "id": "historical-95cac5255f40f3aedaa6c86a",
+      "title": "Äppelmos (Slow-Reduced Apple Sauce)",
+      "description": "Sieved apples are cooked again with sugar until thick, preserving the source’s long reduction and moderately sweet ratio.",
+      "category": "Sauces",
+      "servings": 16,
+      "yieldUnit": "sauce portions",
+      "minutes": 85,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 1000,
+          "unit": "g",
+          "name": "tart apples, weighed after peeling and coring",
+          "substitution": "Use the same prepared weight of another cooking apple; sweetness and the time needed to soften will vary."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter sauce with a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 375,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste for a less sweet sauce; this is a refrigerated food, not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into small pieces. Put them in a large, heavy saucepan with {{water}} and bring to a gentle simmer.",
+        "Cook for 15–25 minutes, stirring occasionally, until completely soft. Press through a sieve into a clean saucepan.",
+        "Stir in {{sugar}} and simmer uncovered over low heat for 30–60 minutes, stirring frequently, until the sauce is thick enough to mound softly on a spoon. Watch closely near the end to prevent scorching.",
+        "Serve warm, or transfer to shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Freeze portions for longer storage. This is not a canning recipe."
+      ],
+      "notes": "Two equivalent Idun transcriptions are combined. A half-size batch retains the apple/water/sugar ratio, using prepared fruit weight. The historical chemical preservative and wax/fat/cognac sealing methods are omitted entirely; this adaptation requires refrigeration or freezing. Missing amounts, portion yields and timings are disclosed modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Apple preparation and simmering reference: https://extension.rutgers.edu/recipes/applesauce Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 85,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T14:00:00Z",
+      "sourceAliases": [
+        "historical-5cba2b0a8836eefac7acf407"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-8788d6cca0f07cd02dbcbd7f",
+    "bodySha256": "cb796fa80ad1ebfbb5f989d0391d4397efb656856e3eb8bf44ecbfb820fdfab3",
+    "recipe": {
+      "id": "historical-8788d6cca0f07cd02dbcbd7f",
+      "title": "Clove-Spiced Apple Sauce",
+      "description": "Tart apples simmer with sugar and whole cloves, then are mashed into a strongly aromatic sauce.",
+      "category": "Sauces",
+      "servings": 10,
+      "yieldUnit": "sauce portions",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 1200,
+          "unit": "g",
+          "name": "tart apples, weighed after peeling and coring",
+          "substitution": "Use the same prepared weight of another cooking apple; sweetness and the time needed to soften will vary."
+        },
+        {
+          "key": "water",
+          "amount": 180,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter sauce with a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste for a less sweet sauce; this is a refrigerated food, not a shelf-stable preserve."
+        },
+        {
+          "key": "cloves",
+          "amount": 8,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Use 0.75 g ground cloves for a slightly different texture; do not strain out ground spice."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into 2 cm pieces. Put them in a heavy saucepan with {{water}} and {{sugar}}.",
+        "Tie {{cloves}} in a small piece of food-safe cheesecloth and add to the pan, or count them carefully so all can be removed. Bring to a gentle simmer.",
+        "Cover loosely and cook for 20–30 minutes, stirring frequently, until the apples are very soft. Add a small splash of water if the bottom begins to dry.",
+        "Remove and discard the clove bundle or all whole cloves, then mash the fruit to the desired texture.",
+        "Serve warm, or transfer to shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Freeze portions for longer storage. This is not a canning recipe."
+      ],
+      "notes": "Eight source apples become 1200 g prepared fruit; one cup of sugar is assigned 200 g. The original eight cloves remain, with an explicit removal step to avoid leaving whole spices in the finished sauce. Missing amounts, portion yields and timings are disclosed modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Apple preparation and simmering reference: https://extension.rutgers.edu/recipes/applesauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T14:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]
