@@ -124,5 +124,17 @@
     "canonicalId": "historical-95cac5255f40f3aedaa6c86a",
     "bodySha256": "77350537ad6c7cdc2f7fb28219f0e14b2de3059f41a66dd2b23fceed018185ce",
     "reason": "Full ingredients and methods reviewed together: equivalent apple-sauce formula. Source credits retained; modern water/fruit weights and any removal of historical storage practices are disclosed in the canonical adaptation."
+  },
+  {
+    "id": "historical-7a33ef61c09f124fc63f8d75",
+    "canonicalId": "historical-410bed8021a75655d8648621",
+    "bodySha256": "59be9de81e68bb94852029025b30fbff8e0e10facb3f9910fedcab094cfca76b",
+    "reason": "Full ingredients and cooking method are equivalent transcriptions from the same book. Both source credits are retained, with any optional glaze preserved in the canonical recipe."
+  },
+  {
+    "id": "historical-d5a562346efda48b77b79ba1",
+    "canonicalId": "historical-01406f7933a04f2010ea02b9",
+    "bodySha256": "53262bae706c0139042eedac622275ae3249cc9b7efb38eb44a7cb9af85dbf54",
+    "reason": "Full ingredients and cooking method are equivalent transcriptions from the same book. Both source credits are retained, with any optional glaze preserved in the canonical recipe."
   }
 ]

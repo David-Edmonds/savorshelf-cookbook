@@ -5359,5 +5359,990 @@
       "updatedAt": "2026-09-22T14:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-cd026bebc91036f4f73540dc",
+    "bodySha256": "411e4aba005942cd115630361e2f14f50dc488113af4925bd0bee9158b9d2411",
+    "recipe": {
+      "id": "historical-cd026bebc91036f4f73540dc",
+      "title": "Pommes à la Portugaise (Sugar-Baked Apples)",
+      "description": "Whole cored apples bake with sugar in their centers and finish with a light dusting of powdered sugar.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "icing",
+          "amount": 10,
+          "unit": "g",
+          "name": "powdered sugar",
+          "substitution": "Use 10 g fine granulated sugar for a slightly grainier finish."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Stand the apples in a snug ovenproof dish lined with baking parchment. Divide {{sugar}} among their cavities and scatter any remainder around them. Cover loosely with foil.",
+        "Bake for 30–45 minutes, checking after 25 minutes, until a small knife enters the flesh easily. Larger or firmer apples may take longer. Cover loosely with foil if the tops darken before the centers soften. Remove the foil for the final 10 minutes if the fruit is still pale.",
+        "Let stand for 5 minutes, then sprinkle with {{icing}} and serve warm."
+      ],
+      "notes": "The source title is retained as a historical recipe name, not an asserted Portuguese origin. An explicit four-apple batch replaces the unspecified dishful. Baking parchment and a loose cover replace the old silver-plate/camp-oven option. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "La Cuisinière bourgeoise (1801), Menon. https://archive.org/details/b22019935 SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-d046b228d1330ca095782e7f",
+    "bodySha256": "35d27b1738810f26f7fe14526b04154733f6facd4bf4d66e21ea0a2a64a89113",
+    "recipe": {
+      "id": "historical-d046b228d1330ca095782e7f",
+      "title": "Gebraden Appelen (Raisin and Coconut Baked Apples)",
+      "description": "Peeled apples are filled with cinnamon sugar and raisins, dotted with butter and finished with a little toasted coconut.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 8,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 4,
+          "unit": "g",
+          "name": "ground cinnamon",
+          "substitution": "Use half the weight of ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "butter",
+          "amount": 40,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "water",
+          "amount": 50,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+        },
+        {
+          "key": "raisins",
+          "amount": 50,
+          "unit": "g",
+          "name": "raisins",
+          "substitution": "Use the same weight of sultanas or finely chopped dried apricots."
+        },
+        {
+          "key": "coconut",
+          "amount": 10,
+          "unit": "g",
+          "name": "unsweetened desiccated coconut",
+          "substitution": "Use 10 g finely chopped almonds if suitable, or omit."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Peel {{apples}} and remove the cores and seeds, keeping the apples whole. Arrange upright in a snug ovenproof dish.",
+        "Mix {{sugar}}, {{cinnamon}} and {{raisins}} and divide among the apple cavities. Dot the tops with {{butter}} and pour {{water}} into the bottom of the dish.",
+        "Bake for 30–45 minutes until a knife enters the flesh easily, spooning the pan liquid over the apples halfway through. Add a small splash of water if the pan dries.",
+        "Sprinkle {{coconut}} over the apples during the final 5 minutes, watching that it does not burn. Serve warm."
+      ],
+      "notes": "The source fruit count, sugar, butter, raisins and 50 ml water are retained. Cinnamon and coconut are assigned weights. The timing is extended when necessary for modern medium apples; tenderness takes precedence over the source 20–30 minutes. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-43dc05f6e574053436366871",
+    "bodySha256": "5912b2686ad4491bd32441890f65a4f6ec6461504f6362691bf158647ff59d91",
+    "recipe": {
+      "id": "historical-43dc05f6e574053436366871",
+      "title": "Baked Apples with Clove and Lemon Syrup",
+      "description": "Whole apples bake in a generously sweetened lemon syrup scented with whole cloves.",
+      "category": "Desserts",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 12,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "sugar",
+          "amount": 454,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "cloves",
+          "amount": 6,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Use 0.5 g ground cloves for a different texture; omit the spice-removal step for ground spice."
+        },
+        {
+          "key": "zest",
+          "amount": 4,
+          "unit": "g",
+          "name": "thin strips of lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest; avoid bitter white pith."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of orange juice for a sweeter citrus flavor."
+        },
+        {
+          "key": "water",
+          "amount": 150,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Arrange the apples in a deep ovenproof dish in one layer. Scatter {{sugar}} around and into them. Add {{cloves}}, {{zest}}, {{lemon}} and {{water}} to the dish. Cover with foil.",
+        "Bake for 40–60 minutes until tender through, basting with the syrup after 25 minutes. Uncover for the final 10 minutes. Add a little water if the syrup begins to catch.",
+        "Remove and discard all whole cloves and lemon strips. Rest for 5 minutes and serve with the syrup spooned over the fruit."
+      ],
+      "notes": "The source one pound of sugar is retained as about 454 g. Twelve medium apples are supplied to define the previously unspecified fruit quantity. Water is added to start a syrup without scorching the sugar. Coring and an oven method complete the truncated source. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "An Easy and Economical Book of Jewish Cookery (1874), Estella Atrutel. https://archive.org/details/b2807967x SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-410bed8021a75655d8648621",
+    "bodySha256": "0d4a2d5a45facb917a4062149569bb543481016976c1deac88e4ce1b093e0231",
+    "recipe": {
+      "id": "historical-410bed8021a75655d8648621",
+      "title": "Baked Apples with Raisins and Cloves",
+      "description": "Apples filled with raisins, brown sugar and cinnamon bake with cloves, then chill in their syrup for a soft fruit dessert.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 150,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "brown",
+          "amount": 40,
+          "unit": "g",
+          "name": "light brown sugar",
+          "substitution": "Use the same weight of granulated sugar for a lighter flavor."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "g",
+          "name": "ground cinnamon",
+          "substitution": "Use half the weight of ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "raisins",
+          "amount": 40,
+          "unit": "g",
+          "name": "raisins",
+          "substitution": "Use the same weight of sultanas or finely chopped dried apricots."
+        },
+        {
+          "key": "cloves",
+          "amount": 4,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Use 0.3 g ground cloves mixed into the filling; no removal is then needed."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+        },
+        {
+          "key": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Mix {{brown}}, {{cinnamon}} and {{raisins}} and divide among the cavities. Put {{cloves}} in the dish around the apples so they can be removed later. Add {{water}} and sprinkle the tops with {{sugar}}.",
+        "Bake for 30–45 minutes, checking after 25 minutes, until a small knife enters the flesh easily. Larger or firmer apples may take longer. Cover loosely with foil if the tops darken before the centers soften. Spoon the pan liquid over the fruit halfway through; some splitting is consistent with this soft preparation.",
+        "Remove all whole cloves. Transfer the apples and syrup to a shallow container, cool briefly, then refrigerate within 2 hours. Chill for at least 1 hour before serving."
+      ],
+      "notes": "Two matching transcriptions are consolidated. The original cold serving style remains. Optional egg-white glaze is retained as a separate pasteurized-egg variation; total time includes an estimated chilling period. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/ Equivalent source retained: The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 Pasteurized egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 150,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": [
+        "historical-7a33ef61c09f124fc63f8d75"
+      ],
+      "variants": [
+        {
+          "id": "glazed",
+          "label": "Pasteurized egg-white glaze and cream",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 4,
+              "unit": "",
+              "name": "medium firm baking apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+            },
+            {
+              "key": "brown",
+              "amount": 40,
+              "unit": "g",
+              "name": "light brown sugar",
+              "substitution": "Use the same weight of granulated sugar for a lighter flavor."
+            },
+            {
+              "key": "cinnamon",
+              "amount": 1,
+              "unit": "g",
+              "name": "ground cinnamon",
+              "substitution": "Use half the weight of ground allspice for a different flavor, or omit."
+            },
+            {
+              "key": "raisins",
+              "amount": 40,
+              "unit": "g",
+              "name": "raisins",
+              "substitution": "Use the same weight of sultanas or finely chopped dried apricots."
+            },
+            {
+              "key": "cloves",
+              "amount": 4,
+              "unit": "",
+              "name": "whole cloves",
+              "substitution": "Use 0.3 g ground cloves mixed into the filling; no removal is then needed."
+            },
+            {
+              "key": "water",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+            },
+            {
+              "key": "sugar",
+              "amount": 10,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+            },
+            {
+              "key": "white",
+              "amount": 30,
+              "unit": "g",
+              "name": "pasteurized liquid egg white suitable for whipping",
+              "substitution": "Use a product labeled pasteurized; ordinary raw egg white is not an equivalent uncooked substitution."
+            },
+            {
+              "key": "icing",
+              "amount": 60,
+              "unit": "g",
+              "name": "powdered sugar",
+              "substitution": "Use finely ground caster sugar for a slightly grainier glaze."
+            },
+            {
+              "key": "cream",
+              "amount": 120,
+              "unit": "ml",
+              "name": "cold heavy whipping cream",
+              "substitution": "Use the same volume of a plant-based cream specifically suitable for whipping; texture and flavor differ."
+            }
+          ],
+          "steps": [
+            "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+            "Mix {{brown}}, {{cinnamon}} and {{raisins}} and divide among the cavities. Put {{cloves}} in the dish around the apples so they can be removed later. Add {{water}} and sprinkle the tops with {{sugar}}.",
+            "Bake for 30–45 minutes, checking after 25 minutes, until a small knife enters the flesh easily. Larger or firmer apples may take longer. Cover loosely with foil if the tops darken before the centers soften. Spoon the pan liquid over the fruit halfway through; some splitting is consistent with this soft preparation.",
+            "Remove all whole cloves. Transfer the apples and syrup to a shallow container, cool briefly, then refrigerate within 2 hours. Chill for at least 1 hour before serving.",
+            "Whisk {{white}} with {{icing}} in a clean bowl until smooth and thick enough to coat a spoon. Spoon a thin layer over the chilled apples.",
+            "Whip {{cream}} until soft peaks form and serve alongside immediately. Keep the glazed fruit refrigerated until serving."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-3b505e140771aea40872b797",
+    "bodySha256": "eb6fd7a2396a42035a48aeb7ab5d9927eb078b787685b1ab70e881e889bd436c",
+    "recipe": {
+      "id": "historical-3b505e140771aea40872b797",
+      "title": "Jabłka Pieczone z Galaretą (Jelly-Filled Apple Halves)",
+      "description": "Unpeeled apple halves hold currant jelly and are served warm with sugar and cool sour cream.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 2,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "jelly",
+          "amount": 60,
+          "unit": "g",
+          "name": "redcurrant jelly",
+          "substitution": "Use the same weight of another smooth fruit jelly; flavor and sweetness will change."
+        },
+        {
+          "key": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "sour",
+          "amount": 80,
+          "unit": "g",
+          "name": "cold sour cream",
+          "substitution": "Use the same weight of plain full-fat yogurt for a tangier, lighter topping."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}, halve lengthwise and scoop out every seed and the firm core, leaving a small hollow.",
+        "Put the halves cut-side up in a snug dish lined with baking parchment. Divide {{jelly}} among the hollows.",
+        "Bake for 25–35 minutes until the flesh is tender when pierced. Cover loosely if the jelly darkens too quickly.",
+        "Let cool for 5 minutes. Sprinkle with {{sugar}} and serve with {{sour}}."
+      ],
+      "notes": "The source pair of apples is retained as four half-apple portions. Serving sugar and sour cream, mentioned only in the method, are added to the measured ingredient list. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-41592b34efb396b6df029897",
+    "bodySha256": "5fc6c7692146090f8e7e7e05fbec1b8e46122cd0d44309d877e5a6c9e94fbb17",
+    "recipe": {
+      "id": "historical-41592b34efb396b6df029897",
+      "title": "Jabłka Pieczone ze Śliwkami (Prune-Filled Apples)",
+      "description": "Tart apples hold softened prunes and cinnamon sugar, with cold sour cream alongside.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "prunes",
+          "amount": 80,
+          "unit": "g",
+          "name": "pitted prunes",
+          "substitution": "Use 80 g pitted dates for a sweeter filling; they may soften faster."
+        },
+        {
+          "key": "water",
+          "amount": 160,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+        },
+        {
+          "key": "sugar",
+          "amount": 16,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "g",
+          "name": "ground cinnamon",
+          "substitution": "Use half the weight of ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "sour",
+          "amount": 120,
+          "unit": "g",
+          "name": "cold sour cream",
+          "substitution": "Use the same weight of plain full-fat yogurt for a tangier, lighter topping."
+        }
+      ],
+      "steps": [
+        "Put {{prunes}} and {{water}} in a small saucepan. Simmer gently for 8–10 minutes until the fruit is soft. Drain, retaining the cooking liquid, and chop the prunes.",
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Fill the cavities with the softened prunes. Mix {{sugar}} with {{cinnamon}} and divide over the filling. Pour the reserved prune liquid into the dish.",
+        "Bake for 30–45 minutes, checking after 25 minutes, until a small knife enters the flesh easily. Larger or firmer apples may take longer. Cover loosely with foil if the tops darken before the centers soften. Baste once and add a splash of water if the dish dries.",
+        "Rest for 5 minutes, then serve with {{sour}}."
+      ],
+      "notes": "The missing preparation of cooked prunes is supplied. Four grams of sugar per apple gives a modern measured teaspoon. The source slow baking and sour-cream finish remain. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-0f3bc1baec5a674b583c79b0",
+    "bodySha256": "987f5f1146b591f26494c29a7b10d18924c66efde1d20b0e4b7c4c1c15bf335d",
+    "recipe": {
+      "id": "historical-0f3bc1baec5a674b583c79b0",
+      "title": "Baked Apples in Sugar Syrup",
+      "description": "Unpeeled apples bake with sugar and water, producing a light syrup to spoon over the tender fruit.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 65,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "sugar",
+          "amount": 75,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Set the apples upright in a snug ovenproof dish. Divide {{sugar}} over their cavities and pour {{water}} into the dish.",
+        "Bake for 40–50 minutes until very tender, basting twice with the liquid. Add water only if the dish is drying before the apples soften.",
+        "Let stand for 5 minutes, then spoon the syrup over the apples and serve."
+      ],
+      "notes": "Six source apples and the cup of water are retained; spoonfuls of sugar become 75 g total and the cup becomes 240 ml. Removing the cores is an explicit modern addition to the source blossom-end scooping. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 65,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-2765374c6ef803d34acb60ff",
+    "bodySha256": "b1d657867fc207509b1ef4134505f12e9ee12f177956e282e98eaaa32dd9dc24",
+    "recipe": {
+      "id": "historical-2765374c6ef803d34acb60ff",
+      "title": "Molasses-Baked Apples",
+      "description": "Whole apples bake beneath a dark molasses glaze for a deeply flavored, simple dessert.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "molasses",
+          "amount": 60,
+          "unit": "g",
+          "name": "mild unsulfured molasses",
+          "substitution": "Use 60 g dark treacle for a stronger flavor or golden syrup for a lighter one; avoid bitter blackstrap as a direct substitute."
+        },
+        {
+          "key": "water",
+          "amount": 40,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Place the apples in a snug ceramic or stainless-steel baking dish. Mix {{molasses}} with {{water}} and spoon over the apples. Cover loosely with foil.",
+        "Bake for 30 minutes. Uncover, baste and continue for 10–20 minutes until a knife enters the flesh easily. Watch the molasses closely and add a little water if it begins to catch.",
+        "Cool for 5 minutes and serve with the pan glaze."
+      ],
+      "notes": "A four-apple batch, molasses amount and oven instructions are supplied. A little water and a temporary cover are modern additions to reduce scorching; the source molasses character is retained. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "La Cuisine Creole (1885), Lafcadio Hearn. https://archive.org/details/lacuisinecreolec00hear SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b2e75165b5f4c6a062718e0a",
+    "bodySha256": "92bc24dcd658928c87acff54ca05491dc9967fed3f0d07c9bfe46198fcb831aa",
+    "recipe": {
+      "id": "historical-b2e75165b5f4c6a062718e0a",
+      "title": "Peeled Baked Apples with Lemon",
+      "description": "Peeled whole apples bake with lemon juice and zest, then chill in their light syrup for serving with cream.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 155,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "sugar",
+          "amount": 90,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of orange juice for a sweeter citrus flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "thin strips of lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest; avoid bitter white pith."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+        },
+        {
+          "key": "cream",
+          "amount": 120,
+          "unit": "ml",
+          "name": "cold heavy whipping cream",
+          "substitution": "Use the same volume of a plant-based cream specifically suitable for whipping; texture and flavor differ."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Peel {{apples}} and core without cutting into pieces. Arrange upright in a snug baking dish.",
+        "Divide {{sugar}}, {{lemon}} and {{zest}} among the cavities. Pour {{water}} around the fruit.",
+        "Cover loosely with foil and bake for 40–60 minutes, basting once, until tender but still whole. Remove the foil for the final 10 minutes if needed.",
+        "Discard the lemon strips. Move the apples and syrup to a shallow container, cool briefly and refrigerate within 2 hours. Chill at least 1 hour. Serve with {{cream}} poured alongside."
+      ],
+      "notes": "The source dozen is halved to six apples. Missing sugar, lemon, water and cream quantities are supplied. Cream is selected from its cream-or-custard serving options. Chilling is included in the estimated total time; refrigeration replaces the unspecified cold-storage wording. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 155,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-355ce4078f46f35dbfc915a9",
+    "bodySha256": "f92ee69c071fe67498c607ea928beccd63eafec553d95eaeb1c277f64c336df4",
+    "recipe": {
+      "id": "historical-355ce4078f46f35dbfc915a9",
+      "title": "Stekta Äpplen (Lightly Buttered Baked Apples)",
+      "description": "Cored apples bake in a buttered dish with a light sprinkle of sugar, keeping the fruit flavor prominent.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "butter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Use {{butter}} to coat the inside of a snug ovenproof dish. Stand the apples in it and sprinkle evenly with {{sugar}}. Cover loosely with foil.",
+        "Bake for 30–45 minutes, checking after 25 minutes, until a small knife enters the flesh easily. Larger or firmer apples may take longer. Cover loosely with foil if the tops darken before the centers soften. Uncover for the last 10 minutes.",
+        "Rest for 5 minutes and serve warm, or cool briefly and refrigerate for serving cold."
+      ],
+      "notes": "A half batch retains the source gram weights in preference to its inconsistent tablespoon labels. The unpeeled option is selected. Whipped cream was optional in the source and is not required for this base preparation. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-47594cfda891841509685ecc",
+    "bodySha256": "76d9581ba99666ce5fa48409d6a476ee717878e5c995dad652b7dc446133069d",
+    "recipe": {
+      "id": "historical-47594cfda891841509685ecc",
+      "title": "Crumb-Coated Baked Apples with Vanilla Cream",
+      "description": "Peeled apples are coated in crisp rusk crumbs, filled with sugar and served chilled with vanilla-scented whipped cream.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 150,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "rusks",
+          "amount": 60,
+          "unit": "g",
+          "name": "plain rusks, finely crushed",
+          "substitution": "Use 60 g fine dry breadcrumbs, or gluten-free crumbs if needed; sweetness and texture differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "cream",
+          "amount": 200,
+          "unit": "ml",
+          "name": "cold heavy whipping cream",
+          "substitution": "Use the same volume of a plant-based cream specifically suitable for whipping; texture and flavor differ."
+        },
+        {
+          "key": "vanilla",
+          "amount": 8,
+          "unit": "g",
+          "name": "vanilla sugar",
+          "substitution": "Use 8 g granulated sugar plus 1 ml vanilla extract."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Peel {{apples}} and carefully scoop out the cores and seeds, leaving a base in each apple to hold the filling.",
+        "Coat the damp peeled apples with {{rusks}}, pressing gently. Use {{butter|0.5}} to grease a snug ovenproof dish and stand the apples in it.",
+        "Divide {{sugar}} among the cavities, scattering any that does not fit around the fruit. Dot the tops with the remaining {{butter|0.5}}. Cover loosely with foil.",
+        "Bake for 35–50 minutes until tender, uncovering for the final 10 minutes to crisp the crumbs. Cover again if the crumbs darken too quickly.",
+        "Cool briefly, transfer to a shallow covered container and refrigerate within 2 hours. Chill for at least 1 hour.",
+        "Whip {{cream}} with {{vanilla}} until soft peaks form. Serve with the chilled apples."
+      ],
+      "notes": "The source twelve-apple recipe is halved. Rusk, sugar and butter spoon/cup amounts are assigned modern weights; the ambiguous cream notation becomes an explicit 200 ml for this batch. The crumb coating and cold whipped-cream presentation are retained. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 150,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-01406f7933a04f2010ea02b9",
+    "bodySha256": "cb838df8287d2cc8bc4902149f76f4df437dd61711d61fb8c863a68f9c43c484",
+    "recipe": {
+      "id": "historical-01406f7933a04f2010ea02b9",
+      "title": "Plain Baked Apples with Sugar",
+      "description": "Apples bake until very soft, then receive a simple sugar finish just before serving.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (356°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Arrange the apples in a snug dish lined with baking parchment and cover loosely with foil. Bake for 45–60 minutes until very soft and beginning to split; uncover for the final 15 minutes.",
+        "Let stand for 5 minutes, then sprinkle with {{sugar}} and serve warm."
+      ],
+      "notes": "Two repeated Whitehouse transcriptions are consolidated. A four-apple yield and oven temperature are supplied. Coring and a loose initial cover are modern preparation additions; sugar is still added after baking rather than as a filling. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/ Equivalent source retained: The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": [
+        "historical-d5a562346efda48b77b79ba1"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-0cc9b9a2be2028e054f8868c",
+    "bodySha256": "e133886a0ebbb4665f9516aef8d82e8a46eebe6df6426c4fc2cdf34435d41a12",
+    "recipe": {
+      "id": "historical-0cc9b9a2be2028e054f8868c",
+      "title": "Baked Apples with Cinnamon and Cream",
+      "description": "Cored apples bake with cinnamon sugar and a little water, then are served with cream and the pan syrup.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 65,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 8,
+          "unit": "",
+          "name": "medium firm baking apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+        },
+        {
+          "key": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.6,
+          "unit": "g",
+          "name": "ground cinnamon",
+          "substitution": "Use half the weight of ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+        },
+        {
+          "key": "cream",
+          "amount": 160,
+          "unit": "ml",
+          "name": "cold heavy whipping cream",
+          "substitution": "Use the same volume of a plant-based cream specifically suitable for whipping; texture and flavor differ."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 200°C (392°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+        "Mix {{sugar}} with {{cinnamon}} and fill the cavities. Bring {{water}} to a boil and pour it carefully into the bottom of the baking dish.",
+        "Bake for 30–45 minutes until soft, basting twice with the syrup. Cover loosely if the tops darken before the centers cook, and add water if the dish dries.",
+        "Rest for 5 minutes and serve with {{cream}} and the pan syrup."
+      ],
+      "notes": "The source eight-apple, half-cup sugar and quarter-teaspoon cinnamon formula is retained using modern weights. A separate nutmeg-and-lemon variation preserves its alternative flavoring. Missing amounts, oven settings, yields and timings are explicit modern estimates, not exact recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not temperature or cooking time. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. General coring and oven technique reference: https://www.bbcgoodfoodme.com/recipes/baked-apples/",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 65,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T15:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "nutmeg-lemon",
+          "label": "Nutmeg and lemon",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 8,
+              "unit": "",
+              "name": "medium firm baking apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; sweetness and cooking time differ by variety. Avoid substituting very large apples without allowing longer cooking."
+            },
+            {
+              "key": "sugar",
+              "amount": 100,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of light brown sugar for a caramel-like flavor, or reduce to taste."
+            },
+            {
+              "key": "water",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter pan sauce."
+            },
+            {
+              "key": "cream",
+              "amount": 160,
+              "unit": "ml",
+              "name": "cold heavy whipping cream",
+              "substitution": "Use the same volume of a plant-based cream specifically suitable for whipping; texture and flavor differ."
+            },
+            {
+              "key": "nutmeg",
+              "amount": 0.5,
+              "unit": "g",
+              "name": "ground nutmeg",
+              "substitution": "Omit or return to the cinnamon base recipe."
+            },
+            {
+              "key": "lemon",
+              "amount": 5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of orange juice for a sweeter citrus flavor."
+            },
+            {
+              "key": "zest",
+              "amount": 1,
+              "unit": "g",
+              "name": "finely grated lemon zest",
+              "substitution": "Use the same weight of orange zest, or omit."
+            }
+          ],
+          "steps": [
+            "Heat the oven to 200°C (392°F). Rinse {{apples}}. Remove the cores and seeds with an apple corer, keeping the apples whole. Make a shallow cut through the skin around the middle of each apple to help limit splitting.",
+            "Mix {{sugar}} with {{nutmeg}} and {{zest}} and fill the cavities. Drizzle {{lemon}} into them. Bring {{water}} to a boil and pour it carefully into the bottom of the baking dish.",
+            "Bake for 30–45 minutes until soft, basting twice with the syrup. Cover loosely if the tops darken before the centers cook, and add water if the dish dries.",
+            "Rest for 5 minutes and serve with {{cream}} and the pan syrup."
+          ]
+        }
+      ]
+    }
   }
 ]

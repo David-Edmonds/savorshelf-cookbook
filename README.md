@@ -1,3 +1,7 @@
+## September 22 — baked-apple batch 007
+
+Thirteen measured baked-apple adaptations and two equivalent-source consolidations retain distinct fillings, syrup styles, crumb coatings and cold or warm presentation. Pasteurized egg-white glaze and nutmeg-lemon options remain named variations. Current totals: 40,870 imported records, 158 completed adaptations, 40,712 remaining content repairs and 42,322 visible recipes. Cooking temperatures, missing amounts and timing are disclosed modern estimates, not kitchen-tested results. Android, portfolio and personal saved data are unchanged.
+
 ## September 22 — apple-sauce batch 006
 
 Seven measured apple-sauce adaptations and five reviewed duplicate consolidations retain the different sugar, butter, vanilla and spice formulas. Historical storage practices are replaced by refrigerator/freezer handling. Current totals: 40,872 imported records, 145 completed adaptations, 40,727 remaining content repairs and 42,324 visible recipes. These are modern, untested adaptations; the full collection is not finished. Android, portfolio and personal saved data are unchanged.
