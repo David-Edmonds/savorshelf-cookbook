@@ -310,5 +310,29 @@
     "canonicalId": "historical-b592c43b8bdb69ae88960c89",
     "bodySha256": "e2b6de2318a973e9503a4d583044774005ff20b4dac6b5a8b91cec9fc20d279e",
     "reason": "Both original page scans show the same carrot, lemon, sugar and two-stage syrup method, including half-hour cook and half-pint cooking water. Apparent differences in extracted titles, vinegar and fractions are transcription errors."
+  },
+  {
+    "id": "historical-ba880e6b331a25959e37a3c9",
+    "canonicalId": "historical-bb483ad5c1d95bd6fcde01a5",
+    "bodySha256": "e75c618c53214db9e4350b25bbea6fd627c611fcf1cb110a5f8dc375d53364db",
+    "reason": "Primary scans have the same quarter-cup almond formula; the later lower-sugar/grated-carrot method is preserved as a full named variation."
+  },
+  {
+    "id": "historical-d784540eeea2f2bf2b0d3623",
+    "canonicalId": "historical-adc800de9ce7611c3dd2a87a",
+    "bodySha256": "343f537cd03ab46fca021deec53f13cd748cbf21897fd1d1b0f4ce3a17ce3f64",
+    "reason": "Both original scans show the same half-tablespoon sugar and complete rice-carrot pudding method; the apparent larger sugar quantity is an extraction error."
+  },
+  {
+    "id": "historical-555278189efc60c283971735",
+    "canonicalId": "historical-1095ad1f4682ee0948bfb3e4",
+    "bodySha256": "35c712330f038281284a5340663dc170963387280bb349dbf97b59ae215638de",
+    "reason": "The two records transcribe the same source recipe389; original200ml milk restored and breadcrumb/rusk coating choice retained."
+  },
+  {
+    "id": "historical-dce8667841279318320afe27",
+    "canonicalId": "historical-ca73e6474300ab2bcfc053a6",
+    "bodySha256": "c609fd7b73778c851a2ee3e98bbaa599f9d47d104a50c967c074306d41962c13",
+    "reason": "Same whole-carrot preservation formula and bottle method; the longer source adds a brief pre-cook note. Both retained in the disclosed freezer adaptation with whole and sliced blanching instructions."
   }
 ]

@@ -23180,5 +23180,1857 @@
       "updatedAt": "2026-09-22T18:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-8105f6a6076dc6838c4d7608",
+    "bodySha256": "abe40dfdf12cef9e440f2289953a5697facb39734337cf3ba8060b504635de27",
+    "recipe": {
+      "id": "historical-8105f6a6076dc6838c4d7608",
+      "title": "Gulerods-Marmelade (Refrigerated Carrot-Lemon Jam)",
+      "description": "Smooth carrot purée cooks with sugar, lemon juice and fine strips of lemon peel into a bright, spoonable jam.",
+      "category": "Preserves",
+      "servings": 32,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 750,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 350,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sugar",
+          "amount": 500,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "lemon",
+          "amount": 120,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "peel",
+          "amount": 12,
+          "unit": "g",
+          "name": "thin yellow lemon peel, white pith removed, finely shredded",
+          "substitution": "Use the same weight of thin orange peel for a different flavor."
+        }
+      ],
+      "steps": [
+        "Slice {{carrot}} thinly and put in a saucepan with {{water}}. Cover and simmer for 15–20 minutes until very soft, adding a little water if the pan dries.",
+        "Press the carrots and their cooking liquid through a sieve or food mill into a wide saucepan. Add {{sugar}}, {{lemon}} and {{peel}}.",
+        "Bring to a gentle boil, stirring until the sugar dissolves. Cook uncovered for 20–35 minutes, stirring frequently and then constantly as it thickens, until a spoon drawn across the pan leaves a brief clear trail. The texture is a thick spread, not a firm jelly.",
+        "Transfer to clean shallow food-safe containers. Cool promptly, cover and refrigerate within 2 hours at 4°C (40°F) or colder. Use within 4 days, or freeze promptly. This is not shelf-stable and must not be stored at room temperature."
+      ],
+      "notes": "The original scan gives 500 g sugar for 750 g carrots, not the incorrect extracted 333 g sugar for 250 g carrots. Juice from four lemons and peel from two become modern 120 ml and 12 g. Water, cooking times and small serving yield are supplied. Refrigeration/freezing replaces paper-covered room-temperature storage. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation. Primary scan verified: Frøken Jensens kogebog recipe 130, printed page 342, leaf 354.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b4c73f7b72dd2f5b64338bf4",
+    "bodySha256": "dc100adab6c048c4cb3b1b2ec7b6edcbefc4409df45c8863218ab56f557a7710",
+    "recipe": {
+      "id": "historical-b4c73f7b72dd2f5b64338bf4",
+      "title": "Gulerødder in Lemon Syrup (Refrigerated)",
+      "description": "Fine carrot strips and lemon peel are coated in a concentrated lemon-sugar syrup.",
+      "category": "Preserves",
+      "servings": 30,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 500,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "peel",
+          "amount": 6,
+          "unit": "g",
+          "name": "thin yellow lemon peel, white pith removed, finely shredded",
+          "substitution": "Use the same weight of thin orange peel for a different flavor."
+        },
+        {
+          "key": "water",
+          "amount": 800,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sugar",
+          "amount": 500,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "reservedwater",
+          "amount": 250,
+          "unit": "ml",
+          "name": "reserved carrot cooking water from the steps",
+          "substitution": "Use the same volume of fresh drinking water if needed."
+        },
+        {
+          "key": "lemon",
+          "amount": 90,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into fine matchsticks about 2–3 mm thick. Put in a saucepan with {{peel}} and {{water}}, cover and simmer for 10–15 minutes until tender but intact.",
+        "Drain into a bowl and measure {{reservedwater}} from the liquid. Put that measured liquid in a clean saucepan with {{sugar}} and {{lemon}}. Bring to a gentle boil, stirring until dissolved.",
+        "Add the drained carrots and peel and simmer for 5–6 minutes. Lift them out into a sieve set over a bowl, then return all drained syrup to the pan.",
+        "Boil the syrup gently for 10–15 minutes until it lightly coats a spoon. Watch closely so it does not darken or burn. Return the carrots and peel to the syrup and heat for 1 minute, turning gently.",
+        "Transfer to clean shallow food-safe containers. Cool promptly, cover and refrigerate within 2 hours at 4°C (40°F) or colder. Use within 4 days, or freeze promptly. This is not shelf-stable and must not be stored at room temperature."
+      ],
+      "notes": "The source half-kilogram amounts and quarter-liter cooking liquid are retained. Urtevandet is the carrot cooking water, not a separate herb infusion. Juice from three lemons becomes 90 ml and peel from one becomes 6 g. The strained second syrup reduction remains. Storage is refrigerated/frozen rather than a paper-tied jar on a shelf. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-8e6fa2ac385d3db327c8c34a",
+    "bodySha256": "78d823d1f01c1f5373ec3fed16f4e8aaf676cd122f96465137fe8961c9654521",
+    "recipe": {
+      "id": "historical-8e6fa2ac385d3db327c8c34a",
+      "title": "Karotter (Refrigerator-Pickled Carrots)",
+      "description": "Small carrots steep with white pepper and chile in a sharp vinegar pickle, with the vinegar reheated the following day.",
+      "category": "Preserves",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 1530,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "vinegar",
+          "amount": 600,
+          "unit": "ml",
+          "name": "commercial white wine vinegar labeled 5% acidity",
+          "substitution": "Use the same volume of commercial cider vinegar labeled 5% acidity."
+        },
+        {
+          "key": "peppercorns",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "whole white peppercorns",
+          "substitution": "Use the same amount of whole black peppercorns."
+        },
+        {
+          "key": "chile",
+          "amount": 1,
+          "unit": "",
+          "name": "small dried red chile, stem removed",
+          "substitution": "Omit for a milder pickle."
+        }
+      ],
+      "steps": [
+        "Choose slender {{carrot}} and leave them whole, or halve thick carrots lengthwise. Bring {{water}} to a boil, add the carrots and simmer for 5–8 minutes until partly tender.",
+        "Drain, rinse briefly under cold drinking water and pat dry with a clean towel. Pack in clean heatproof jars or containers with {{peppercorns}} and {{chile}}.",
+        "Pour {{vinegar}} over the carrots, using a narrow enough container to keep them submerged. Cover and refrigerate at 4°C (40°F) or colder for 24 hours.",
+        "Drain the vinegar into a saucepan, keeping the carrots refrigerated while it heats. Bring the vinegar to a boil, then carefully pour it over the carrots in heatproof containers. Let cool briefly and refrigerate within 2 hours.",
+        "Keep refrigerated and use within 4 days of the first preparation, including the overnight steep. Serve small portions, removing the whole chile and peppercorns if desired."
+      ],
+      "notes": "All amounts are modern choices. Spanish pepper husks are interpreted as a small dried chile; the source straight-vinegar character is retained. The overnight stage takes place in the refrigerator and shelf storage is not claimed. This is not a tested canning recipe. Total time includes the overnight steep. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 1530,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-196e6934ed41f5f35a359288",
+    "bodySha256": "d963ed5b6458d1a84d9f12f5d3389b519745d666a46048367ae6188db8e2e194",
+    "recipe": {
+      "id": "historical-196e6934ed41f5f35a359288",
+      "title": "Omelet med Gulerødder (Fluffy Carrot Omelet)",
+      "description": "A folded egg-white omelet encloses buttered carrots and parsley, with a little whipped butter alongside.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 5,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+        },
+        {
+          "key": "milk",
+          "amount": 150,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 55,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "carrot",
+          "amount": 300,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        }
+      ],
+      "steps": [
+        "Slice {{carrot}} into 5 mm rounds. Bring {{water}} to a boil and cook the carrots for 10–15 minutes until tender. Drain and toss with {{butter|0.2727272727272727}} in a small saucepan over low heat. Keep warm.",
+        "Separate {{eggs}}, putting the whites in a clean grease-free bowl. Beat the yolks with {{milk}} and {{salt}}. Beat the whites to firm peaks and fold gently into the yolks.",
+        "Melt {{butter|0.45454545454545453}} in a wide nonstick skillet over low-medium heat. Pour in the egg mixture, gently lift the edges to let unset egg move underneath, then cover and cook over low heat for 8–12 minutes until the top is set and the center reaches 71°C (160°F). Do not flip.",
+        "Place the warm buttered carrots along the middle, sprinkle with {{parsley}} and fold the omelet over the filling.",
+        "Beat softened {{butter|0.2727272727272727}} with a spoon until light. Serve a small amount beside each portion of the omelet."
+      ],
+      "notes": "The ten tablespoons of milk become 150 ml. Five whites are matched to the five source yolks. Butter is divided between carrots, pan and the stirred-butter accompaniment. A lid helps set the top without turning; pan size, heat and thermometer endpoint are supplied. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cream",
+          "label": "Cream omelet with carrots",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 5,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+            },
+            {
+              "key": "milk",
+              "amount": 150,
+              "unit": "ml",
+              "name": "light cream (about 18% fat)",
+              "substitution": "Use the milk base for a lighter omelet."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 55,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "carrot",
+              "amount": 300,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of chives, or omit."
+            }
+          ],
+          "steps": [
+            "Slice {{carrot}} into 5 mm rounds. Bring {{water}} to a boil and cook the carrots for 10–15 minutes until tender. Drain and toss with {{butter|0.2727272727272727}} in a small saucepan over low heat. Keep warm.",
+            "Separate {{eggs}}, putting the whites in a clean grease-free bowl. Beat the yolks with {{milk}} and {{salt}}. Beat the whites to firm peaks and fold gently into the yolks.",
+            "Melt {{butter|0.45454545454545453}} in a wide nonstick skillet over low-medium heat. Pour in the egg mixture, gently lift the edges to let unset egg move underneath, then cover and cook over low heat for 8–12 minutes until the top is set and the center reaches 71°C (160°F). Do not flip.",
+            "Place the warm buttered carrots along the middle, sprinkle with {{parsley}} and fold the omelet over the filling.",
+            "Beat softened {{butter|0.2727272727272727}} with a spoon until light. Serve a small amount beside each portion of the omelet."
+          ]
+        },
+        {
+          "id": "kale",
+          "label": "Fluffy kale omelet",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 5,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+            },
+            {
+              "key": "milk",
+              "amount": 150,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 55,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "carrot",
+              "amount": 300,
+              "unit": "g",
+              "name": "trimmed kale leaves, tough stalks removed",
+              "substitution": "Use the carrot base version instead."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of chives, or omit."
+            }
+          ],
+          "steps": [
+            "Bring {{water}} to a boil, add {{carrot}} and cook for 5–8 minutes until tender. Drain, squeeze out excess water, chop finely and toss with {{butter|0.2727272727272727}} in a small saucepan over low heat. Keep warm.",
+            "Separate {{eggs}}, putting the whites in a clean grease-free bowl. Beat the yolks with {{milk}} and {{salt}}. Beat the whites to firm peaks and fold gently into the yolks.",
+            "Melt {{butter|0.45454545454545453}} in a wide nonstick skillet over low-medium heat. Pour in the egg mixture, gently lift the edges to let unset egg move underneath, then cover and cook over low heat for 8–12 minutes until the top is set and the center reaches 71°C (160°F). Do not flip.",
+            "Place the warm buttered kale along the middle, sprinkle with {{parsley}} and fold the omelet over the filling.",
+            "Beat softened {{butter|0.2727272727272727}} with a spoon until light. Serve a small amount beside each portion of the omelet."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-bb483ad5c1d95bd6fcde01a5",
+    "bodySha256": "7f38ad07b4bb22c6a95b2fc638024b6e0b0a541a5a34389a4a0c22900ae75af3",
+    "recipe": {
+      "id": "historical-bb483ad5c1d95bd6fcde01a5",
+      "title": "Porkkana-Putinki (Carrot and Almond Pudding)",
+      "description": "Mashed carrots bake with breadcrumbs, milk and a little almond into a softly set savory pudding.",
+      "category": "Side dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 110,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 900,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "crumbs",
+          "amount": 180,
+          "unit": "g",
+          "name": "plain dry breadcrumbs",
+          "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+        },
+        {
+          "key": "sugar",
+          "amount": 19,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "milk",
+          "amount": 480,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 42,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "almond",
+          "amount": 25,
+          "unit": "g",
+          "name": "finely ground blanched almonds",
+          "substitution": "Use the same weight of finely ground sunflower seeds for a different flavor."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm pieces. Bring {{water}} to a boil and simmer the carrots for 15–20 minutes until very tender. Drain, mash smoothly and spread in a shallow bowl to cool until no longer warm.",
+        "Heat the oven to 160°C (320°F). Grease a 2-liter baking dish with {{grease}}. Mix {{crumbs}}, {{sugar}}, {{milk}}, {{salt}}, melted {{butter}} and {{almond}} into the cooled carrot mash.",
+        "Beat {{eggs}} and stir into the mixture. Pour into the prepared dish and place it in a roasting pan. Pour hot water into the roasting pan until it reaches halfway up the outside of the dish.",
+        "Bake for 55–70 minutes until set in the center and at least 71°C (160°F). Lift the dish carefully from the water bath, rest for 10 minutes and serve in the dish."
+      ],
+      "notes": "The primary scan gives one-quarter cup almonds, not the extracted three-quarters. Its 1½ tablespoons of sugar become 19 g. Two pounds of carrots, cups of crumbs and milk become modern 900 g, 180 g and 480 ml choices; salt is moderated to 4 g. Water-bath baking gives a gentle finish. The later book version with less sugar and grated cooked carrot is retained as a named variation. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall SavorShelf measured adaptation. Primary scans compared: 1914 book page 130 (leaf 136) and 1928 recipe 405 page 163 (leaf 167). Equivalent source retained: Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 110,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-ba880e6b331a25959e37a3c9"
+      ],
+      "variants": [
+        {
+          "id": "cream",
+          "label": "Carrot pudding with cream",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 900,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "crumbs",
+              "amount": 180,
+              "unit": "g",
+              "name": "plain dry breadcrumbs",
+              "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+            },
+            {
+              "key": "sugar",
+              "amount": 19,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "milk",
+              "amount": 480,
+              "unit": "ml",
+              "name": "light cream (about 18% fat)",
+              "substitution": "Use the milk base for a lighter pudding."
+            },
+            {
+              "key": "salt",
+              "amount": 4,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 42,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "almond",
+              "amount": 25,
+              "unit": "g",
+              "name": "finely ground blanched almonds",
+              "substitution": "Use the same weight of finely ground sunflower seeds for a different flavor."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+            },
+            {
+              "key": "grease",
+              "amount": 5,
+              "unit": "g",
+              "name": "softened unsalted butter for the dish",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into 1 cm pieces. Bring {{water}} to a boil and simmer the carrots for 15–20 minutes until very tender. Drain, mash smoothly and spread in a shallow bowl to cool until no longer warm.",
+            "Heat the oven to 160°C (320°F). Grease a 2-liter baking dish with {{grease}}. Mix {{crumbs}}, {{sugar}}, {{milk}}, {{salt}}, melted {{butter}} and {{almond}} into the cooled carrot mash.",
+            "Beat {{eggs}} and stir into the mixture. Pour into the prepared dish and place it in a roasting pan. Pour hot water into the roasting pan until it reaches halfway up the outside of the dish.",
+            "Bake for 55–70 minutes until set in the center and at least 71°C (160°F). Lift the dish carefully from the water bath, rest for 10 minutes and serve in the dish."
+          ]
+        },
+        {
+          "id": "later-grated",
+          "label": "Less-sweet grated-carrot version",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 900,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "crumbs",
+              "amount": 180,
+              "unit": "g",
+              "name": "plain dry breadcrumbs",
+              "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+            },
+            {
+              "key": "sugar",
+              "amount": 13,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "milk",
+              "amount": 480,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+            },
+            {
+              "key": "salt",
+              "amount": 4,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 42,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "almond",
+              "amount": 25,
+              "unit": "g",
+              "name": "finely ground blanched almonds",
+              "substitution": "Use the same weight of finely ground sunflower seeds for a different flavor."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+            },
+            {
+              "key": "grease",
+              "amount": 5,
+              "unit": "g",
+              "name": "softened unsalted butter for the dish",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            }
+          ],
+          "steps": [
+            "Put {{carrot}} whole in a saucepan with {{water}}, bring to a simmer and cook for 20–30 minutes until tender. Drain and let cool until safe to handle, then grate and let cool until no longer warm.",
+            "Heat the oven to 160°C (320°F). Grease a 2-liter baking dish with {{grease}}. Mix {{crumbs}}, {{sugar}}, {{milk}}, {{salt}}, melted {{butter}} and {{almond}} into the cooled grated carrot.",
+            "Beat {{eggs}} and stir into the mixture. Pour into the prepared dish and place it in a roasting pan. Pour hot water into the roasting pan until it reaches halfway up the outside of the dish.",
+            "Bake for 55–70 minutes until set in the center and at least 71°C (160°F). Lift the dish carefully from the water bath, rest for 10 minutes and serve in the dish."
+          ]
+        },
+        {
+          "id": "direct-bake",
+          "label": "Direct oven bake",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 900,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "crumbs",
+              "amount": 180,
+              "unit": "g",
+              "name": "plain dry breadcrumbs",
+              "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+            },
+            {
+              "key": "sugar",
+              "amount": 19,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "milk",
+              "amount": 480,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+            },
+            {
+              "key": "salt",
+              "amount": 4,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 42,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "almond",
+              "amount": 25,
+              "unit": "g",
+              "name": "finely ground blanched almonds",
+              "substitution": "Use the same weight of finely ground sunflower seeds for a different flavor."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+            },
+            {
+              "key": "grease",
+              "amount": 5,
+              "unit": "g",
+              "name": "softened unsalted butter for the dish",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into 1 cm pieces. Bring {{water}} to a boil and simmer the carrots for 15–20 minutes until very tender. Drain, mash smoothly and spread in a shallow bowl to cool until no longer warm.",
+            "Heat the oven to 160°C (320°F). Grease a 2-liter baking dish with {{grease}}. Mix {{crumbs}}, {{sugar}}, {{milk}}, {{salt}}, melted {{butter}} and {{almond}} into the cooled carrot mash.",
+            "Beat {{eggs}} and stir into the mixture. Pour into the prepared baking dish.",
+            "Bake directly on the oven shelf for 45–60 minutes until set and at least 71°C (160°F) in the center. Rest for 10 minutes and serve in the dish."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-adc800de9ce7611c3dd2a87a",
+    "bodySha256": "b9edbe9447c5081c4ce129b4ac81f68ea81829ac0ad9cbabcf33349bbc341c9c",
+    "recipe": {
+      "id": "historical-adc800de9ce7611c3dd2a87a",
+      "title": "Porkkanaputinki Riisin Kanssa (Carrot-Rice Pudding)",
+      "description": "Creamy rice porridge and grated carrots bake together with a little almond, butter and egg.",
+      "category": "Side dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 140,
+      "ingredients": [
+        {
+          "key": "rice",
+          "amount": 180,
+          "unit": "g",
+          "name": "uncooked short-grain white rice",
+          "substitution": "Use the same weight of another white pudding rice, cooking until soft."
+        },
+        {
+          "key": "water",
+          "amount": 720,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "milk",
+          "amount": 480,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "carrot",
+          "amount": 450,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "carrotwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "almond",
+          "amount": 8,
+          "unit": "g",
+          "name": "finely ground blanched almonds",
+          "substitution": "Use the same weight of finely ground sunflower seeds for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "sugar",
+          "amount": 6.5,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Put {{rice}} and {{water}} in a heavy saucepan. Bring to a simmer and cook for 10 minutes. Add {{milk}} and cook over low heat for 20–30 minutes, stirring often, until the rice is soft and the mixture resembles thick porridge. Add a little water if it dries before the rice softens.",
+        "Meanwhile, put {{carrot}} whole in a second saucepan with {{carrotwater}}. Bring to a simmer and cook for 15–25 minutes until nearly tender. Drain, let cool until safe to handle and grate.",
+        "Stir the grated carrot, {{almond}}, {{salt}}, {{sugar}} and {{butter}} into the porridge. Spread in a shallow bowl and cool until no longer warm, then beat in {{eggs}}.",
+        "Heat the oven to 175°C (350°F). Grease a 2-liter baking dish with {{grease}}, add the mixture and bake for 50–60 minutes until set, lightly golden and at least 71°C (160°F) in the center. Rest for 10 minutes and serve."
+      ],
+      "notes": "Both original page scans give HALF a tablespoon of sugar. The apparent 1½ tablespoon difference is an extraction error, so the duplicate is consolidated. A modern cup is 240 ml for water and the pint of milk becomes 480 ml; dry rice is weighed at 180 g. The large source salt spoon is deliberately reduced to 4 g. Full porridge preparation and cooling before egg addition are supplied. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Primary scans verified: 1928 recipe 404 page 162 (leaf 166) and 1914 book page 130 (leaf 136). Equivalent source retained: Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 140,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-d784540eeea2f2bf2b0d3623"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-6371672360a27b0de638bd27",
+    "bodySha256": "676f97c50569ae06de0acbfc2c399e82e8e720928ddf87f44334cc8e1a509519",
+    "recipe": {
+      "id": "historical-6371672360a27b0de638bd27",
+      "title": "Porkkana-Tippoja (Creamy Carrot Fritters)",
+      "description": "Fine raw carrot shreds are folded into an egg-white batter with a generous amount of breadcrumbs and flour, then fried into tender golden fritters.",
+      "category": "Side dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 220,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+        },
+        {
+          "key": "cream",
+          "amount": 240,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of unsweetened plant cream suitable for cooking."
+        },
+        {
+          "key": "crumbs",
+          "amount": 85,
+          "unit": "g",
+          "name": "plain dry breadcrumbs",
+          "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+        },
+        {
+          "key": "flour",
+          "amount": 85,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain wheat pastry flour; a gluten-free batter would require separate development."
+        },
+        {
+          "key": "butter",
+          "amount": 56,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "fryoil",
+          "amount": 300,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Finely grate {{carrot}}. Separate {{eggs}}, keeping the whites in a clean grease-free bowl. Beat the yolks with {{cream}}, melted and cooled {{butter}} and {{salt}}.",
+        "Stir in the grated carrot, {{crumbs}} and {{flour}}. Let stand for 10 minutes so the crumbs absorb liquid. Beat the reserved whites to firm peaks and fold gently into the batter.",
+        "Heat {{fryoil}} in a deep skillet to 165–175°C (330–350°F), keeping oil below one-third of the pan depth. Drop small spoonfuls of batter into the oil, leaving room between them, and flatten gently to about 1 cm thick.",
+        "Fry for 3–4 minutes per side until golden, the fine carrot shreds are tender and the center reaches 71°C (160°F). Adjust the heat if the outside browns before the middle sets. Drain on a rack and serve immediately."
+      ],
+      "notes": "The Finnish source gives three ounces EACH of crumbs and flour, converted to 85 g each. Two cups of grated carrot become 220 g and a cup of cream becomes 240 ml. Frying oil and controlled temperature replace the phrase boiling fat. Oil is the pan quantity, not the amount absorbed. Keep small fritters for even cooking. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-2d87aa911777fca0af207ab2",
+    "bodySha256": "7feee42b1ba289a74f5d080f70af2e77e2447443b8987cc717ecdf0d84b9ccbb",
+    "recipe": {
+      "id": "historical-2d87aa911777fca0af207ab2",
+      "title": "Porkkanatippoja (Light Carrot Fritters)",
+      "description": "Fine raw carrot shreds are folded into an egg-white batter with a small amount of breadcrumbs and flour, then fried into tender golden fritters.",
+      "category": "Side dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 220,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+        },
+        {
+          "key": "cream",
+          "amount": 240,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of unsweetened plant cream suitable for cooking."
+        },
+        {
+          "key": "crumbs",
+          "amount": 42,
+          "unit": "g",
+          "name": "plain dry breadcrumbs",
+          "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+        },
+        {
+          "key": "flour",
+          "amount": 48,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain wheat pastry flour; a gluten-free batter would require separate development."
+        },
+        {
+          "key": "butter",
+          "amount": 56,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "fryoil",
+          "amount": 300,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Finely grate {{carrot}}. Separate {{eggs}}, keeping the whites in a clean grease-free bowl. Beat the yolks with {{cream}}, melted and cooled {{butter}} and {{salt}}.",
+        "Stir in the grated carrot, {{crumbs}} and {{flour}}. Let stand for 10 minutes so the crumbs absorb liquid. Beat the reserved whites to firm peaks and fold gently into the batter.",
+        "Heat {{fryoil}} in a deep skillet to 165–175°C (330–350°F), keeping oil below one-third of the pan depth. Drop small spoonfuls of batter into the oil, leaving room between them, and flatten gently to about 1 cm thick.",
+        "Fry for 3–4 minutes per side until golden, the fine carrot shreds are tender and the center reaches 71°C (160°F). Adjust the heat if the outside browns before the middle sets. Drain on a rack and serve immediately."
+      ],
+      "notes": "Six source tablespoons each of crumbs and flour become chosen weights of 42 g and 48 g, not the heavier three-ounce formula. Two cups of grated carrot become 220 g and a cup of cream becomes 240 ml. Frying oil and controlled temperature replace the phrase boiling fat. Oil is the pan quantity, not the amount absorbed. Keep small fritters for even cooking. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "milk",
+          "label": "Milk-based light fritters",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 220,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+            },
+            {
+              "key": "cream",
+              "amount": 240,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the cream base for a richer batter."
+            },
+            {
+              "key": "crumbs",
+              "amount": 42,
+              "unit": "g",
+              "name": "plain dry breadcrumbs",
+              "substitution": "Use the same weight of dry crumbs from another plain wheat bread."
+            },
+            {
+              "key": "flour",
+              "amount": 48,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "Use the same weight of plain wheat pastry flour; a gluten-free batter would require separate development."
+            },
+            {
+              "key": "butter",
+              "amount": 56,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "fryoil",
+              "amount": 300,
+              "unit": "ml",
+              "name": "neutral vegetable oil",
+              "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+            }
+          ],
+          "steps": [
+            "Finely grate {{carrot}}. Separate {{eggs}}, keeping the whites in a clean grease-free bowl. Beat the yolks with {{cream}}, melted and cooled {{butter}} and {{salt}}.",
+            "Stir in the grated carrot, {{crumbs}} and {{flour}}. Let stand for 10 minutes so the crumbs absorb liquid. Beat the reserved whites to firm peaks and fold gently into the batter.",
+            "Heat {{fryoil}} in a deep skillet to 165–175°C (330–350°F), keeping oil below one-third of the pan depth. Drop small spoonfuls of batter into the oil, leaving room between them, and flatten gently to about 1 cm thick.",
+            "Fry for 3–4 minutes per side until golden, the fine carrot shreds are tender and the center reaches 71°C (160°F). Adjust the heat if the outside browns before the middle sets. Drain on a rack and serve immediately."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-0139c88ccb27a327d9cc649f",
+    "bodySha256": "ab912d62bc4da9d5239ca5a84536d78076ce4676ee5b5ac83c953fc0736b5878",
+    "recipe": {
+      "id": "historical-0139c88ccb27a327d9cc649f",
+      "title": "Porkkanatippoja (Cooked-Carrot Fritters)",
+      "description": "Smooth cooked carrot purée and beaten egg whites make delicate, lightly floured fritters browned in butter.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 400,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain rice flour for a different texture."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use large pasteurized shell eggs if preferred; the whites must remain separate and able to whip."
+        },
+        {
+          "key": "butter",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm pieces. Bring {{water}} to a boil and simmer the carrots for 15–20 minutes until very tender. Drain thoroughly and return to the warm empty pan for 1–2 minutes to remove surface moisture.",
+        "Press the carrots through a sieve and let cool until no longer warm. Separate {{eggs}}, beat the yolks and stir them into the carrot purée with {{flour}}. Beat the whites to firm peaks and fold in gently.",
+        "Melt {{butter}} a little at a time in a nonstick skillet over medium-low heat, reserving some for later batches. Add rounded tablespoonfuls of batter and flatten to about 1 cm thick.",
+        "Cook for 3–4 minutes per side until golden and set, with the center reaching 71°C (160°F). Turn carefully with a thin spatula; these are delicate fritters. Serve immediately."
+      ],
+      "notes": "Two cups of cooked carrot become a modern 400 g peeled-carrot starting weight, with full boiling and draining instructions supplied. The two tablespoons of flour become 16 g. This cooked-purée formula differs from the raw-carrot, milk-and-breadcrumb fritters and remains separate. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1095ad1f4682ee0948bfb3e4",
+    "bodySha256": "0f7ec8186d96f39a804f74230ab86d6bbb504021db14989ad93b62608c3ff8ae",
+    "recipe": {
+      "id": "historical-1095ad1f4682ee0948bfb3e4",
+      "title": "Morotspudding (Swedish Carrot Pudding)",
+      "description": "Grated, partly cooked carrots bake with soft bread, milk and eggs under a light rusk-crumb topping.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 85,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 750,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "softbread",
+          "amount": 45,
+          "unit": "g",
+          "name": "finely grated soft white bread",
+          "substitution": "Use the same weight of finely grated soft wholemeal bread for a different texture."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "grease",
+          "amount": 7,
+          "unit": "g",
+          "name": "softened butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "rusk",
+          "amount": 14,
+          "unit": "g",
+          "name": "finely crushed plain rusks",
+          "substitution": "Use the same weight of plain dry breadcrumbs."
+        }
+      ],
+      "steps": [
+        "Put {{carrot}} whole in a saucepan with {{water}}, bring to a simmer and cook for 10–15 minutes until partly tender. Drain, let cool until safe to handle and grate.",
+        "Heat the oven to 175°C (350°F). Grease a 1.5-liter baking dish with {{grease}} and coat with {{rusk|0.5}}.",
+        "Beat {{eggs}} with {{milk}}, melted and cooled {{butter}}, {{softbread}} and {{salt}}. Stir in the grated carrot and pour into the prepared dish. Sprinkle with {{rusk|0.5}}.",
+        "Bake for 40–50 minutes until set, lightly browned and at least 71°C (160°F) in the center. Rest for 10 minutes, then serve as a vegetable side."
+      ],
+      "notes": "The original recipe specifies 2 DECILITERS of milk, exactly 200 ml, not two undefined parts. The 750 g carrots and six-person yield are retained. Bread and rusk spoonfuls are converted to chosen preparation weights; salt is moderated. The duplicate uses breadcrumbs where the original says rusks, retained as an explicit coating choice. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation. Primary scan verified: Hemmets kokbok recipe 389, printed page 212, leaf 225. Equivalent source retained: Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 85,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-555278189efc60c283971735"
+      ],
+      "variants": [
+        {
+          "id": "breadcrumbs",
+          "label": "Breadcrumb-coated pudding",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 750,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "softbread",
+              "amount": 45,
+              "unit": "g",
+              "name": "finely grated soft white bread",
+              "substitution": "Use the same weight of finely grated soft wholemeal bread for a different texture."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+            },
+            {
+              "key": "milk",
+              "amount": 200,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+            },
+            {
+              "key": "salt",
+              "amount": 4,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "grease",
+              "amount": 7,
+              "unit": "g",
+              "name": "softened butter for the dish",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "rusk",
+              "amount": 14,
+              "unit": "g",
+              "name": "plain dry breadcrumbs",
+              "substitution": "Use the rusk base for a crisper coating."
+            }
+          ],
+          "steps": [
+            "Put {{carrot}} whole in a saucepan with {{water}}, bring to a simmer and cook for 10–15 minutes until partly tender. Drain, let cool until safe to handle and grate.",
+            "Heat the oven to 175°C (350°F). Grease a 1.5-liter baking dish with {{grease}} and coat with {{rusk|0.5}}.",
+            "Beat {{eggs}} with {{milk}}, melted and cooled {{butter}}, {{softbread}} and {{salt}}. Stir in the grated carrot and pour into the prepared dish. Sprinkle with {{rusk|0.5}}.",
+            "Bake for 40–50 minutes until set, lightly browned and at least 71°C (160°F) in the center. Rest for 10 minutes, then serve as a vegetable side."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-ee1e2c0f6c718614e6014600",
+    "bodySha256": "298c33187912a4760c3fe08111abd150decd68fb9c68ce9ea531a8c450804f16",
+    "recipe": {
+      "id": "historical-ee1e2c0f6c718614e6014600",
+      "title": "Carrot, Orange and Lemon Marmalade (Refrigerated)",
+      "description": "Carrot purée, orange and lemon cook into a soft citrus spread with fine shreds of peel.",
+      "category": "Preserves",
+      "servings": 20,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 450,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 250,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "orange",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled orange segments with juice, seeds and tough membranes removed",
+          "substitution": "Use the same weight of peeled mandarin segments and juice."
+        },
+        {
+          "key": "orangepeel",
+          "amount": 6,
+          "unit": "g",
+          "name": "thin orange peel, white pith removed, finely shredded",
+          "substitution": "Use the same weight of thin lemon peel for a sharper flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "peel",
+          "amount": 6,
+          "unit": "g",
+          "name": "thin yellow lemon peel, white pith removed, finely shredded",
+          "substitution": "Use the same weight of thin orange peel for a different flavor."
+        }
+      ],
+      "steps": [
+        "Slice {{carrot}} thinly and put in a saucepan with {{water}} and {{salt}}. Cover and simmer for 15–20 minutes until very tender, adding a little water if needed. Mash with the remaining cooking liquid.",
+        "Add {{sugar}}, chopped {{orange}}, {{orangepeel}}, {{lemon}} and {{peel}}. Bring to a gentle boil, stirring until the sugar dissolves.",
+        "Cook uncovered for 25–35 minutes, stirring frequently and then constantly as it thickens, until the peel is tender and a spoon drawn through the mixture leaves a brief trail.",
+        "Transfer to clean shallow food-safe containers. Cool promptly, cover and refrigerate within 2 hours at 4°C (40°F) or colder. Use within 4 days, or freeze promptly. This is not shelf-stable and must not be stored at room temperature."
+      ],
+      "notes": "The source as-marmalade reference is expanded into a complete cooked spread. Two cups of prepared carrot become a modern 450 g raw starting weight; one cup of sugar becomes 200 g. Orange, lemon and water amounts are explicit modern choices. A finely grated-carrot version preserves the source texture option. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "grated",
+          "label": "Grated-carrot marmalade",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 450,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 250,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "sugar",
+              "amount": 200,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "orange",
+              "amount": 150,
+              "unit": "g",
+              "name": "peeled orange segments with juice, seeds and tough membranes removed",
+              "substitution": "Use the same weight of peeled mandarin segments and juice."
+            },
+            {
+              "key": "orangepeel",
+              "amount": 6,
+              "unit": "g",
+              "name": "thin orange peel, white pith removed, finely shredded",
+              "substitution": "Use the same weight of thin lemon peel for a sharper flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "peel",
+              "amount": 6,
+              "unit": "g",
+              "name": "thin yellow lemon peel, white pith removed, finely shredded",
+              "substitution": "Use the same weight of thin orange peel for a different flavor."
+            }
+          ],
+          "steps": [
+            "Finely grate {{carrot}} and put in a saucepan with {{water}} and {{salt}}. Cover and simmer for 10–15 minutes until tender, adding a little water if needed. Keep the fine shreds rather than mashing.",
+            "Add {{sugar}}, chopped {{orange}}, {{orangepeel}}, {{lemon}} and {{peel}}. Bring to a gentle boil, stirring until the sugar dissolves.",
+            "Cook uncovered for 25–35 minutes, stirring frequently and then constantly as it thickens, until the peel is tender and a spoon drawn through the mixture leaves a brief trail.",
+            "Transfer to clean shallow food-safe containers. Cool promptly, cover and refrigerate within 2 hours at 4°C (40°F) or colder. Use within 4 days, or freeze promptly. This is not shelf-stable and must not be stored at room temperature."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-b9d252f87b1403a30e666207",
+    "bodySha256": "ce039b414cb282e497a84be28dbe017d4e427a6e7801f820d13e51f89b25d136",
+    "recipe": {
+      "id": "historical-b9d252f87b1403a30e666207",
+      "title": "Spiced Carrot Custard Pie",
+      "description": "A baked shortcrust shell holds smooth carrot custard seasoned with cinnamon and ginger.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 130,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 450,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "eggs",
+          "amount": 3,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use the same amount of a cinnamon-led baking spice blend."
+        },
+        {
+          "key": "ginger",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground ginger",
+          "substitution": "Use half the amount of ground allspice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pastryflour",
+          "amount": 200,
+          "unit": "g",
+          "name": "all-purpose flour for the crust",
+          "substitution": "Use the same weight of plain wheat pastry flour."
+        },
+        {
+          "key": "pastrybutter",
+          "amount": 100,
+          "unit": "g",
+          "name": "cold unsalted butter, diced",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative suitable for pastry."
+        },
+        {
+          "key": "pastrywater",
+          "amount": 45,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "pastrysalt",
+          "amount": 1.5,
+          "unit": "g",
+          "name": "fine salt for the crust",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "dustflour",
+          "amount": 10,
+          "unit": "g",
+          "name": "all-purpose flour for rolling",
+          "substitution": "Use a small amount of rice flour for dusting."
+        }
+      ],
+      "steps": [
+        "Mix {{pastryflour}} with {{pastrysalt}}. Rub in {{pastrybutter}} until the mixture resembles coarse crumbs. Add {{pastrywater}} and bring together without kneading, adding water a teaspoon at a time only if dry. Flatten into a disc, wrap and refrigerate for 30 minutes.",
+        "Meanwhile, cut {{carrot}} into 1 cm pieces. Bring {{water}} to a boil and cook the carrots for 15–20 minutes until very tender. Drain thoroughly, mash smoothly and spread in a shallow bowl to cool until no longer warm.",
+        "Heat the oven to 190°C (375°F). Roll the chilled pastry on {{dustflour}} to about 3 mm thick and line a 23 cm pie dish. Trim, prick the base, line with baking parchment and fill with reusable baking weights.",
+        "Bake for 15 minutes, remove parchment and weights carefully, then bake for 5–8 minutes until the base looks dry. Reduce the oven to 175°C (350°F).",
+        "Beat {{eggs}} with {{sugar}}, {{cinnamon}}, {{ginger}} and {{salt}}. Stir into the cooled carrot purée and pour into the warm pastry shell.",
+        "Bake for 35–45 minutes until the custard is set with only a slight central wobble and reaches at least 71°C (160°F). Cool on a rack and refrigerate within 2 hours if not serving immediately."
+      ],
+      "notes": "The source gives filling but requires an undeclared pie shell; a full modern shortcrust is supplied. Two cups of mashed boiled carrots become a chosen 450 g raw starting weight. Sugar becomes 200 g. Blind baking and a measured oven endpoint replace hot-oven shorthand. This is a single-crust pie with no top crust. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 130,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-cdfb8129b04cfb72874504b9",
+    "bodySha256": "7410b6ad8b11d04a3d02d9982cd2d7c94e13e1887e7aa0d08a0afdca27a85913",
+    "recipe": {
+      "id": "historical-cdfb8129b04cfb72874504b9",
+      "title": "Carrot Custard with Cinnamon and Rose Water",
+      "description": "A small amount of smooth carrot purée flavors a rich baked egg custard with butter, cinnamon and rose water.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 80,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 180,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "eggs",
+          "amount": 5,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 50 g pasteurized liquid whole egg per egg when separation is not required."
+        },
+        {
+          "key": "sugar",
+          "amount": 57,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "butter",
+          "amount": 57,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use the same amount of ground nutmeg for a different flavor."
+        },
+        {
+          "key": "rosewater",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "food-grade culinary rose water",
+          "substitution": "Use the same volume of vanilla extract for a different flavor."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the dish",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into small pieces. Bring {{water}} to a boil and simmer the carrots for 15–20 minutes until very tender. Drain thoroughly, press through a sieve and cool until no longer warm.",
+        "Heat the oven to 160°C (320°F). Grease a 1-liter baking dish with {{grease}}. Beat {{eggs}} with {{sugar}}, melted and cooled {{butter}}, {{cinnamon}} and {{rosewater}}, then stir in the carrot purée.",
+        "Pour into the dish and bake for 30–40 minutes until the center is set and reaches at least 71°C (160°F). If the top browns too quickly, cover loosely with foil.",
+        "Rest for 10 minutes before serving. Cool and refrigerate promptly if serving cold."
+      ],
+      "notes": "The undefined coffee cup of cooked carrot becomes a modern 180 g raw-carrot starting weight. Two ounces each of sugar and butter become 57 g each. Spice, rose water, dish size and oven settings are supplied. The source specifies a deep dish without pastry, which is retained. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "American Cookery (1796), Amelia Simmons. https://www.gutenberg.org/ebooks/12815 SavorShelf measured adaptation. Egg cooking reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 80,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ca73e6474300ab2bcfc053a6",
+    "bodySha256": "3004611f9c2a17bd5ed0ce69140da9e2d69954f25e1ab4423fbcbf1f5ca45168",
+    "recipe": {
+      "id": "historical-ca73e6474300ab2bcfc053a6",
+      "title": "Worteltjes (Carrots Prepared for the Freezer)",
+      "description": "Small carrots are briefly blanched, chilled and packed for freezing, ready to finish cooking when needed.",
+      "category": "Preserves",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 1000,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 4000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "coldwater",
+          "amount": 4000,
+          "unit": "ml",
+          "name": "ice-cold drinking water for cooling",
+          "substitution": "Replace with fresh cold water as it warms."
+        },
+        {
+          "key": "ice",
+          "amount": 1000,
+          "unit": "g",
+          "name": "ice made from drinking water",
+          "substitution": "Use additional very cold drinking water, changing it as needed."
+        },
+        {
+          "key": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "cookwater",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Choose slender young {{carrot}} and leave them whole; slice thicker carrots into 5–6 mm rounds. Bring {{water}} to a rolling boil in a large pot. Mix {{coldwater}} with {{ice}} in a clean large bowl.",
+        "Blanch the carrots in small batches: small whole carrots for 5 minutes, sliced carrots for 2 minutes. Start timing when the water returns to a boil; reduce batch size if that takes more than 1 minute.",
+        "Transfer immediately to the ice water and cool for about the same time as blanching. Drain very thoroughly, then toss the cold carrots with {{sugar}} and {{salt}}.",
+        "Pack in freezer-safe containers or bags, leaving about 1.3 cm (½ inch) headspace in rigid containers. Seal, label with the name, date and amount, and freeze promptly at −18°C (0°F) or colder.",
+        "To serve, bring {{cookwater}} to a simmer and cook the frozen carrots until tender, usually 5–10 minutes for slices or 10–15 minutes for small whole carrots. Drain and serve."
+      ],
+      "notes": "The two source entries are the same preservation recipe, with a brief pre-cook noted in the longer entry. The unverified 90-minute bottle-sterilizing method is replaced explicitly by freezer preservation using published carrot blanching times. Sugar and salt are small flavor additions, not preservatives. Twelve undefined bunches become a manageable 1 kg batch. This is not a canning recipe and is not shelf-stable; labeling and preserved-carrot use remain part of the preparation. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Modern freezer process: https://nchfp.uga.edu/how/freeze/vegetable/freezing-carrots/ . Equivalent source retained: Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-dce8667841279318320afe27"
+      ],
+      "variants": [
+        {
+          "id": "plain",
+          "label": "Plain freezer carrots",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 1000,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 4000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "coldwater",
+              "amount": 4000,
+              "unit": "ml",
+              "name": "ice-cold drinking water for cooling",
+              "substitution": "Replace with fresh cold water as it warms."
+            },
+            {
+              "key": "ice",
+              "amount": 1000,
+              "unit": "g",
+              "name": "ice made from drinking water",
+              "substitution": "Use additional very cold drinking water, changing it as needed."
+            },
+            {
+              "key": "cookwater",
+              "amount": 2000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            }
+          ],
+          "steps": [
+            "Choose slender young {{carrot}} and leave them whole; slice thicker carrots into 5–6 mm rounds. Bring {{water}} to a rolling boil in a large pot. Mix {{coldwater}} with {{ice}} in a clean large bowl.",
+            "Blanch the carrots in small batches: small whole carrots for 5 minutes, sliced carrots for 2 minutes. Start timing when the water returns to a boil; reduce batch size if that takes more than 1 minute.",
+            "Transfer immediately to the ice water and cool for about the same time as blanching. Drain very thoroughly.",
+            "Pack in freezer-safe containers or bags, leaving about 1.3 cm (½ inch) headspace in rigid containers. Seal, label with the name, date and amount, and freeze promptly at −18°C (0°F) or colder.",
+            "To serve, bring {{cookwater}} to a simmer and cook the frozen carrots until tender, usually 5–10 minutes for slices or 10–15 minutes for small whole carrots. Drain and serve."
+          ]
+        }
+      ]
+    }
   }
 ]
