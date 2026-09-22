@@ -1,3 +1,7 @@
+# Recipe content batch 023 — September 22, 2026
+
+Four complete cold main dishes include sweetbreads in aspic, braised chicken, lobster and layered salmon with chicken or lobster. Full cooking, mayonnaise, jelly and garnish components are supplied. A truncated salmon entry is merged into its complete original paragraph with saved ID and source retained. Totals: 40,834 imported recipes, 402 completed adaptations, 40,432 remaining content repairs and 42,286 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified. No Android, portfolio, personal-data or automation changes.
+
 # Recipe content batch 022 — September 22, 2026
 
 Eight complete adaptations cover fish and tomato salads and six distinct mayonnaise sauces. Full cooked-yolk preparation, fish cooking, chilling and meaningful butter, mustard, olive, anchovy and herring variations are supplied. Modern quantities are distinguished from recovered source proportions. Totals: 40,835 imported recipes, 398 completed adaptations, 40,437 remaining content repairs and 42,287 visible recipes. No new duplicate merge. The collection remains unfinished; kitchen and physical-phone tests remain unverified. Saved data, Android, portfolio and automations are unchanged.

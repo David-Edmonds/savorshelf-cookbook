@@ -346,5 +346,11 @@
     "canonicalId": "historical-423d014c764900663a070554",
     "bodySha256": "d1c8871c9568c52a8089c00b214074de0b617c5952bbe79d71dd25f6b6475eba",
     "reason": "Identical formula and method after original-page correction: both use half a tablespoon of green pepper."
+  },
+  {
+    "id": "historical-723b406d2e97ee68df5ce96f",
+    "canonicalId": "historical-e32da05daa9cbb17e3643823",
+    "bodySha256": "ce77c28d23fa5d40f1fc0c685b82ce1b66ddf64147b5ae7f63b3c81d2547e368",
+    "reason": "Truncated opening of the same single original Salmon a la Mayonesa paragraph; full ingredients and layering retained in canonical source21."
   }
 ]

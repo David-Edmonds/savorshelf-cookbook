@@ -32578,5 +32578,830 @@
       "updatedAt": "2026-09-22T20:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-e3b5c326b20a1f728802da94",
+    "bodySha256": "e4ceaf52bc9c3ab49ba3684825acb35651570cbe9c61403caac50d2fd1574c84",
+    "recipe": {
+      "id": "historical-e3b5c326b20a1f728802da94",
+      "title": "Cold Sweetbreads with Mayonnaise and Aspic",
+      "description": "Tender sweetbreads set in a light savory jelly are coated with mayonnaise and garnished with beet, egg and additional aspic.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "sweetbreads",
+          "amount": 500,
+          "unit": "g",
+          "name": "veal sweetbreads, cleaned by an inspected butcher",
+          "substitution": "Use the same weight of lamb sweetbreads from an inspected supplier; flavor differs."
+        },
+        {
+          "key": "blanchwater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "stock",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "unsalted prepared veal stock for poaching",
+          "substitution": "Use the same volume of unsalted prepared chicken stock."
+        },
+        {
+          "key": "reservedstock",
+          "amount": 300,
+          "unit": "ml",
+          "name": "poaching stock reserved from cooking the sweetbreads",
+          "substitution": "Use the same volume of fresh unsalted prepared veal stock if needed."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "mace",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground mace",
+          "substitution": "Use the same amount of ground nutmeg."
+        },
+        {
+          "key": "garlic",
+          "amount": 2,
+          "unit": "g",
+          "name": "peeled garlic, finely minced",
+          "substitution": "Use the same weight of minced shallot."
+        },
+        {
+          "key": "gelatin",
+          "amount": 7,
+          "unit": "g",
+          "name": "unflavored powdered gelatin",
+          "substitution": "Use the equivalent setting strength of leaf gelatin according to its package; soak and squeeze as directed."
+        },
+        {
+          "key": "bloomwater",
+          "amount": 35,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "aspicstock",
+          "amount": 120,
+          "unit": "ml",
+          "name": "unsalted prepared veal stock for the garnish",
+          "substitution": "Use the same volume of unsalted prepared chicken stock."
+        },
+        {
+          "key": "aspicgelatin",
+          "amount": 3,
+          "unit": "g",
+          "name": "unflavored powdered gelatin for the garnish",
+          "substitution": "Use equivalent-strength leaf gelatin according to its package."
+        },
+        {
+          "key": "aspicwater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "beet",
+          "amount": 100,
+          "unit": "g",
+          "name": "small whole beet, scrubbed",
+          "substitution": "Use the same weight of golden beet."
+        },
+        {
+          "key": "beetwater",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "greens",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley leaves for garnish",
+          "substitution": "Use the same weight of chervil leaves."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 95,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 20,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "mayosalt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt for the mayonnaise",
+          "substitution": "Reduce or omit."
+        }
+      ],
+      "steps": [
+        "Put {{sweetbreads}} in a pan with {{blanchwater}}. Bring to a gentle simmer for 5 minutes, drain and discard the water. When safe to handle, trim away any remaining tough membrane and tubes.",
+        "Put the sweetbreads in a snug clean pan with {{stock}}. Simmer gently for 15–25 minutes until just firm and at least 71°C (160°F) in the center. Lift out and measure {{reservedstock}} from the poaching liquid. Spread the sweetbreads in a shallow dish, cover and refrigerate promptly for about 30 minutes until firm enough to slice.",
+        "Cut the cooled sweetbreads into neat slices about 1.5 cm thick. Return them to the pan with the measured reserved stock, {{salt}}, {{pepper}}, {{mace}} and {{garlic}}. Simmer gently for 15 minutes, then lift the pieces into a shallow serving dish in one layer.",
+        "Sprinkle {{gelatin}} over cold {{bloomwater}} and let swell for 5 minutes. Remove the seasoned stock from the heat and stir in the bloomed gelatin until dissolved. Pour over the sweetbreads. Let excess steam escape briefly, then cover and refrigerate promptly for at least 2 hours until firmly set.",
+        "For the separate garnish, sprinkle {{aspicgelatin}} over cold {{aspicwater}} and leave for 5 minutes. Heat {{aspicstock}} until steaming, remove from heat and stir in the bloomed gelatin until dissolved. Pour into a small shallow container and refrigerate for at least 2 hours until firm, then cut into small cubes.",
+        "While the jellies chill, simmer {{beet}} in {{beetwater}} for 30–45 minutes until tender. Drain, cool briefly, rub off the skin and cut into thin slices or small decorative shapes. Refrigerate until needed.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Slice the cooled hard-boiled egg into rounds or small wedges and refrigerate. Wash and dry {{greens}}.",
+        "Whisk {{yolks}}, {{vinegar}} and {{mayosalt}} in a clean bowl. Gradually whisk in {{oil}}, drop by drop at first and then in a thin stream, until smooth and creamy. Keep refrigerated.",
+        "Spread the mayonnaise over the cold set sweetbreads. Arrange the separate aspic cubes, beet, cooked egg and parsley around and over the platter. Serve cold.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original sweetbread paragraph and full garnish are retained. A modern 500 g pair and 300 ml reserved poaching stock are supplied. The quarter-ounce leaf gelatin becomes 7 g powdered gelatin with its own bloom water; it is added after simmering instead of boiled for fifteen minutes. The additional aspic garnish has a complete separate recipe. Mayonnaise follows the same book’s three-yolk/oil/vinegar proportions at a smaller modern size. Total time includes setting; the beet, egg and mayonnaise can be prepared during chilling. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Canadian Family Cook Book (1914), Grace E. Denison. https://archive.org/details/canadianfamilyco00deni_0 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-05f602d5fabee4c715cef267",
+    "bodySha256": "0c94656a1246029b67a95d59cf6c186b79e1fc20517e056c654774d624521cee",
+    "recipe": {
+      "id": "historical-05f602d5fabee4c715cef267",
+      "title": "Kuře s Majonézou — Chilled Chicken with Mayonnaise",
+      "description": "Butter-braised chicken is chilled, coated in a rich six-yolk lemon mayonnaise and served with lettuce hearts and hard-boiled eggs.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "chicken",
+          "amount": 1400,
+          "unit": "g",
+          "name": "whole oven-ready chicken, giblets removed",
+          "substitution": "Use two small oven-ready chickens of the same total weight; check each bird for doneness."
+        },
+        {
+          "key": "chickensalt",
+          "amount": 6,
+          "unit": "g",
+          "name": "fine salt for the chicken",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "rubjuice",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice for the chicken",
+          "substitution": "Use the same volume of lime juice."
+        },
+        {
+          "key": "butter",
+          "amount": 40,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of neutral vegetable oil."
+        },
+        {
+          "key": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley sprigs",
+          "substitution": "Use the same weight of chervil sprigs."
+        },
+        {
+          "key": "stock",
+          "amount": 350,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted prepared chicken stock."
+        },
+        {
+          "key": "yolks",
+          "amount": 6,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 150,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "lettuce",
+          "amount": 120,
+          "unit": "g",
+          "name": "small lettuce hearts, washed and dried",
+          "substitution": "Use the same weight of pale romaine hearts."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 170°C (340°F). Pat {{chicken}} dry; do not rinse raw poultry. Season inside and out with {{chickensalt}}, tuck the wings under and loosely secure the legs with kitchen string. Rub the breast with {{rubjuice}}.",
+        "Put {{butter}}, {{parsley}} and {{stock}} in a snug lidded ovenproof casserole. Set the chicken breast-side up on top, cover and braise for about 1½–2 hours. Check occasionally that liquid remains, adding a little hot water if needed. The thickest breast and inner thigh must both reach 74°C (165°F), avoiding bone with the thermometer.",
+        "Lift the chicken out, remove the string and rest for 10 minutes. Cut into serving pieces, remove any loose bones and spread in a shallow container. Cover and refrigerate promptly, within 2 hours of cooking, for about 1–1½ hours until cold. Discard the parsley; the cooking liquid is not part of the cold mayonnaise.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Quarter the cooled cooked eggs and refrigerate. Whisk {{yolks}} in a clean bowl and gradually whisk in {{oil}}, drop by drop at first, then in a thin stream until smooth. Gradually add {{lemon}}, {{salt}} and {{pepper}}.",
+        "Coat each cold chicken piece with some of the mayonnaise and arrange on a platter. Spoon the remaining mayonnaise over the chicken and surround it with {{lettuce}} and the cooked egg quarters. Serve cold.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original Czech zašpejluj is interpreted as securing the bird, not adding lard or bacon. Kitchen string is a modern substitute for skewers. The missing chicken size, braising quantities, cooking time and cooling method are supplied. Six yolks are retained; the small glass of oil becomes an explicit modern 150 ml. The original melted-butter sauce alternative is preserved in full. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The butter sauce uses an explicit modern 140 g working amount rather than converting oil volume directly into butter weight.",
+      "source": "Národní domácí kuchařka česko-americká (1904), author not recorded. https://archive.org/details/nrodndomc00rosi SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "butter-mayonnaise",
+          "label": "Chilled chicken with butter mayonnaise",
+          "ingredients": [
+            {
+              "key": "chicken",
+              "amount": 1400,
+              "unit": "g",
+              "name": "whole oven-ready chicken, giblets removed",
+              "substitution": "Use two small oven-ready chickens of the same total weight; check each bird for doneness."
+            },
+            {
+              "key": "chickensalt",
+              "amount": 6,
+              "unit": "g",
+              "name": "fine salt for the chicken",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "rubjuice",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice for the chicken",
+              "substitution": "Use the same volume of lime juice."
+            },
+            {
+              "key": "butter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of neutral vegetable oil."
+            },
+            {
+              "key": "parsley",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh parsley sprigs",
+              "substitution": "Use the same weight of chervil sprigs."
+            },
+            {
+              "key": "stock",
+              "amount": 350,
+              "unit": "ml",
+              "name": "unsalted prepared beef stock",
+              "substitution": "Use the same volume of unsalted prepared chicken stock."
+            },
+            {
+              "key": "yolks",
+              "amount": 6,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "mayobutter",
+              "amount": 140,
+              "unit": "g",
+              "name": "unsalted butter for the mayonnaise",
+              "substitution": "Use the olive-oil base recipe if preferred."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "lettuce",
+              "amount": 120,
+              "unit": "g",
+              "name": "small lettuce hearts, washed and dried",
+              "substitution": "Use the same weight of pale romaine hearts."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Heat the oven to 170°C (340°F). Pat {{chicken}} dry; do not rinse raw poultry. Season inside and out with {{chickensalt}}, tuck the wings under and loosely secure the legs with kitchen string. Rub the breast with {{rubjuice}}.",
+            "Put {{butter}}, {{parsley}} and {{stock}} in a snug lidded ovenproof casserole. Set the chicken breast-side up on top, cover and braise for about 1½–2 hours. Check occasionally that liquid remains, adding a little hot water if needed. The thickest breast and inner thigh must both reach 74°C (165°F), avoiding bone with the thermometer.",
+            "Lift the chicken out, remove the string and rest for 10 minutes. Cut into serving pieces, remove any loose bones and spread in a shallow container. Cover and refrigerate promptly, within 2 hours of cooking, for about 1–1½ hours until cold. Discard the parsley; the cooking liquid is not part of the cold mayonnaise.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Quarter the cooled cooked eggs and refrigerate. Melt {{mayobutter}} gently, then cool until just lukewarm and still liquid, about 35–40°C (95–104°F). Whisk {{yolks}} in a clean bowl and add the melted butter drop by drop at first, then in a thin stream. Gradually whisk in {{lemon}}, {{salt}} and {{pepper}}. The butter mayonnaise firms when chilled.",
+            "Coat each cold chicken piece with some of the mayonnaise and arrange on a platter. Spoon the remaining mayonnaise over the chicken and surround it with {{lettuce}} and the cooked egg quarters. Serve cold.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-9a6b1c29d8261f974872414a",
+    "bodySha256": "842fe79c5c08400dbd5a1df94c417daeb71bb290bc2e41f7be933179dd1c56b9",
+    "recipe": {
+      "id": "historical-9a6b1c29d8261f974872414a",
+      "title": "Langosta a la Mayonesa — Chilled Lobster Platter",
+      "description": "A whole lobster cooked in onion-and-wine broth is chilled and split for serving with a small bowl of lemon mayonnaise.",
+      "category": "Main dishes",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 100,
+      "ingredients": [
+        {
+          "key": "lobster",
+          "amount": 850,
+          "unit": "g",
+          "name": "whole raw lobster, freshly and humanely dispatched by the fishmonger, kept chilled",
+          "substitution": "Use a similar-sized whole raw spiny lobster prepared by the fishmonger; cooking time varies with size."
+        },
+        {
+          "key": "brothwater",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "brothsalt",
+          "amount": 45,
+          "unit": "g",
+          "name": "salt for the lobster broth",
+          "substitution": "Reduce to taste; use drinking water, not untreated seawater."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled onion, quartered",
+          "substitution": "Use the same weight of shallots."
+        },
+        {
+          "key": "peppercorns",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "whole black peppercorns",
+          "substitution": "Use the same amount of white peppercorns."
+        },
+        {
+          "key": "wine",
+          "amount": 75,
+          "unit": "ml",
+          "name": "dry sherry",
+          "substitution": "Use the same volume of dry white wine, or unsalted vegetable stock for a different flavor."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "lettuce",
+          "amount": 60,
+          "unit": "g",
+          "name": "lettuce hearts, washed and dried",
+          "substitution": "Use the same weight of romaine hearts."
+        },
+        {
+          "key": "garnishlemon",
+          "amount": 0.5,
+          "unit": "",
+          "name": "lemon for garnish, washed",
+          "substitution": "Use half a lime for a different flavor."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 0.25,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Put {{brothwater}}, {{brothsalt}}, {{onion}} and {{peppercorns}} in a pot large enough for the lobster. Bring to a boil and simmer for 10 minutes.",
+        "Lower {{lobster}} into the broth, adding hot water if needed to cover. Return to a gentle boil and cook for about 18–22 minutes for this size, adding {{wine}} about halfway through. Check the thickest tail meat: it must reach 63°C (145°F), turn opaque and become firm. Larger lobsters take longer.",
+        "Lift out and drain. Let cool just enough to handle, then split lengthwise on a stable cutting board with a sturdy sharp knife, protecting your hand from the sharp shell. Remove the stomach sac behind the head and the dark intestinal vein in the tail. Leave the meat in the two shell halves. Put in a shallow container and refrigerate promptly, within 2 hours, until cold, about 45–60 minutes.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Keep the cooked yolks for garnish and refrigerate the whites for another dish. Wash and dry {{lettuce}} and cut {{garnishlemon}} into wedges.",
+        "Whisk {{yolks}}, {{vinegar}}, {{salt}} and {{pepper}} in a clean bowl. Gradually whisk in {{oil}} drop by drop until smooth, then slowly whisk in {{lemon}}. Put the mayonnaise in a small serving bowl.",
+        "Arrange the cold lobster halves on a platter with the lettuce, cooked yolks and lemon wedges. Serve with the mayonnaise separately, allowing diners to remove the meat from the shells.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The full original cooking reference includes onion, peppercorns and wine. Modern quantities, salted drinking water and a measured cooking endpoint are supplied. The lobster is purchased already dispatched by the fishmonger. Prompt shallow-container chilling replaces cooling in a large pot of broth. The source separate-sauce presentation is retained; the eggs, lettuce and lemon are a measured serving garnish. Mayonnaise follows the book’s small, yolk-rich formula. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "El Practicón: tratado completo de cocina (1894), Ángel Muro. https://archive.org/details/elpracticntrat00muro SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 100,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e32da05daa9cbb17e3643823",
+    "bodySha256": "54ce621549f63a214d6cda614928e6951d449e8f746eec990f13a345a311ffb0",
+    "recipe": {
+      "id": "historical-e32da05daa9cbb17e3643823",
+      "title": "Guatemalan Layered Salmon and Chicken Mayonnaise",
+      "description": "Cold salmon and chopped chicken are layered with lettuce and a rich butter mayonnaise containing cooked and pasteurized yolks.",
+      "category": "Main dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 120,
+      "ingredients": [
+        {
+          "key": "salmon",
+          "amount": 600,
+          "unit": "g",
+          "name": "boneless skinless salmon fillet",
+          "substitution": "Use the same weight of trout fillet for a different flavor."
+        },
+        {
+          "key": "fishwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "chicken",
+          "amount": 400,
+          "unit": "g",
+          "name": "boneless skinless chicken breast",
+          "substitution": "Use the complete lobster variation for the original seafood alternative."
+        },
+        {
+          "key": "stock",
+          "amount": 750,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock",
+          "substitution": "Use the same volume of unsalted prepared vegetable stock."
+        },
+        {
+          "key": "butter",
+          "amount": 225,
+          "unit": "g",
+          "name": "unsalted butter, softened",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; texture differs."
+        },
+        {
+          "key": "oil",
+          "amount": 75,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "vinegar",
+          "amount": 5,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lettuce",
+          "amount": 150,
+          "unit": "g",
+          "name": "tender lettuce leaves, washed and dried",
+          "substitution": "Use the same weight of butterhead lettuce."
+        }
+      ],
+      "steps": [
+        "Bring {{fishwater}} to a bare simmer in a wide pan. Add {{salmon}} and poach gently for 8–12 minutes until the thickest part reaches 63°C (145°F) and flakes easily. Lift out, drain and break into large flakes, checking carefully for bones.",
+        "Bring {{stock}} to a gentle simmer in another pan. Add {{chicken}} and poach for about 15–20 minutes until the thickest part reaches 74°C (165°F). Lift out, drain and cut into small pieces.",
+        "Spread the cooked salmon and chicken in separate shallow containers, cover and refrigerate promptly, within 2 hours of cooking, for about 45 minutes until cold.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Reserve the cooked whites for another dish. Push the cooked yolks through a fine sieve into a bowl and beat with {{butter}} until smooth. Beat in {{yolks}}, {{salt}} and {{pepper}}, then add {{oil}} very slowly while beating until evenly blended. Add {{vinegar}} drop by drop.",
+        "Finely shred {{lettuce|0.3333333333333333}} and fold into the butter mayonnaise. Keep {{lettuce|0.6666666666666666}} whole for the final garnish.",
+        "Spread half the cold salmon on a platter, add one third of the mayonnaise, then half the chopped chicken. Repeat the salmon, another third of the mayonnaise and the remaining chicken. Finish with the last third of the mayonnaise and garnish with the reserved lettuce leaves.",
+        "Refrigerate the assembled platter for 15 minutes before serving. The butter dressing becomes firmer when cold; serve in modest portions.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original half pound of butter becomes a rounded modern 225 g. A small glass of oil becomes 75 ml. Missing fish, poultry, lettuce and seasoning quantities are supplied. Two cooked and two uncooked yolks are retained, with commercially pasteurized yolks for the uncooked part. The complete source’s chicken-or-lobster layering is preserved in a named variation. The shorter source entry is the opening of this same original paragraph, not a separate dish. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Consejos prácticos sobre cocina, pastelería y repostería al estilo del país (1922), author not recorded. https://archive.org/details/consejosprcti00lpezguate SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Consejos prácticos sobre cocina, pastelería y repostería al estilo del país (1922), author not recorded. https://archive.org/details/consejosprcti00lpezguate",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 120,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-723b406d2e97ee68df5ce96f"
+      ],
+      "variants": [
+        {
+          "id": "lobster",
+          "label": "Layered salmon and lobster mayonnaise",
+          "ingredients": [
+            {
+              "key": "salmon",
+              "amount": 600,
+              "unit": "g",
+              "name": "boneless skinless salmon fillet",
+              "substitution": "Use the same weight of trout fillet for a different flavor."
+            },
+            {
+              "key": "fishwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "lobstermeat",
+              "amount": 400,
+              "unit": "g",
+              "name": "raw lobster tail meat, removed from the shells",
+              "substitution": "Use the chicken base recipe if preferred."
+            },
+            {
+              "key": "stock",
+              "amount": 750,
+              "unit": "ml",
+              "name": "unsalted prepared vegetable stock",
+              "substitution": "Use the same volume of drinking water with a pinch of salt."
+            },
+            {
+              "key": "butter",
+              "amount": 225,
+              "unit": "g",
+              "name": "unsalted butter, softened",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; texture differs."
+            },
+            {
+              "key": "oil",
+              "amount": 75,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "vinegar",
+              "amount": 5,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lettuce",
+              "amount": 150,
+              "unit": "g",
+              "name": "tender lettuce leaves, washed and dried",
+              "substitution": "Use the same weight of butterhead lettuce."
+            }
+          ],
+          "steps": [
+            "Bring {{fishwater}} to a bare simmer in a wide pan. Add {{salmon}} and poach gently for 8–12 minutes until the thickest part reaches 63°C (145°F) and flakes easily. Lift out, drain and break into large flakes, checking carefully for bones.",
+            "Bring {{stock}} to a gentle simmer in another pan. Add {{lobstermeat}} and poach for about 6–10 minutes until opaque, firm and at least 63°C (145°F) in the thickest piece. Lift out, drain and cut into small pieces.",
+            "Spread the cooked salmon and lobster in separate shallow containers, cover and refrigerate promptly, within 2 hours of cooking, for about 45 minutes until cold.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Reserve the cooked whites for another dish. Push the cooked yolks through a fine sieve into a bowl and beat with {{butter}} until smooth. Beat in {{yolks}}, {{salt}} and {{pepper}}, then add {{oil}} very slowly while beating until evenly blended. Add {{vinegar}} drop by drop.",
+            "Finely shred {{lettuce|0.3333333333333333}} and fold into the butter mayonnaise. Keep {{lettuce|0.6666666666666666}} whole for the final garnish.",
+            "Spread half the cold salmon on a platter, add one third of the mayonnaise, then half the chopped lobster. Repeat the salmon, another third of the mayonnaise and the remaining lobster. Finish with the last third of the mayonnaise and garnish with the reserved lettuce leaves.",
+            "Refrigerate the assembled platter for 15 minutes before serving. The butter dressing becomes firmer when cold; serve in modest portions.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
   }
 ]
