@@ -1,3 +1,7 @@
+# Recipe content batch 018 — September 22, 2026
+
+Thirteen measured dressing adaptations and one duplicate consolidation resolve fourteen source entries. Original scans correct the Finnish-American green-pepper and black-pepper fractions. Complete lemon, onion and Roquefort variations, a cooked-yolk method, and properly identified small pickled hot peppers are included. Totals: 40,835 imported recipes, 371 completed adaptations, 40,464 remaining content repairs and 42,287 visible recipes. Modern choices are disclosed; these recipes are not kitchen-tested. The full collection remains unfinished. Saved IDs and credits are retained; no Android, portfolio, personal-data or automation changes.
+
 # Recipe content batch 017 — September 22, 2026
 
 Nine complete measured adaptations finish the remaining selected carrot sources: six meat-and-vegetable dishes, hollow carrots with spiced nuts, carrot-kohlrabi with the full brain-croquette accompaniment, and an explicitly modern carrot-juice acetic fermentation. Original scans restore equal suet/flour dumpling quantities and correct the Hungarian wafer, fat, clarification and acid terms. All component methods, measured sauces and meaningful named variations are included. Totals: 40,836 imported records, 358 completed adaptations, 40,478 remaining content repairs and 42,288 visible recipes. No new duplicate merge. Kitchen, fermentation and physical-phone testing are unverified; the wider collection remains unfinished. Android, portfolio, saved personal data and automations are unchanged.

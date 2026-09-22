@@ -28225,5 +28225,1153 @@
       "updatedAt": "2026-09-22T18:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-423d014c764900663a070554",
+    "bodySha256": "0c5e79bbc84200ea1ac4727f3603997695b19720cb2e75faa4a1c0a7b6f41612",
+    "recipe": {
+      "id": "historical-423d014c764900663a070554",
+      "title": "Finnish-American Pickle and Green Pepper Vinaigrette",
+      "description": "Chopped pickles, green pepper and parsley give this oil-and-vinegar dressing a fresh, tangy crunch.",
+      "category": "Condiments",
+      "servings": 7,
+      "yieldUnit": "servings",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "oil",
+          "amount": 75,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "pickle",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "drained cucumber pickles, finely chopped",
+          "substitution": "Use the same amount of drained chopped cornichons."
+        },
+        {
+          "key": "greenpepper",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "name": "green bell pepper, finely chopped",
+          "substitution": "Use the same amount of red bell pepper."
+        },
+        {
+          "key": "parsley",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Stir in {{pickle}}, {{greenpepper}} and {{parsley}}. Spoon the chopped vegetables evenly over each portion.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The 1914 and 1928 original scans show the same 5:2 oil-to-vinegar formula, identical pickle, parsley and half-tablespoon green-pepper quantities and the same mixing method. The extracted 1928 quarter-tablespoon was a transcription error. Salt and pepper amounts are supplied. About seven small dressing portions. Both source credits and the alternate saved ID are retained. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall SavorShelf measured adaptation. Equivalent source retained: Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-fbe71a312d908af47504ec2b"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-e3a96f990242a0197e210aca",
+    "bodySha256": "1350f5a8be5eb6974b565c608b262437b9b8d584469e53e8cd2b121fa0a6c7e8",
+    "recipe": {
+      "id": "historical-e3a96f990242a0197e210aca",
+      "title": "Garlic-Rubbed Vinaigrette with Gherkin and Tarragon",
+      "description": "Tarragon vinegar, grated onion, chopped gherkin and a little hot sauce flavor this garlic-scented dressing.",
+      "category": "Condiments",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "garlic",
+          "amount": 1,
+          "unit": "clove",
+          "name": "peeled garlic",
+          "substitution": "Omit for a garlic-free dressing."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper."
+        },
+        {
+          "key": "water",
+          "amount": 5,
+          "unit": "ml",
+          "name": "cold drinking water",
+          "substitution": "Use the same volume of cold drinking water; this replaces the source ice option."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "hotsauce",
+          "amount": 0.5,
+          "unit": "ml",
+          "name": "Tabasco-style hot pepper sauce",
+          "substitution": "Use the same volume of another vinegar-based hot sauce, or omit."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "onion",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "finely grated onion",
+          "substitution": "Use the same amount of grated shallot."
+        },
+        {
+          "key": "parsley",
+          "amount": 3,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "gherkin",
+          "amount": 20,
+          "unit": "g",
+          "name": "drained pickled gherkin, finely chopped",
+          "substitution": "Use the same weight of drained cucumber pickle."
+        }
+      ],
+      "steps": [
+        "Cut {{garlic}} in half and rub the cut sides around a clean mixing bowl. Discard the clove.",
+        "Whisk {{water}}, {{vinegar}}, {{salt}}, {{pepper}} and {{hotsauce}} in the bowl until the salt dissolves. Gradually whisk in {{oil}}.",
+        "Stir in {{onion}}, {{parsley}} and {{gherkin}}. Serve a little over each salad portion.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The salt is dissolved in the water and vinegar before adding oil. Ten drops of sauce become an explicit modern 0.5 ml approximation; drop sizes vary. One gherkin becomes 20 g. Cold water is chosen instead of ice so no undissolved ice needs removing. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-69ff7ed001f377b907f106f0",
+    "bodySha256": "870f1b87bb5806deb9f3e3031cf1ba32576a36ed1acf4e7461462e91aa97f025",
+    "recipe": {
+      "id": "historical-69ff7ed001f377b907f106f0",
+      "title": "Boston Herb and Pickle Vinaigrette",
+      "description": "Cider and tarragon vinegars combine with olive oil, paprika, pickles, green pepper and fresh herbs.",
+      "category": "Condiments",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the same amount of smoked paprika for a different flavor."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "cider",
+          "amount": 30,
+          "unit": "ml",
+          "name": "cider vinegar",
+          "substitution": "Use the same volume of white wine vinegar."
+        },
+        {
+          "key": "oil",
+          "amount": 90,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "pickle",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "drained cucumber pickle, finely chopped",
+          "substitution": "Use the same amount of chopped cornichons."
+        },
+        {
+          "key": "greenpepper",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "green bell pepper, finely chopped",
+          "substitution": "Use the same amount of red bell pepper."
+        },
+        {
+          "key": "parsley",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "chives",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fresh chives, finely chopped",
+          "substitution": "Use the same amount of finely sliced green onion tops."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} with {{paprika}}, {{cider}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Stir in {{pickle}}, {{greenpepper}}, {{parsley}} and {{chives}}. Distribute the chopped ingredients evenly when serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The original three tablespoons total vinegar and six tablespoons oil are retained. A few grains of pepper become 1/16 teaspoon. This differs from the Finnish-American dressing in its ratio, cider and tarragon vinegars, paprika and chives. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-460a6afeadd2180075df2cae",
+    "bodySha256": "a150dd15d8454dd1758b2d255e851bb98d648c6bd997a1946a5b02db48d8038b",
+    "recipe": {
+      "id": "historical-460a6afeadd2180075df2cae",
+      "title": "Manila French Dressing",
+      "description": "A simple, oil-rich dressing balances olive oil and vinegar with salt and black pepper.",
+      "category": "Condiments",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "salt",
+          "amount": 0.75,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The source 4:1 oil-to-acid ratio is retained. One saltspoon of pepper is interpreted as a modern quarter teaspoon. The original lemon option is kept as a complete variation. Salt is dissolved in the acid before oil is added. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Manila Cook Book (1919), author not recorded. https://archive.org/details/cu31924059639215 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lemon",
+          "label": "Manila lemon dressing",
+          "ingredients": [
+            {
+              "key": "salt",
+              "amount": 0.75,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "oil",
+              "amount": 60,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the vinegar base recipe if preferred."
+            }
+          ],
+          "steps": [
+            "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} until the salt is dissolved.",
+            "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+            "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and lemon juice naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-efa62e5df4b1448df0cbfff3",
+    "bodySha256": "82a337d210184dd7bce58085845d1992d3bcbbe67e4c77a580cb83271a7a462c",
+    "recipe": {
+      "id": "historical-efa62e5df4b1448df0cbfff3",
+      "title": "Sweet Paprika French Dressing",
+      "description": "A little sugar and paprika soften this brisk olive-oil and vinegar dressing.",
+      "category": "Condiments",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "granulated sugar",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the same amount of smoked paprika for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} with {{sugar}}, {{paprika}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The source half-teaspoon salt, quarter-teaspoon pepper, teaspoon sugar and 2:1 oil-to-vinegar ratio are retained. The dash of paprika is supplied as 1/8 teaspoon. This sweet paprika version remains distinct from the plain Boston dressing. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-61613e84c36825e1665e9068",
+    "bodySha256": "a53f7d653177ca73844c0ece051ed75c7133fdd79ed79b32568e20c7b19f01aa",
+    "recipe": {
+      "id": "historical-61613e84c36825e1665e9068",
+      "title": "Creole Mustard and Cooked-Yolk French Dressing",
+      "description": "Mashed cooked egg yolk and mustard thicken a small, tangy olive-oil dressing.",
+      "category": "Condiments",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of prepared yellow mustard for a milder flavor."
+        },
+        {
+          "key": "egg",
+          "amount": 1,
+          "unit": "",
+          "name": "large egg",
+          "substitution": "Use one large pasteurized shell egg if preferred; cook it fully as directed."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "water for boiling the egg",
+          "substitution": "Use enough drinking water to cover the egg by about 2 cm in a small pan."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Put {{egg}} in a small pan with {{water}}. Add more water if necessary to cover by about 2 cm. Bring to a boil, cover, remove from the heat and stand for 12 minutes. Cool immediately under cold running water until safe to handle. Peel and cut open; the yolk must be firm throughout. Keep the cooked white refrigerated for another dish.",
+        "Mash the cooked yolk very finely in a bowl. Whisk in {{mustard}}, {{vinegar}}, {{salt}} and {{pepper}} until smooth.",
+        "Add {{oil}} slowly while whisking until creamy and blended. Serve with the salad.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "Prepared mustard, seasoning amounts and a complete egg-cooking method are supplied. Only the yolk goes into the dressing; the cooked white is not an extra unlisted ingredient. This is an egg-containing fresh dressing. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-06ab7cf51e0130f9b03cede7",
+    "bodySha256": "f6517648f7bbd7dfde12cfeb1e15c1c66bbbd1e0759a7931dd3fa8b7fb09ac38",
+    "recipe": {
+      "id": "historical-06ab7cf51e0130f9b03cede7",
+      "title": "Tarragon and Onion French Dressing",
+      "description": "Tarragon vinegar, onion juice, finely chopped onion and parsley give this dressing a sharp, savory flavor.",
+      "category": "Condiments",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "onion",
+          "amount": 60,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of shallot for a different flavor."
+        },
+        {
+          "key": "parsley",
+          "amount": 3,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        }
+      ],
+      "steps": [
+        "Finely chop {{onion|0.16666666666666666}}. Grate {{onion|0.8333333333333334}} into a fine sieve over a bowl and press firmly with a spoon to extract its juice; discard the pressed pulp.",
+        "Whisk the extracted onion juice with {{vinegar}}, {{salt}} and {{pepper}}. Gradually whisk in {{oil}} until blended.",
+        "Stir in the reserved chopped onion and {{parsley}}. Spoon over the salad just before serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The source lists chopped onion as well as juice of half an onion. The modern 60 g total is divided into 10 g chopped and 50 g grated for juice; the amount of juice recovered varies. The saltspoons are interpreted as quarter teaspoons. Parsley is supplied as one tablespoon. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-bc7595065d2613df04fc2d46",
+    "bodySha256": "910a01abe1fe1ea2ee149d8c0d72b91e2923ade7ee425e4595b6708e0dae0a67",
+    "recipe": {
+      "id": "historical-bc7595065d2613df04fc2d46",
+      "title": "Peppery Creole French Dressing",
+      "description": "A pepper-forward olive-oil and vinegar dressing for simple green salads.",
+      "category": "Condiments",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The source half-teaspoon black pepper is retained. This is twice the pepper in the comparable 1914 Finnish-American dressing and is kept as a distinct pepper-forward formula. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b1c385418065b1b0b56b2da6",
+    "bodySha256": "5d94191a14a99341b0cc9d29f7d1cce9b9a506e172d9be25077a24330b0fc4a9",
+    "recipe": {
+      "id": "historical-b1c385418065b1b0b56b2da6",
+      "title": "Finnish-American French Dressing",
+      "description": "Olive oil, vinegar, salt and black pepper make a simple dressing with a three-to-one oil-to-vinegar ratio.",
+      "category": "Condiments",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The original 1914 printed page196 clearly gives quarter-teaspoon pepper, correcting the extracted three-quarter teaspoon. The source plain salad oil is interpreted as olive oil; a mild neutral oil is the substitution. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-d1084dd55191719de13f45d5",
+    "bodySha256": "ad36b6992c2a7bf4ff5ce48144062f422b81c8e9484e7301f1e00a5a51cec686",
+    "recipe": {
+      "id": "historical-d1084dd55191719de13f45d5",
+      "title": "Ranskalainen Salaattikastike with Lemon and Vinegar",
+      "description": "This Finnish French dressing combines vinegar and lemon juice with olive oil and black pepper.",
+      "category": "Condiments",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} with {{lemon}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The full 1928 printed page237 includes lemon juice missing from the extracted instructions, a lemon-only option using two tablespoons juice, and onion-juice or grated Roquefort options. The latter flavoring quantities are supplied modern choices. These additions distinguish it from the earlier plain dressing. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lemon-only",
+          "label": "Lemon-only Finnish dressing",
+          "ingredients": [
+            {
+              "key": "oil",
+              "amount": 45,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the lemon-and-vinegar base if preferred."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            }
+          ],
+          "steps": [
+            "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} until the salt is dissolved.",
+            "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+            "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "onion",
+          "label": "With onion juice",
+          "ingredients": [
+            {
+              "key": "oil",
+              "amount": 45,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "onion",
+              "amount": 30,
+              "unit": "g",
+              "name": "peeled onion",
+              "substitution": "Use the same weight of shallot."
+            }
+          ],
+          "steps": [
+            "Grate {{onion}} into a fine sieve set over the mixing bowl. Press firmly with a spoon and discard the pulp; keep all the extracted juice in the bowl.",
+            "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} with {{lemon}} until the salt is dissolved.",
+            "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+            "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "roquefort",
+          "label": "With Roquefort",
+          "ingredients": [
+            {
+              "key": "oil",
+              "amount": 45,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "roquefort",
+              "amount": 10,
+              "unit": "g",
+              "name": "Roquefort cheese",
+              "substitution": "Use the same weight of another crumbly blue cheese."
+            }
+          ],
+          "steps": [
+            "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} with {{lemon}} until the salt is dissolved.",
+            "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+            "Finely crumble {{roquefort}} into the finished dressing and whisk to distribute it.",
+            "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-f62b176b7bd55e8bae816faa",
+    "bodySha256": "d5c28b650e81a967ac95ff1de21d8ef1ed1a02f9ee20292f092b1fd7f39c32bc",
+    "recipe": {
+      "id": "historical-f62b176b7bd55e8bae816faa",
+      "title": "Club French Dressing with Brandy",
+      "description": "Uncooked brandy and tarragon vinegar make a sharp, aromatic dressing with olive oil.",
+      "category": "Condiments",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "brandy",
+          "amount": 30,
+          "unit": "ml",
+          "name": "brandy",
+          "substitution": "Use the same volume of unsweetened white grape juice for an alcohol-free ingredient substitution with a sweeter flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} with {{brandy}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The equal quantities of brandy, vinegar and oil are retained. The brandy is not cooked and its alcohol remains in the dressing; this base recipe is not alcohol-free. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-05b2f3f6a392e139faf847cf",
+    "bodySha256": "e75914407bca7a0c5403a59dbbf74a1dce648232ad65e6b6f0d7ee5f559bf91e",
+    "recipe": {
+      "id": "historical-05b2f3f6a392e139faf847cf",
+      "title": "Boston Plain French Dressing",
+      "description": "A brisk two-to-one olive-oil and vinegar dressing seasoned simply with salt and pepper.",
+      "category": "Condiments",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "In a small bowl, whisk {{vinegar}}, {{salt}} and {{pepper}} until the salt is dissolved.",
+        "Gradually whisk in {{oil}} until evenly blended. Toss with the salad immediately before serving.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The original 2:1 oil-to-vinegar ratio and seasoning amounts are retained. No sugar or paprika is added, unlike the Greenbaum dressing. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-cf8d4b46b9a0e78f9540bfd6",
+    "bodySha256": "1dc25a1c9f2923ae47ccdd7ad23eb751f73ad26fc90f86b4ac9c33e78ebaceb0",
+    "recipe": {
+      "id": "historical-cf8d4b46b9a0e78f9540bfd6",
+      "title": "Parisian French Dressing with Pickled Hot Peppers",
+      "description": "Small pickled red and green hot peppers infuse an olive-oil dressing with onion, parsley and a little sugar.",
+      "category": "Condiments",
+      "servings": 14,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "oil",
+          "amount": 120,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 75,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "powdered sugar",
+          "substitution": "Use the same amount of caster sugar and whisk until dissolved."
+        },
+        {
+          "key": "onion",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "sweet onion, finely chopped",
+          "substitution": "Use the same amount of finely chopped shallot."
+        },
+        {
+          "key": "parsley",
+          "amount": 6,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "redpeppers",
+          "amount": 8,
+          "unit": "g",
+          "name": "drained small pickled red hot peppers, about four tiny peppers",
+          "substitution": "Use the same weight of pickled green hot peppers; heat varies by variety."
+        },
+        {
+          "key": "greenpeppers",
+          "amount": 16,
+          "unit": "g",
+          "name": "drained small pickled green hot peppers, about eight tiny peppers",
+          "substitution": "Use the same weight of pickled red hot peppers; heat varies by variety."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        }
+      ],
+      "steps": [
+        "Trim any stems from {{redpeppers}} and {{greenpeppers}} and chop finely. Wash hands after handling hot peppers; avoid touching your eyes.",
+        "Whisk {{vinegar}}, {{sugar}} and {{salt}} until dissolved. Gradually whisk in {{oil}}, then stir in {{onion}}, {{parsley}} and the chopped peppers.",
+        "Cover and refrigerate for 1 hour. Whisk vigorously for about 5 minutes before spooning over salad, distributing the pepper pieces evenly.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The original specifies tiny peppers from pepper sauce, not twelve bell peppers. Modern weights of 8 g red and 16 g green are supplied to make that scale explicit; actual heat varies. Half a cup oil becomes 120 ml. The one-hour infusion takes place in the refrigerator. About fourteen small dressing portions. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]
