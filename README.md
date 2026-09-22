@@ -1,3 +1,7 @@
+# Recipe content batch 013 — September 22, 2026
+
+Twenty-four additional measured adaptations and three reviewed duplicate consolidations resolve twenty-seven source records. Full vegetable sauce components, separate preparation choices and measured substitutions are supplied. Original page scans correct a fruit-pudding title and quantities and identify two equivalent lemon-carrot preserves; a truncated Flemish carrot record is restored from its continuation page. Current totals: 40,841 imported records, 308 completed adaptations, 40,533 remaining content repairs and 42,293 visible recipes. Modern choices are disclosed and source records retained. The collection remains unfinished; these recipes are not kitchen-tested. No Android, portfolio, personal-data or automation changes.
+
 # Carrot dishes and sauce components repair batch 012
 
 Thirty additional measured adaptations include twenty-three carrot dishes and seven complete sauce recipes. Missing white-sauce, mushroom veloute, drawn-butter, Maitre dHotel and Poulette components now have full measured steps. Salad cross-references, cream alternatives and egg finishes are explicit. Source ingredients and methods remain preserved; modern quantities and stock shortcuts are disclosed. Current totals: 40,844 imported records, 284 completed adaptations, 40,560 remaining content repairs and 42,296 visible recipes. No duplicate consolidation in this batch. The collection remains unfinished and recipes are not kitchen-tested. Android, portfolio, personal saves and automations are unchanged.

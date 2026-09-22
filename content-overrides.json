@@ -18635,5 +18635,2476 @@
       "updatedAt": "2026-09-22T18:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-4bfb1bd94731d51a37a0eb1a",
+    "bodySha256": "6806d6f8b1b0ba1003e21018d8aa37214eb37c0deeb8eded6aaae3a78df5e63d",
+    "recipe": {
+      "id": "historical-4bfb1bd94731d51a37a0eb1a",
+      "title": "Gulerødder, Stuvede (Carrots in Parsley-Stock Sauce)",
+      "description": "Small carrot cubes simmer in a smooth butter-and-stock sauce, finished with chopped parsley.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "butter",
+          "amount": 35,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 25,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm cubes. Melt {{butter}} in a saucepan, stir in {{flour}} and cook for 2 minutes without dark browning.",
+        "Gradually whisk in {{stock}} until smooth. Add the carrots, cover loosely and simmer gently for 20–25 minutes, stirring often, until the carrots are tender. Add a little water if the sauce catches or becomes too thick.",
+        "Stir in {{parsley}}, {{salt}} and {{sugar}} and heat for 1 minute. Serve hot."
+      ],
+      "notes": "The source plateful and ounce-based roux are not treated as a precise modern proportion. A disclosed 600 g carrot batch with 35 g butter, 25 g flour and 400 ml stock gives a spoonable sauce. The optional young-pea combination is retained separately. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Illustreret kogebog for by og land (1899), author not recorded. https://archive.org/details/BSG_8SCSUP9079NOR SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "with-peas",
+          "label": "Carrots with young peas",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 600,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "stock",
+              "amount": 400,
+              "unit": "ml",
+              "name": "unsalted prepared beef stock",
+              "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+            },
+            {
+              "key": "butter",
+              "amount": 35,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "flour",
+              "amount": 25,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of chives, or omit."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "sugar",
+              "amount": 5,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "peas",
+              "amount": 200,
+              "unit": "g",
+              "name": "shelled green peas, fresh or frozen",
+              "substitution": "Use the same weight of frozen peas, adding them without thawing."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into 1 cm cubes. Melt {{butter}} in a saucepan, stir in {{flour}} and cook for 2 minutes without dark browning.",
+            "Gradually whisk in {{stock}} until smooth. Add the carrots, cover loosely and simmer gently for 20–25 minutes, stirring often, until the carrots are tender. Add a little water if the sauce catches or becomes too thick.",
+            "Add {{peas}} and simmer for another 5–8 minutes until tender.",
+            "Stir in {{parsley}}, {{salt}} and {{sugar}} and heat for 1 minute. Serve hot."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-1b408caea0198c47466f1de4",
+    "bodySha256": "54ed31625077e29c38b1dd97fb78bf31ece402446fe68865ca06556e643c9604",
+    "recipe": {
+      "id": "historical-1b408caea0198c47466f1de4",
+      "title": "Stuvede Grønærter og Gulerødder (Peas and Diced Carrots)",
+      "description": "Pea-sized carrot dice and green peas are coated in a buttery parsley sauce made with their cooking liquid.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "peas",
+          "amount": 500,
+          "unit": "g",
+          "name": "shelled green peas, fresh or frozen",
+          "substitution": "Use the same weight of frozen peas, adding them without thawing."
+        },
+        {
+          "key": "carrot",
+          "amount": 400,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 450,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 60,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 20,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 5 mm dice. Put in a saucepan with {{water}}, {{sugar}} and {{salt}}. Bring to a simmer, cover and cook for 8–10 minutes until nearly tender.",
+        "Add {{peas}} and simmer for 5–8 minutes until both vegetables are tender. Drain into a bowl, reserving all the cooking liquid.",
+        "Melt {{butter}} in a clean saucepan. Stir in {{flour}} and cook for 2 minutes until pale golden. Gradually whisk in the reserved vegetable liquid and simmer for 4–5 minutes, stirring.",
+        "Fold in the drained vegetables and {{parsley}}. Heat gently for 2 minutes and serve."
+      ],
+      "notes": "The primary book recipe 722 says 3 Fdkr. peas for twelve people, not the extracted 3 dekaliters. This is a deliberately smaller modern six-serving formula with shelled peas weighed directly; it is not a claimed conversion of the old pod measure. Carrots start before the peas to give even tenderness. Flour is cooked pale golden, not dark brown. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation. Primary recipe 722, printed page 170, checked in the book transcription.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-db61bcbcb8cb24e3033a1b2d",
+    "bodySha256": "3f385b8be17058418c2c371d54493ba0b0b35421fcc55320a5d1c25842b354f1",
+    "recipe": {
+      "id": "historical-db61bcbcb8cb24e3033a1b2d",
+      "title": "Carrots and Peas in Light Milk Sauce",
+      "description": "Cooked carrot cubes and peas are bound with a small amount of flour, butter, milk and reserved carrot broth.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 300,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "peas",
+          "amount": 300,
+          "unit": "g",
+          "name": "shelled green peas, fresh or frozen",
+          "substitution": "Use the same weight of frozen peas, adding them without thawing."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "carrotwater",
+          "amount": 120,
+          "unit": "ml",
+          "name": "reserved carrot cooking water from the steps",
+          "substitution": "Use the same volume of unsalted vegetable stock if necessary."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm cubes. Bring {{water}} to a boil, add the carrots and simmer for 12–18 minutes until tender. Lift out with a slotted spoon; measure {{carrotwater}} from the cooking water and set it aside.",
+        "Cook {{peas}} in the remaining hot carrot water for 3–5 minutes until tender. Drain. Combine the cooked vegetables in the saucepan.",
+        "Mix {{flour}}, {{salt}}, {{pepper}} and {{sugar}} in a small bowl, sprinkle over the vegetables and toss gently. Add {{butter}}, {{milk}} and the measured reserved carrot water.",
+        "Simmer gently for 5–7 minutes, stirring carefully, until the flour is cooked and the vegetables are lightly coated. Serve hot."
+      ],
+      "notes": "The two pints of prepared vegetables become explicit 300 g weights each, not universal pint-to-weight conversions. The missing pea cooking is included. Milk and butter are the base choice; a stock-and-oil version is supplied separately. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "stock-and-oil",
+          "label": "Stock and oil sauce",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 300,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "peas",
+              "amount": 300,
+              "unit": "g",
+              "name": "shelled green peas, fresh or frozen",
+              "substitution": "Use the same weight of frozen peas, adding them without thawing."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "flour",
+              "amount": 16,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 5,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "butter",
+              "amount": 30,
+              "unit": "ml",
+              "name": "neutral vegetable oil",
+              "substitution": "Use the same volume of refined sunflower oil."
+            },
+            {
+              "key": "milk",
+              "amount": 120,
+              "unit": "ml",
+              "name": "unsalted prepared vegetable stock",
+              "substitution": "Use the same volume of unsalted chicken stock if desired."
+            },
+            {
+              "key": "carrotwater",
+              "amount": 120,
+              "unit": "ml",
+              "name": "reserved carrot cooking water from the steps",
+              "substitution": "Use the same volume of unsalted vegetable stock if necessary."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into 1 cm cubes. Bring {{water}} to a boil, add the carrots and simmer for 12–18 minutes until tender. Lift out with a slotted spoon; measure {{carrotwater}} from the cooking water and set it aside.",
+            "Cook {{peas}} in the remaining hot carrot water for 3–5 minutes until tender. Drain. Combine the cooked vegetables in the saucepan.",
+            "Mix {{flour}}, {{salt}}, {{pepper}} and {{sugar}} in a small bowl, sprinkle over the vegetables and toss gently. Add {{butter}}, {{milk}} and the measured reserved carrot water.",
+            "Simmer gently for 5–7 minutes, stirring carefully, until the flour is cooked and the vegetables are lightly coated. Serve hot."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-999a964ff064c9512f9c1026",
+    "bodySha256": "480ecbef885c740c00125071e60b164f9e2dfc9434f07ae57e4a7cc26d90da07",
+    "recipe": {
+      "id": "historical-999a964ff064c9512f9c1026",
+      "title": "Russian-Style Sweet Carrot Compote",
+      "description": "Carrot dice are browned in butter, simmered in sugar syrup and finished in the oven until lightly golden.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "carrot",
+          "amount": 300,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 200°C (390°F). Cut {{carrot}} into 1 cm cubes. Melt {{butter}} in an oven-safe skillet and cook the carrots for 6–8 minutes, turning, until lightly browned.",
+        "Meanwhile, combine {{sugar}} and {{water}} in a saucepan. Bring to a gentle boil and cook for 10 minutes without letting the syrup color or dry out.",
+        "Carefully pour the hot syrup over the carrots. Simmer gently for 15–25 minutes until tender. Add a little water if the syrup becomes sticky before the carrots soften.",
+        "Transfer the skillet to the oven and bake uncovered for 8–12 minutes until the carrots are lightly browned and glazed. Watch closely to avoid burning the sugar. Let cool for 5 minutes before serving small portions."
+      ],
+      "notes": "The source cup of sugar and water become 200 g and 240 ml. Two cups of diced carrots become a chosen 300 g preparation weight. Oven temperature, browning time and portion size are modern choices. This is a sweet compote, not a savory vegetable side. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1be6789a4149a46a9d5f11d7",
+    "bodySha256": "6eb8b9884e3c8be476f65a2bb53125fb775467b598e2e9d8b13bdb45dabbe033",
+    "recipe": {
+      "id": "historical-1be6789a4149a46a9d5f11d7",
+      "title": "Flemish Carrots with Onion and Stock",
+      "description": "Parboiled carrot slices are tossed with lightly browned onion, then simmered slowly in stock and finished with parsley.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 6,
+          "unit": "g",
+          "name": "fine salt for the cooking water",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        },
+        {
+          "key": "onion",
+          "amount": 100,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "salt",
+          "amount": 1.5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper."
+        },
+        {
+          "key": "stock",
+          "amount": 360,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "parsley",
+          "amount": 2,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 5 mm slices. Bring {{water}} and {{boilsalt}} to a boil and cook the carrots for 10–15 minutes until just tender. Drain.",
+        "Heat {{oil}} in a wide saucepan. Add finely chopped {{onion}} and cook for 6–8 minutes until lightly golden. Add the carrots, {{sugar}}, {{salt}} and {{pepper}}. Cook gently for 10 minutes, shaking the pan or turning carefully.",
+        "Add {{stock}}, cover loosely and simmer very gently for 30 minutes until the carrots are soft. Uncover briefly if needed to reduce excess liquid. Stir in {{parsley}} and serve."
+      ],
+      "notes": "The shorter duplicate stops at the source page break. The complete primary text continues with pepper, ten minutes of tossing, stock, a half-hour simmer and parsley; all are restored. The quart of sliced carrots becomes a chosen 600 g weight. The long stock finish is retained, rather than replacing it with a quick sauté. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Complete primary text checked across printed pages 110–111. Equivalent source retained: The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-fa8691c2eb71a09fb764d994"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-b4d84fb087e04f47af787c2a",
+    "bodySha256": "ae2ada47024e5f3fb1c9fb8b626457a6666612ac75ba172bb3e92def6751b801",
+    "recipe": {
+      "id": "historical-b4d84fb087e04f47af787c2a",
+      "title": "Lemon Carrots with Paprika and Parsley",
+      "description": "Tender carrot dice are coated with butter, lemon juice, parsley and a little paprika.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 350,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "parsley",
+          "amount": 2,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the same amount of mild smoked paprika for a different flavor."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm cubes. Bring {{water}} and {{salt}} to a boil. Add the carrots and simmer for 12–18 minutes until tender when pierced with a fork. Drain well.",
+        "Return the drained carrots to the warm pan. Add {{parsley}}, {{sugar}}, {{paprika}}, {{butter}} and {{lemon}}.",
+        "Warm over low heat for 2–3 minutes, shaking or turning gently until every piece is coated. Serve hot."
+      ],
+      "notes": "A pint of prepared carrots becomes a chosen 350 g carrot weight. The grating of loaf sugar becomes 3 g and half a lemon becomes 15 ml juice. Salt in the boiling water is measured; no extra finishing salt is required. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-22c36b107447e1a1117b3952",
+    "bodySha256": "3ab741435350475edf5230cf2dc0482f09557274fb50adebdcb38f714b81f19d",
+    "recipe": {
+      "id": "historical-22c36b107447e1a1117b3952",
+      "title": "Slow-Simmered Sweet Carrot Rounds",
+      "description": "Carrot rounds cook gently under a lid with butter and sugar, leaving a light glaze as the moisture reduces.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "sugar",
+          "amount": 38,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "water",
+          "amount": 90,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into even 5 mm rounds. Put in a heavy saucepan with {{butter}}, {{sugar}}, {{salt}} and {{water}}.",
+        "Cover tightly and cook over low heat for 25–35 minutes, shaking the pan occasionally, until tender. Check regularly and add a small splash of water if the pan becomes dry.",
+        "Uncover for the final 2–4 minutes, turning gently, to reduce the liquid to a light glaze. Serve hot."
+      ],
+      "notes": "The source omits liquid; a modern 90 ml starting amount prevents scorching before the carrots release moisture. A quart of sliced carrots becomes a chosen 600 g weight, and salt is deliberately moderated to 3 g. Butter is selected from the original butter/drippings choice. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-87513a8b7a1440996fc9a52d",
+    "bodySha256": "39d21151be0fb47b1cac7910478d2b6cc24b86c0c6071e7215c4653b516266b9",
+    "recipe": {
+      "id": "historical-87513a8b7a1440996fc9a52d",
+      "title": "Purée z Marchwi (Carrot Purée with Milk)",
+      "description": "Sieved carrots are simmered with milk and a little flour, then finished with butter and pepper.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 500,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "butter",
+          "amount": 5,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm pieces. Bring {{water}} to a boil and cook the carrots for 15–20 minutes until very tender. Drain thoroughly and press through a sieve into a saucepan.",
+        "Add {{milk|0.75}} and {{salt}} to the purée. Heat gently, stirring. Whisk {{flour}} with {{milk|0.25}} until smooth and stir this slurry into the hot purée.",
+        "Simmer gently for 5–7 minutes, stirring constantly, until the flour is cooked and the purée is smooth. Stir in {{butter}} and {{pepper}} and serve."
+      ],
+      "notes": "The half-quart of prepared purée is replaced by a disclosed 500 g peeled-carrot starting weight. The source cup of milk becomes 240 ml, with one-quarter reserved cold for the flour slurry. Full carrot cooking is supplied. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-33ab5c7eb835bd6b01d919ab",
+    "bodySha256": "7c9130e2b672943463a1b93d3e64313faeb762df255c3f6d59a9c3440d87e5d9",
+    "recipe": {
+      "id": "historical-33ab5c7eb835bd6b01d919ab",
+      "title": "Sałata z Marchwi with Egg-Yolk Dressing",
+      "description": "Chilled cooked carrots sit on lettuce with a tangy dressing of hard-cooked egg yolk, butter and vinegar.",
+      "category": "Salads",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 80,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 300,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "freshwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "yolk",
+          "amount": 1,
+          "unit": "",
+          "name": "fully hard-cooked large egg yolk, chilled",
+          "substitution": "Use the yolk from a hard-boiled duck egg only if fully cooked; flavor and size differ."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of apple cider vinegar."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "lettuce",
+          "amount": 60,
+          "unit": "g",
+          "name": "washed lettuce leaves, dried",
+          "substitution": "Use the same weight of washed romaine leaves."
+        }
+      ],
+      "steps": [
+        "Put {{carrot}} whole in a saucepan with {{water}}. Bring to a simmer and cook for 10–15 minutes, until partly tender. Carefully drain.",
+        "Add {{freshwater}} to the carrots, return to a simmer and cook for another 10–20 minutes until tender through the center. Drain, cut into 1 cm pieces and spread in a shallow container. Cool briefly, then refrigerate until cold, about 30 minutes.",
+        "Press {{yolk}} through a fine sieve. Mash with softened {{butter}}, then gradually whisk in {{vinegar}}, {{salt}} and {{pepper}} to make a slightly textured dressing.",
+        "Line a serving bowl with {{lettuce}}, add the chilled carrots and spoon over the dressing. Serve promptly."
+      ],
+      "notes": "The original mid-cook water change is retained. Three carrots become a chosen 300 g weight, and a few tablespoons of vinegar become 30 ml. A fully hard-cooked chilled yolk is an explicit prepared ingredient. The butter dressing may remain slightly textured; no raw egg is used. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 80,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-c3545c4d077b136a1f6d6e9d",
+    "bodySha256": "5def1719449fc0217e556019317feab9bdb1cc444f88d670f572d1b1c0218ab0",
+    "recipe": {
+      "id": "historical-c3545c4d077b136a1f6d6e9d",
+      "title": "Selery z Marchwią (Carrots and Celery in Milk)",
+      "description": "Equal amounts of carrots and celery cook separately, then warm together in a lightly thickened milk sauce.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 350,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "celery",
+          "amount": 350,
+          "unit": "g",
+          "name": "trimmed celery stalks",
+          "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "celerywater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt for the vegetable water",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "milk",
+          "amount": 480,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "cornflour",
+          "amount": 3,
+          "unit": "g",
+          "name": "cornstarch (cornflour)",
+          "substitution": "Use the same weight of arrowroot starch, adding it near the end and heating just until thickened."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Slice {{carrot}} thinly and cut {{celery}} into small cubes. Bring {{water}} and {{boilsalt|0.5}} to a boil in one saucepan, add the carrots and simmer for 10–15 minutes until tender.",
+        "In a second saucepan, bring {{celerywater}} and {{boilsalt|0.5}} to a boil. Add the celery and cook for 8–12 minutes until tender. Drain both vegetables thoroughly.",
+        "Combine the vegetables in one pan with {{milk|0.9375}}, {{salt}}, {{pepper}} and {{butter}}. Mix {{cornflour}} with {{milk|0.0625}} until smooth and stir into the pan.",
+        "Bring gently to a simmer while stirring. Cook for 1–2 minutes until lightly thickened and serve."
+      ],
+      "notes": "The source does not specify whether celery is stalk or root; stalk celery is the explicit base interpretation and a celeriac variation is retained. The half-quart becomes a modern 480 ml milk, with 30 ml reserved for the starch slurry. This is a light milk sauce, not a thick béchamel. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "celeriac",
+          "label": "Carrots and celeriac",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 350,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "celery",
+              "amount": 350,
+              "unit": "g",
+              "name": "peeled celeriac, cut in 1 cm cubes",
+              "substitution": "Use the stalk-celery base version for a lighter flavor."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "celerywater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "boilsalt",
+              "amount": 4,
+              "unit": "g",
+              "name": "fine salt for the vegetable water",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "milk",
+              "amount": 480,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+            },
+            {
+              "key": "cornflour",
+              "amount": 3,
+              "unit": "g",
+              "name": "cornstarch (cornflour)",
+              "substitution": "Use the same weight of arrowroot starch, adding it near the end and heating just until thickened."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "butter",
+              "amount": 14,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            }
+          ],
+          "steps": [
+            "Slice {{carrot}} thinly and cut {{celery}} into small cubes. Bring {{water}} and {{boilsalt|0.5}} to a boil in one saucepan, add the carrots and simmer for 10–15 minutes until tender.",
+            "In a second saucepan, bring {{celerywater}} and {{boilsalt|0.5}} to a boil. Add the celery and cook for 15–20 minutes until tender. Drain both vegetables thoroughly.",
+            "Combine the vegetables in one pan with {{milk|0.9375}}, {{salt}}, {{pepper}} and {{butter}}. Mix {{cornflour}} with {{milk|0.0625}} until smooth and stir into the pan.",
+            "Bring gently to a simmer while stirring. Cook for 1–2 minutes until lightly thickened and serve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-f22fed99b336ad5a41124474",
+    "bodySha256": "60d3e914c67fcc9b6a419837520585b95b0ec21444ed051380e6a80c9c5f5cff",
+    "recipe": {
+      "id": "historical-f22fed99b336ad5a41124474",
+      "title": "Creole Stewed Carrots in Milk Sauce",
+      "description": "Whole carrots are cooked, sliced and simmered in a light milk sauce with parsley and a little sugar.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 85,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "soakwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "milk",
+          "amount": 360,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        }
+      ],
+      "steps": [
+        "Put {{carrot}} in a bowl with {{soakwater}} and leave for 15 minutes, then drain. Bring {{water}} and {{salt}} to a boil in a saucepan. Add the carrots whole and simmer for 25–40 minutes until tender, topping up water if needed.",
+        "Drain and cut the carrots into 1 cm dice or thin slices. In a clean pan, melt {{butter}}, stir in {{flour}} and cook for 2 minutes without browning.",
+        "Gradually whisk in {{milk}}, add {{pepper}} and simmer for 5 minutes, stirring. Add the carrots and simmer very gently for 20 minutes, stirring occasionally and loosening with a splash of water if needed.",
+        "Stir in {{parsley}} and {{sugar}}, heat for 1 minute and serve."
+      ],
+      "notes": "The source hour-and-a-half initial boil is shortened to a tenderness check for modern carrots; its separate twenty-minute sauce simmer remains. Three-quarters of a pint becomes a modern 360 ml. Parsley and sugar appear in the source method but not its ingredient list and are now measured. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 85,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-0d40f1fb051b16d622ed7c4f",
+    "bodySha256": "752bba120226b4b7a81b1cc9f9dd8295ce45a85cccceb2fba2079372a440346e",
+    "recipe": {
+      "id": "historical-0d40f1fb051b16d622ed7c4f",
+      "title": "Gulerødder in Parsley White Sauce",
+      "description": "Cooked carrot pieces are warmed in a simple milk-and-butter sauce with finely minced parsley.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 500,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 25,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 2 cm pieces. Bring {{water}} and {{salt}} to a boil. Add the carrots and simmer for 18–25 minutes until tender when pierced with a fork. Drain well.",
+        "Melt {{butter}} in a clean saucepan, stir in {{flour}} and cook for 2 minutes. Gradually whisk in {{milk}} and simmer for 5 minutes until smooth.",
+        "Fold in the carrots and {{parsley}} and warm gently for 2 minutes. Serve hot."
+      ],
+      "notes": "Undefined large spoonfuls and the amount of milk are replaced by a modern 500 g carrot batch. Carrots are cut before cooking for even tenderness; the source milk-or-cream choice is retained in a named cream version. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Skandinavisk-amerikansk kogebog (1884), author not recorded. https://archive.org/details/skandinaviskamer00pioa SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cream",
+          "label": "Cream and parsley sauce",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 500,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 25,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "flour",
+              "amount": 16,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "milk",
+              "amount": 300,
+              "unit": "ml",
+              "name": "light cream (about 18% fat)",
+              "substitution": "Use the milk base for a lighter sauce."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of chives, or omit."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into 2 cm pieces. Bring {{water}} and {{salt}} to a boil. Add the carrots and simmer for 18–25 minutes until tender when pierced with a fork. Drain well.",
+            "Melt {{butter}} in a clean saucepan, stir in {{flour}} and cook for 2 minutes. Gradually whisk in {{milk}} and simmer for 5 minutes until smooth.",
+            "Fold in the carrots and {{parsley}} and warm gently for 2 minutes. Serve hot."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-54a8fa99fa81747d093f8635",
+    "bodySha256": "10a609f4ec127e85671180aa62e0c132ee137966a4f62e554a8375dfa98fe3c2",
+    "recipe": {
+      "id": "historical-54a8fa99fa81747d093f8635",
+      "title": "Porkkanoita Sipulin Kanssa (Carrots and Onions)",
+      "description": "Carrots and onions are coated in a light butter sauce made from their reserved cooking broth.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "onion",
+          "amount": 300,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "brothportion",
+          "amount": 300,
+          "unit": "ml",
+          "name": "reserved vegetable cooking broth from the steps",
+          "substitution": "Use the same volume of unsalted vegetable stock if needed."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm cubes and {{onion}} into small wedges. Bring {{water}} and {{salt}} to a boil. Add both vegetables and simmer for 15–20 minutes until tender.",
+        "Drain into a bowl. Measure {{brothportion}} from the reserved liquid; refrigerate unused broth promptly for another use.",
+        "Melt {{butter}} in the empty saucepan, stir in {{flour}} and cook for 2 minutes. Gradually whisk in the measured cooking broth and simmer for 5 minutes.",
+        "Add the drained vegetables and heat for 2 minutes, turning gently. Serve hot."
+      ],
+      "notes": "The source four cups of carrots and three onions become modern 600 g and 300 g weights. Repeated butter/flour entries describe the same sauce rather than additional purchases. The optional mashed-potato presentation is a serving suggestion, not an undeclared ingredient. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "butter-onions",
+          "label": "Butter-softened onions",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 600,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "onion",
+              "amount": 300,
+              "unit": "g",
+              "name": "peeled onion",
+              "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "flour",
+              "amount": 8,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "brothportion",
+              "amount": 300,
+              "unit": "ml",
+              "name": "reserved vegetable cooking broth from the steps",
+              "substitution": "Use the same volume of unsalted vegetable stock if needed."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into 1 cm cubes. Bring {{water}} and {{salt}} to a boil and simmer the carrots for 12–18 minutes until tender. Drain into a bowl, measure {{brothportion}} from the liquid and set it aside.",
+            "Melt {{butter}} in a saucepan. Add finely sliced {{onion}} and cook gently for 12–15 minutes until soft. Stir in {{flour}} and cook for 2 minutes.",
+            "Gradually whisk in the measured carrot broth and simmer for 5 minutes. Fold in the drained carrots, heat for 2 minutes and serve."
+          ]
+        },
+        {
+          "id": "scallions",
+          "label": "Carrot strips and scallion whites",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 600,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "onion",
+              "amount": 150,
+              "unit": "g",
+              "name": "white parts of scallions, washed and trimmed",
+              "substitution": "Use the onion base version instead."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "flour",
+              "amount": 8,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "brothportion",
+              "amount": 300,
+              "unit": "ml",
+              "name": "reserved vegetable cooking broth from the steps",
+              "substitution": "Use the same volume of unsalted vegetable stock if needed."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into thin 5 mm strips and {{onion}} into short lengths. Bring {{water}} and {{salt}} to a boil, add both vegetables and simmer for 10–15 minutes until tender.",
+            "Drain into a bowl. Measure {{brothportion}} from the reserved liquid; refrigerate unused broth promptly for another use.",
+            "Melt {{butter}} in the empty saucepan, stir in {{flour}} and cook for 2 minutes. Gradually whisk in the measured cooking broth and simmer for 5 minutes.",
+            "Add the drained vegetables and heat for 2 minutes, turning gently. Serve hot."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-ca722a57ea00005f2bd47ad3",
+    "bodySha256": "ebf78b545cc477bf970939106169852e87c162c80416f96de0326a9c00ec7a81",
+    "recipe": {
+      "id": "historical-ca722a57ea00005f2bd47ad3",
+      "title": "Ruskeutetut Porkkanat (Butter-Browned Carrots)",
+      "description": "Tender carrot strips are dried carefully and pan-fried in butter until golden on both sides.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 500,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 30,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into lengthwise strips about 1 cm thick. Bring {{water}} and {{salt}} to a boil. Add the carrots and simmer for 12–18 minutes until tender when pierced with a fork. Drain well.",
+        "Spread the carrots on a clean towel and pat dry. Heat {{butter}} in a wide skillet over medium heat.",
+        "Add the carrots in one layer, working in batches if necessary. Brown for 3–4 minutes on each side, turning gently, then serve."
+      ],
+      "notes": "Full boiling, cutting and drying instructions replace the prepared-boiled-carrot input. Butter is selected from the source butter/lard choice. The alternative part-cooked diced preparation and optional sugar-lemon finish are supplied together as a named variation. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lemon-cubes",
+          "label": "Lemon-sugar carrot cubes",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 500,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "butter",
+              "amount": 30,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "sugar",
+              "amount": 5,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Use the same weight of caster sugar."
+            },
+            {
+              "key": "lemon",
+              "amount": 10,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}} into 1 cm cubes. Bring {{water}} and {{salt}} to a boil. Add the carrots and simmer for 6–8 minutes until tender when pierced with a fork. Drain well.",
+            "Pat the partly cooked carrots dry. Heat {{butter}} in a wide skillet, add the cubes and cook for 10–15 minutes, turning often, until tender and golden.",
+            "Add {{sugar}} and {{lemon}} and toss for 1 minute until coated. Serve hot."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-eb012bb59401d691755ef13e",
+    "bodySha256": "8d2025312290182d411a7ea04b1aba330bffdcd0aaec71f47af39b711240bca3",
+    "recipe": {
+      "id": "historical-eb012bb59401d691755ef13e",
+      "title": "Boiled Carrots",
+      "description": "Carrots are cut evenly and simmered in salted water until tender, then drained and served hot.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 750,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 8,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into similar-sized pieces: halve large carrots across the middle, then quarter them lengthwise. Bring {{water}} and {{salt}} to a boil in a large saucepan.",
+        "Add the carrots and simmer for 15–25 minutes, checking with a fork, until tender through the center. Add water if needed to keep them submerged.",
+        "Drain thoroughly and serve hot."
+      ],
+      "notes": "The source half-gallon and heaped tablespoon are replaced by 2 liters water and a deliberately moderate 8 g salt. Carrot weight is supplied. The matching Indian Cookery Book salted-water method is consolidated with its whole-young-carrot option retained; its one-to-three-hour guidance is replaced by a modern tenderness check. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Equivalent source retained: The Indian Cookery Book (1880), author not recorded. https://archive.org/details/indiancookeryboo00unse",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-0e210ead8f4a2efffd38ec54"
+      ],
+      "variants": [
+        {
+          "id": "whole-young",
+          "label": "Whole young carrots",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 750,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "water",
+              "amount": 2000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 8,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            }
+          ],
+          "steps": [
+            "Choose slender young {{carrot}} of similar size and leave them whole. Bring {{water}} and {{salt}} to a boil.",
+            "Add the carrots and simmer for 15–30 minutes until a fork enters the center easily; thick carrots may take longer. Keep them submerged with extra water if needed.",
+            "Drain and serve hot."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-d4acc11b0cff235a2899ad66",
+    "bodySha256": "0845e378aef1e500e04286a367809c9e6860dc0c8ee23031533385e8014523b9",
+    "recipe": {
+      "id": "historical-d4acc11b0cff235a2899ad66",
+      "title": "Sliced Carrots with Stock Glaze and Butter",
+      "description": "Part-cooked carrot slices simmer in sweetened stock until glazed, then are finished with fresh butter.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 750,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt for the boiling water",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "stock",
+          "amount": 570,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "butter",
+          "amount": 85,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into even 5 mm slices. Bring {{water}} and {{boilsalt}} to a boil, add the carrots and cook for 6–8 minutes until half tender. Drain well.",
+        "Put the carrots in a wide saucepan with {{sugar}} and {{stock}}. Boil briskly, turning gently, for 12–20 minutes until the carrots are tender and the stock reduces to a syrupy glaze. Watch closely near the end.",
+        "Reduce the heat. Add {{butter}} in pieces and {{salt}}, shaking or turning gently until the butter coats the carrots. Serve immediately."
+      ],
+      "notes": "The British source pint is rounded to 570 ml and three ounces of butter to 85 g. Five or six large carrots and a lump of sugar become chosen weights. The fresh butter is added after the stock reduction, preserving the source finishing method. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ab4bc04d48c9d748160ebc50",
+    "bodySha256": "e64027c3b36c86bc1c3659558b6cf6b00a088f7ed14afb1ad4422a498b25e81c",
+    "recipe": {
+      "id": "historical-ab4bc04d48c9d748160ebc50",
+      "title": "Stewed Carrots with Cream and Broth",
+      "description": "Part-boiled carrots finish gently in cream and broth, with a small butter-flour mixture thickening the sauce.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 900,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "stock",
+          "amount": 180,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "cream",
+          "amount": 90,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of unsweetened plant cream suitable for cooking."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 12,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 1 cm slices. Bring {{water}} and {{salt}} to a boil. Add the carrots and simmer for 8–10 minutes until tender when pierced with a fork. Drain well.",
+        "Put the partly cooked carrots in a saucepan with {{stock}}, {{cream}} and {{pepper}}. Cover loosely and simmer gently for 15–20 minutes until tender, turning carefully to avoid breaking them.",
+        "Mash softened {{butter}} with {{flour}} to a smooth paste. Stir small pieces of this paste into the simmering carrot sauce.",
+        "Simmer gently for 5–7 minutes, stirring carefully, until the flour is cooked and the sauce coats the carrots. Add a little water if needed to loosen. Serve hot."
+      ],
+      "notes": "The source teacup and half-teacup become modern choices of 180 ml broth and 90 ml cream, not a universal historical conversion. Seven or eight carrots become 900 g. Cutting before the initial partial boil gives even cooking, and the raw butter-flour paste receives a full simmer. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-96cbd569c63bb0bae4d446d8",
+    "bodySha256": "6cd35e072590a972604ccdb493d5a6128213b857457dde0ad4346ceb3bf35c48",
+    "recipe": {
+      "id": "historical-96cbd569c63bb0bae4d446d8",
+      "title": "German-Style Carrots in Browned Roux Sauce",
+      "description": "Carrot rounds braise with parsley, onion and nutmeg, then finish in a lightly browned sauce made from their broth.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 1000,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "butter",
+          "amount": 85,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace, or omit."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "onion",
+          "amount": 10,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "stock",
+          "amount": 650,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "rouxbutter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter for the roux",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 5 mm rounds. Melt {{butter}} in a saucepan, add the carrots, {{salt}}, {{nutmeg}}, {{parsley}} and finely minced {{onion}}, and toss over medium-low heat for 4–5 minutes.",
+        "Add {{stock}}, cover loosely and simmer for 15–20 minutes until the carrots are nearly tender. Carefully drain into a bowl, reserving all the broth, and return the carrots to the pan.",
+        "In another saucepan, melt {{rouxbutter}}. Stir in {{flour}} and cook, stirring, for 3–4 minutes until light brown. Gradually whisk in the reserved carrot broth until smooth.",
+        "Pour the sauce over the carrots and simmer for 5–10 minutes until completely tender. Serve hot."
+      ],
+      "notes": "Eight large carrots become a modern 1 kg batch; the slightly-more-than-a-British-pint broth becomes 650 ml. The extra small piece of roux butter is listed separately from the source three ounces used to start the carrots. All broth is reused in the sauce. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1ec3c26b6956115e9825045d",
+    "bodySha256": "155ba4de26a9d8ea5f16c534c53937dff32a4328e8f55bc5dcc2fbc6966dbd24",
+    "recipe": {
+      "id": "historical-1ec3c26b6956115e9825045d",
+      "title": "Gelbe Rüben in Light Roux Sauce",
+      "description": "Fine carrot strips are cooked from cold water, then simmered in a pale roux sauce made with their cooking broth.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 750,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "fat",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of food-grade pork lard for the source fat alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 30,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "brothportion",
+          "amount": 450,
+          "unit": "ml",
+          "name": "reserved carrot cooking broth from the steps",
+          "substitution": "Use the same volume of unsalted vegetable stock if necessary."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into strips about 5 mm thick. Put in a saucepan with {{water}} and {{salt}}, bring to a simmer and cook for 8–12 minutes until partly tender.",
+        "Drain into a bowl and measure {{brothportion}} from the liquid. Keep that broth for the sauce; cool any unused broth promptly for another use.",
+        "Melt {{fat}} in a clean saucepan, stir in {{flour}} and cook for 2 minutes without dark browning. Gradually whisk in the measured broth and simmer for 5 minutes.",
+        "Fold in the carrots and simmer very gently for 15–20 minutes, turning occasionally, until very tender. Add a little water if the sauce catches. Serve hot."
+      ],
+      "notes": "Five dekagrams of fat become 50 g. Flour is required by the source roux but omitted from its ingredient list; 30 g is supplied. Four to six carrots and the broth amount become modern weights/volumes. The initial cook is shortened because fine modern carrot strips would collapse after the source thirty minutes plus twenty-minute finish. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Neues Wiener Menu- und Kochbuch (1914), author not recorded. https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-85bcbc7bc4dce8d933768d5f",
+    "bodySha256": "4df4555bcf55136877db89b1397f4171e340a7de9475ac6a3231dc48a77084b5",
+    "recipe": {
+      "id": "historical-85bcbc7bc4dce8d933768d5f",
+      "title": "Karotten Glasiert (Butter-Glazed Carrots)",
+      "description": "Tender carrots are coated in a pale caramel and butter glaze after a gentle covered braise.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "veg",
+          "amount": 600,
+          "unit": "g",
+          "name": "peeled carrots",
+          "substitution": "Use the same weight of another variety of carrots."
+        },
+        {
+          "key": "butter",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "sugar",
+          "amount": 22,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "water",
+          "amount": 100,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Cut {{veg}} into even 1 cm pieces. Melt {{butter}} in a heavy saucepan, add {{sugar}} and cook gently, watching closely, until pale golden.",
+        "Add the vegetables and {{salt}}, then carefully add {{water}}; the hot sugar may sputter. Cover and simmer over low heat for 25–35 minutes, shaking the pan occasionally, until tender. Add small splashes of water as needed to prevent scorching.",
+        "Uncover and cook for 3–5 minutes, turning gently, until the liquid reduces to a shiny coating. Serve hot."
+      ],
+      "notes": "The full same-book glazed-turnip method supplies the otherwise missing carrot instructions. Five dekagrams of butter become 50 g; five or six undefined sugar cubes become a chosen 22 g. Vegetable weight and starting water are supplied. Cooking ends at tenderness rather than a fixed hour. The optional flour dusting is unnecessary once the liquid is reduced to a glaze and is omitted. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Neues Wiener Menu- und Kochbuch (1914), author not recorded. https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914 SavorShelf measured adaptation. Complete component source: same-book glazed turnips, source ID historical-9d97eef8d8dc7dec33d9ceb7.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-9d97eef8d8dc7dec33d9ceb7",
+    "bodySha256": "d072c0f585781eec928e4d02d005458a5d60b4f623d9c1dd395be4ce538740fa",
+    "recipe": {
+      "id": "historical-9d97eef8d8dc7dec33d9ceb7",
+      "title": "Glasierte Rüben (Butter-Glazed Turnips)",
+      "description": "Tender turnips are coated in a pale caramel and butter glaze after a gentle covered braise.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 65,
+      "ingredients": [
+        {
+          "key": "veg",
+          "amount": 600,
+          "unit": "g",
+          "name": "peeled turnips",
+          "substitution": "Use the same weight of another variety of turnips."
+        },
+        {
+          "key": "butter",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "sugar",
+          "amount": 22,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "water",
+          "amount": 100,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Cut {{veg}} into even 1 cm pieces. Melt {{butter}} in a heavy saucepan, add {{sugar}} and cook gently, watching closely, until pale golden.",
+        "Add the vegetables and {{salt}}, then carefully add {{water}}; the hot sugar may sputter. Cover and simmer over low heat for 35–50 minutes, shaking the pan occasionally, until tender. Add small splashes of water as needed to prevent scorching.",
+        "Uncover and cook for 3–5 minutes, turning gently, until the liquid reduces to a shiny coating. Serve hot."
+      ],
+      "notes": "The full same-book glazed-turnip method supplies the otherwise missing carrot instructions. Five dekagrams of butter become 50 g; five or six undefined sugar cubes become a chosen 22 g. Vegetable weight and starting water are supplied. Cooking ends at tenderness rather than a fixed hour. The optional flour dusting is unnecessary once the liquid is reduced to a glaze and is omitted. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Neues Wiener Menu- und Kochbuch (1914), author not recorded. https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 65,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-76019fedc033846e7c087fc8",
+    "bodySha256": "0de40598f8e9692793d6fd754a3f59d7633dac5b45d16e35dbd92116d69c49d0",
+    "recipe": {
+      "id": "historical-76019fedc033846e7c087fc8",
+      "title": "Sauce aux Carottes (Grated-Carrot Butter Sauce)",
+      "description": "Finely grated carrots soften in butter and lightly caramelized sugar, then thicken a small stock sauce with parsley and nutmeg.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 112,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "sugar",
+          "amount": 13,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "carrot",
+          "amount": 300,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "flour",
+          "amount": 12,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "stock",
+          "amount": 250,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "parsley",
+          "amount": 1,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives, or omit."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace, or omit."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a heavy saucepan. Add {{sugar}} and heat gently until the sugar begins to color pale gold; do not let the butter burn.",
+        "Add finely grated {{carrot}} and cook gently for 10–15 minutes, stirring, until softened.",
+        "Sprinkle in {{flour}}, stir for 2 minutes, then gradually add {{stock}}. Stir in {{parsley}} and {{nutmeg}}.",
+        "Bring to a gentle simmer and cook for 5–7 minutes until the flour is cooked and the sauce lightly coats a spoon. Serve in small portions."
+      ],
+      "notes": "Eight source tablespoons of butter become 112 g. Two or three carrots become 300 g, and the missing flour amount becomes 12 g. The original quarter-liter stock is retained. Butter is selected from the butter/lard alternative; this is a rich vegetable sauce, not soup. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-5c1e99fdfc2e31f925d3eaf8",
+    "bodySha256": "ffe86fdd61c1a7474f1ebf6656b702bdaaace76bd015261fdaa16c1a11a38970",
+    "recipe": {
+      "id": "historical-5c1e99fdfc2e31f925d3eaf8",
+      "title": "Currant and Sultana Suet Pudding",
+      "description": "A steamed pudding of breadcrumbs, flour and suet is studded with currants and sultanas and flavored with treacle and lemon zest.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 180,
+      "ingredients": [
+        {
+          "key": "breadcrumbs",
+          "amount": 113,
+          "unit": "g",
+          "name": "plain dry breadcrumbs",
+          "substitution": "Use the same weight of dry breadcrumbs made from another plain wheat bread."
+        },
+        {
+          "key": "currants",
+          "amount": 113,
+          "unit": "g",
+          "name": "dried currants",
+          "substitution": "Use the same weight of small raisins."
+        },
+        {
+          "key": "suet",
+          "amount": 113,
+          "unit": "g",
+          "name": "finely shredded food-grade beef suet",
+          "substitution": "Use the same weight of shredded vegetable suet intended for steamed puddings; check its label for added flour."
+        },
+        {
+          "key": "flour",
+          "amount": 113,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use the same weight of plain wheat pastry flour; this pudding has not been formulated for gluten-free flour."
+        },
+        {
+          "key": "sultanas",
+          "amount": 113,
+          "unit": "g",
+          "name": "sultanas",
+          "substitution": "Use the same weight of raisins."
+        },
+        {
+          "key": "treacle",
+          "amount": 30,
+          "unit": "g",
+          "name": "black treacle",
+          "substitution": "Use the same weight of golden syrup for a lighter flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 1,
+          "unit": "g",
+          "name": "finely grated unwaxed lemon zest, yellow part only",
+          "substitution": "Use the same weight of finely grated orange zest."
+        },
+        {
+          "key": "milk",
+          "amount": 180,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "grease",
+          "amount": 5,
+          "unit": "g",
+          "name": "softened unsalted butter for the basin",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Grease a heatproof 1.2-liter pudding basin with {{grease}}. Put a heatproof trivet in a large lidded saucepan and add {{water}}, adjusting the water level so it will reach halfway up the outside of the basin. Bring the water to a simmer.",
+        "Mix {{breadcrumbs}}, {{currants}}, {{suet}}, {{flour}}, {{sultanas}} and {{zest}} in a bowl. Stir {{treacle}} into {{milk}}, then mix into the dry ingredients to make a thick, soft mixture. If still crumbly, add water a teaspoon at a time until it holds together.",
+        "Spoon into the basin, leaving at least 3 cm of headroom. Cover with a pleated sheet of baking parchment and a sheet of foil, securing firmly around the rim with kitchen string. Make a string handle for lifting.",
+        "Lower the basin onto the trivet. Cover the saucepan and steam over gently simmering water for 2–2½ hours, checking every 30 minutes and topping up with boiling water so the pan never runs dry.",
+        "Lift out carefully and remove the cover away from your face. A skewer pushed into the center should come out without raw paste. If needed, re-cover and steam for another 15–20 minutes. Rest for 10 minutes, loosen the edge and turn out. Serve warm."
+      ],
+      "notes": "The printed page 214 was visually checked: despite the heading Carrot Pudding, it contains no carrot. The title is corrected to describe the actual ingredients rather than inventing one. The scan gives one-quarter pound EACH of breadcrumbs, currants, suet, flour and sultanas, not the larger extracted amounts. Those weights become 113 g each. Treacle, milk, zest, basin size and a longer doneness-led steaming time are disclosed modern choices. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. When increasing the quantity, divide between additional basins with the same headroom rather than overfilling one basin; larger basins need a separate doneness check.",
+      "source": "The Canadian Family Cook Book (1914), Grace E. Denison. https://archive.org/details/canadianfamilyco00deni_0 SavorShelf measured adaptation. Primary scan verified: printed page 214, Internet Archive leaf 238. The original source title remains in the immutable source record.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 180,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b592c43b8bdb69ae88960c89",
+    "bodySha256": "cf29339132a14df16f6963756fb81d7bb4193d9a3a7c74b02db763c0a0dccc78",
+    "recipe": {
+      "id": "historical-b592c43b8bdb69ae88960c89",
+      "title": "Syltede Gulerødder (Lemon Carrot Preserve, Refrigerated)",
+      "description": "Fine carrot strips and lemon peel steep in a sweet lemon syrup, which is reduced again after two days of refrigeration.",
+      "category": "Preserves",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 3000,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 450,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "peel",
+          "amount": 24,
+          "unit": "g",
+          "name": "thin yellow lemon peel, without white pith, cut into fine strips",
+          "substitution": "Use the same weight of thin orange peel for a different flavor."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "sugar",
+          "amount": 450,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "carrotwater",
+          "amount": 240,
+          "unit": "ml",
+          "name": "reserved carrot cooking water from the steps",
+          "substitution": "Use the same volume of fresh drinking water if needed."
+        },
+        {
+          "key": "lemon",
+          "amount": 60,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "extrasugar",
+          "amount": 85,
+          "unit": "g",
+          "name": "granulated sugar for the second syrup cooking",
+          "substitution": "Use the same weight of caster sugar."
+        },
+        {
+          "key": "extralemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into fine matchsticks about 2–3 mm thick. Put in a saucepan with {{peel}} and {{water}}, bring to a simmer and cook covered for 15–30 minutes, checking frequently, until tender but still intact.",
+        "Drain into a bowl. Measure {{carrotwater}} from the cooking liquid. Put that measured liquid in a clean pan with {{sugar}}, bring to a simmer and stir until dissolved.",
+        "Add the drained carrots and peel with {{lemon}} and simmer gently for 10 minutes. Transfer to shallow food-safe containers, cool promptly and refrigerate within 2 hours at 4°C (40°F) or colder. Keep refrigerated for 48 hours.",
+        "Drain the cold carrots and peel, reserving all the syrup. Put the syrup in a saucepan with {{extrasugar}} and {{extralemon}}. Boil gently for 8–10 minutes until slightly thickened, watching carefully so it does not burn.",
+        "Take off the heat and stir in the carrots and peel without boiling them again. Transfer to clean shallow containers, cool promptly and refrigerate within 2 hours. Serve in small spoonfuls. Use within 4 days of the first cooking, including the 48-hour resting period, or freeze promptly."
+      ],
+      "notes": "Two primary scans were compared: both say carrots, water, a half-hour initial cook and half a pint of reserved water. The extracted Rødbeder title, vinegar, one-pint water and one-and-a-half-hour cook are transcription errors. A modern 450 g pound and 240 ml half-pint are explicit choices; peel and juice weights are supplied. Cognac-paper covering and room-temperature storage are replaced by refrigeration/freezing. This is not a tested canning recipe and is not shelf-stable. Total time includes the 48-hour refrigerated rest. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Skandinavisk-amerikansk kogebog (1884), author not recorded. https://archive.org/details/skandinaviskamer00pioa SavorShelf measured adaptation. Primary scans visually verified: Skandinavisk-amerikansk kogebog printed page 240 (leaf248); Skandinavisk illustreret kogebog printed page231 (leaf237). Equivalent source retained: Skandinavisk illustreret kogebog (1884), author not recorded. https://archive.org/details/skandinaviskillu00chic",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 3000,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-00c1ef29c072620e81161f01"
+      ]
+    }
   }
 ]
