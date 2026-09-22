@@ -3432,5 +3432,1507 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-2a2bfa1369f8beb6ac3507e7",
+    "bodySha256": "bbd306ea0e76aee549b3f767182ad2bd4aa8b580ae009e76865a66579f08bbea",
+    "recipe": {
+      "id": "historical-2a2bfa1369f8beb6ac3507e7",
+      "title": "Mléčná Omáčka (Lemon Milk Custard Sauce)",
+      "description": "A sweet milk sauce is enriched with egg yolks and scented with lemon zest for a smooth dessert topping.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "coldmilk",
+          "amount": 50,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet sauce; do not exchange concentrated sweeteners by weight."
+        },
+        {
+          "key": "yolks",
+          "amount": 5,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid egg yolk per large yolk. There is no identical egg-free replacement."
+        },
+        {
+          "key": "flour",
+          "amount": 10,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        },
+        {
+          "key": "zest",
+          "amount": 2,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest for a different citrus flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{coldmilk}} until smooth. Heat {{milk}}, {{sugar}}, {{zest}} and {{salt}} in a heavy saucepan until steaming.",
+        "Whisk in the flour slurry and bring to a gentle simmer. Cook for 2 minutes, stirring continuously along the bottom. Remove from the heat.",
+        "Whisk {{yolks}} in a heatproof bowl. Gradually whisk in a ladleful of the hot milk mixture, then pour everything back into the pan.",
+        "Stir over low heat until the sauce reaches 82°C (180°F) and coats a spoon; do not boil. Pour into a clean jug and serve warm."
+      ],
+      "notes": "The source milk, sugar and yolk quantities are retained. Extra cold milk, flour and zest are assigned measured amounts. Flour is cooked before the yolk liaison to avoid an uncooked-flour finish. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "Česká kuchařka (1883), Marie Dumková. https://archive.org/details/ceska_kucharka-dumkova SavorShelf measured adaptation. Technique reference: https://www.bbcgoodfoodme.com/recipes/homemade-custard/ Technique reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-af2f0ccb3ba8c763f9d980d6",
+    "bodySha256": "741bed2350a28ae985127eafaa36f2b6012e7f1d890c52d23041337b8ed7c56c",
+    "recipe": {
+      "id": "historical-af2f0ccb3ba8c763f9d980d6",
+      "title": "Milchsauce (Vanilla Milk and Yolk Sauce)",
+      "description": "A lightly sweetened milk sauce uses a small starch thickener and egg yolks, with vanilla, cocoa and lemon variations.",
+      "category": "Sauces",
+      "servings": 4,
+      "yieldUnit": "sauce portions",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "coldmilk",
+          "amount": 60,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet sauce; do not exchange concentrated sweeteners by weight."
+        },
+        {
+          "key": "salt",
+          "amount": 0.3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "starch",
+          "amount": 5,
+          "unit": "g",
+          "name": "cornstarch",
+          "substitution": "Use 5 g potato starch for a slightly different texture; avoid extended boiling."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid egg yolk per large yolk. There is no identical egg-free replacement."
+        },
+        {
+          "key": "flavor",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "vanilla extract",
+          "substitution": "Use 2 g finely grated lemon zest for a citrus version."
+        }
+      ],
+      "steps": [
+        "Whisk {{starch}} with {{coldmilk}} in a bowl until smooth. Heat {{milk}}, {{sugar}} and {{salt}} in a saucepan until steaming.",
+        "Whisk the starch slurry into the hot milk. Bring to a gentle simmer, stirring, and cook for 1 minute. Remove from the heat.",
+        "Whisk {{yolks}} in a bowl. Gradually whisk in a ladleful of hot milk mixture, then return everything to the pan.",
+        "Stir over low heat until the sauce reaches 82°C (180°F) and lightly coats a spoon, without boiling. Remove from the heat, stir in {{flavor}} and serve warm."
+      ],
+      "notes": "The source milk, sugar, starch and yolk amounts are retained. Four tablespoons of extra milk become a modern 60 ml. Vanilla extract replaces unspecified vanilla sugar. The unprocessed bitter-almond option is omitted; cocoa, lemon and the source egg-free thickening ratio are retained as named variations. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "Volks-Kochbuch (1905), Hedwig Heyl. https://www.gutenberg.org/ebooks/13921 SavorShelf measured adaptation. Technique reference: https://www.bbcgoodfoodme.com/recipes/homemade-custard/ Technique reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cocoa",
+          "label": "Cocoa milk sauce",
+          "ingredients": [
+            {
+              "key": "milk",
+              "amount": 250,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            },
+            {
+              "key": "coldmilk",
+              "amount": 60,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 15,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet sauce; do not exchange concentrated sweeteners by weight."
+            },
+            {
+              "key": "salt",
+              "amount": 0.3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+            },
+            {
+              "key": "starch",
+              "amount": 5,
+              "unit": "g",
+              "name": "cornstarch",
+              "substitution": "Use 5 g potato starch for a slightly different texture; avoid extended boiling."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g pasteurized liquid egg yolk per large yolk. There is no identical egg-free replacement."
+            },
+            {
+              "key": "flavor",
+              "amount": 15,
+              "unit": "g",
+              "name": "unsweetened cocoa powder",
+              "substitution": "Use the vanilla base recipe instead for a non-chocolate sauce."
+            }
+          ],
+          "steps": [
+            "Whisk {{starch}} and {{flavor}} with {{coldmilk}} until smooth. Heat {{milk}}, {{sugar}} and {{salt}} in a saucepan until steaming.",
+            "Whisk the starch slurry into the hot milk. Bring to a gentle simmer, stirring, and cook for 1 minute. Remove from the heat.",
+            "Whisk {{yolks}} in a bowl. Gradually whisk in a ladleful of hot milk mixture, then return everything to the pan.",
+            "Stir over low heat until the sauce reaches 82°C (180°F) and lightly coats a spoon, without boiling. Remove from the heat and serve warm."
+          ]
+        },
+        {
+          "id": "lemon",
+          "label": "Lemon milk sauce",
+          "ingredients": [
+            {
+              "key": "milk",
+              "amount": 250,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            },
+            {
+              "key": "coldmilk",
+              "amount": 60,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 15,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet sauce; do not exchange concentrated sweeteners by weight."
+            },
+            {
+              "key": "salt",
+              "amount": 0.3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+            },
+            {
+              "key": "starch",
+              "amount": 5,
+              "unit": "g",
+              "name": "cornstarch",
+              "substitution": "Use 5 g potato starch for a slightly different texture; avoid extended boiling."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g pasteurized liquid egg yolk per large yolk. There is no identical egg-free replacement."
+            },
+            {
+              "key": "flavor",
+              "amount": 2,
+              "unit": "g",
+              "name": "finely grated lemon zest, yellow part only",
+              "substitution": "Use the same weight of orange zest for a different citrus flavor."
+            }
+          ],
+          "steps": [
+            "Whisk {{starch}} with {{coldmilk}} in a bowl until smooth. Heat {{milk}}, {{sugar}} and {{salt}} in a saucepan until steaming.",
+            "Whisk the starch slurry into the hot milk. Bring to a gentle simmer, stirring, and cook for 1 minute. Remove from the heat.",
+            "Whisk {{yolks}} in a bowl. Gradually whisk in a ladleful of hot milk mixture, then return everything to the pan.",
+            "Stir over low heat until the sauce reaches 82°C (180°F) and lightly coats a spoon, without boiling. Remove from the heat, stir in {{flavor}} and serve warm."
+          ]
+        },
+        {
+          "id": "egg-free",
+          "label": "Egg-free vanilla sauce",
+          "ingredients": [
+            {
+              "key": "milk",
+              "amount": 250,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            },
+            {
+              "key": "coldmilk",
+              "amount": 60,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 15,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet sauce; do not exchange concentrated sweeteners by weight."
+            },
+            {
+              "key": "salt",
+              "amount": 0.3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+            },
+            {
+              "key": "starch",
+              "amount": 6,
+              "unit": "g",
+              "name": "cornstarch",
+              "substitution": "Use 5 g potato starch for a slightly different texture; avoid extended boiling."
+            },
+            {
+              "key": "flavor",
+              "amount": 2.5,
+              "unit": "ml",
+              "name": "vanilla extract",
+              "substitution": "Use 2 g finely grated lemon zest for a citrus version."
+            }
+          ],
+          "steps": [
+            "Whisk {{starch}} with {{coldmilk}} in a bowl until smooth. Heat {{milk}}, {{sugar}} and {{salt}} in a saucepan until steaming.",
+            "Whisk the starch slurry into the hot milk. Bring to a gentle simmer, stirring, and cook for 1 minute. Remove from the heat.",
+            "Stir in {{flavor}} and serve warm; this version has a lighter, less rich texture."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-aa553e3417f467e5125762b2",
+    "bodySha256": "4c825da521eca0762594f17bd647af743a6f9550d44820c11e07233c463d1267",
+    "recipe": {
+      "id": "historical-aa553e3417f467e5125762b2",
+      "title": "Salsa Blanca sin Mantequilla (Oil and Yolk Sauce)",
+      "description": "An uncooked mayonnaise-style sauce emulsifies oil with egg yolks and vinegar, then finishes with a little pepper.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "sauce portions",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid egg yolk per large yolk. There is no identical egg-free replacement."
+        },
+        {
+          "key": "oil",
+          "amount": 150,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of mild olive oil for a stronger flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper for visible specks, or omit."
+        }
+      ],
+      "steps": [
+        "Use pasteurized eggs for this uncooked sauce. Whisk {{yolks}}, {{vinegar}} and {{salt}} in a clean bowl until evenly combined.",
+        "Measure {{oil}} into a jug. Whisk it into the yolks a few drops at a time until the mixture begins to thicken, then continue in a very thin stream while whisking constantly.",
+        "Mix in {{pepper}}. Serve promptly, or cover and refrigerate at 4°C (40°F) or colder immediately. Prepare only what is needed for the day; this recipe is not shelf-stable."
+      ],
+      "notes": "Two yolks are retained, with both whisked in at the start for a simpler emulsion. Oil, vinegar and seasoning amounts are modern choices; 150 ml is not asserted to be an exact conversion of the source ounces. The source pepper option is selected instead of nutmeg. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ SavorShelf measured adaptation. Technique reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e02b0f72a81d31d493bba0ea",
+    "bodySha256": "6a9ee4f8a2d1a4c42454e730dcd406567035cafa9322f64fedb0421100650655",
+    "recipe": {
+      "id": "historical-e02b0f72a81d31d493bba0ea",
+      "title": "Gewelde Boter (Whipped Butter Sauce)",
+      "description": "Soft butter is beaten with a little lukewarm water into a light, creamy sauce for immediate serving.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "sauce portions",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 200,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "water",
+          "amount": 50,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        }
+      ],
+      "steps": [
+        "Let {{butter}} soften until easily beaten, around 20–22°C (68–72°F), without melting it. Beat in a bowl until smooth and light.",
+        "Dissolve {{salt}} in {{water}}, warmed only to about 30°C (86°F). Beat the water into the butter one teaspoon at a time, incorporating each addition before adding more.",
+        "Stop adding liquid temporarily if the mixture separates; cool the bowl briefly and beat until smooth before continuing. Serve immediately. Do not boil or melt the finished sauce."
+      ],
+      "notes": "This is a whipped butter emulsion, not simply melted butter. The source approximate equal-volume water quantity is reduced to 50 ml per 200 g butter, following a documented Dutch 100 g butter to 25 ml water formula. This change is deliberate and disclosed. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Technique reference: https://www.dbnl.org/tekst/groo068rece01_01/groo068rece01_01_0012.php",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-741e9e16fa61611d0e3c972d",
+    "bodySha256": "3ed3de9cc6e357b0638f551661cbc31cc8347e31e202481f031fa012232b807d",
+    "recipe": {
+      "id": "historical-741e9e16fa61611d0e3c972d",
+      "title": "Lamb’s Feet with Lemon and Yolk Sauce",
+      "description": "Slow-simmered lamb’s feet are deboned and served in their gelatin-rich cooking broth, finished with lemon, butter and egg yolk.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 270,
+      "ingredients": [
+        {
+          "key": "feet",
+          "amount": 12,
+          "unit": "",
+          "name": "butcher-cleaned lamb’s feet, scalded, dehaired and trimmed",
+          "substitution": "Ask a butcher for cleaned lamb or sheep feet. Mature sheep feet may need longer cooking; boneless lamb is not an equivalent replacement."
+        },
+        {
+          "key": "water",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "broth",
+          "amount": 500,
+          "unit": "ml",
+          "name": "strained lamb-foot cooking broth, reserved from this recipe",
+          "substitution": "Use the broth produced in the preceding steps; plain water lacks its gelatin and flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper for visible specks, or omit."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid egg yolk per large yolk. There is no identical egg-free replacement."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        }
+      ],
+      "steps": [
+        "Place {{feet}} in a large pot with {{water}}, adding more water only if needed to cover. Bring to a boil, skim off surface foam, then reduce to a gentle simmer.",
+        "Cover loosely and simmer for 2–4 hours, or longer if needed, until the skin and connective tissue are very tender and pull easily from the bones. Top up with water to keep submerged.",
+        "Lift out the feet and cool only until safe to handle. Remove every bone and piece of hard gristle carefully; cut the edible soft tissue into 2 cm pieces. Strain the cooking liquid through a fine sieve.",
+        "Return the deboned meat to a clean pan. Measure {{broth}} from the strained cooking liquid and add it to the meat. Add {{salt}}, {{pepper}} and {{lemon}}, and simmer for 5 minutes.",
+        "Whisk {{yolks}} in a bowl. Gradually whisk in several spoonfuls of hot broth, then return to the pan. Stir gently until the sauce reaches 74°C (165°F), without boiling. Remove from the heat and stir in {{butter}}. Serve immediately."
+      ],
+      "notes": "The missing cleaning, long simmer, deboning and butter steps are supplied. Cooking time depends strongly on size and age; tenderness is the endpoint. The broth quantity is a modern 500 ml choice. Discard the unused cooking water or cool it promptly for separate use; it is not all part of the sauce. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation. Technique reference: https://taste.co.za/recipes/lamb-trotters/ Technique reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 270,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-7b625429ab109be7ae379461",
+    "bodySha256": "8ec848ffcb5772e2f34e62e9399ada1063d047828c4a3a145deba352d75d7e1d",
+    "recipe": {
+      "id": "historical-7b625429ab109be7ae379461",
+      "title": "Potatoes Finished in White Sauce",
+      "description": "Thin potato slices finish cooking in a light butter-and-milk sauce, making a soft, creamy side dish.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 450,
+          "unit": "g",
+          "name": "peeled waxy potatoes, cut into 5 mm slices",
+          "substitution": "Use the same weight of another firm boiling potato; floury potatoes may break apart."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 14,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "ground white pepper",
+          "substitution": "Use the same weight of black pepper for visible specks, or omit."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} and {{boilsalt}} to a boil. Add {{potatoes}} and simmer for 5 minutes, then drain. The slices will finish cooking in the sauce.",
+        "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+        "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+        "Add {{salt}} and {{pepper}} to the sauce. Gently fold in the partly cooked potatoes. Simmer over low heat for 10–15 minutes, stirring carefully, until a knife passes easily through a slice. Add a splash of water only if the sauce catches or becomes too thick. Serve hot."
+      ],
+      "notes": "The missing white-sauce cross-reference is expanded using a thin milk sauce. Potato and pint quantities are practical modern amounts. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "The Art of Living in Australia (1893), Philip E. Muskett. https://archive.org/details/artoflivinginaus00muskiala SavorShelf measured adaptation. Technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-d8027a619a1091584dab1f1f",
+    "bodySha256": "d085cedc2ec7f1308a7048e7c8e76ec00bc3aa8f2580c33146c4241bc3e6caa6",
+    "recipe": {
+      "id": "historical-d8027a619a1091584dab1f1f",
+      "title": "Cut Asparagus in White Sauce",
+      "description": "Tender asparagus pieces are folded through a smooth milk sauce for a lightly coated vegetable side.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "asparagus",
+          "amount": 500,
+          "unit": "g",
+          "name": "fresh asparagus, tough lower ends trimmed",
+          "substitution": "Use the same weight of green beans for a different dish; cook until tender, usually 5–7 minutes."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "butter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 15,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        }
+      ],
+      "steps": [
+        "Cut {{asparagus}} into 2.5 cm pieces. Bring {{water}} and {{salt|0.75}} to a boil. Cook the stem pieces for 2 minutes, add the tips and cook another 1–3 minutes until just tender. Drain well.",
+        "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+        "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+        "Stir {{salt|0.25}} into the sauce. Fold in the drained asparagus and warm for 1 minute without crushing it. Serve immediately."
+      ],
+      "notes": "The source lacks amounts and a sauce formula; both are supplied. Cut-and-coated presentation is retained, distinct from whole spears with sauce served separately. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "The Canadian Family Cook Book (1914), Grace E. Denison. https://archive.org/details/canadianfamilyco00deni_0 SavorShelf measured adaptation. Technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-2e7e500ab29342109640c6c3",
+    "bodySha256": "0df088a603e10d67da7b3de36bc84eb1f302fe8ea6d672ee5e6cef8a984bfe76",
+    "recipe": {
+      "id": "historical-2e7e500ab29342109640c6c3",
+      "title": "Onions in White Sauce",
+      "description": "Quartered onions are boiled until tender and coated in a milk sauce thickened with butter kneaded with flour.",
+      "category": "Side dishes",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "onions",
+          "amount": 5,
+          "unit": "",
+          "name": "medium onions, about 600 g peeled in total",
+          "substitution": "Use 600 g peeled small onions or shallots; adjust cooking until tender."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "milk",
+          "amount": 480,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "flour",
+          "amount": 24,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        }
+      ],
+      "steps": [
+        "Peel and quarter {{onions}}. Bring {{water}} to a boil, add the onions and simmer for about 20 minutes until a knife pierces them easily. Drain well.",
+        "Mash softened {{butter}} with {{flour}} to make an even paste with no dry flour.",
+        "Heat {{milk}} in a saucepan until steaming. Whisk in the butter-flour paste a small piece at a time, then simmer gently for 5 minutes, stirring, until smooth and lightly thickened.",
+        "Fold the drained onions into the sauce and warm gently for 2 minutes. Serve hot."
+      ],
+      "notes": "The source five onions and kneaded-butter method are retained. Cups and spoonfuls are assigned modern measured amounts; onion size is clarified. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b6bcfb256f5fadb2a6d47298",
+    "bodySha256": "401ff9fb9bf2d2cb363039facee5300eaa008853e539f463fc6fac40005921ca",
+    "recipe": {
+      "id": "historical-b6bcfb256f5fadb2a6d47298",
+      "title": "Verduras en Salsa Blanca (Vegetables in Milk Sauce)",
+      "description": "Green beans are cooked separately and coated in a thin milk sauce; cauliflower and chard stalks are retained as named versions.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "vegetable",
+          "amount": 500,
+          "unit": "g",
+          "name": "green beans, trimmed and cut into 3 cm lengths",
+          "substitution": "Use the cauliflower or chard-stalk named variation for a different vegetable and its cooking time."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "butter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        },
+        {
+          "key": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} to a boil. Add {{vegetable}} and simmer for 5–7 minutes until tender, then drain.",
+        "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+        "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+        "Fold the cooked vegetables into the sauce and warm for 1 minute. Serve hot."
+      ],
+      "notes": "The source permits several vegetables but supplies no amounts. The base selects green beans; separately cooked cauliflower and chard stalks remain complete named variations. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "Novísimo manual del cocinero práctico chileno (1896), author not recorded. https://archive.org/details/novsimomanuald00sant SavorShelf measured adaptation. Technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cauliflower",
+          "label": "Cauliflower",
+          "ingredients": [
+            {
+              "key": "vegetable",
+              "amount": 500,
+              "unit": "g",
+              "name": "cauliflower, cut into small florets",
+              "substitution": "Use another named vegetable version and its stated cooking time."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+            },
+            {
+              "key": "butter",
+              "amount": 15,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "flour",
+              "amount": 8,
+              "unit": "g",
+              "name": "all-purpose wheat flour",
+              "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+            },
+            {
+              "key": "milk",
+              "amount": 250,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            }
+          ],
+          "steps": [
+            "Bring {{water}} to a boil. Add {{vegetable}} and simmer for 6–8 minutes until tender, then drain.",
+            "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+            "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+            "Fold the cooked vegetables into the sauce and warm for 1 minute. Serve hot."
+          ]
+        },
+        {
+          "id": "chard-stalks",
+          "label": "Chard stalks",
+          "ingredients": [
+            {
+              "key": "vegetable",
+              "amount": 400,
+              "unit": "g",
+              "name": "Swiss chard stalks, trimmed and sliced 1 cm thick",
+              "substitution": "Use another named vegetable version and its stated cooking time."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+            },
+            {
+              "key": "butter",
+              "amount": 15,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "flour",
+              "amount": 8,
+              "unit": "g",
+              "name": "all-purpose wheat flour",
+              "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+            },
+            {
+              "key": "milk",
+              "amount": 250,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            }
+          ],
+          "steps": [
+            "Bring {{water}} to a boil. Add {{vegetable}} and simmer for 8–12 minutes until tender, then drain.",
+            "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+            "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+            "Fold the cooked vegetables into the sauce and warm for 1 minute. Serve hot."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-ab6b4890fba0b53e6d07646e",
+    "bodySha256": "0f6a126275791c1b1279956dacfa3eee70109fe21e7d16f57bc76b1b9a4beef6",
+    "recipe": {
+      "id": "historical-ab6b4890fba0b53e6d07646e",
+      "title": "Alcachofas con Salsa Blanca (Whole Artichokes)",
+      "description": "Whole globe artichokes are cooked until tender and served with a separate smooth milk sauce for dipping the leaves and heart.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "artichokes",
+          "amount": 4,
+          "unit": "",
+          "name": "medium globe artichokes",
+          "substitution": "Use four large drained canned artichoke hearts for a smaller shortcut dish; warm them separately and omit whole-artichoke preparation and boiling."
+        },
+        {
+          "key": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "butter",
+          "amount": 25,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 25,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        },
+        {
+          "key": "milk",
+          "amount": 400,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        }
+      ],
+      "steps": [
+        "Rinse {{artichokes}}. Trim the stems to about 1 cm, remove the small tough lower leaves and cut about 2 cm off the tops. Snip off sharp leaf tips with kitchen scissors.",
+        "Bring {{water}} to a boil in a pot that holds the artichokes comfortably, adding more water if needed to cover. Add the artichokes and simmer, loosely covered, for 30–45 minutes, until a leaf pulls away easily and a knife enters the base without resistance.",
+        "Lift out and drain upside down. When cool enough to handle, gently open the centers and scoop out the fuzzy choke with a spoon; do not eat the fuzzy material. Keep the tender bases and leaves intact.",
+        "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+        "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+        "Stir {{salt}} into the sauce. Serve the warm artichokes with the sauce alongside. Pull off each leaf and scrape the tender flesh at its base with your teeth; discard the tough leaf. Eat the tender heart after the leaves."
+      ],
+      "notes": "Two sources share whole cooked artichokes and white sauce. The Mexican source’s brief cooling and reheating presentation is retained as a named variation. The sauce formula and modern cooking cues are supplied. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "El Practicón: tratado completo de cocina (1894), Ángel Muro. https://archive.org/details/elpracticntrat00muro SavorShelf measured adaptation. Technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Technique reference: https://www.oceanmist.com/recipes/artichoke-bottoms/ Equivalent source retained: La cocinera poblana (1890), author not recorded. https://archive.org/details/lacocinerapobla00unkngoog",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": [
+        "historical-b789af68b06c3ec21ee9279c"
+      ],
+      "variants": [
+        {
+          "id": "cooled-reheated",
+          "label": "Cooled and reheated presentation",
+          "ingredients": [
+            {
+              "key": "artichokes",
+              "amount": 4,
+              "unit": "",
+              "name": "medium globe artichokes",
+              "substitution": "Use four large drained canned artichoke hearts for a smaller shortcut dish; warm them separately and omit whole-artichoke preparation and boiling."
+            },
+            {
+              "key": "water",
+              "amount": 2500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+            },
+            {
+              "key": "butter",
+              "amount": 25,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+            },
+            {
+              "key": "flour",
+              "amount": 25,
+              "unit": "g",
+              "name": "all-purpose wheat flour",
+              "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+            },
+            {
+              "key": "milk",
+              "amount": 400,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+            },
+            {
+              "key": "salt",
+              "amount": 2,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+            }
+          ],
+          "steps": [
+            "Rinse {{artichokes}}. Trim the stems to about 1 cm, remove the small tough lower leaves and cut about 2 cm off the tops. Snip off sharp leaf tips with kitchen scissors.",
+            "Bring {{water}} to a boil in a pot that holds the artichokes comfortably, adding more water if needed to cover. Add the artichokes and simmer, loosely covered, for 30–45 minutes, until a leaf pulls away easily and a knife enters the base without resistance.",
+            "Lift out the artichokes and briefly cool in a bowl of cool drinking water until safe to handle, retaining the cooking water in the pot. Open the centers and remove the fuzzy choke with a spoon. Return the artichokes to the boiling cooking water for 3–5 minutes until hot, then lift out and drain. This is immediate preparation, not storage at room temperature.",
+            "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+            "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+            "Stir {{salt}} into the sauce. Spoon a little into each hot artichoke center and serve the rest alongside. Scrape the tender flesh from the base of each leaf, discarding the tough leaf, and eat the tender heart."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-982590fb9339fe34ce1addd1",
+    "bodySha256": "b10ee095d309f0837af1af9f253fd7b6720857980ec9649f1b5ae31b9c05c4ea",
+    "recipe": {
+      "id": "historical-982590fb9339fe34ce1addd1",
+      "title": "Coliflor con Salsa Blanca (Cauliflower with Milk Sauce)",
+      "description": "Tender cauliflower florets are arranged in a mound and covered with a smooth, egg-free white sauce.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "cauliflower",
+          "amount": 600,
+          "unit": "g",
+          "name": "cauliflower, trimmed into evenly sized florets",
+          "substitution": "Use the same weight of broccoli florets for a different dish; begin checking tenderness after 4 minutes."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "butter",
+          "amount": 20,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 20,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} and {{boilsalt}} to a boil. Add {{cauliflower}} and simmer for 6–8 minutes until tender but still holding its shape. Drain thoroughly.",
+        "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+        "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+        "Mix {{salt}} into the sauce. Arrange the warm florets in a mound with their tops facing outward and spoon the hot sauce over them. Serve immediately."
+      ],
+      "notes": "The source moulded presentation is simplified to an arranged mound. A shorter tenderness-based boil replaces the fixed fifteen minutes. This remains separate from the yolk-enriched cauliflower formula. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "El Practicón: tratado completo de cocina (1894), Ángel Muro. https://archive.org/details/elpracticntrat00muro SavorShelf measured adaptation. Technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1cb4737fed7afe295186ad84",
+    "bodySha256": "3cf0de1adbf1efcfcb7cedd2e26ca4f192f0db65e001263e1f2ced64595baf59",
+    "recipe": {
+      "id": "historical-1cb4737fed7afe295186ad84",
+      "title": "Salsifí con Salsa Blanca (Salsify in White Sauce)",
+      "description": "Peeled salsify is simmered in an acidulated cooking liquid with beef fat, then drained and coated in a smooth milk sauce.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "salsify",
+          "amount": 1000,
+          "unit": "g",
+          "name": "fresh salsify roots",
+          "substitution": "Use the same weight of peeled parsnips for a different flavor; check frequently as cooking time differs."
+        },
+        {
+          "key": "soakwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of lemon juice for a citrus variation."
+        },
+        {
+          "key": "fat",
+          "amount": 50,
+          "unit": "g",
+          "name": "rendered beef fat",
+          "substitution": "Use 50 g unsalted butter for a vegetarian, dairy-containing variation."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 10,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "milk",
+          "amount": 400,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "butter",
+          "amount": 25,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 25,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        }
+      ],
+      "steps": [
+        "Mix {{soakwater}} with {{vinegar|0.5}} in a bowl. Scrub and peel {{salsify}}, trim the ends and cut into 7 cm lengths, placing each piece immediately in the acidulated water to limit browning.",
+        "Put {{water}}, {{vinegar|0.5}}, {{fat}} and {{boilsalt}} in a saucepan and bring to a gentle simmer. Drain the salsify from its soaking water and add it to the pan.",
+        "Simmer until a knife enters easily but the roots still hold their shape, checking after 8 minutes; thick pieces may need 15–25 minutes. Drain and discard the cooking liquid.",
+        "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+        "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+        "Stir {{salt}} into the sauce. Fold in the hot drained salsify and serve."
+      ],
+      "notes": "A practical half-size source batch is used, with extra cooking water as needed to cover. Rendered beef fat replaces raw kidney fat and a tenderness check replaces a rigid half-hour boil. The cooking fat and liquid are largely discarded. Sauce quantities are supplied. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "El Practicón: tratado completo de cocina (1894), Ángel Muro. https://archive.org/details/elpracticntrat00muro SavorShelf measured adaptation. Technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Technique reference: https://www.greatbritishchefs.com/how-to-cook/how-to-cook-salsify",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-9b626e81a4184e1e347aa218",
+    "bodySha256": "fab3d3f9255358a2aa880f932b16e3980df8c39c7bf1654b8f9e961d58f32f9d",
+    "recipe": {
+      "id": "historical-9b626e81a4184e1e347aa218",
+      "title": "Papas en Salsa Blanca (Potatoes with Tomato and Onion)",
+      "description": "Boiled potato slices are sautéed with tomato and onion, then lightly bound with a flour-and-water sauce and finished with parsley.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "potatoes",
+          "amount": 600,
+          "unit": "g",
+          "name": "whole medium waxy potatoes",
+          "substitution": "Use the same weight of another firm boiling potato; floury potatoes may break apart."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "saucewater",
+          "amount": 150,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "salt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "butter",
+          "amount": 20,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled ripe tomato, chopped",
+          "substitution": "Use the same weight of drained canned chopped tomatoes."
+        },
+        {
+          "key": "onion",
+          "amount": 100,
+          "unit": "g",
+          "name": "peeled onion, finely chopped",
+          "substitution": "Use the same weight of shallots."
+        },
+        {
+          "key": "flour",
+          "amount": 4,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use 5 g fresh cilantro for a different herbal flavor, or omit."
+        }
+      ],
+      "steps": [
+        "Put {{potatoes}} in a pan with {{water}} and {{salt|0.75}}, adding water only if needed to cover. Bring to a gentle boil and cook for 20–30 minutes until a knife passes through easily. Drain, cool just enough to handle, peel and cut into 1 cm slices.",
+        "Melt {{butter}} in a wide pan. Cook {{onion}} over medium-low heat for 5 minutes until soft. Add {{tomato}} and cook for 3 minutes, then add the potato slices and cook gently for another 3 minutes, turning carefully.",
+        "Whisk {{flour}} with {{saucewater}} until smooth. Pour into the pan, add {{salt|0.25}} and simmer gently for 5 minutes, stirring carefully, until lightly thickened and the potatoes are hot.",
+        "Scatter over {{parsley}} and serve immediately."
+      ],
+      "notes": "Despite its name, the source uses tomato, onion and a water slurry rather than a milk-based white sauce. That distinction is retained; missing ingredient amounts and timing are supplied. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "Consejos prácticos sobre cocina, pastelería y repostería al estilo del país (1922), author not recorded. https://archive.org/details/consejosprcti00lpezguate SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-fe4916389ef7aa7f66f048f9",
+    "bodySha256": "6e9d43f786fc6d065ceb1d44bccf468f41ff62ac3923cc34f921c709043e7210",
+    "recipe": {
+      "id": "historical-fe4916389ef7aa7f66f048f9",
+      "title": "Coliflor con Salsa Blanca y Yemas (Cauliflower with Yolk Sauce)",
+      "description": "Cauliflower florets are covered in a rich white sauce finished with tempered egg yolks.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "cauliflower",
+          "amount": 600,
+          "unit": "g",
+          "name": "cauliflower, trimmed into evenly sized florets",
+          "substitution": "Use the same weight of broccoli florets for a different dish; begin checking tenderness after 4 minutes."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        },
+        {
+          "key": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "butter",
+          "amount": 20,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 20,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid egg yolk per large yolk. There is no identical egg-free replacement."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} and {{boilsalt}} to a boil. Add {{cauliflower}} and simmer for 6–8 minutes until tender but holding its shape. Drain well and keep warm.",
+        "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+        "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+        "Remove the sauce from the heat and stir in {{salt}}. Whisk {{yolks}} in a bowl, slowly whisk in several spoonfuls of hot sauce, then return everything to the pan.",
+        "Stir over low heat until the sauce reaches 71°C (160°F), without boiling. Arrange the florets in a mound, spoon over the hot sauce and serve immediately."
+      ],
+      "notes": "Two yolks are chosen from the source two-or-three range. The missing white-sauce formula is supplied, with a controlled final heating step. This egg-enriched preparation is kept separate from the egg-free cauliflower dish. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "La cocinera poblana (1890), author not recorded. https://archive.org/details/lacocinerapobla00unkngoog SavorShelf measured adaptation. Technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce Technique reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1713096eda29a969b96b3945",
+    "bodySha256": "dec5c82cf57ba8bfc0a7d17dfd1c74c97b28b806e142d4453e2e1052480852ff",
+    "recipe": {
+      "id": "historical-1713096eda29a969b96b3945",
+      "title": "Espárragos con Salsa Blanca (Whole Asparagus Spears)",
+      "description": "Whole asparagus spears are arranged with their tips together and served with warm white sauce in a separate jug.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "asparagus",
+          "amount": 500,
+          "unit": "g",
+          "name": "fresh asparagus, tough lower ends trimmed",
+          "substitution": "Use the same weight of green beans for a different dish; cook until tender, usually 5–7 minutes."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "No replacement is needed; increase cooking water only as needed to cover the food."
+        },
+        {
+          "key": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and thickening may differ."
+        },
+        {
+          "key": "butter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative; flavor and salt content differ."
+        },
+        {
+          "key": "flour",
+          "amount": 15,
+          "unit": "g",
+          "name": "all-purpose wheat flour",
+          "substitution": "Use the same weight of a gluten-free all-purpose blend intended for sauces; texture may differ. Cornstarch is not a weight-for-weight replacement."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit; exchange other salt by weight rather than spoon size."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} to a gentle boil in a wide pan. Add {{asparagus}} and cook for 4–6 minutes, depending on thickness, until the stems are tender but the tips hold their shape. Lift out and drain well.",
+        "Melt {{butter}} in a separate saucepan over low heat. Stir in {{flour}} and cook for 2 minutes without browning.",
+        "Take off the heat and gradually whisk in {{milk}} until smooth. Return to medium-low heat and stir until gently bubbling. Simmer for 5 minutes, stirring along the bottom.",
+        "Mix {{salt}} into the sauce. Arrange the warm spears on a platter with the tips aligned toward the center and serve the sauce separately."
+      ],
+      "notes": "The missing cooking and sauce cross-references are replaced with complete steps. Whole spears and separate sauce preserve this presentation, distinct from the cut asparagus mixed into sauce. Missing amounts, portion yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient quantities, not cooking time or temperature.",
+      "source": "La cocinera poblana (1890), author not recorded. https://archive.org/details/lacocinerapobla00unkngoog SavorShelf measured adaptation. Technique reference: https://dairyfarmersofcanada.ca/en/canadian-goodness/recipes/basic-white-sauce",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T13:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]

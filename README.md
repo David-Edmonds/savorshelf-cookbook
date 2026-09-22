@@ -1,3 +1,7 @@
+## September 22 — measured sauce and vegetable batch 005
+
+Fifteen additional source recipes now have complete measured adaptations, with dish-specific descriptions, self-contained cooking steps, inline quantities, substitutions and named variations. One equivalent whole-artichoke source is consolidated with its cooling/reheating variation and both credits preserved. Current totals: 40,877 imported records, 138 completed adaptations, 40,739 remaining content repairs, and 42,329 visible cookbook recipes. New measurements, yields and timings are disclosed modern estimates; recipes have not been kitchen-tested. Images remain waived; Android and portfolio are unchanged.
+
 # Sauce repair batch - September 22, 2026
 
 Twenty-six individually reviewed sauce adaptations replace incomplete records; six equivalent source versions are consolidated with their source credits. Thin, medium and thick milk sauces, cream sauces, butter-rich sauces and egg-enriched sauces retain their distinct formulations. Sweet, flourless cream, mesost, browned-butter and egg/lemon finishes remain named variations. The source water-bath and saucepan versions of drawn butter converge on one disclosed modern saucepan adaptation.

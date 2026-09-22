@@ -88,5 +88,11 @@
     "canonicalId": "historical-52f41bf29ae0a347f4c4a86a",
     "bodySha256": "e4ea31f09dd54ff0e558c02e828fd926f74ba3662559f5a3dfd87a3d01dd6b62",
     "reason": "The source water-bath and direct-heat versions converge on the same modern measured saucepan formula. Both full ingredient/method sources were reviewed and both credits retained; modern method changes are disclosed."
+  },
+  {
+    "id": "historical-b789af68b06c3ec21ee9279c",
+    "canonicalId": "historical-ab6b4890fba0b53e6d07646e",
+    "bodySha256": "47c97274a6f6741faa037a10e444dd7b24d0a12ac05f7c54139fbf14e504e0f5",
+    "reason": "Both full sources consist of whole cooked globe artichokes with white sauce. The Mexican cooling/reheating and sauce-in-center presentation remains a named variation; both source credits and saved IDs are preserved."
   }
 ]
