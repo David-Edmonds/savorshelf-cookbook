@@ -41,11 +41,11 @@
   "contentRepair": {
     "recipes": 40831,
     "mergedDuplicateSources": 62,
-    "completedAdaptations": 434,
-    "remainingRecipes": 40397,
-    "recipesWithParsedAmounts": 29997,
-    "parsedIngredients": 100155,
-    "linkedIngredients": 27065,
+    "completedAdaptations": 436,
+    "remainingRecipes": 40395,
+    "recipesWithParsedAmounts": 29996,
+    "parsedIngredients": 100152,
+    "linkedIngredients": 27063,
     "allRequirementsComplete": false
   },
   "effectiveCookbookRecipes": 42283

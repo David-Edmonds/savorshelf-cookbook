@@ -39280,5 +39280,335 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-e84ea7001a43afefe696bd65",
+    "bodySha256": "ba09b984c0a45d73ee394f87c50a67dc042ccabed2b0b09d6721122ceedb9aae",
+    "recipe": {
+      "id": "historical-e84ea7001a43afefe696bd65",
+      "title": "Lachsforelle in Majonessauce — Cold Trout with Egg-Yolk Coating",
+      "description": "A gently poached whole trout is served cold beneath a thick coating of sieved hard-boiled yolks, pasteurized yolks, olive oil and savory jelly.",
+      "category": "Main dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 180,
+      "ingredients": [
+        {
+          "key": "fish",
+          "amount": 2000,
+          "unit": "g",
+          "name": "whole salmon trout, gutted, scaled and gills removed by the fishmonger, head retained",
+          "substitution": "Use a similar-sized whole rainbow trout; cook to the same internal temperature."
+        },
+        {
+          "key": "poachwater",
+          "amount": 2500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "wine",
+          "amount": 250,
+          "unit": "ml",
+          "name": "dry white wine",
+          "substitution": "Use the same volume of unsalted fish stock; the flavor will be less acidic."
+        },
+        {
+          "key": "poachvinegar",
+          "amount": 50,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "poachlemon",
+          "amount": 1,
+          "unit": "",
+          "name": "lemon, thinly sliced",
+          "substitution": "Use one small lime per lemon for a different flavor."
+        },
+        {
+          "key": "bay",
+          "amount": 2,
+          "unit": "",
+          "name": "dried bay leaves",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "cloves",
+          "amount": 3,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder poaching broth."
+        },
+        {
+          "key": "peppercorns",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "whole black peppercorns",
+          "substitution": "Use the same amount of white peppercorns."
+        },
+        {
+          "key": "fishsalt",
+          "amount": 4,
+          "unit": "g",
+          "name": "fine salt for the fish",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "brothsalt",
+          "amount": 10,
+          "unit": "g",
+          "name": "salt for the poaching broth",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "eggs",
+          "amount": 8,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 8,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "jellystock",
+          "amount": 24,
+          "unit": "ml",
+          "name": "unsalted clear fish stock",
+          "substitution": "Use the same volume of clear unsalted vegetable stock."
+        },
+        {
+          "key": "bloomwater",
+          "amount": 6,
+          "unit": "ml",
+          "name": "cold drinking water for gelatin",
+          "substitution": "Use the same volume of cold clear stock."
+        },
+        {
+          "key": "gelatin",
+          "amount": 1,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the same weight of fish gelatin with a similar setting strength; agar requires a different formula."
+        }
+      ],
+      "steps": [
+        "Use a fish kettle or deep roasting pan with a lifting rack large enough for the whole fish. Add {{poachwater}}, {{wine}}, {{poachvinegar}}, {{poachlemon}}, {{bay}}, {{cloves}}, {{peppercorns}} and {{brothsalt}}. Bring to a gentle simmer for 10 minutes.",
+        "Pat {{fish}} dry and rub its surface and cavity with {{fishsalt}}. Lower it on the rack into the broth. Add extra hot drinking water only if needed to cover. Keep at a bare simmer, without a rolling boil, for about 25–35 minutes. The thickest flesh must reach 63°C (145°F); use the temperature rather than the time alone.",
+        "Lift out on the rack and drain. Transfer carefully to a clean shallow platter that fits in the refrigerator. Once the strong steam subsides, cover loosely and refrigerate promptly, within 2 hours of cooking, until thoroughly cold, allowing about 1–2 hours. Do not leave the whole fish on the counter to cool completely.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolks and press them through a fine sieve into a clean bowl. Refrigerate the cooked whites separately for another dish within 2 days. Whisk {{yolks}} into the sieved yolks until smooth.",
+        "Sprinkle {{gelatin}} over {{bloomwater}} in a small heatproof bowl and leave for 5 minutes. Add {{jellystock}} and stand the bowl over gently simmering water, stirring just until the gelatin dissolves. Remove from heat and cool until barely lukewarm but still liquid.",
+        "Beat half the liquid jelly into the yolk mixture. Measure {{oil}} and whisk it in drop by drop until incorporated, then whisk in the remaining jelly. Set the bowl over cold water and stir until the coating is thick and spreadable; do not let it set solid. If it firms too soon, briefly stand the bowl in lukewarm water and stir to soften.",
+        "Spread the coating over the cold fish, leaving the head uncovered as in the original. Refrigerate for about 20 minutes to firm the surface. Serve cold, lifting the flesh from the backbone in portions and checking carefully for pin bones; the head and bones are not eaten.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original recipe 476 specifies eight hard-boiled yolks, eight fresh yolks and two tablespoons olive oil. Those proportions are retained, with pasteurized yolks replacing raw untreated yolks. A modern 2 kg fish, measured aromatic broth and approximately 30 ml of freshly made jelly are supplied because the source gives no fish weight, broth quantities or jelly formula. The first unspecified spoon of jelly and later tablespoon are represented by equal halves of this modern jelly batch, not asserted as verified historical conversions. Brief whisking and controlled chilling replace the source’s two and a half hours of beating. A whole fish requires a suitably sized pan and refrigerator space. Eight meal portions and timing are estimates; the coating texture has not been kitchen-tested. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Neuestes Süddeutsches Kochbuch (1858), Viktorine Schiller. https://www.gutenberg.org/ebooks/52879 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 180,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-3e9b5cba8b236564e5e583cc",
+    "bodySha256": "cc3e916b65013cc63b3bae09677d1ec3dae68fb5cc16e71ab013ec40efe2f7e3",
+    "recipe": {
+      "id": "historical-3e9b5cba8b236564e5e583cc",
+      "title": "W. H. H.’s Cold Mutton Platter with Lime Mayonnaise",
+      "description": "Thin slices of cold roast leg of mutton are dressed with lime mayonnaise and arranged with lettuce, savory jelly, pickles, olives, anchovies and hard-boiled yolks.",
+      "category": "Main dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 285,
+      "ingredients": [
+        {
+          "key": "mutton",
+          "amount": 1500,
+          "unit": "g",
+          "name": "boneless leg of mutton, suitable for roasting, tied into an even joint by the butcher",
+          "substitution": "Use the same weight of boneless leg of lamb for more tender slices; check the same safe internal temperature."
+        },
+        {
+          "key": "roastsalt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt for the roast",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "roastoil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "olive oil for the roast",
+          "substitution": "Use the same volume of sunflower oil."
+        },
+        {
+          "key": "yolks",
+          "amount": 3,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 284,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lime",
+          "amount": 40,
+          "unit": "ml",
+          "name": "fresh lime juice",
+          "substitution": "Use the same volume of lemon juice."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "tarragonvinegar",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of white wine vinegar."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "lettuce",
+          "amount": 150,
+          "unit": "g",
+          "name": "lettuce leaves, washed and thoroughly dried",
+          "substitution": "Use the same weight of romaine hearts."
+        },
+        {
+          "key": "aspicstock",
+          "amount": 120,
+          "unit": "ml",
+          "name": "clear unsalted beef stock",
+          "substitution": "Use the same volume of clear unsalted vegetable stock."
+        },
+        {
+          "key": "aspicwater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "cold drinking water for gelatin",
+          "substitution": "Use the same volume of cold clear stock."
+        },
+        {
+          "key": "aspicgelatin",
+          "amount": 3,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the same weight of fish gelatin of similar strength; agar needs a different method."
+        },
+        {
+          "key": "gherkins",
+          "amount": 40,
+          "unit": "g",
+          "name": "drained pickled gherkins, sliced",
+          "substitution": "Use the same weight of pickled cucumber."
+        },
+        {
+          "key": "olives",
+          "amount": 40,
+          "unit": "g",
+          "name": "drained pitted green olives",
+          "substitution": "Use the same weight of pitted black olives."
+        },
+        {
+          "key": "capers",
+          "amount": 15,
+          "unit": "g",
+          "name": "drained capers",
+          "substitution": "Use the same weight of finely chopped pickled gherkins."
+        },
+        {
+          "key": "anchovies",
+          "amount": 20,
+          "unit": "g",
+          "name": "ready-to-eat oil-packed anchovy fillets, drained",
+          "substitution": "Omit, or add the same weight of olives for a fish-free garnish."
+        },
+        {
+          "key": "butter",
+          "amount": 20,
+          "unit": "g",
+          "name": "unsalted butter, softened, for small butter balls",
+          "substitution": "Omit if preferred; this is a garnish rather than part of the mayonnaise."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 165°C (330°F). Pat {{mutton}} dry and rub with {{roastoil}} and {{roastsalt}}. Place on a rack in a roasting tin. Roast for about 90–120 minutes, until the center reaches at least 63°C (145°F). Allow longer if needed; thickness and the age of the animal affect timing and tenderness.",
+        "Rest the roast for 20 minutes, including at least 3 minutes before any cutting. Remove the string. Slice thinly across the grain and spread the slices in shallow containers with the collected cooked juices. Refrigerate promptly, within 2 hours of cooking, until fully cold, allowing about 2 hours. Do not leave a whole joint on the counter until cold.",
+        "While the meat cooks, sprinkle {{aspicgelatin}} over {{aspicwater}} and leave for 5 minutes. Warm {{aspicstock}} just below boiling. Stir in the bloomed gelatin until dissolved. Pour into a shallow dish, cover and refrigerate for about 2 hours until set. Cut or break the jelly into small pieces.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the hard-boiled yolks, keeping them whole for garnish. Refrigerate them until assembly; reserve the cooked whites in a covered container for another dish within 2 days. Roll {{butter}} into pea-sized balls with clean chilled hands or two small spoons, then refrigerate until firm.",
+        "For the sauce, whisk {{yolks}}, {{lime}} and {{salt}} in a clean bowl set on a damp towel. Measure {{oil}} into a jug. Whisk it in drop by drop at first, then in a very thin stream as the sauce thickens. Stop pouring if oil pools and whisk until it blends in. Cover and refrigerate while arranging the platter.",
+        "Arrange the cold mutton on a chilled platter and season with {{tarragonvinegar}} and {{pepper}}. Arrange {{lettuce}} around and among the meat. Add the prepared jelly, butter balls and whole cooked yolks, then garnish with {{gherkins}}, {{olives}}, {{capers}} and {{anchovies}}. Spoon the cold lime mayonnaise over the meat just before serving.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The full original paragraph recommends juicy slices of cold leg of mutton; that central ingredient was missing from the extracted entry. This adaptation supplies a complete roasting and chilling method, measured meat and garnish quantities and eight servings. The original three large yolks and teaspoon salt are retained. Half a pint of oil is represented by a modern Imperial half-pint rounded to 284 ml; the juice of two limes is standardized to a working 40 ml rather than a universal fruit conversion. The source permits garnishes “as you like”; this version chooses its plain yellow butter balls and includes the named jelly, pickles, olives, capers, anchovies and cooked yolks. Older mutton can be firmer than lamb even at a safe temperature; ask the butcher for a roasting-suitable leg and slice thinly. Total time includes overlapping garnish preparation, roasting, resting and refrigeration. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Culinary Jottings for Madras (1885), Wyvern (A.R. Kenney-Herbert). https://archive.org/details/culinaryjottings00kenn SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 285,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]

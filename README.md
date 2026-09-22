@@ -1,3 +1,7 @@
+# Recipe content batch 030 — September 22, 2026
+
+Two complete cold platters restore whole trout with its egg-yolk jelly coating and the leg of mutton missing from an extracted mayonnaise entry. Measured poaching or roasting, sauces, garnishes and chilling are supplied. Totals: 40,831 imported recipes, 436 completed adaptations, 40,395 remaining content repairs and 42,283 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 029 — September 22, 2026
 
 Eight adaptations complete asparagus tips, shrimp salad, cured herring, lobster platter, raw celeriac salad, chicken finger-rolls, parsley-tinted mayonnaise and whole tomatoes. Exact prepared-sauce quantities and complete homemade variations are supplied; extra homemade sauce is accounted for. Two repeated shrimp and sandwich records are merged with old IDs and source credits retained. Totals: 40,831 imported recipes, 434 completed adaptations, 40,397 remaining content repairs and 42,283 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
