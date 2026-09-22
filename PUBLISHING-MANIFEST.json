@@ -41,10 +41,10 @@
   "contentRepair": {
     "recipes": 40804,
     "mergedDuplicateSources": 89,
-    "completedAdaptations": 504,
-    "remainingRecipes": 40300,
-    "recipesWithParsedAmounts": 29919,
-    "parsedIngredients": 99792,
+    "completedAdaptations": 516,
+    "remainingRecipes": 40288,
+    "recipesWithParsedAmounts": 29907,
+    "parsedIngredients": 99721,
     "linkedIngredients": 27020,
     "allRequirementsComplete": false
   },
