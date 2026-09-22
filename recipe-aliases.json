@@ -508,5 +508,11 @@
     "canonicalId": "historical-26b64040d20101a2c64dc808",
     "bodySha256": "5a9dead40a56b776c22abfa2deb40acd5e3394d766bf0b5af4e00b82729eb7cc",
     "reason": "Same cooked-and-chilled asparagus served with mayonnaise; full Viennese whole-spears preparation and a self-contained local-book mayonnaise version retained alongside the Dutch tips recipe."
+  },
+  {
+    "id": "historical-051769152de750f4b599cc82",
+    "canonicalId": "historical-3a36053bdd0a4df10571a6d1",
+    "bodySha256": "b2997ee41904f3c1211390953183c43f28e75e99e85b23c6d5fb86097aa1f16f",
+    "reason": "Same four-yolk cooked mayonnaise base from the same book; plain-vinegar finishing and cold-water rescue differences retained as complete named methods."
   }
 ]

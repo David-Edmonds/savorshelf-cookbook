@@ -1,3 +1,7 @@
+# Recipe content batch 040 — September 22, 2026
+
+Four Viennese adaptations now include full cooked and uncooked mayonnaise, filled-egg variations, poaching and aspic. One repeated cooked-sauce source is consolidated with its vinegar finish and rescue method retained. Totals: 40,807 imported recipes, 478 completed adaptations, 40,329 remaining content repairs and 42,259 visible recipes. Missing quantities are labelled modern working choices. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 039 — September 22, 2026
 
 Five Beeton and Viennese adaptations now include full cooking, corrected scanned quantities and named sauce variations. An existing asparagus recipe gains complete whole-spears variations, and two repeated sources are consolidated with saved IDs and credits retained. Totals: 40,808 imported recipes, 474 completed adaptations, 40,334 remaining content repairs and 42,260 visible recipes. Historical vinegar concentrates are distinguished from modern working amounts. The collection remains unfinished; kitchen and physical-phone testing remain unverified.

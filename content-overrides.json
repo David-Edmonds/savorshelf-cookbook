@@ -49179,5 +49179,1233 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-3a36053bdd0a4df10571a6d1",
+    "bodySha256": "6af6dcb4b5d91f8905b3dac7576e43dfb63ab73cd13e73491580d871b9fd2b75",
+    "recipe": {
+      "id": "historical-3a36053bdd0a4df10571a6d1",
+      "title": "Viennese Mayonnaise with a Cooked Yolk Base",
+      "description": "A gently cooked lemon-and-tarragon yolk base is cooled before oil and mustard are whisked in.",
+      "category": "Condiments",
+      "servings": 20,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 4,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "basewater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "oil",
+          "amount": 200,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}}, {{vinegar}}, {{lemon}} and {{basewater}} in a heatproof bowl. Set over gently simmering water with the bowl above the water, and whisk continuously until the mixture thickens and reaches 71°C (160°F). Remove immediately; do not boil or scramble the yolks.",
+        "Set the bowl in a larger bowl of cold water, keeping water out of the sauce, and stir until the yolk mixture is cool but still smooth, about 10 minutes. Do not leave it on the counter for a prolonged cooling period.",
+        "Gradually whisk in {{oil}}, a few drops at first and then a thin stream as the sauce thickens. Stir in {{salt}} and {{mustard}}. Pause pouring if oil pools and whisk until it blends in.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The two Neues Wiener Menu- und Kochbuch passages describe the same four-yolk cooked base. This version follows the eggs-with-mayonnaise passage: one spoon each tarragon vinegar, lemon juice and water, interpreted as modern 15 ml tablespoons. Oil, salt and mustard were unmeasured; 200 ml oil, half teaspoon salt and one teaspoon prepared mustard are explicit modern working quantities. The other passage uses plain vinegar and adds more vinegar after cooling; a complete variation retains that difference, with a chosen extra 15 ml. Its cold-water rescue is also retained as a full method. Cooking over a water bath to a measured endpoint replaces direct heat on the stove. Twenty small condiment servings and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Neues Wiener Menu- und Kochbuch (1914), author not recorded. https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Egg-dish cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Equivalent source retained: Neues Wiener Menu- und Kochbuch (1914), author not recorded. https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-051769152de750f4b599cc82"
+      ],
+      "variants": [
+        {
+          "id": "extra-vinegar",
+          "label": "Other source passage — vinegar finish",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar for the cooked base",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "basewater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "oil",
+              "amount": 200,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "finishvinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "additional white wine vinegar for finishing",
+              "substitution": "Use the same volume of cider vinegar."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{vinegar}}, {{lemon}} and {{basewater}} in a heatproof bowl. Set over gently simmering water with the bowl above the water, and whisk continuously until the mixture thickens and reaches 71°C (160°F). Remove immediately; do not boil or scramble the yolks.",
+            "Set the bowl in a larger bowl of cold water, keeping water out of the sauce, and stir until the yolk mixture is cool but still smooth, about 10 minutes. Do not leave it on the counter for a prolonged cooling period.",
+            "Gradually whisk in {{oil}}, a few drops at first and then a thin stream as the sauce thickens. Stir in {{salt}} and {{mustard}}. Pause pouring if oil pools and whisk until it blends in.",
+            "Gradually whisk in {{finishvinegar}} after the oil to make the more acidic finishing-vinegar version.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "cold-water-rescue",
+          "label": "Cold-water method for a separated batch",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar for the cooked base",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "basewater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "oil",
+              "amount": 200,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "finishvinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "additional white wine vinegar for finishing",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "rescuewater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{vinegar}}, {{lemon}} and {{basewater}} in a heatproof bowl. Set over gently simmering water with the bowl above the water, and whisk continuously until the mixture thickens and reaches 71°C (160°F). Remove immediately; do not boil or scramble the yolks.",
+            "Set the bowl in a larger bowl of cold water, keeping water out of the sauce, and stir until the yolk mixture is cool but still smooth, about 10 minutes. Do not leave it on the counter for a prolonged cooling period.",
+            "Gradually whisk in {{oil}}, a few drops at first and then a thin stream as the sauce thickens. Stir in {{salt}} and {{mustard}}. Pause pouring if oil pools and whisk until it blends in.",
+            "Gradually whisk in {{finishvinegar}} after the oil to make the more acidic finishing-vinegar version.",
+            "Slowly trickle {{rescuewater}}, cold, down the side of the bowl while whisking the finished mayonnaise continuously. This is the source’s rescue addition; if starting with an already prepared separated batch, do not make it again. The ingredient list includes the full vinegar-finish base plus the rescue water. Added water makes the sauce slightly looser even when used with a smooth batch.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-a0b8c58e2ddf9b676ebc8a07",
+    "bodySha256": "acba687c22336650f1f2a8ce25eb1df58d3aad829c83eed0b9ea1bf239a81a8d",
+    "recipe": {
+      "id": "historical-a0b8c58e2ddf9b676ebc8a07",
+      "title": "Viennese Three-Yolk Lemon Mayonnaise",
+      "description": "A simple three-yolk mayonnaise takes lemon juice after the oil, then a little mustard, salt and optional white pepper.",
+      "category": "Condiments",
+      "servings": 14,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 3,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 150,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the complete pepper-free variation if preferred."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}} in a clean bowl on a damp towel. Measure {{oil}} into a jug and whisk it in a few drops at a time until the mixture begins to thicken; continue in a thin stream until all the oil is incorporated.",
+        "Gradually whisk in {{lemon}}, then stir in {{mustard}}, {{salt}} and {{pepper}}. Stop pouring whenever the mixture starts to separate and whisk until it blends in.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The full Menu14 passage gives three yolks and 1.5 decilitres oil, 150 ml, with juice from half a lemon. The lemon is standardized to a working 15 ml; mustard, salt, pepper, fourteen small condiment portions and time are supplied. The original order—oil first, lemon next, seasoning last—is retained. Commercially pasteurized yolks and covered refrigeration replace an unspecified raw-egg and ice-storage method. The optional pepper-free version and extra-yolk rescue are supplied in full. This uncooked formula is distinct from the four-yolk cooked-base sauce. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Neues Wiener Menu- und Kochbuch (1914), author not recorded. https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "no-pepper",
+          "label": "Without white pepper",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 150,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl on a damp towel. Measure {{oil}} into a jug and whisk it in a few drops at a time until the mixture begins to thicken; continue in a thin stream until all the oil is incorporated.",
+            "Gradually whisk in {{lemon}}, then stir in {{mustard}} and {{salt}}. Stop pouring whenever the mixture starts to separate and whisk until it blends in.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "extra-yolk-rescue",
+          "label": "Extra-yolk method for a separated batch",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 150,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the complete pepper-free variation if preferred."
+            },
+            {
+              "key": "rescueyolk",
+              "amount": 1,
+              "unit": "",
+              "name": "additional large pasteurized egg yolk for the rescue",
+              "substitution": "Use 18 g commercially pasteurized liquid yolk."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl on a damp towel. Measure {{oil}} into a jug and whisk it in a few drops at a time until the mixture begins to thicken; continue in a thin stream until all the oil is incorporated.",
+            "Gradually whisk in {{lemon}}, then stir in {{mustard}}, {{salt}} and {{pepper}}. Stop pouring whenever the mixture starts to separate and whisk until it blends in.",
+            "Whisk {{rescueyolk}} in a second clean bowl, then whisk the prepared mayonnaise into it very slowly, a few drops at first and a thin stream once smooth. If rescuing a batch already made, start here rather than making the base again. The ingredient list includes the full base plus the rescue yolk; this also makes a richer four-yolk sauce if used with an unbroken batch.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-416eb72c49dc2235cdfb9eec",
+    "bodySha256": "6daaede6c80447c76d57e5abd31b1178e0e4064d103020270ee9a99c3c411438",
+    "recipe": {
+      "id": "historical-416eb72c49dc2235cdfb9eec",
+      "title": "Viennese Eggs Filled with Mayonnaise",
+      "description": "Hard-boiled egg halves are filled with mayonnaise and presented with dressed greens, anchovy, chives, capers, pickle and lemon.",
+      "category": "Starters",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "greens",
+          "amount": 80,
+          "unit": "g",
+          "name": "lamb’s lettuce (mâche), trimmed",
+          "substitution": "Use the complete head-lettuce variation if preferred."
+        },
+        {
+          "key": "saladoil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "olive oil for the greens",
+          "substitution": "Use the same volume of sunflower oil."
+        },
+        {
+          "key": "saladvinegar",
+          "amount": 10,
+          "unit": "ml",
+          "name": "white wine vinegar for the greens",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "saladsalt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt for the greens",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pickle",
+          "amount": 60,
+          "unit": "g",
+          "name": "pickled cucumber, drained, about one small pickle",
+          "substitution": "Use the same drained weight of cornichons."
+        },
+        {
+          "key": "anchovies",
+          "amount": 8,
+          "unit": "g",
+          "name": "anchovy fillets, drained, about two fillets",
+          "substitution": "Use the same weight of finely sliced smoked sprat for a different flavor."
+        },
+        {
+          "key": "capers",
+          "amount": 40,
+          "unit": "g",
+          "name": "capers, drained",
+          "substitution": "Use the complete caviar-garnish variation if preferred."
+        },
+        {
+          "key": "chives",
+          "amount": 20,
+          "unit": "g",
+          "name": "fresh chives",
+          "substitution": "Use the same weight of finely sliced spring-onion greens."
+        },
+        {
+          "key": "garnishlemon",
+          "amount": 60,
+          "unit": "g",
+          "name": "lemon for garnish, about one small lemon",
+          "substitution": "Use the same weight of lime for a different garnish."
+        },
+        {
+          "key": "mayoreserve",
+          "amount": 120,
+          "unit": "ml",
+          "name": "mayonnaise reserved from the batch made below; not an additional purchase",
+          "substitution": "Measure the finished sauce and refrigerate any extra separately."
+        },
+        {
+          "key": "yolks",
+          "amount": 2.0,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "vinegar",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "basewater",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "oil",
+          "amount": 100.0,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Halve the cold hard-boiled eggs lengthwise. Carefully remove the yolks without tearing the whites, chop the firm yolks and refrigerate both parts while making the sauce.",
+        "Whisk {{yolks}}, {{vinegar}}, {{lemon}} and {{basewater}} in a heatproof bowl. Set over gently simmering water with the bowl above the water, and whisk continuously until the mixture thickens and reaches 71°C (160°F). Remove immediately; do not boil or scramble the yolks.",
+        "Set the bowl in a larger bowl of cold water, keeping water out of the sauce, and stir until the yolk mixture is cool but still smooth, about 10 minutes. Do not leave it on the counter for a prolonged cooling period.",
+        "Gradually whisk in {{oil}}, a few drops at first and then a thin stream as the sauce thickens. Stir in {{salt}} and {{mustard}}. Pause pouring if oil pools and whisk until it blends in.",
+        "Measure {{mayoreserve}} from the finished sauce and keep chilled for filling the eggs. Cover any unused mayonnaise separately, refrigerate promptly at 4°C (40°F) or colder and use within 3 days.",
+        "Wash {{greens}} and dry thoroughly. Just before serving, toss with {{saladoil}}, {{saladvinegar}} and {{saladsalt}}. Arrange around the edge of a chilled serving dish.",
+        "Divide the reserved mayonnaise among the egg-white halves and arrange them in the center of the dish. Slice {{anchovies}} into thin strips and place on the filled halves. Wash and finely snip {{chives}}, then scatter over them.",
+        "Thinly slice {{pickle}} and washed {{garnishlemon}}. Arrange between the eggs with the chopped cooked yolks. Drain {{capers}} and scatter over the platter to finish. Serve cold.",
+        "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+      ],
+      "notes": "The full original supplies six eggs, 80 g lamb’s lettuce or two lettuce heads, one pickle, two anchovies, 40 g capers and 20 g chives. Lemon slices and chopped cooked yolks appear in the method and are restored explicitly. Pickle, anchovy and lemon weights, salad dressing and a 120 ml mayonnaise filling are modern working quantities. The base uses half the complete adapted four-yolk cooked sauce; its surplus is accounted for. The uncooked Menu14 sauce is retained as a full alternative. “Warm or cold stirred mayonnaise” describes how the sauce is made, not a requirement to serve the eggs warm. Full head-lettuce and caviar garnishes preserve the other source options. Six servings of two filled halves and total time are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The caviar quantity was not printed; 20 g is a modern garnish choice, not a conversion from the 40 g caper amount.",
+      "source": "Neues Wiener Menu- und Kochbuch (1914), author not recorded. https://archive.org/details/neues-wiener-menu-und-kochbuch-2nd-ed-1914 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "uncooked-sauce",
+          "label": "With the uncooked-yolk mayonnaise",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 6,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "greens",
+              "amount": 80,
+              "unit": "g",
+              "name": "lamb’s lettuce (mâche), trimmed",
+              "substitution": "Use the complete head-lettuce variation if preferred."
+            },
+            {
+              "key": "saladoil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for the greens",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "saladvinegar",
+              "amount": 10,
+              "unit": "ml",
+              "name": "white wine vinegar for the greens",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "saladsalt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt for the greens",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pickle",
+              "amount": 60,
+              "unit": "g",
+              "name": "pickled cucumber, drained, about one small pickle",
+              "substitution": "Use the same drained weight of cornichons."
+            },
+            {
+              "key": "anchovies",
+              "amount": 8,
+              "unit": "g",
+              "name": "anchovy fillets, drained, about two fillets",
+              "substitution": "Use the same weight of finely sliced smoked sprat for a different flavor."
+            },
+            {
+              "key": "capers",
+              "amount": 40,
+              "unit": "g",
+              "name": "capers, drained",
+              "substitution": "Use the complete caviar-garnish variation if preferred."
+            },
+            {
+              "key": "chives",
+              "amount": 20,
+              "unit": "g",
+              "name": "fresh chives",
+              "substitution": "Use the same weight of finely sliced spring-onion greens."
+            },
+            {
+              "key": "garnishlemon",
+              "amount": 60,
+              "unit": "g",
+              "name": "lemon for garnish, about one small lemon",
+              "substitution": "Use the same weight of lime for a different garnish."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 120,
+              "unit": "ml",
+              "name": "mayonnaise reserved from the batch made below; not an additional purchase",
+              "substitution": "Measure the finished sauce and refrigerate any extra separately."
+            },
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 150,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the complete pepper-free variation if preferred."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Halve the cold hard-boiled eggs lengthwise. Carefully remove the yolks without tearing the whites, chop the firm yolks and refrigerate both parts while making the sauce.",
+            "Whisk {{yolks}} in a clean bowl on a damp towel. Measure {{oil}} into a jug and whisk it in a few drops at a time until the mixture begins to thicken; continue in a thin stream until all the oil is incorporated.",
+            "Gradually whisk in {{lemon}}, then stir in {{mustard}}, {{salt}} and {{pepper}}. Stop pouring whenever the mixture starts to separate and whisk until it blends in.",
+            "Measure {{mayoreserve}} from the finished sauce and keep chilled for filling the eggs. Cover any unused mayonnaise separately, refrigerate promptly at 4°C (40°F) or colder and use within 3 days.",
+            "Wash {{greens}} and dry thoroughly. Just before serving, toss with {{saladoil}}, {{saladvinegar}} and {{saladsalt}}. Arrange around the edge of a chilled serving dish.",
+            "Divide the reserved mayonnaise among the egg-white halves and arrange them in the center of the dish. Slice {{anchovies}} into thin strips and place on the filled halves. Wash and finely snip {{chives}}, then scatter over them.",
+            "Thinly slice {{pickle}} and washed {{garnishlemon}}. Arrange between the eggs with the chopped cooked yolks. Drain {{capers}} and scatter over the platter to finish. Serve cold.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        },
+        {
+          "id": "head-lettuce",
+          "label": "With head lettuce",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 6,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "greens",
+              "amount": 200,
+              "unit": "g",
+              "name": "small head-lettuce leaves, trimmed, about two heads",
+              "substitution": "Use the same weight of tender romaine leaves."
+            },
+            {
+              "key": "saladoil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for the greens",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "saladvinegar",
+              "amount": 10,
+              "unit": "ml",
+              "name": "white wine vinegar for the greens",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "saladsalt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt for the greens",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pickle",
+              "amount": 60,
+              "unit": "g",
+              "name": "pickled cucumber, drained, about one small pickle",
+              "substitution": "Use the same drained weight of cornichons."
+            },
+            {
+              "key": "anchovies",
+              "amount": 8,
+              "unit": "g",
+              "name": "anchovy fillets, drained, about two fillets",
+              "substitution": "Use the same weight of finely sliced smoked sprat for a different flavor."
+            },
+            {
+              "key": "capers",
+              "amount": 40,
+              "unit": "g",
+              "name": "capers, drained",
+              "substitution": "Use the complete caviar-garnish variation if preferred."
+            },
+            {
+              "key": "chives",
+              "amount": 20,
+              "unit": "g",
+              "name": "fresh chives",
+              "substitution": "Use the same weight of finely sliced spring-onion greens."
+            },
+            {
+              "key": "garnishlemon",
+              "amount": 60,
+              "unit": "g",
+              "name": "lemon for garnish, about one small lemon",
+              "substitution": "Use the same weight of lime for a different garnish."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 120,
+              "unit": "ml",
+              "name": "mayonnaise reserved from the batch made below; not an additional purchase",
+              "substitution": "Measure the finished sauce and refrigerate any extra separately."
+            },
+            {
+              "key": "yolks",
+              "amount": 2.0,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "basewater",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "oil",
+              "amount": 100.0,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Halve the cold hard-boiled eggs lengthwise. Carefully remove the yolks without tearing the whites, chop the firm yolks and refrigerate both parts while making the sauce.",
+            "Whisk {{yolks}}, {{vinegar}}, {{lemon}} and {{basewater}} in a heatproof bowl. Set over gently simmering water with the bowl above the water, and whisk continuously until the mixture thickens and reaches 71°C (160°F). Remove immediately; do not boil or scramble the yolks.",
+            "Set the bowl in a larger bowl of cold water, keeping water out of the sauce, and stir until the yolk mixture is cool but still smooth, about 10 minutes. Do not leave it on the counter for a prolonged cooling period.",
+            "Gradually whisk in {{oil}}, a few drops at first and then a thin stream as the sauce thickens. Stir in {{salt}} and {{mustard}}. Pause pouring if oil pools and whisk until it blends in.",
+            "Measure {{mayoreserve}} from the finished sauce and keep chilled for filling the eggs. Cover any unused mayonnaise separately, refrigerate promptly at 4°C (40°F) or colder and use within 3 days.",
+            "Wash {{greens}} and dry thoroughly. Just before serving, toss with {{saladoil}}, {{saladvinegar}} and {{saladsalt}}. Arrange around the edge of a chilled serving dish.",
+            "Divide the reserved mayonnaise among the egg-white halves and arrange them in the center of the dish. Slice {{anchovies}} into thin strips and place on the filled halves. Wash and finely snip {{chives}}, then scatter over them.",
+            "Thinly slice {{pickle}} and washed {{garnishlemon}}. Arrange between the eggs with the chopped cooked yolks. Drain {{capers}} and scatter over the platter to finish. Serve cold.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        },
+        {
+          "id": "caviar",
+          "label": "With caviar instead of capers",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 6,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "greens",
+              "amount": 80,
+              "unit": "g",
+              "name": "lamb’s lettuce (mâche), trimmed",
+              "substitution": "Use the complete head-lettuce variation if preferred."
+            },
+            {
+              "key": "saladoil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for the greens",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "saladvinegar",
+              "amount": 10,
+              "unit": "ml",
+              "name": "white wine vinegar for the greens",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "saladsalt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt for the greens",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pickle",
+              "amount": 60,
+              "unit": "g",
+              "name": "pickled cucumber, drained, about one small pickle",
+              "substitution": "Use the same drained weight of cornichons."
+            },
+            {
+              "key": "anchovies",
+              "amount": 8,
+              "unit": "g",
+              "name": "anchovy fillets, drained, about two fillets",
+              "substitution": "Use the same weight of finely sliced smoked sprat for a different flavor."
+            },
+            {
+              "key": "caviar",
+              "amount": 20,
+              "unit": "g",
+              "name": "chilled caviar or prepared fish roe, ready to eat",
+              "substitution": "Use the caper-garnish base recipe instead."
+            },
+            {
+              "key": "chives",
+              "amount": 20,
+              "unit": "g",
+              "name": "fresh chives",
+              "substitution": "Use the same weight of finely sliced spring-onion greens."
+            },
+            {
+              "key": "garnishlemon",
+              "amount": 60,
+              "unit": "g",
+              "name": "lemon for garnish, about one small lemon",
+              "substitution": "Use the same weight of lime for a different garnish."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 120,
+              "unit": "ml",
+              "name": "mayonnaise reserved from the batch made below; not an additional purchase",
+              "substitution": "Measure the finished sauce and refrigerate any extra separately."
+            },
+            {
+              "key": "yolks",
+              "amount": 2.0,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "basewater",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "oil",
+              "amount": 100.0,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Halve the cold hard-boiled eggs lengthwise. Carefully remove the yolks without tearing the whites, chop the firm yolks and refrigerate both parts while making the sauce.",
+            "Whisk {{yolks}}, {{vinegar}}, {{lemon}} and {{basewater}} in a heatproof bowl. Set over gently simmering water with the bowl above the water, and whisk continuously until the mixture thickens and reaches 71°C (160°F). Remove immediately; do not boil or scramble the yolks.",
+            "Set the bowl in a larger bowl of cold water, keeping water out of the sauce, and stir until the yolk mixture is cool but still smooth, about 10 minutes. Do not leave it on the counter for a prolonged cooling period.",
+            "Gradually whisk in {{oil}}, a few drops at first and then a thin stream as the sauce thickens. Stir in {{salt}} and {{mustard}}. Pause pouring if oil pools and whisk until it blends in.",
+            "Measure {{mayoreserve}} from the finished sauce and keep chilled for filling the eggs. Cover any unused mayonnaise separately, refrigerate promptly at 4°C (40°F) or colder and use within 3 days.",
+            "Wash {{greens}} and dry thoroughly. Just before serving, toss with {{saladoil}}, {{saladvinegar}} and {{saladsalt}}. Arrange around the edge of a chilled serving dish.",
+            "Divide the reserved mayonnaise among the egg-white halves and arrange them in the center of the dish. Slice {{anchovies}} into thin strips and place on the filled halves. Wash and finely snip {{chives}}, then scatter over them.",
+            "Thinly slice {{pickle}} and washed {{garnishlemon}}. Arrange between the eggs with the chopped cooked yolks. Spoon {{caviar}} over the filled eggs just before serving. Serve cold.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-32b5eb5d47c8a6e33a2d16ff",
+    "bodySha256": "b346835256167fb20d2e993186080b71731765d260303e7a44998e398670e34a",
+    "recipe": {
+      "id": "historical-32b5eb5d47c8a6e33a2d16ff",
+      "title": "Viennese Cold Calf Brain with Aspic and Mayonnaise",
+      "description": "Gently poached calf brain is chilled in small serving dishes with chopped veal-stock jelly and a teaspoon of mayonnaise.",
+      "category": "Starters",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 180,
+      "ingredients": [
+        {
+          "key": "brain",
+          "amount": 400,
+          "unit": "g",
+          "name": "fresh calf brain prepared for food by an inspected butcher, outer membrane removed",
+          "substitution": "Use the same weight of prepared lamb brains, cooking to the same endpoint; size may change the time."
+        },
+        {
+          "key": "poachwater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "poachvinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar for the poaching liquid",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "poachsalt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt for the poaching liquid",
+          "substitution": "Reduce to taste; most remains in the discarded liquid."
+        },
+        {
+          "key": "stock",
+          "amount": 200,
+          "unit": "ml",
+          "name": "clear unsalted veal stock, chilled",
+          "substitution": "Use the same volume of clear unsalted chicken stock."
+        },
+        {
+          "key": "gelatin",
+          "amount": 4,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the manufacturer’s equivalent setting quantity of leaf gelatin, soaking and draining it first; agar is not a gram-for-gram substitute."
+        },
+        {
+          "key": "aspicvinegar",
+          "amount": 5,
+          "unit": "ml",
+          "name": "white wine vinegar for the aspic",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "mayo",
+          "amount": 20,
+          "unit": "ml",
+          "name": "prepared mayonnaise, refrigerated",
+          "substitution": "Use the complete homemade-sauce variation if preferred."
+        }
+      ],
+      "steps": [
+        "Sprinkle {{gelatin}} over {{stock|0.2}} in a small bowl and leave for 5 minutes. Warm the remaining {{stock|0.8}} in a saucepan, remove from the heat, and stir in the bloomed gelatin until completely dissolved. Stir in {{aspicvinegar}}. Pour into a shallow container, cool briefly and refrigerate for at least 2 hours until firmly set.",
+        "Bring {{poachwater}}, {{poachvinegar}} and {{poachsalt}} to a gentle simmer. Keep {{brain}} chilled until adding it to the liquid. Check that the tough outer membrane has been removed; if any remains, lift it away carefully with clean fingertips or a small knife before poaching.",
+        "Lower the prepared brain into the liquid and poach gently for about 15–25 minutes, until firm and the thickest part reaches 71°C (160°F). Do not rely on time alone, and avoid a vigorous boil that would break up the delicate pieces.",
+        "Lift out with a slotted spoon, drain well and place in a shallow clean container. Cool only until safe to handle, cut into bite-size pieces and refrigerate promptly until fully cold, about 45–60 minutes. Do not cool the whole pot of cooking liquid on the counter.",
+        "Chop the set aspic into small pieces. Divide the cold brain among four small food-safe serving shells or shallow ramekins at the base yield, heaping it slightly in the center. Arrange all the chopped aspic around the portions.",
+        "Cover and refrigerate the assembled shells for 15 minutes before serving. Divide {{mayo}} among them, about one modern teaspoon per shell at the base yield, spooning it over the brain just before serving.",
+        "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+      ],
+      "notes": "The full scanned Wiener Kochbuch No557 calls for a peeled brain cooked in salt water and vinegar, chilled pieces in shells, chopped aspic and one coffee-spoon mayonnaise per shell. The printed final chilling interval is one-quarter hour, 15 minutes—not the extracted 1.5 hours. Brain weight, four portions, poaching water, salt and vinegar, and a complete 200 ml aspic with 4 g approximately 200 Bloom gelatin are modern working choices. A modern 5 ml teaspoon represents each unstandardized coffee-spoon. Full preparation, a measured cooking endpoint, prompt refrigeration and aspic setting time are supplied. The prepared mayonnaise is a modern shortcut; the full homemade variation follows half the book’s adapted No268, with a measured portion and surplus accounted for. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. Allow about 15 additional active minutes for the homemade sauce, which can be made while the aspic sets.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 180,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade Viennese mayonnaise",
+          "ingredients": [
+            {
+              "key": "brain",
+              "amount": 400,
+              "unit": "g",
+              "name": "fresh calf brain prepared for food by an inspected butcher, outer membrane removed",
+              "substitution": "Use the same weight of prepared lamb brains, cooking to the same endpoint; size may change the time."
+            },
+            {
+              "key": "poachwater",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "poachvinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar for the poaching liquid",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "poachsalt",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "fine salt for the poaching liquid",
+              "substitution": "Reduce to taste; most remains in the discarded liquid."
+            },
+            {
+              "key": "stock",
+              "amount": 200,
+              "unit": "ml",
+              "name": "clear unsalted veal stock, chilled",
+              "substitution": "Use the same volume of clear unsalted chicken stock."
+            },
+            {
+              "key": "gelatin",
+              "amount": 4,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting quantity of leaf gelatin, soaking and draining it first; agar is not a gram-for-gram substitute."
+            },
+            {
+              "key": "aspicvinegar",
+              "amount": 5,
+              "unit": "ml",
+              "name": "white wine vinegar for the aspic",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Omit for a milder sauce."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 20,
+              "unit": "ml",
+              "name": "mayonnaise reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl. Measure {{oil}} and {{lemon}} separately. Add oil a few drops at a time while whisking continuously, then in a thin stream as it thickens, alternating small additions of the measured lemon juice. Stir in {{salt}} and {{pepper}} when smooth.",
+            "Measure {{mayoreserve}} from the finished mayonnaise for the shells. Cover any unused sauce separately, refrigerate promptly at 4°C (40°F) or colder and use within 3 days.",
+            "Sprinkle {{gelatin}} over {{stock|0.2}} in a small bowl and leave for 5 minutes. Warm the remaining {{stock|0.8}} in a saucepan, remove from the heat, and stir in the bloomed gelatin until completely dissolved. Stir in {{aspicvinegar}}. Pour into a shallow container, cool briefly and refrigerate for at least 2 hours until firmly set.",
+            "Bring {{poachwater}}, {{poachvinegar}} and {{poachsalt}} to a gentle simmer. Keep {{brain}} chilled until adding it to the liquid. Check that the tough outer membrane has been removed; if any remains, lift it away carefully with clean fingertips or a small knife before poaching.",
+            "Lower the prepared brain into the liquid and poach gently for about 15–25 minutes, until firm and the thickest part reaches 71°C (160°F). Do not rely on time alone, and avoid a vigorous boil that would break up the delicate pieces.",
+            "Lift out with a slotted spoon, drain well and place in a shallow clean container. Cool only until safe to handle, cut into bite-size pieces and refrigerate promptly until fully cold, about 45–60 minutes. Do not cool the whole pot of cooking liquid on the counter.",
+            "Chop the set aspic into small pieces. Divide the cold brain among four small food-safe serving shells or shallow ramekins at the base yield, heaping it slightly in the center. Arrange all the chopped aspic around the portions.",
+            "Cover and refrigerate the assembled shells for 15 minutes before serving. Divide the measured reserved mayonnaise among them, about one modern teaspoon per shell at the base yield, spooning it over the brain just before serving.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        }
+      ]
+    }
   }
 ]
