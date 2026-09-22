@@ -370,5 +370,17 @@
     "canonicalId": "historical-ca07ea3de02b6e994a6dbfe8",
     "bodySha256": "c22f5c4a681495eb1e5555fcde84134360b7167d44f61699a082543ff941f8c3",
     "reason": "Exact repetition of the single Greenbaum Chicken Sandwiches with Mayonnaise paragraph, including the one-tablespoon-each per cup ratio."
+  },
+  {
+    "id": "historical-c38ea58d5e768a3bba0bbaed",
+    "canonicalId": "historical-f2df9fb5deed15117d5a1d94",
+    "bodySha256": "7c81e37c8e7b10c61a848964dea7d1e6b013195d7ed494a8702086744c9d58c8",
+    "reason": "Same two-yolk to two-tablespoon-oil low-oil formula and acid finish as canonical29; explicit15ml white vinegar after oil and both caper/parsley options retained as complete named variations."
+  },
+  {
+    "id": "historical-97913dbf85d80ffe2a877814",
+    "canonicalId": "historical-74426530f1f5bbcc6dfb584d",
+    "bodySha256": "248834cd13d96cfa6c45406d0ef1370ce7df26531d2c6d68d0ed5ac962639a89",
+    "reason": "Both records reproduce the same single original Polish Provensal paragraph: three yolks, half funt oil, two tablespoons vinegar, teaspoon sugar and identical mixing sequence."
   }
 ]

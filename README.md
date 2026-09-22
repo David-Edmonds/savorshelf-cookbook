@@ -1,3 +1,7 @@
+# Recipe content batch 031 — September 22, 2026
+
+Five adaptations complete Greenbaum cream and white mayonnaise and three Polish sauces, including a corrected butter measure. Full French-dressing, whipped-egg-white and caper/parsley variations preserve meaningful differences. Two duplicate sources are consolidated with old IDs and source credits retained. Totals: 40,829 imported recipes, 441 completed adaptations, 40,388 remaining content repairs and 42,281 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 030 — September 22, 2026
 
 Two complete cold platters restore whole trout with its egg-yolk jelly coating and the leg of mutton missing from an extracted mayonnaise entry. Measured poaching or roasting, sauces, garnishes and chilling are supplied. Totals: 40,831 imported recipes, 436 completed adaptations, 40,395 remaining content repairs and 42,283 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
