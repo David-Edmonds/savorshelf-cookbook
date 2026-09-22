@@ -1,3 +1,7 @@
+# Recipe content batch 032 — September 22, 2026
+
+Five adaptations complete Polish eggs, cold chicken and herring-potato dishes and two distinct Swedish cooked sauces. Full poaching, jelly, dressings and cream preparation are included, with corrected broth and garnish readings. Four repeated sauce records are consolidated with old IDs and source credits retained. Totals: 40,825 imported recipes, 446 completed adaptations, 40,379 remaining content repairs and 42,277 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 031 — September 22, 2026
 
 Five adaptations complete Greenbaum cream and white mayonnaise and three Polish sauces, including a corrected butter measure. Full French-dressing, whipped-egg-white and caper/parsley variations preserve meaningful differences. Two duplicate sources are consolidated with old IDs and source credits retained. Totals: 40,829 imported recipes, 441 completed adaptations, 40,388 remaining content repairs and 42,281 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.

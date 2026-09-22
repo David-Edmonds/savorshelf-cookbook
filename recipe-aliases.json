@@ -382,5 +382,29 @@
     "canonicalId": "historical-74426530f1f5bbcc6dfb584d",
     "bodySha256": "248834cd13d96cfa6c45406d0ef1370ce7df26531d2c6d68d0ed5ac962639a89",
     "reason": "Both records reproduce the same single original Polish Provensal paragraph: three yolks, half funt oil, two tablespoons vinegar, teaspoon sugar and identical mixing sequence."
+  },
+  {
+    "id": "historical-190651b79d82a776861a874e",
+    "canonicalId": "historical-0fe6554645325aebd34d1275",
+    "bodySha256": "78f37ec4c08727525bc2382ef79eede3d74bc9527b1a10ebafb79f4caeaa739d",
+    "reason": "Same single Idun original443 and full ingredient formula; shorter entries97/99 omit the second half of the method, retained here from the full original."
+  },
+  {
+    "id": "historical-cbcc71ace971cc917c7a31ab",
+    "canonicalId": "historical-0fe6554645325aebd34d1275",
+    "bodySha256": "7a721c55d488d54737d42a708d459a8f2db577e7f4efc8d0b5e6af49321a93a8",
+    "reason": "Same single Idun original443 and full ingredient formula; shorter entries97/99 omit the second half of the method, retained here from the full original."
+  },
+  {
+    "id": "historical-961dacd78efd721ba7dc71fd",
+    "canonicalId": "historical-0fe6554645325aebd34d1275",
+    "bodySha256": "5bb704866e8599805623d35f2526539aaad34d1e2d17e5665a0ba83f8cd9d59c",
+    "reason": "Same single Idun original443 and full ingredient formula; shorter entries97/99 omit the second half of the method, retained here from the full original."
+  },
+  {
+    "id": "historical-48fc8c40d68514de21ef9c56",
+    "canonicalId": "historical-68db948ef53e813c35222ab8",
+    "bodySha256": "a659647daa9cf8eaa99360885973d6cae0542e4ba95abec1b76f60329207b448",
+    "reason": "Same complete Hemmets original432, including twelve servings, three deciliters each stock and cream, three yolks and identical cooled-base method."
   }
 ]

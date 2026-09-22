@@ -40283,5 +40283,665 @@
         "historical-97913dbf85d80ffe2a877814"
       ]
     }
+  },
+  {
+    "sourceId": "historical-0f3aa4631805dbca5531e0e3",
+    "bodySha256": "fd024c6c8068eab70992b53c9b256fc2cda74183fb3065219e8570fb1d92b42f",
+    "recipe": {
+      "id": "historical-0f3aa4631805dbca5531e0e3",
+      "title": "Jajka w Majonezie — Eggs with Mayonnaise and Green Plum",
+      "description": "Hard-boiled egg halves are coated in a thick olive-oil mayonnaise and arranged around a halved green plum.",
+      "category": "Egg dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "sauceyolk",
+          "amount": 27,
+          "unit": "g",
+          "name": "commercially pasteurized liquid egg yolk for the sauce",
+          "substitution": "Use about one and a half large pasteurized shell-egg yolks, weighed."
+        },
+        {
+          "key": "oil",
+          "amount": 114,
+          "unit": "g",
+          "name": "olive oil, weighed",
+          "substitution": "Use the same weight of a mild sunflower oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.375,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "plum",
+          "amount": 1,
+          "unit": "",
+          "name": "ripe green plum, such as a greengage",
+          "substitution": "Use a small ripe yellow plum; a firm unripe plum will be much more sour."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Keep the peeled eggs covered in the refrigerator while preparing the sauce. Whisk {{sauceyolk}} and {{salt}} in a clean small bowl. Weigh {{oil}} into a jug and whisk it in drop by drop, then in a thin stream once the mixture thickens.",
+        "Slowly whisk in {{vinegar}} and {{sugar}} until smooth and the sugar dissolves. This small batch makes a thick coating; keep it refrigerated until assembly.",
+        "Cut the cold eggs lengthwise in half. Coat each half with the mayonnaise using a spoon or by dipping it into the bowl, then arrange neatly on a platter. Rinse {{plum}}, halve it and remove the stone. Place the plum halves in the center, as in the original, and serve cold.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original gives no egg count and refers to the sauce chapter, asking for a thicker, saltier mayonnaise than the fish sauce. Six eggs and six snack servings are supplied. The full sauce is based on half the book’s Provensal formula, with 114 g oil, 27 g pasteurized yolk, less vinegar and a little more salt than that half batch to make a coating. These are explicit modern working proportions. The source garnish is a green plum, not an olive; a ripe green-skinned plum is used here. Twelve-minute covered egg cooking replaces the original minimum five-minute instruction so the yolks are firm. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-a13db935760eb2af18acf823",
+    "bodySha256": "3c5abc8656d4c000be5afec00b0adc0e54bc6e08f74a34851dc5f955635751fe",
+    "recipe": {
+      "id": "historical-a13db935760eb2af18acf823",
+      "title": "Majonez z Kur — Cold Chicken with Butter and Oil Sauce",
+      "description": "Poached chicken is served cold under a rich sauce made from clarified butter, flour, chicken broth, olive oil and lemon.",
+      "category": "Main dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 210,
+      "ingredients": [
+        {
+          "key": "chickens",
+          "amount": 2,
+          "unit": "",
+          "name": "small oven-ready chickens, about 1.3 kg each, giblets removed",
+          "substitution": "Use the same total weight of bone-in chicken pieces; check each piece reaches the cooking temperature."
+        },
+        {
+          "key": "poachstock",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock for poaching",
+          "substitution": "Use the same volume of unsalted vegetable stock."
+        },
+        {
+          "key": "onion",
+          "amount": 1,
+          "unit": "",
+          "name": "medium onion, peeled and quartered",
+          "substitution": "Use one small cleaned leek per onion."
+        },
+        {
+          "key": "carrot",
+          "amount": 1,
+          "unit": "",
+          "name": "medium carrot, scrubbed and sliced",
+          "substitution": "Use one small peeled parsnip per carrot."
+        },
+        {
+          "key": "bay",
+          "amount": 2,
+          "unit": "",
+          "name": "dried bay leaves",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "peppercorns",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "whole black peppercorns",
+          "substitution": "Use the same amount of white peppercorns."
+        },
+        {
+          "key": "saucestock",
+          "amount": 250,
+          "unit": "ml",
+          "name": "cooked chicken poaching broth reserved below, strained and skimmed; not additional stock",
+          "substitution": "Use the same volume of fresh unsalted chicken stock."
+        },
+        {
+          "key": "butter",
+          "amount": 113,
+          "unit": "g",
+          "name": "clarified unsalted butter or plain ghee",
+          "substitution": "Use the same weight of plain unsalted ghee; ordinary butter contains extra water and is not an exact replacement."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "plain wheat flour",
+          "substitution": "Use the same weight of a plain gluten-free flour blend; thickening may differ."
+        },
+        {
+          "key": "oil",
+          "amount": 227,
+          "unit": "g",
+          "name": "olive oil, weighed",
+          "substitution": "Use the same weight of sunflower oil."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same amount of caster sugar."
+        }
+      ],
+      "steps": [
+        "Put {{chickens}} in a large pot with {{poachstock}}, {{onion}}, {{carrot}}, {{bay}} and {{peppercorns}}. Add drinking water only if needed to cover. Bring to a gentle simmer, skim foam and poach for about 50–70 minutes, until the thickest breast and thigh meat of each bird reaches 74°C (165°F), away from the bones.",
+        "Lift the cooked chickens onto a clean tray. Strain {{saucestock}} from the cooked poaching liquid into a heatproof jug and skim off surface fat. Save this measured portion for the sauce. Cool any remaining broth promptly in shallow containers for another dish, refrigerate and use within 2 days or freeze.",
+        "When cool enough to handle, remove the chicken skin and bones and cut the meat into serving pieces. Spread in shallow covered containers and refrigerate promptly, within 2 hours of cooking, until cold, allowing about 1–2 hours. Do not leave whole birds on the counter until cold.",
+        "Melt {{butter}} in a small saucepan. Whisk in {{flour}} and cook gently for 2 minutes without browning. Gradually whisk in the measured reserved broth until smooth. Simmer gently for 5 minutes, stirring, until the sauce thickens.",
+        "Transfer the sauce to a clean bowl set in cold water, keeping the water out of the sauce. Stir until cool but still soft. Weigh {{oil}} into a jug and whisk it in a few drops at a time, then in a thin stream, until evenly incorporated. If oil pools, stop pouring and whisk until it blends in.",
+        "Whisk in {{salt}}, {{lemon}} and {{sugar}} until smooth. Arrange the cold chicken on a platter and spoon the sauce over the pieces. Keep refrigerated until serving.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The full original uses two chickens and a quarter funt clarified butter, two spoons flour, a kwaterka of skimmed broth, half a funt oil, a lemon and a teaspoon sugar. The broth word is KWATERKA, not the quart in the extracted translation. This adaptation supplies 250 ml broth, 113 g butter, 16 g flour and 227 g oil as explicit modern working quantities, not universal historical-unit conversions. Chicken size, complete poaching method, aromatics, half teaspoon salt, 30 ml lemon juice and eight servings are supplied. The rich roux-and-oil sauce contains no egg. Prompt portioned chilling replaces extended warm storage. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The complete vinegar variation retains the source alternative, using a modern working 30 ml in place of the lemon juice.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 210,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "vinegar-finish",
+          "label": "With a vinegar finish",
+          "ingredients": [
+            {
+              "key": "chickens",
+              "amount": 2,
+              "unit": "",
+              "name": "small oven-ready chickens, about 1.3 kg each, giblets removed",
+              "substitution": "Use the same total weight of bone-in chicken pieces; check each piece reaches the cooking temperature."
+            },
+            {
+              "key": "poachstock",
+              "amount": 3000,
+              "unit": "ml",
+              "name": "unsalted prepared chicken stock for poaching",
+              "substitution": "Use the same volume of unsalted vegetable stock."
+            },
+            {
+              "key": "onion",
+              "amount": 1,
+              "unit": "",
+              "name": "medium onion, peeled and quartered",
+              "substitution": "Use one small cleaned leek per onion."
+            },
+            {
+              "key": "carrot",
+              "amount": 1,
+              "unit": "",
+              "name": "medium carrot, scrubbed and sliced",
+              "substitution": "Use one small peeled parsnip per carrot."
+            },
+            {
+              "key": "bay",
+              "amount": 2,
+              "unit": "",
+              "name": "dried bay leaves",
+              "substitution": "Omit if unavailable."
+            },
+            {
+              "key": "peppercorns",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "whole black peppercorns",
+              "substitution": "Use the same amount of white peppercorns."
+            },
+            {
+              "key": "saucestock",
+              "amount": 250,
+              "unit": "ml",
+              "name": "cooked chicken poaching broth reserved below, strained and skimmed; not additional stock",
+              "substitution": "Use the same volume of fresh unsalted chicken stock."
+            },
+            {
+              "key": "butter",
+              "amount": 113,
+              "unit": "g",
+              "name": "clarified unsalted butter or plain ghee",
+              "substitution": "Use the same weight of plain unsalted ghee; ordinary butter contains extra water and is not an exact replacement."
+            },
+            {
+              "key": "flour",
+              "amount": 16,
+              "unit": "g",
+              "name": "plain wheat flour",
+              "substitution": "Use the same weight of a plain gluten-free flour blend; thickening may differ."
+            },
+            {
+              "key": "oil",
+              "amount": 227,
+              "unit": "g",
+              "name": "olive oil, weighed",
+              "substitution": "Use the same weight of sunflower oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the lemon version for a fruitier sauce."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same amount of caster sugar."
+            }
+          ],
+          "steps": [
+            "Put {{chickens}} in a large pot with {{poachstock}}, {{onion}}, {{carrot}}, {{bay}} and {{peppercorns}}. Add drinking water only if needed to cover. Bring to a gentle simmer, skim foam and poach for about 50–70 minutes, until the thickest breast and thigh meat of each bird reaches 74°C (165°F), away from the bones.",
+            "Lift the cooked chickens onto a clean tray. Strain {{saucestock}} from the cooked poaching liquid into a heatproof jug and skim off surface fat. Save this measured portion for the sauce. Cool any remaining broth promptly in shallow containers for another dish, refrigerate and use within 2 days or freeze.",
+            "When cool enough to handle, remove the chicken skin and bones and cut the meat into serving pieces. Spread in shallow covered containers and refrigerate promptly, within 2 hours of cooking, until cold, allowing about 1–2 hours. Do not leave whole birds on the counter until cold.",
+            "Melt {{butter}} in a small saucepan. Whisk in {{flour}} and cook gently for 2 minutes without browning. Gradually whisk in the measured reserved broth until smooth. Simmer gently for 5 minutes, stirring, until the sauce thickens.",
+            "Transfer the sauce to a clean bowl set in cold water, keeping the water out of the sauce. Stir until cool but still soft. Weigh {{oil}} into a jug and whisk it in a few drops at a time, then in a thin stream, until evenly incorporated. If oil pools, stop pouring and whisk until it blends in.",
+            "Whisk in {{salt}}, {{vinegar}} and {{sugar}} until smooth. Arrange the cold chicken on a platter and spoon the sauce over the pieces. Keep refrigerated until serving.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-0ce1a5b80b2a7bd4b8f9a65d",
+    "bodySha256": "765c37d65746aa694488f41142877b58f3b13678a791b3b3070568c224d77825",
+    "recipe": {
+      "id": "historical-0ce1a5b80b2a7bd4b8f9a65d",
+      "title": "Majonez ze Śledzia — Layered Herring and Potato Platter",
+      "description": "Slices of cured herring and boiled potato form a small mound, coated with yolk dressing and garnished with pickled mushrooms, gherkins and savory jelly.",
+      "category": "Fish",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 160,
+      "ingredients": [
+        {
+          "key": "herring",
+          "amount": 200,
+          "unit": "g",
+          "name": "commercial ready-to-eat salt-cured herring fillets, skin and bones removed",
+          "substitution": "Use the same weight of drained ready-to-eat pickled herring for a sharper flavor."
+        },
+        {
+          "key": "potatoes",
+          "amount": 600,
+          "unit": "g",
+          "name": "whole firm waxy potatoes, scrubbed",
+          "substitution": "Use the same weight of another waxy potato variety."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same amount of prepared Dijon mustard."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mushrooms",
+          "amount": 40,
+          "unit": "g",
+          "name": "ready-to-eat pickled mushrooms, drained and sliced",
+          "substitution": "Use the same weight of extra pickled gherkins."
+        },
+        {
+          "key": "gherkins",
+          "amount": 40,
+          "unit": "g",
+          "name": "pickled gherkins, drained and sliced",
+          "substitution": "Use the same weight of pickled cucumber."
+        },
+        {
+          "key": "gelatin",
+          "amount": 3,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the same weight of fish gelatin of similar setting strength."
+        },
+        {
+          "key": "bloomwater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "cold drinking water for gelatin",
+          "substitution": "Use the same volume of cold clear stock."
+        },
+        {
+          "key": "jellystock",
+          "amount": 120,
+          "unit": "ml",
+          "name": "clear unsalted vegetable stock",
+          "substitution": "Use the same volume of clear unsalted fish stock."
+        }
+      ],
+      "steps": [
+        "Start the jelly first. Sprinkle {{gelatin}} over {{bloomwater}} and leave for 5 minutes. Heat {{jellystock}} until steaming, remove from heat and stir in the bloomed gelatin until dissolved. Pour into a shallow dish, cover and refrigerate for about 2 hours until set, then cut into small pieces.",
+        "Put {{potatoes}} in a saucepan with {{water}}, adding more drinking water only if needed to cover. Bring to a boil, reduce to a simmer and cook for about 20–30 minutes, until a knife enters the centers easily. Drain. When cool enough to handle, peel and cut into thin slices. Spread in a shallow covered container and refrigerate promptly until cold.",
+        "Keep {{herring}} chilled. Check the fillets for remaining pin bones, pat dry and cut into thin slices. Follow any preparation instructions on the ready-to-eat product.",
+        "Whisk {{yolks}}, {{mustard}} and {{salt}} in a small clean bowl. Add {{oil}} drop by drop while whisking until evenly blended. This small, low-oil dressing is softer than a high-oil mayonnaise.",
+        "On a small chilled platter, alternate layers of cold herring and potato to make a low mound. Spoon the yolk dressing over the surface in a thin coating. Garnish with {{mushrooms}}, {{gherkins}} and the prepared jelly. Serve chilled.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The source describes a salted whole herring soaked for eighteen hours, then skinned, deboned and sliced. A modern 200 g portion of commercial ready-to-eat cured fillets replaces that preparation; this is not a method for curing raw fresh fish. The two or three large potatoes become a working 600 g. One yolk and two modern tablespoons oil are retained, with supplied mustard, salt, garnish amounts and four servings. The full Polish original names jelly (galareta), not the capers in the extraction; its missing jelly recipe is supplied in full here. Pickled mushrooms are a modern ready-to-eat garnish choice. Total time includes overlapping jelly-setting and potato-cooling time. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 160,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-0fe6554645325aebd34d1275",
+    "bodySha256": "db5d278ca694c7a9fd2b02d064a3cd7caeb865ee7cb79ce93fd88d04fd0b7ed7",
+    "recipe": {
+      "id": "historical-0fe6554645325aebd34d1275",
+      "title": "Idun Kokt Majonnäs — Cooked Mayonnaise with Whipped Cream",
+      "description": "A cooled butter-and-flour base is enriched with pasteurized yolks, a little oil, vinegar and lemon, then lightened with whipped cream.",
+      "category": "Condiments",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 30,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        },
+        {
+          "key": "flour",
+          "amount": 30,
+          "unit": "g",
+          "name": "plain wheat flour",
+          "substitution": "Use the same weight of plain gluten-free flour blend; thickening may differ."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "water",
+          "amount": 300,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "cream",
+          "amount": 100,
+          "unit": "ml",
+          "name": "cold whipping cream, at least 35% fat, measured before whipping",
+          "substitution": "Use the same volume of cold heavy cream."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground black pepper for a speckled sauce."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a saucepan over gentle heat. Whisk in {{flour}} and {{mustard}} and cook for 2 minutes without browning. Gradually whisk in {{water}} until smooth, then simmer gently for 10 minutes, stirring frequently to prevent sticking.",
+        "Transfer to a clean bowl set over cold water and stir until fully cool, keeping the water out of the sauce. Whisk {{yolks}} into the cooled base a little at a time. Measure {{oil}} into a small jug and slowly whisk it in, alternating with small additions of {{vinegar}} and {{lemon}}, until smooth.",
+        "Whip {{cream}} in a separate chilled bowl until firm peaks hold, stopping before it becomes grainy. Fold it into the sauce, then gently stir in {{salt}}, {{sugar}} and {{whitepepper}}. Serve with chilled cooked fish, meat or vegetables.",
+        "Transfer to a clean covered container and refrigerate at 4°C (40°F) or colder until serving. Use within 1 day; refrigerate within 2 hours of preparation. Fold in the whipped cream close to serving for the best texture."
+      ],
+      "notes": "All four imported records reproduce original recipe 443; two stop after cooking the flour base and omit the remaining method. The complete source retains cold yolk addition, so commercially pasteurized yolks are used. The printed gram quantities control: butter is 30 g even though a modern one-and-a-half tablespoon measure could weigh less, and flour is 30 g. The cream is 100 ml liquid before whipping. Two teaspoons salt are the original amount and produce a strongly seasoned sauce; the salt substitution allows reduction. Eight servings fall within the printed six-to-nine range. The source calls this an alternative for people who dislike much oil, but it does contain oil and is not oil-free. Forty-five minutes is a modern estimate including cooling; prolonged hand beating is replaced by mixing until smooth. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-190651b79d82a776861a874e",
+        "historical-cbcc71ace971cc917c7a31ab",
+        "historical-961dacd78efd721ba7dc71fd"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-68db948ef53e813c35222ab8",
+    "bodySha256": "769b3c9e4f942dc3b2f76da46a52851d1d73b66d5ed70e37bc867ce31154ba63",
+    "recipe": {
+      "id": "historical-68db948ef53e813c35222ab8",
+      "title": "Hemmets Kokt Majonnässås — Creamy Stock-Based Dressing",
+      "description": "A strained stock-and-flour base is cooled, enriched with pasteurized yolks and oil, and folded with whipped cream for a soft dressing.",
+      "category": "Condiments",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 21,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter; the stock may already contain salt."
+        },
+        {
+          "key": "flour",
+          "amount": 32,
+          "unit": "g",
+          "name": "plain wheat flour",
+          "substitution": "Use the same weight of plain gluten-free flour blend; thickening may differ."
+        },
+        {
+          "key": "mustard",
+          "amount": 1.5,
+          "unit": "tsp",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same amount of prepared Dijon mustard."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground black pepper."
+        },
+        {
+          "key": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "name": "prepared chicken stock, lightly salted",
+          "substitution": "Use the same volume of prepared fish stock for the source fish-sauce alternative, or vegetable stock."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "white sugar",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "yolks",
+          "amount": 3,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 45,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "cream",
+          "amount": 300,
+          "unit": "ml",
+          "name": "cold whipping cream, at least 35% fat, measured before whipping",
+          "substitution": "Use the same volume of cold heavy cream."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a saucepan over gentle heat. Stir in {{flour}}, {{mustard}} and {{whitepepper}} and cook for about 2 minutes without browning. Gradually whisk in {{stock}}. Simmer gently for about 5 minutes, stirring, until thick and smooth.",
+        "Press the cooked sauce through a fine sieve into a clean bowl. Set the bowl over cold water and stir until fully cooled, keeping water out of the sauce. Whisk in {{sugar}}, then add {{yolks}} a little at a time, mixing until smooth.",
+        "Measure {{oil}} into a small jug and whisk it into the cooled base drop by drop, alternating with small additions of {{vinegar}}. Whip {{cream}} separately in a chilled bowl until firm peaks hold, stopping before it turns grainy, then fold gently into the sauce. Serve with chilled cooked foods.",
+        "Transfer to a clean covered container and refrigerate at 4°C (40°F) or colder until serving. Use within 1 day; refrigerate within 2 hours of preparation. Fold in the whipped cream close to serving for the best texture."
+      ],
+      "notes": "The two records reproduce original Hemmets recipe 432, which serves twelve. Both stock and cream are three deciliters (300 ml), not the undefined “three parts” in the extraction. The cream is measured as liquid before whipping. The butter and flour become modern working weights of 21 g and 32 g for one-and-a-half and four tablespoons respectively; the book does not supply gram weights here. Prepared mustard is the chosen form because the source does not specify dry powder. Pasteurized yolks preserve its cooled-base method. Stock and fish stock are both explicit source options. Forty-five minutes is a modern preparation estimate. This recipe is distinct from the Idun cooked sauce in its stock, cream proportion, yolk count and seasonings. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-48fc8c40d68514de21ef9c56"
+      ]
+    }
   }
 ]
