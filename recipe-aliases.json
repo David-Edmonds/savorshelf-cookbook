@@ -496,5 +496,17 @@
     "canonicalId": "historical-c0db970a16c1be6477067d8b",
     "bodySha256": "c89e9bf330fe458c77cb1ffd7a446f8114f531df036424ff367a972cfc1b94b2",
     "reason": "Same full Hemmets No433 formula and method with two yolks and 500ml oil; three/four tablespoon vinegar and lemon alternatives retained as complete variations."
+  },
+  {
+    "id": "historical-6caedb90edd47bd555717329",
+    "canonicalId": "historical-9d75be1369049d4b6fc90248",
+    "bodySha256": "911b3e447ca35907b5e8ca346e9e35dc81ecd390555eaca3ccaab7fc4ed407cf",
+    "reason": "Same Wiener Kochbuch No268 six-yolk mayonnaise; full scanned 125–250ml oil range, lemon/vinegar choice and rescue method retained. Different translated serving suggestions do not create a distinct sauce."
+  },
+  {
+    "id": "historical-9c5f965e8db44477a768e51d",
+    "canonicalId": "historical-26b64040d20101a2c64dc808",
+    "bodySha256": "5a9dead40a56b776c22abfa2deb40acd5e3394d766bf0b5af4e00b82729eb7cc",
+    "reason": "Same cooked-and-chilled asparagus served with mayonnaise; full Viennese whole-spears preparation and a self-contained local-book mayonnaise version retained alongside the Dutch tips recipe."
   }
 ]

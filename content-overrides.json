@@ -38209,8 +38209,8 @@
     "bodySha256": "b27240068918e94cb8f68c4fff1b3cedbe3988c3ccbdfc8e1fcb3d084a629dbd",
     "recipe": {
       "id": "historical-26b64040d20101a2c64dc808",
-      "title": "Asparagus Tips with Mayonnaise",
-      "description": "Tender asparagus tips are chilled and served with a small spoonful of mayonnaise.",
+      "title": "Asparagus with Mayonnaise",
+      "description": "Tender asparagus tips or whole spears are chilled and served with mayonnaise.",
       "category": "Vegetables",
       "servings": 2,
       "yieldUnit": "servings",
@@ -38251,8 +38251,8 @@
         "Arrange the cold tips on a small platter and spoon {{mayo}} over them. Serve chilled.",
         "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
       ],
-      "notes": "The original eight asparagus tips are retained. Cooking water, salt, sauce amount, chilling time and two small servings are supplied modern quantities. Only the tips are part of this recipe; save the remaining stalks for soup or another dish. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows half the Dutch recipe 367, making about 220 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
-      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "notes": "The original eight asparagus tips are retained. Cooking water, salt, sauce amount, chilling time and two small servings are supplied modern quantities. The base recipe uses only the tips; save the remaining stalks for soup or another dish. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows half the Dutch recipe 367, making about 220 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce. The whole-spears variation preserves Wiener Kochbuch No292 and its preparation reference No291. It repeats the same cooked-and-chilled asparagus with mayonnaise, so it is consolidated here rather than appearing as a second dish. The new variation supplies 300 g spears, 60 ml sauce and complete green/white peeling and cooking, making two side portions in about 35 minutes. Its homemade sauce follows half the adapted No268 formula, with a measured portion used and surplus accounted for; allow about 15 additional minutes. All original saved IDs and source credits remain attached.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ",
       "sourceStatus": "adapted",
       "country": "",
       "cuisine": "",
@@ -38260,7 +38260,9 @@
       "totalMinutes": 25,
       "versionNote": "Modern measured adaptation",
       "updatedAt": "2026-09-22T20:00:00Z",
-      "sourceAliases": [],
+      "sourceAliases": [
+        "historical-9c5f965e8db44477a768e51d"
+      ],
       "variants": [
         {
           "id": "homemade-mayonnaise",
@@ -38344,6 +38346,127 @@
             "Arrange the cold tips on a small platter and spoon {{mayoreserve}} over them. Serve chilled.",
             "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.",
             "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        },
+        {
+          "id": "viennese-spears",
+          "label": "Viennese whole-spears version",
+          "ingredients": [
+            {
+              "key": "asparagus",
+              "amount": 300,
+              "unit": "g",
+              "name": "whole asparagus spears, trimmed weight",
+              "substitution": "Use the same weight of green or white asparagus; peeling and cooking time differ."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "poachsalt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt for the asparagus water",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mayo",
+              "amount": 60,
+              "unit": "ml",
+              "name": "prepared mayonnaise, kept refrigerated",
+              "substitution": "Use the complete Viennese homemade-sauce variation instead."
+            }
+          ],
+          "steps": [
+            "Wash {{asparagus}} and trim off woody ends. Peel white asparagus from just below the tip downwards; peel only the tough lower stems of thick green asparagus. Leave the spears whole, tying loosely in small bundles with food-safe string if helpful.",
+            "Bring {{water}} and {{poachsalt}} to a boil in a wide pan. Add the spears and simmer until tender but still holding their shape, about 4–7 minutes for green asparagus or 8–12 minutes for white asparagus. Check the thickest stem with a knife; thickness determines the time.",
+            "Drain, remove any string and refresh under cold running drinking water. Drain thoroughly, pat dry and refrigerate for about 15 minutes until cold.",
+            "Arrange the cold spears on a platter and spoon {{mayo}} over them, or serve the same measured sauce separately.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        },
+        {
+          "id": "viennese-homemade",
+          "label": "Viennese whole spears with homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "asparagus",
+              "amount": 300,
+              "unit": "g",
+              "name": "whole asparagus spears, trimmed weight",
+              "substitution": "Use the same weight of green or white asparagus; peeling and cooking time differ."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "poachsalt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt for the asparagus water",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 60,
+              "unit": "ml",
+              "name": "mayonnaise reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise whole-spears variation for a quicker version."
+            },
+            {
+              "key": "mayoyolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "mayooil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "mayolemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{mayoyolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{mayooil}} and {{mayolemon}} separately.",
+            "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured lemon juice. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+            "When all the measured oil and lemon juice are incorporated, stir in {{mayosalt}} and {{mayopepper}}.",
+            "Measure {{mayoreserve}} from the finished mayonnaise and refrigerate it for this dish. Cover the unused sauce separately, refrigerate promptly at 4°C (40°F) or colder and use within 3 days.",
+            "Wash {{asparagus}} and trim off woody ends. Peel white asparagus from just below the tip downwards; peel only the tough lower stems of thick green asparagus. Leave the spears whole, tying loosely in small bundles with food-safe string if helpful.",
+            "Bring {{water}} and {{poachsalt}} to a boil in a wide pan. Add the spears and simmer until tender but still holding their shape, about 4–7 minutes for green asparagus or 8–12 minutes for white asparagus. Check the thickest stem with a knife; thickness determines the time.",
+            "Drain, remove any string and refresh under cold running drinking water. Drain thoroughly, pat dry and refrigerate for about 15 minutes until cold.",
+            "Arrange the cold spears on a platter and spoon the measured reserved mayonnaise over them, or serve the same measured sauce separately.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
           ]
         }
       ]
@@ -47471,6 +47594,1587 @@
             "Measure {{oil}}, {{lemon}} and {{water}} into separate small jugs. Whisk continuously while adding the oil a few drops at a time until an emulsion forms. Continue with a thin stream of oil, alternating small additions of the measured lemon juice. Add the measured water in occasional drops as the sauce thickens, until all three liquids are incorporated.",
             "Keep whisking until smooth and glossy. If oil starts to pool, stop pouring and whisk until it blends in before adding more.",
             "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-8d0d245e5546292f804822c4",
+    "bodySha256": "ad5c7bd831fe7c855ea5eef5fffdf003224c526c86fbd9fe1f47b6479c222718",
+    "recipe": {
+      "id": "historical-8d0d245e5546292f804822c4",
+      "title": "Beeton Mayonnaise with Cream and White Stock",
+      "description": "A lightly creamy, vinegar-forward mayonnaise is finished with a little pale stock for cold chicken, fish or salad.",
+      "category": "Condiments",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 90,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of finely ground black pepper for a speckled sauce."
+        },
+        {
+          "key": "stock",
+          "amount": 15,
+          "unit": "ml",
+          "name": "prepared unsalted white veal stock, chilled",
+          "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+        },
+        {
+          "key": "cream",
+          "amount": 30,
+          "unit": "ml",
+          "name": "pouring cream, chilled",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}}, {{salt}} and {{pepper}} in a clean bowl set on a damp towel. Measure {{oil}} and {{vinegar}} into separate small jugs.",
+        "Whisk in a few drops of oil, then a few drops of vinegar. Continue alternating very small additions while whisking constantly, waiting for each addition to blend in before adding more. Use all the measured oil and vinegar. Do not pour in a large quantity at once; this is a relatively loose, acidic mayonnaise.",
+        "Gradually whisk in {{stock}} and {{cream}} until smooth. Keep the sauce cold and spoon it over the prepared salad only at serving time.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day. Keep cold until serving and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "Beeton No468 gives two yolks, six tablespoons oil, four tablespoons vinegar, one tablespoon white stock and two tablespoons cream. Modern 15 ml tablespoons produce 90, 60, 15 and 30 ml respectively. The original does not specify vinegar strength; ordinary food-grade wine vinegar is a modern choice, not an asserted historical acidity. Salt, pepper, twelve small condiment servings and time are supplied. Prepared white veal stock replaces the cross-reference to stock No107; it is a measured pantry ingredient. The original parsley juice, lobster roe and flavored-vinegar options are retained as complete variations. This sauce is naturally softer than an oil-heavy mayonnaise. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Seafood cooking guidance: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "parsley-juice",
+          "label": "With parsley juice",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 90,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of finely ground black pepper for a speckled sauce."
+            },
+            {
+              "key": "stock",
+              "amount": 15,
+              "unit": "ml",
+              "name": "prepared unsalted white veal stock, chilled",
+              "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "cream",
+              "amount": 30,
+              "unit": "ml",
+              "name": "pouring cream, chilled",
+              "substitution": "Use the same volume of lactose-free dairy cream."
+            },
+            {
+              "key": "parsley",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh parsley leaves",
+              "substitution": "Use the same weight of watercress leaves for a different green flavor."
+            },
+            {
+              "key": "herbwater",
+              "amount": 10,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Wash {{parsley}}, drain, then pound finely in a mortar with {{herbwater}}. Squeeze through a clean fine cloth into a small bowl, discarding the fibrous pulp. Reserve all the strained juice.",
+            "Whisk {{yolks}}, {{salt}} and {{pepper}} in a clean bowl set on a damp towel. Measure {{oil}} and {{vinegar}} into separate small jugs.",
+            "Whisk in a few drops of oil, then a few drops of vinegar. Continue alternating very small additions while whisking constantly, waiting for each addition to blend in before adding more. Use all the measured oil and vinegar. Do not pour in a large quantity at once; this is a relatively loose, acidic mayonnaise.",
+            "Gradually whisk in {{stock}} and {{cream}} until smooth. Keep the sauce cold and spoon it over the prepared salad only at serving time.",
+            "Gradually stir the reserved herb juice into the sauce just before serving.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day. Keep cold until serving and refrigerate within 2 hours of preparation."
+          ]
+        },
+        {
+          "id": "lobster-roe",
+          "label": "With cooked lobster roe",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 90,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of finely ground black pepper for a speckled sauce."
+            },
+            {
+              "key": "stock",
+              "amount": 15,
+              "unit": "ml",
+              "name": "prepared unsalted white veal stock, chilled",
+              "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "cream",
+              "amount": 30,
+              "unit": "ml",
+              "name": "pouring cream, chilled",
+              "substitution": "Use the same volume of lactose-free dairy cream."
+            },
+            {
+              "key": "roe",
+              "amount": 10,
+              "unit": "g",
+              "name": "raw lobster roe obtained chilled from a fishmonger",
+              "substitution": "Use the parsley-juice variation if lobster roe is unavailable."
+            },
+            {
+              "key": "roewater",
+              "amount": 50,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Place {{roe}} with {{roewater}} in a small saucepan. Bring to a gentle simmer and stir for about 3–5 minutes until the roe changes to bright red and is firm and opaque throughout. Drain thoroughly, cool promptly, then pound and press through a fine sieve; refrigerate the cooked roe until needed.",
+            "Whisk {{yolks}}, {{salt}} and {{pepper}} in a clean bowl set on a damp towel. Measure {{oil}} and {{vinegar}} into separate small jugs.",
+            "Whisk in a few drops of oil, then a few drops of vinegar. Continue alternating very small additions while whisking constantly, waiting for each addition to blend in before adding more. Use all the measured oil and vinegar. Do not pour in a large quantity at once; this is a relatively loose, acidic mayonnaise.",
+            "Gradually whisk in {{stock}} and {{cream}} until smooth. Keep the sauce cold and spoon it over the prepared salad only at serving time.",
+            "Stir all the sieved cooked roe into the finished mayonnaise just before serving.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day. Keep cold until serving and refrigerate within 2 hours of preparation."
+          ]
+        },
+        {
+          "id": "tarragon-vinegar",
+          "label": "With tarragon vinegar",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 90,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "tarragon-flavored vinegar, prepared and food-grade",
+              "substitution": "Use the same volume of white wine vinegar for the plain version."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of finely ground black pepper for a speckled sauce."
+            },
+            {
+              "key": "stock",
+              "amount": 15,
+              "unit": "ml",
+              "name": "prepared unsalted white veal stock, chilled",
+              "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "cream",
+              "amount": 30,
+              "unit": "ml",
+              "name": "pouring cream, chilled",
+              "substitution": "Use the same volume of lactose-free dairy cream."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{salt}} and {{pepper}} in a clean bowl set on a damp towel. Measure {{oil}} and {{vinegar}} into separate small jugs.",
+            "Whisk in a few drops of oil, then a few drops of vinegar. Continue alternating very small additions while whisking constantly, waiting for each addition to blend in before adding more. Use all the measured oil and vinegar. Do not pour in a large quantity at once; this is a relatively loose, acidic mayonnaise.",
+            "Gradually whisk in {{stock}} and {{cream}} until smooth. Keep the sauce cold and spoon it over the prepared salad only at serving time.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day. Keep cold until serving and refrigerate within 2 hours of preparation."
+          ]
+        },
+        {
+          "id": "cucumber-vinegar",
+          "label": "With cucumber vinegar",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 90,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "cucumber-flavored vinegar, prepared and food-grade",
+              "substitution": "Use the same volume of white wine vinegar for the plain version."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of finely ground black pepper for a speckled sauce."
+            },
+            {
+              "key": "stock",
+              "amount": 15,
+              "unit": "ml",
+              "name": "prepared unsalted white veal stock, chilled",
+              "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "cream",
+              "amount": 30,
+              "unit": "ml",
+              "name": "pouring cream, chilled",
+              "substitution": "Use the same volume of lactose-free dairy cream."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{salt}} and {{pepper}} in a clean bowl set on a damp towel. Measure {{oil}} and {{vinegar}} into separate small jugs.",
+            "Whisk in a few drops of oil, then a few drops of vinegar. Continue alternating very small additions while whisking constantly, waiting for each addition to blend in before adding more. Use all the measured oil and vinegar. Do not pour in a large quantity at once; this is a relatively loose, acidic mayonnaise.",
+            "Gradually whisk in {{stock}} and {{cream}} until smooth. Keep the sauce cold and spoon it over the prepared salad only at serving time.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day. Keep cold until serving and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-557cdb4affeda15ff6d1d05d",
+    "bodySha256": "6a60c384785e312cde3fb9a1e0dc587e58b992c94826b4014e40b2dece699c50",
+    "recipe": {
+      "id": "historical-557cdb4affeda15ff6d1d05d",
+      "title": "Beeton Cold Roast Chicken à la Mayonnaise",
+      "description": "Cold roast chicken is dressed at the table with cream-and-stock mayonnaise and surrounded by young lettuces, eggs, watercress and endive.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "chicken",
+          "amount": 1500,
+          "unit": "g",
+          "name": "whole oven-ready chicken, giblets removed",
+          "substitution": "Use the complete cold-roast-chicken variation for leftovers."
+        },
+        {
+          "key": "roastoil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "olive oil for roasting",
+          "substitution": "Use the same volume of sunflower oil."
+        },
+        {
+          "key": "roastsalt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt for the chicken",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "roastpepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper for the chicken",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "lettuce",
+          "amount": 400,
+          "unit": "g",
+          "name": "small young lettuces, about four heads, trimmed weight",
+          "substitution": "Use the same weight of little-gem lettuce."
+        },
+        {
+          "key": "cress",
+          "amount": 30,
+          "unit": "g",
+          "name": "watercress, washed and trimmed",
+          "substitution": "Use the same weight of baby rocket."
+        },
+        {
+          "key": "endive",
+          "amount": 100,
+          "unit": "g",
+          "name": "endive leaves, trimmed",
+          "substitution": "Use the same weight of chicory or tender romaine leaves."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 90,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of finely ground black pepper for a speckled sauce."
+        },
+        {
+          "key": "stock",
+          "amount": 15,
+          "unit": "ml",
+          "name": "prepared unsalted white veal stock, chilled",
+          "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+        },
+        {
+          "key": "cream",
+          "amount": 30,
+          "unit": "ml",
+          "name": "pouring cream, chilled",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 190°C (375°F). Pat {{chicken}} dry with paper towel without washing it. Rub with {{roastoil}}, {{roastsalt}} and {{roastpepper}}, then place breast-side up in a roasting tin.",
+        "Roast for about 75–95 minutes for the base bird, until a thermometer reaches 74°C (165°F) in the thickest breast and thigh, away from bone. Begin checking early and continue until every checked part reaches the endpoint; size and oven affect timing.",
+        "Rest for 15 minutes, then divide into serving joints with clean utensils. Spread in shallow containers and refrigerate promptly until cold, about 1–2 hours. Do not leave the whole bird on the counter to cool. Keep covered once chilled.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Whisk {{yolks}}, {{salt}} and {{pepper}} in a clean bowl set on a damp towel. Measure {{oil}} and {{vinegar}} into separate small jugs.",
+        "Whisk in a few drops of oil, then a few drops of vinegar. Continue alternating very small additions while whisking constantly, waiting for each addition to blend in before adding more. Use all the measured oil and vinegar. Do not pour in a large quantity at once; this is a relatively loose, acidic mayonnaise.",
+        "Gradually whisk in {{stock}} and {{cream}} until smooth. Keep the sauce cold and spoon it over the prepared salad only at serving time.",
+        "Wash {{lettuce}}, {{cress}} and {{endive}} thoroughly and dry well. Halve the small lettuces lengthwise, leaving the bases intact enough to hold the leaves together. Slice the cold hard-boiled eggs into rings; alternatively, leave them whole and trim a small piece of white from the bottom so they stand securely, serving the trimmings alongside.",
+        "Arrange the cold roast chicken joints in a low mound on a chilled deep platter. Surround with the halved lettuces, watercress, endive and eggs. Spoon all the mayonnaise over the chicken only at the moment of serving.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day. Keep cold until serving and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "Beeton No962 begins with a cold roast fowl and refers to mayonnaise No468. A full modern roasting, temperature-checking and prompt chilling method is supplied for a chosen 1.5 kg bird, and the complete plain No468 sauce is included. Four hard-boiled eggs are retained, with both ring and standing-whole garnishes explained. Four of the source’s four-to-five young lettuces become 400 g trimmed lettuce; watercress and endive are specified at 30 g and 100 g. Six servings and timing including chilling are estimates. For the source’s two-fowl presentation, use the app’s 2× ingredient scale and roast the birds until each independently reaches the endpoint; cooking time does not automatically double. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cold-roast",
+          "label": "With an already chilled roast chicken",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "lettuce",
+              "amount": 400,
+              "unit": "g",
+              "name": "small young lettuces, about four heads, trimmed weight",
+              "substitution": "Use the same weight of little-gem lettuce."
+            },
+            {
+              "key": "cress",
+              "amount": 30,
+              "unit": "g",
+              "name": "watercress, washed and trimmed",
+              "substitution": "Use the same weight of baby rocket."
+            },
+            {
+              "key": "endive",
+              "amount": 100,
+              "unit": "g",
+              "name": "endive leaves, trimmed",
+              "substitution": "Use the same weight of chicory or tender romaine leaves."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 90,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of finely ground black pepper for a speckled sauce."
+            },
+            {
+              "key": "stock",
+              "amount": 15,
+              "unit": "ml",
+              "name": "prepared unsalted white veal stock, chilled",
+              "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "cream",
+              "amount": 30,
+              "unit": "ml",
+              "name": "pouring cream, chilled",
+              "substitution": "Use the same volume of lactose-free dairy cream."
+            },
+            {
+              "key": "roastchicken",
+              "amount": 1,
+              "unit": "",
+              "name": "small whole cooked roast chicken, already chilled, about 1 kg cooked bone-in weight",
+              "substitution": "Use an equivalent quantity of properly refrigerated roast chicken joints."
+            }
+          ],
+          "steps": [
+            "Divide {{roastchicken}} into neat serving joints with clean utensils. Keep chilled until assembly; use properly refrigerated cooked chicken. Allow about 40 minutes for the eggs, sauce and garnishes when the chicken is already cold.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Whisk {{yolks}}, {{salt}} and {{pepper}} in a clean bowl set on a damp towel. Measure {{oil}} and {{vinegar}} into separate small jugs.",
+            "Whisk in a few drops of oil, then a few drops of vinegar. Continue alternating very small additions while whisking constantly, waiting for each addition to blend in before adding more. Use all the measured oil and vinegar. Do not pour in a large quantity at once; this is a relatively loose, acidic mayonnaise.",
+            "Gradually whisk in {{stock}} and {{cream}} until smooth. Keep the sauce cold and spoon it over the prepared salad only at serving time.",
+            "Wash {{lettuce}}, {{cress}} and {{endive}} thoroughly and dry well. Halve the small lettuces lengthwise, leaving the bases intact enough to hold the leaves together. Slice the cold hard-boiled eggs into rings; alternatively, leave them whole and trim a small piece of white from the bottom so they stand securely, serving the trimmings alongside.",
+            "Arrange the cold roast chicken joints in a low mound on a chilled deep platter. Surround with the halved lettuces, watercress, endive and eggs. Spoon all the mayonnaise over the chicken only at the moment of serving.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day. Keep cold until serving and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-9d75be1369049d4b6fc90248",
+    "bodySha256": "c1dbc91b159340c394ac327c3dc1f8c7458854aa3f845c0736596d1930eeba1f",
+    "recipe": {
+      "id": "historical-9d75be1369049d4b6fc90248",
+      "title": "Viennese Six-Yolk Mayonnaise",
+      "description": "A yolk-rich mayonnaise combines slowly added oil and lemon juice for serving with cold poultry or delicate fish.",
+      "category": "Condiments",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 6,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 250,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground black pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{lemon}} separately.",
+        "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured lemon juice. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+        "When all the measured oil and lemon juice are incorporated, stir in {{salt}} and {{pepper}}.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The two source entries reproduce Wiener Kochbuch No268. The scanned oil range is one-eighth to one-quarter litre, 125–250 ml; the base chooses 250 ml and a full variation retains 125 ml. Six yolks are retained. Juice from one lemon becomes a modern working 30 ml. The historical alternative is two tablespoons concentrated vinegar essence of unspecified strength; the full vinegar variation instead uses a chosen 30 ml ordinary wine vinegar, not a claim of equal acidity. Salt, pepper, twenty-four small condiment servings and time are supplied. The source’s cold cooked poultry and delicate-fish serving suggestions replace mistranslated ham/fatty-fish descriptions. A two-extra-yolk rescue, described in the following recipe for this sauce too, is retained as a full method. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-6caedb90edd47bd555717329"
+      ],
+      "variants": [
+        {
+          "id": "lower-oil",
+          "label": "Lower oil amount",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 6,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{lemon}} separately.",
+            "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured lemon juice. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+            "When all the measured oil and lemon juice are incorporated, stir in {{salt}} and {{pepper}}.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "wine-vinegar",
+          "label": "With ordinary wine vinegar",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 6,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "ordinary white wine vinegar, about 5% acidity",
+              "substitution": "Use the complete lemon-juice version instead; do not use concentrated vinegar essence."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{vinegar}} separately.",
+            "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured wine vinegar. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+            "When all the measured oil and wine vinegar are incorporated, stir in {{salt}} and {{pepper}}.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "lower-oil-vinegar",
+          "label": "Lower oil amount with wine vinegar",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 6,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "ordinary white wine vinegar, about 5% acidity",
+              "substitution": "Use the complete lemon-juice version instead; do not use concentrated vinegar essence."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{vinegar}} separately.",
+            "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured wine vinegar. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+            "When all the measured oil and wine vinegar are incorporated, stir in {{salt}} and {{pepper}}.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "extra-yolk-rescue",
+          "label": "Two-yolk method for a separated batch",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 6,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "rescueyolks",
+              "amount": 2,
+              "unit": "",
+              "name": "additional large pasteurized egg yolks for the rescue",
+              "substitution": "Use 36 g commercially pasteurized liquid egg yolk."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{lemon}} separately.",
+            "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured lemon juice. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+            "When all the measured oil and lemon juice are incorporated, stir in {{salt}} and {{pepper}}.",
+            "Whisk {{rescueyolks}} in a second clean bowl, then slowly whisk the prepared mayonnaise into them, a few drops at first and a thin stream once smooth. If rescuing an already prepared base, begin with this step and do not make the base again. The ingredient list includes the full original batch plus the rescue addition; this also makes a richer sauce if used with a batch that has not separated.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-56469a6e7a024fa8e0ba8022",
+    "bodySha256": "492cc9fdb7aecd471fbefc47b51f231ae57171a2fd5f860db0d2080f19d1882e",
+    "recipe": {
+      "id": "historical-56469a6e7a024fa8e0ba8022",
+      "title": "Viennese Mayonnaise with Cooked and Raw Yolks",
+      "description": "Sieved hard-boiled yolks enrich a smooth mayonnaise whose lemon juice is added only after half the oil has been incorporated.",
+      "category": "Condiments",
+      "servings": 28,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 4,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 250,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 60,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground black pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the hard-boiled yolks and press them through a fine sieve into a clean mixing bowl. Refrigerate the cooked whites separately and use within 2 days in another dish. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+        "Measure {{oil|0.5}} into a small jug and whisk it into the yolks a few drops at a time, then in a thin stream once blended. Do not add the acid yet.",
+        "Measure the remaining {{oil|0.5}} and {{lemon}} separately. Continue whisking, alternating very small additions of oil and lemon juice until both are incorporated. Stop pouring if oil pools and whisk until it blends in.",
+        "Stir in {{salt}} and {{pepper}}.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The scanned No269 specifies four cooked yolks, four raw yolks and one-eighth to one-quarter litre oil, 125–250 ml—not 1.75 litres. This base selects 250 ml; a complete variation retains 125 ml. Juice of two lemons is standardized to a working 60 ml. The vinegar alternative uses a chosen 60 ml ordinary 5% wine vinegar instead of the historical unspecified-strength concentrate, with no equivalence claim. The original instruction to add acid only after half the oil is preserved with linked half-portions that scale together. Full hard-boiled egg preparation and the two-yolk rescue are supplied. Salt, pepper, twenty-eight small condiment servings and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lower-oil",
+          "label": "Lower oil amount",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 60,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks and press them through a fine sieve into a clean mixing bowl. Refrigerate the cooked whites separately and use within 2 days in another dish. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Measure {{oil|0.5}} into a small jug and whisk it into the yolks a few drops at a time, then in a thin stream once blended. Do not add the acid yet.",
+            "Measure the remaining {{oil|0.5}} and {{lemon}} separately. Continue whisking, alternating very small additions of oil and lemon juice until both are incorporated. Stop pouring if oil pools and whisk until it blends in.",
+            "Stir in {{salt}} and {{pepper}}.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "wine-vinegar",
+          "label": "With ordinary wine vinegar",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "ordinary white wine vinegar, about 5% acidity",
+              "substitution": "Use the complete lemon-juice version instead; do not use concentrated vinegar essence."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks and press them through a fine sieve into a clean mixing bowl. Refrigerate the cooked whites separately and use within 2 days in another dish. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Measure {{oil|0.5}} into a small jug and whisk it into the yolks a few drops at a time, then in a thin stream once blended. Do not add the acid yet.",
+            "Measure the remaining {{oil|0.5}} and {{vinegar}} separately. Continue whisking, alternating very small additions of oil and wine vinegar until both are incorporated. Stop pouring if oil pools and whisk until it blends in.",
+            "Stir in {{salt}} and {{pepper}}.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "lower-oil-vinegar",
+          "label": "Lower oil amount with wine vinegar",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "ordinary white wine vinegar, about 5% acidity",
+              "substitution": "Use the complete lemon-juice version instead; do not use concentrated vinegar essence."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks and press them through a fine sieve into a clean mixing bowl. Refrigerate the cooked whites separately and use within 2 days in another dish. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Measure {{oil|0.5}} into a small jug and whisk it into the yolks a few drops at a time, then in a thin stream once blended. Do not add the acid yet.",
+            "Measure the remaining {{oil|0.5}} and {{vinegar}} separately. Continue whisking, alternating very small additions of oil and wine vinegar until both are incorporated. Stop pouring if oil pools and whisk until it blends in.",
+            "Stir in {{salt}} and {{pepper}}.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "extra-yolk-rescue",
+          "label": "Two-yolk method for a separated batch",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 60,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "rescueyolks",
+              "amount": 2,
+              "unit": "",
+              "name": "additional large pasteurized egg yolks for the rescue",
+              "substitution": "Use 36 g commercially pasteurized liquid egg yolk."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks and press them through a fine sieve into a clean mixing bowl. Refrigerate the cooked whites separately and use within 2 days in another dish. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Measure {{oil|0.5}} into a small jug and whisk it into the yolks a few drops at a time, then in a thin stream once blended. Do not add the acid yet.",
+            "Measure the remaining {{oil|0.5}} and {{lemon}} separately. Continue whisking, alternating very small additions of oil and lemon juice until both are incorporated. Stop pouring if oil pools and whisk until it blends in.",
+            "Stir in {{salt}} and {{pepper}}.",
+            "Whisk {{rescueyolks}} in a second clean bowl, then slowly whisk the prepared mayonnaise into them, a few drops at first and a thin stream once smooth. If rescuing an already prepared base, begin with this step and do not make the base again. The ingredient list includes the full original batch plus the rescue addition; this also makes a richer sauce if used with a batch that has not separated.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-e0fcd3bd12689f9a87a7d65a",
+    "bodySha256": "404c3232809507da3f29a35d736b2640dfe50c695a49e2b7ee88330a38a557d4",
+    "recipe": {
+      "id": "historical-e0fcd3bd12689f9a87a7d65a",
+      "title": "Viennese Butter Mayonnaise",
+      "description": "Soft butter and pasteurized yolks form a rich lemon mayonnaise that firms gently when chilled.",
+      "category": "Condiments",
+      "servings": 20,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 60,
+          "unit": "g",
+          "name": "unsalted butter, softened but not melted",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        },
+        {
+          "key": "yolks",
+          "amount": 4,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 125,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 60,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground black pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Beat {{butter}} in a deep bowl until very soft and fluffy. Beat in {{yolks}} gradually, then continue beating until thoroughly smooth and aerated, about 5–10 minutes.",
+        "Set the bowl over cool water to keep the mixture cool without making the butter hard. Measure {{oil}} and {{lemon}} separately and beat them in a few drops at a time, alternating additions and waiting for each to blend in.",
+        "Beat in {{salt}} and {{pepper}}. Cover and refrigerate promptly at 4°C (40°F) or colder. The butter makes this sauce firm when cold; stir briefly before serving and use within 3 days."
+      ],
+      "notes": "The scanned No270 gives 6 deka butter, 60 g, not six teaspoons; four raw yolks; one-sixteenth to one-eighth litre oil, 62.5–125 ml, not up to 1.25 litres; and juice from two lemons, not oranges. The base chooses 125 ml oil and a modern working 60 ml lemon juice. Full variations retain the lower oil amount, ordinary vinegar, mustard and herbs. The historical two-spoon vinegar-essence alternative is represented by a chosen 60 ml ordinary 5% wine vinegar, not a recovered concentrate equivalence. Covered refrigeration corrects the extraction’s uncovered instruction. Cool-water mixing is used to avoid setting the butter hard while emulsifying. Salt, white pepper, optional herb/mustard amounts, twenty small portions and timing are supplied. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lower-oil",
+          "label": "Lower oil amount",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 60,
+              "unit": "g",
+              "name": "unsalted butter, softened but not melted",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 62.5,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 60,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Beat {{butter}} in a deep bowl until very soft and fluffy. Beat in {{yolks}} gradually, then continue beating until thoroughly smooth and aerated, about 5–10 minutes.",
+            "Set the bowl over cool water to keep the mixture cool without making the butter hard. Measure {{oil}} and {{lemon}} separately and beat them in a few drops at a time, alternating additions and waiting for each to blend in.",
+            "Beat in {{salt}} and {{pepper}}. Cover and refrigerate promptly at 4°C (40°F) or colder. The butter makes this sauce firm when cold; stir briefly before serving and use within 3 days."
+          ]
+        },
+        {
+          "id": "wine-vinegar",
+          "label": "With ordinary wine vinegar",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 60,
+              "unit": "g",
+              "name": "unsalted butter, softened but not melted",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "ordinary white wine vinegar, about 5% acidity",
+              "substitution": "Use the complete lemon-juice version instead; do not use concentrated vinegar essence."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Beat {{butter}} in a deep bowl until very soft and fluffy. Beat in {{yolks}} gradually, then continue beating until thoroughly smooth and aerated, about 5–10 minutes.",
+            "Set the bowl over cool water to keep the mixture cool without making the butter hard. Measure {{oil}} and {{vinegar}} separately and beat them in a few drops at a time, alternating additions and waiting for each to blend in.",
+            "Beat in {{salt}} and {{pepper}}. Cover and refrigerate promptly at 4°C (40°F) or colder. The butter makes this sauce firm when cold; stir briefly before serving and use within 3 days."
+          ]
+        },
+        {
+          "id": "lower-oil-vinegar",
+          "label": "Lower oil amount with wine vinegar",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 60,
+              "unit": "g",
+              "name": "unsalted butter, softened but not melted",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 62.5,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "ordinary white wine vinegar, about 5% acidity",
+              "substitution": "Use the complete lemon-juice version instead; do not use concentrated vinegar essence."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Beat {{butter}} in a deep bowl until very soft and fluffy. Beat in {{yolks}} gradually, then continue beating until thoroughly smooth and aerated, about 5–10 minutes.",
+            "Set the bowl over cool water to keep the mixture cool without making the butter hard. Measure {{oil}} and {{vinegar}} separately and beat them in a few drops at a time, alternating additions and waiting for each to blend in.",
+            "Beat in {{salt}} and {{pepper}}. Cover and refrigerate promptly at 4°C (40°F) or colder. The butter makes this sauce firm when cold; stir briefly before serving and use within 3 days."
+          ]
+        },
+        {
+          "id": "mustard",
+          "label": "With mustard",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 60,
+              "unit": "g",
+              "name": "unsalted butter, softened but not melted",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 60,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            }
+          ],
+          "steps": [
+            "Beat {{butter}} in a deep bowl until very soft and fluffy. Beat in {{yolks}} gradually, then continue beating until thoroughly smooth and aerated, about 5–10 minutes.",
+            "Set the bowl over cool water to keep the mixture cool without making the butter hard. Measure {{oil}} and {{lemon}} separately and beat them in a few drops at a time, alternating additions and waiting for each to blend in.",
+            "Beat in {{salt}} and {{pepper}}. Cover and refrigerate promptly at 4°C (40°F) or colder. The butter makes this sauce firm when cold; stir briefly before serving and use within 3 days.",
+            "Stir in {{mustard}} just before serving."
+          ]
+        },
+        {
+          "id": "herbs",
+          "label": "With fresh herbs",
+          "ingredients": [
+            {
+              "key": "butter",
+              "amount": 60,
+              "unit": "g",
+              "name": "unsalted butter, softened but not melted",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 60,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "herbs",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley, chervil or chives, finely chopped",
+              "substitution": "Use any one of these herbs or a mixture totaling the same weight."
+            }
+          ],
+          "steps": [
+            "Beat {{butter}} in a deep bowl until very soft and fluffy. Beat in {{yolks}} gradually, then continue beating until thoroughly smooth and aerated, about 5–10 minutes.",
+            "Set the bowl over cool water to keep the mixture cool without making the butter hard. Measure {{oil}} and {{lemon}} separately and beat them in a few drops at a time, alternating additions and waiting for each to blend in.",
+            "Beat in {{salt}} and {{pepper}}. Cover and refrigerate promptly at 4°C (40°F) or colder. The butter makes this sauce firm when cold; stir briefly before serving and use within 3 days.",
+            "Wash, dry and finely chop {{herbs}}, then stir into the sauce just before serving."
           ]
         }
       ]

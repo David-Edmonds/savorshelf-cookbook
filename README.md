@@ -1,3 +1,7 @@
+# Recipe content batch 039 — September 22, 2026
+
+Five Beeton and Viennese adaptations now include full cooking, corrected scanned quantities and named sauce variations. An existing asparagus recipe gains complete whole-spears variations, and two repeated sources are consolidated with saved IDs and credits retained. Totals: 40,808 imported recipes, 474 completed adaptations, 40,334 remaining content repairs and 42,260 visible recipes. Historical vinegar concentrates are distinguished from modern working amounts. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 038 — September 22, 2026
 
 Sardine canapés, decorated egg aspic and two distinct Swedish mayonnaise formulas now have complete measured components and named source variations. Five repeated sources are consolidated with saved IDs and credits retained. Totals: 40,810 imported recipes, 469 completed adaptations, 40,341 remaining content repairs and 42,262 visible recipes. Gelatin weights and missing quantities are explicitly modern working choices. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
