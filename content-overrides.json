@@ -45936,5 +45936,1544 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-24b8912d82571dab2618ff4c",
+    "bodySha256": "a94afbc4bcf34bf72f25111de6446c9a787572d517f75947c4d837619073fa21",
+    "recipe": {
+      "id": "historical-24b8912d82571dab2618ff4c",
+      "title": "Wallace Sardine Canapés with Set Mayonnaise",
+      "description": "Small anchovy-butter sandwiches carry sardines beneath a light milk, mayonnaise and whipped-cream coating, finished with a pink piped decoration.",
+      "category": "Starters",
+      "servings": 12,
+      "yieldUnit": "canapés",
+      "minutes": 120,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 5,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mayopart",
+          "amount": 60,
+          "unit": "ml",
+          "name": "mayonnaise reserved from the batch made here; not an additional purchase",
+          "substitution": "Measure the finished mayonnaise; refrigerate any surplus separately."
+        },
+        {
+          "key": "bread",
+          "amount": 180,
+          "unit": "g",
+          "name": "soft white bread, crusts trimmed, about twelve small pieces",
+          "substitution": "Use the same weight of soft wholemeal or gluten-free bread."
+        },
+        {
+          "key": "anchovy",
+          "amount": 12,
+          "unit": "g",
+          "name": "anchovy paste",
+          "substitution": "Mash the same weight of drained anchovy fillets to a smooth paste."
+        },
+        {
+          "key": "sardines",
+          "amount": 120,
+          "unit": "g",
+          "name": "canned sardines, drained, about twelve small pieces",
+          "substitution": "Use the same drained weight of canned sprats, checking for bones."
+        },
+        {
+          "key": "milk",
+          "amount": 75,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of lactose-free whole milk."
+        },
+        {
+          "key": "cream",
+          "amount": 45,
+          "unit": "ml",
+          "name": "cold whipping cream, at least 35% fat, measured before whipping",
+          "substitution": "Use the same volume of cold heavy cream."
+        },
+        {
+          "key": "whippedpart",
+          "amount": 45,
+          "unit": "ml",
+          "name": "whipped cream reserved from the cream above; not an additional purchase",
+          "substitution": "Measure after whipping; liquid and whipped cream volumes are different."
+        },
+        {
+          "key": "coatingsalt",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "fine salt for the coating",
+          "substitution": "Omit if the fish and mayonnaise already supply enough salt."
+        },
+        {
+          "key": "extrajelly",
+          "amount": 0.5,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+        },
+        {
+          "key": "extrawater",
+          "amount": 5,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "color",
+          "amount": 1,
+          "unit": "",
+          "name": "drop of red food coloring",
+          "substitution": "Omit for an uncolored decoration."
+        },
+        {
+          "key": "jelly",
+          "amount": 3,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+        },
+        {
+          "key": "decopart",
+          "amount": 60,
+          "unit": "ml",
+          "name": "coating reserved from the mixture below for decoration; not an additional purchase",
+          "substitution": "Measure from the prepared coating before spreading the rest."
+        },
+        {
+          "key": "jellywater",
+          "amount": 75,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "butter",
+          "amount": 24,
+          "unit": "g",
+          "name": "softened butter",
+          "substitution": "Use the same weight of a firm dairy-free spread."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}}, {{mustard}}, {{salt}}, {{vinegar}} and {{lemon}} in a clean bowl set on a damp towel. Add {{oil}} a few drops at a time while whisking, then in a thin stream once thickened, pausing if oil pools. Whisk until smooth.",
+        "Measure out {{mayopart}} from the finished mayonnaise and refrigerate until needed. Cover any extra mayonnaise separately, refrigerate immediately at 4°C (40°F) or colder and use within 3 days.",
+        "Cut {{bread}} into twelve small pieces at the base yield, keeping similar piece size when scaling. Drain {{sardines}} thoroughly and check for unwanted bones; divide the fish among the pieces after spreading the bread as directed.",
+        "Blend {{anchovy}} with {{butter}}, spread evenly on the bread pieces and lay the sardine pieces on top.",
+        "Sprinkle {{jelly}} over {{jellywater}} in a small saucepan. Let bloom for 5 minutes, then warm gently, stirring until dissolved. This makes the measured melted gelatin mixture; it is not dry gelatin measured by tablespoons. Add {{milk}} and warm just until evenly mixed. Do not boil.",
+        "Whip {{cream}} in a chilled bowl until soft peaks hold. Gently spoon into a measuring jug without compressing it and reserve {{whippedpart}}. Cover any surplus whipped cream and refrigerate separately for use within 1 day.",
+        "Cool the milk-gelatin mixture, stirring, until it begins to thicken but is still smooth and fluid. Gradually whisk in the reserved mayonnaise and {{coatingsalt}}, then fold in the measured whipped cream. Do not wait until the gelatin is a solid block; if it sets too far before adding mayonnaise, warm it gently just until fluid and cool again.",
+        "Measure {{decopart}} from this coating into a small bowl for the decoration. Spread all the remaining coating evenly over the sardines and bread; place in the refrigerator while finishing the decoration.",
+        "Bloom {{extrajelly}} in {{extrawater}} in a small heatproof cup for 5 minutes. Stand the cup in hot water and stir until the gelatin dissolves; let it cool until only barely warm. Mix into the reserved coating along with {{color}}. Chill briefly, stirring, until thick enough to pipe. Pipe small dots or lines over the coated canapés, using all the reserved mixture.",
+        "Arrange on a tray, cover without touching the decoration and refrigerate for at least 1 hour until the coating is set. Serve cold on the day they are made; the bread softens as it stands.",
+        "Keep covered at 4°C (40°F) or colder and serve within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving. Do not leave out for more than 2 hours."
+      ],
+      "notes": "The 1928 Finnish text specifies five tablespoons melted gelatin, not five tablespoons dry powder. This adaptation makes that liquid component with 75 ml water and a chosen 3 g powdered gelatin, then adds the printed 75 ml milk, 60 ml mayonnaise and upper-end 45 ml whipped cream. Powder strength, bread and fish weights, anchovy butter, salt, decoration reserve and extra gelatin are modern working choices, not recovered leaf-weight conversions. The 1914 source uses gelatin leaves directly in milk and anchovy paste without butter; its full variation omits the extra water and butter and uses a chosen 3 g powder in the milk. Five historical leaves have no verified gram weight. Both versions preserve the cream fold and extra gelatin/color decoration. Cooling just until thickened replaces allowing a firm block before mixing. Twelve small canapés and timing including setting are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 120,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-034fd48aef0e37330b125cf3"
+      ],
+      "variants": [
+        {
+          "id": "1914-milk",
+          "label": "1914 version — gelatin in milk, no anchovy butter",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 60,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 5,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mayopart",
+              "amount": 60,
+              "unit": "ml",
+              "name": "mayonnaise reserved from the batch made here; not an additional purchase",
+              "substitution": "Measure the finished mayonnaise; refrigerate any surplus separately."
+            },
+            {
+              "key": "bread",
+              "amount": 180,
+              "unit": "g",
+              "name": "soft white bread, crusts trimmed, about twelve small pieces",
+              "substitution": "Use the same weight of soft wholemeal or gluten-free bread."
+            },
+            {
+              "key": "anchovy",
+              "amount": 12,
+              "unit": "g",
+              "name": "anchovy paste",
+              "substitution": "Mash the same weight of drained anchovy fillets to a smooth paste."
+            },
+            {
+              "key": "sardines",
+              "amount": 120,
+              "unit": "g",
+              "name": "canned sardines, drained, about twelve small pieces",
+              "substitution": "Use the same drained weight of canned sprats, checking for bones."
+            },
+            {
+              "key": "milk",
+              "amount": 75,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of lactose-free whole milk."
+            },
+            {
+              "key": "cream",
+              "amount": 45,
+              "unit": "ml",
+              "name": "cold whipping cream, at least 35% fat, measured before whipping",
+              "substitution": "Use the same volume of cold heavy cream."
+            },
+            {
+              "key": "whippedpart",
+              "amount": 45,
+              "unit": "ml",
+              "name": "whipped cream reserved from the cream above; not an additional purchase",
+              "substitution": "Measure after whipping; liquid and whipped cream volumes are different."
+            },
+            {
+              "key": "coatingsalt",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "fine salt for the coating",
+              "substitution": "Omit if the fish and mayonnaise already supply enough salt."
+            },
+            {
+              "key": "extrajelly",
+              "amount": 0.5,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+            },
+            {
+              "key": "extrawater",
+              "amount": 5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "color",
+              "amount": 1,
+              "unit": "",
+              "name": "drop of red food coloring",
+              "substitution": "Omit for an uncolored decoration."
+            },
+            {
+              "key": "jelly",
+              "amount": 3,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+            },
+            {
+              "key": "decopart",
+              "amount": 40,
+              "unit": "ml",
+              "name": "coating reserved from the mixture below for decoration; not an additional purchase",
+              "substitution": "Measure from the prepared coating before spreading the rest."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{mustard}}, {{salt}}, {{vinegar}} and {{lemon}} in a clean bowl set on a damp towel. Add {{oil}} a few drops at a time while whisking, then in a thin stream once thickened, pausing if oil pools. Whisk until smooth.",
+            "Measure out {{mayopart}} from the finished mayonnaise and refrigerate until needed. Cover any extra mayonnaise separately, refrigerate immediately at 4°C (40°F) or colder and use within 3 days.",
+            "Cut {{bread}} into twelve small pieces at the base yield, keeping similar piece size when scaling. Drain {{sardines}} thoroughly and check for unwanted bones; divide the fish among the pieces after spreading the bread as directed.",
+            "Spread the bread pieces evenly with {{anchovy}} and lay the sardine pieces on top.",
+            "Sprinkle {{jelly}} over {{milk}} in a small saucepan. Let bloom for 5 minutes, then warm gently, stirring until completely dissolved. Do not boil.",
+            "Whip {{cream}} in a chilled bowl until soft peaks hold. Gently spoon into a measuring jug without compressing it and reserve {{whippedpart}}. Cover any surplus whipped cream and refrigerate separately for use within 1 day.",
+            "Cool the milk-gelatin mixture, stirring, until it begins to thicken but is still smooth and fluid. Gradually whisk in the reserved mayonnaise and {{coatingsalt}}, then fold in the measured whipped cream. Do not wait until the gelatin is a solid block; if it sets too far before adding mayonnaise, warm it gently just until fluid and cool again.",
+            "Measure {{decopart}} from this coating into a small bowl for the decoration. Spread all the remaining coating evenly over the sardines and bread; place in the refrigerator while finishing the decoration.",
+            "Bloom {{extrajelly}} in {{extrawater}} in a small heatproof cup for 5 minutes. Stand the cup in hot water and stir until the gelatin dissolves; let it cool until only barely warm. Mix into the reserved coating along with {{color}}. Chill briefly, stirring, until thick enough to pipe. Pipe small dots or lines over the coated canapés, using all the reserved mixture.",
+            "Arrange on a tray, cover without touching the decoration and refrigerate for at least 1 hour until the coating is set. Serve cold on the day they are made; the bread softens as it stands.",
+            "Keep covered at 4°C (40°F) or colder and serve within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving. Do not leave out for more than 2 hours."
+          ]
+        },
+        {
+          "id": "prepared-mayo",
+          "label": "With prepared mayonnaise",
+          "ingredients": [
+            {
+              "key": "bread",
+              "amount": 180,
+              "unit": "g",
+              "name": "soft white bread, crusts trimmed, about twelve small pieces",
+              "substitution": "Use the same weight of soft wholemeal or gluten-free bread."
+            },
+            {
+              "key": "anchovy",
+              "amount": 12,
+              "unit": "g",
+              "name": "anchovy paste",
+              "substitution": "Mash the same weight of drained anchovy fillets to a smooth paste."
+            },
+            {
+              "key": "sardines",
+              "amount": 120,
+              "unit": "g",
+              "name": "canned sardines, drained, about twelve small pieces",
+              "substitution": "Use the same drained weight of canned sprats, checking for bones."
+            },
+            {
+              "key": "milk",
+              "amount": 75,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of lactose-free whole milk."
+            },
+            {
+              "key": "cream",
+              "amount": 45,
+              "unit": "ml",
+              "name": "cold whipping cream, at least 35% fat, measured before whipping",
+              "substitution": "Use the same volume of cold heavy cream."
+            },
+            {
+              "key": "whippedpart",
+              "amount": 45,
+              "unit": "ml",
+              "name": "whipped cream reserved from the cream above; not an additional purchase",
+              "substitution": "Measure after whipping; liquid and whipped cream volumes are different."
+            },
+            {
+              "key": "coatingsalt",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "fine salt for the coating",
+              "substitution": "Omit if the fish and mayonnaise already supply enough salt."
+            },
+            {
+              "key": "extrajelly",
+              "amount": 0.5,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+            },
+            {
+              "key": "extrawater",
+              "amount": 5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "color",
+              "amount": 1,
+              "unit": "",
+              "name": "drop of red food coloring",
+              "substitution": "Omit for an uncolored decoration."
+            },
+            {
+              "key": "jelly",
+              "amount": 3,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+            },
+            {
+              "key": "decopart",
+              "amount": 60,
+              "unit": "ml",
+              "name": "coating reserved from the mixture below for decoration; not an additional purchase",
+              "substitution": "Measure from the prepared coating before spreading the rest."
+            },
+            {
+              "key": "jellywater",
+              "amount": 75,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "butter",
+              "amount": 24,
+              "unit": "g",
+              "name": "softened butter",
+              "substitution": "Use the same weight of a firm dairy-free spread."
+            },
+            {
+              "key": "preparedmayo",
+              "amount": 60,
+              "unit": "ml",
+              "name": "prepared mayonnaise made with pasteurized egg",
+              "substitution": "Use the same volume of an egg-free commercial mayonnaise; its texture may differ."
+            }
+          ],
+          "steps": [
+            "Measure {{preparedmayo}} into a bowl and keep refrigerated until the coating is ready.",
+            "Cut {{bread}} into twelve small pieces at the base yield, keeping similar piece size when scaling. Drain {{sardines}} thoroughly and check for unwanted bones; divide the fish among the pieces after spreading the bread as directed.",
+            "Blend {{anchovy}} with {{butter}}, spread evenly on the bread pieces and lay the sardine pieces on top.",
+            "Sprinkle {{jelly}} over {{jellywater}} in a small saucepan. Let bloom for 5 minutes, then warm gently, stirring until dissolved. This makes the measured melted gelatin mixture; it is not dry gelatin measured by tablespoons. Add {{milk}} and warm just until evenly mixed. Do not boil.",
+            "Whip {{cream}} in a chilled bowl until soft peaks hold. Gently spoon into a measuring jug without compressing it and reserve {{whippedpart}}. Cover any surplus whipped cream and refrigerate separately for use within 1 day.",
+            "Cool the milk-gelatin mixture, stirring, until it begins to thicken but is still smooth and fluid. Gradually whisk in the reserved mayonnaise and {{coatingsalt}}, then fold in the measured whipped cream. Do not wait until the gelatin is a solid block; if it sets too far before adding mayonnaise, warm it gently just until fluid and cool again.",
+            "Measure {{decopart}} from this coating into a small bowl for the decoration. Spread all the remaining coating evenly over the sardines and bread; place in the refrigerator while finishing the decoration.",
+            "Bloom {{extrajelly}} in {{extrawater}} in a small heatproof cup for 5 minutes. Stand the cup in hot water and stir until the gelatin dissolves; let it cool until only barely warm. Mix into the reserved coating along with {{color}}. Chill briefly, stirring, until thick enough to pipe. Pipe small dots or lines over the coated canapés, using all the reserved mixture.",
+            "Arrange on a tray, cover without touching the decoration and refrigerate for at least 1 hour until the coating is set. Serve cold on the day they are made; the bread softens as it stands.",
+            "Keep covered at 4°C (40°F) or colder and serve within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving. Do not leave out for more than 2 hours."
+          ]
+        },
+        {
+          "id": "1914-prepared-mayo",
+          "label": "1914 version with prepared mayonnaise",
+          "ingredients": [
+            {
+              "key": "bread",
+              "amount": 180,
+              "unit": "g",
+              "name": "soft white bread, crusts trimmed, about twelve small pieces",
+              "substitution": "Use the same weight of soft wholemeal or gluten-free bread."
+            },
+            {
+              "key": "anchovy",
+              "amount": 12,
+              "unit": "g",
+              "name": "anchovy paste",
+              "substitution": "Mash the same weight of drained anchovy fillets to a smooth paste."
+            },
+            {
+              "key": "sardines",
+              "amount": 120,
+              "unit": "g",
+              "name": "canned sardines, drained, about twelve small pieces",
+              "substitution": "Use the same drained weight of canned sprats, checking for bones."
+            },
+            {
+              "key": "milk",
+              "amount": 75,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of lactose-free whole milk."
+            },
+            {
+              "key": "cream",
+              "amount": 45,
+              "unit": "ml",
+              "name": "cold whipping cream, at least 35% fat, measured before whipping",
+              "substitution": "Use the same volume of cold heavy cream."
+            },
+            {
+              "key": "whippedpart",
+              "amount": 45,
+              "unit": "ml",
+              "name": "whipped cream reserved from the cream above; not an additional purchase",
+              "substitution": "Measure after whipping; liquid and whipped cream volumes are different."
+            },
+            {
+              "key": "coatingsalt",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "fine salt for the coating",
+              "substitution": "Omit if the fish and mayonnaise already supply enough salt."
+            },
+            {
+              "key": "extrajelly",
+              "amount": 0.5,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+            },
+            {
+              "key": "extrawater",
+              "amount": 5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "color",
+              "amount": 1,
+              "unit": "",
+              "name": "drop of red food coloring",
+              "substitution": "Omit for an uncolored decoration."
+            },
+            {
+              "key": "jelly",
+              "amount": 3,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+            },
+            {
+              "key": "decopart",
+              "amount": 40,
+              "unit": "ml",
+              "name": "coating reserved from the mixture below for decoration; not an additional purchase",
+              "substitution": "Measure from the prepared coating before spreading the rest."
+            },
+            {
+              "key": "preparedmayo",
+              "amount": 60,
+              "unit": "ml",
+              "name": "prepared mayonnaise made with pasteurized egg",
+              "substitution": "Use the same volume of an egg-free commercial mayonnaise; its texture may differ."
+            }
+          ],
+          "steps": [
+            "Measure {{preparedmayo}} into a bowl and keep refrigerated until the coating is ready.",
+            "Cut {{bread}} into twelve small pieces at the base yield, keeping similar piece size when scaling. Drain {{sardines}} thoroughly and check for unwanted bones; divide the fish among the pieces after spreading the bread as directed.",
+            "Spread the bread pieces evenly with {{anchovy}} and lay the sardine pieces on top.",
+            "Sprinkle {{jelly}} over {{milk}} in a small saucepan. Let bloom for 5 minutes, then warm gently, stirring until completely dissolved. Do not boil.",
+            "Whip {{cream}} in a chilled bowl until soft peaks hold. Gently spoon into a measuring jug without compressing it and reserve {{whippedpart}}. Cover any surplus whipped cream and refrigerate separately for use within 1 day.",
+            "Cool the milk-gelatin mixture, stirring, until it begins to thicken but is still smooth and fluid. Gradually whisk in the reserved mayonnaise and {{coatingsalt}}, then fold in the measured whipped cream. Do not wait until the gelatin is a solid block; if it sets too far before adding mayonnaise, warm it gently just until fluid and cool again.",
+            "Measure {{decopart}} from this coating into a small bowl for the decoration. Spread all the remaining coating evenly over the sardines and bread; place in the refrigerator while finishing the decoration.",
+            "Bloom {{extrajelly}} in {{extrawater}} in a small heatproof cup for 5 minutes. Stand the cup in hot water and stir until the gelatin dissolves; let it cool until only barely warm. Mix into the reserved coating along with {{color}}. Chill briefly, stirring, until thick enough to pipe. Pipe small dots or lines over the coated canapés, using all the reserved mixture.",
+            "Arrange on a tray, cover without touching the decoration and refrigerate for at least 1 hour until the coating is set. Serve cold on the day they are made; the bread softens as it stands.",
+            "Keep covered at 4°C (40°F) or colder and serve within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving. Do not leave out for more than 2 hours."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-df178be12baaaef357b39037",
+    "bodySha256": "9ac495c4b785a106958d2d56b7d74142632ce43f31e5914e525f6e17af3ac190",
+    "recipe": {
+      "id": "historical-df178be12baaaef357b39037",
+      "title": "Idun Eggs and Shrimp in Aspic",
+      "description": "Hard-boiled egg slices and shrimp are decorated with piped mayonnaise, then set in clear veal-stock jelly for a cold starter.",
+      "category": "Starters",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 300,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 3,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "shrimp",
+          "amount": 12,
+          "unit": "",
+          "name": "small raw peeled shrimp, about 90 g total, deveined",
+          "substitution": "Use twelve small cooked peeled shrimp; skip poaching and keep chilled."
+        },
+        {
+          "key": "shrimpwater",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 150,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "mayohotwater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "mayogel",
+          "amount": 2,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+        },
+        {
+          "key": "mayogelwater",
+          "amount": 10,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "stock",
+          "amount": 500,
+          "unit": "ml",
+          "name": "unsalted veal stock, liquid and chilled",
+          "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+        },
+        {
+          "key": "aspicgel",
+          "amount": 10,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+        },
+        {
+          "key": "aspicvinegar",
+          "amount": 5,
+          "unit": "ml",
+          "name": "white wine vinegar for the aspic",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "whites",
+          "amount": 60,
+          "unit": "g",
+          "name": "pasteurized liquid egg whites, about two whites, for clarification",
+          "substitution": "Use whites from two large pasteurized shell eggs."
+        },
+        {
+          "key": "whitewater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "eggparsley",
+          "amount": 3,
+          "unit": "g",
+          "name": "small fresh parsley sprigs for the egg slices",
+          "substitution": "Use the same weight of chervil sprigs."
+        },
+        {
+          "key": "garnishparsley",
+          "amount": 3,
+          "unit": "g",
+          "name": "fresh parsley for the serving platter",
+          "substitution": "Use the complete lettuce-garnish variation instead."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Cut each peeled hard-boiled egg into four even slices at the base yield; reserve the trimmed white ends for another dish. Keep the slices cold.",
+        "Bring {{shrimpwater}} to a simmer. Add {{shrimp}} and cook for about 2–3 minutes until pearly and opaque throughout. Drain, cool promptly in a shallow container in the refrigerator and keep chilled.",
+        "Whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} in a clean bowl. Measure {{oil}}, {{vinegar}} and {{lemon}} separately. Add the oil a few drops at a time, whisking until thick, then continue in a thin stream, alternating small additions of the vinegar and lemon juice. Gradually whisk in {{mayohotwater}}, freshly boiled and allowed to stop bubbling; this addition does not pasteurize the sauce.",
+        "Sprinkle {{mayogel}} over {{mayogelwater}} in a small heatproof cup, bloom for 5 minutes, then stand the cup in hot water and stir until dissolved. Cool until barely warm, whisk in a spoonful of the mayonnaise, then stir this back into the remaining mayonnaise. Cover and refrigerate for about 45–60 minutes until it holds a soft piped shape; do not let it become a solid block.",
+        "Sprinkle {{aspicgel}} over {{stock|0.1}} in a small bowl and leave for 5 minutes. Whisk {{whites}} with {{whitewater}} just until loosened, without making a foam. Place the remaining {{stock|0.9}} in a saucepan with {{aspicvinegar}} and the loosened whites.",
+        "Heat the stock gently, stirring at first to prevent the whites sticking. Once the whites coagulate and rise, stop stirring and bring just to a gentle simmer. Cover, remove from the heat and let stand for 15 minutes. Strain slowly through a sieve lined with a clean damp fine cloth, without pressing the solids. If cloudy, pass through the rinsed cloth again.",
+        "Stir the bloomed gelatin and its stock into the warm strained stock until completely dissolved. Measure the finished liquid and top up with hot drinking water only to the original listed stock volume if evaporation or straining has reduced it. Let cool, stirring occasionally, until no longer warm but still liquid.",
+        "Use a shallow tray approximately 18 by 24 cm at the base yield, large enough to arrange the egg slices with gaps for cutting. Arrange the cold egg slices in the tray. Wash {{eggparsley}} and place a small sprig and one chilled shrimp on each slice. Pipe the thickened mayonnaise in a ring around each yolk, dividing all of it among the slices.",
+        "Spoon a thin layer of the cool liquid aspic over the decorated slices and chill for 10 minutes to anchor the toppings. Pour the rest gently around and over them without disturbing the mayonnaise. Refrigerate for at least 3 hours until firmly set.",
+        "Use a round cutter slightly wider than each egg slice to cut circles with a border of aspic. Lift carefully with a thin spatula onto a chilled serving platter. Cut the remaining aspic into small pieces and arrange alongside; wash and add {{garnishparsley}}. Serve two decorated slices per portion at the base yield.",
+        "Keep covered at 4°C (40°F) or colder and serve within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving. Do not leave out for more than 2 hours."
+      ],
+      "notes": "Both entries reproduce Idun No10. The original oil measure is 1.5 decilitres, 150 ml, not an unspecified number of parts. The full egg and shrimp cooking, mayonnaise, setting and stock-clarifying methods are supplied. Two pasteurized yolks and 60 g pasteurized whites replace separating raw shell eggs; eggshells are omitted from clarification. Gelatin uses explicit modern working weights: 2 g for the mayonnaise and 10 g per 500 ml stock for a firm cuttable aspic, at approximately 200 Bloom. Historical leaf sizes are not verified equivalents. The mayonnaise gelatin blooms in a modern 10 ml water rather than the source’s 7.5 ml; stock for the aspic bloom is reserved from the total, not extra. Cayenne, parsley and tray dimensions are supplied. Six portions of two slices follow the original twelve decorated slices. Time includes setting and can vary with refrigerator temperature. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 300,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-27a883bce629c7cb909779bd"
+      ],
+      "variants": [
+        {
+          "id": "lettuce-garnish",
+          "label": "With lettuce around the platter",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 3,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "shrimp",
+              "amount": 12,
+              "unit": "",
+              "name": "small raw peeled shrimp, about 90 g total, deveined",
+              "substitution": "Use twelve small cooked peeled shrimp; skip poaching and keep chilled."
+            },
+            {
+              "key": "shrimpwater",
+              "amount": 500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 150,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mayohotwater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "mayogel",
+              "amount": 2,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+            },
+            {
+              "key": "mayogelwater",
+              "amount": 10,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "stock",
+              "amount": 500,
+              "unit": "ml",
+              "name": "unsalted veal stock, liquid and chilled",
+              "substitution": "Use the same volume of unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "aspicgel",
+              "amount": 10,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining the leaves first; do not replace gram-for-gram with agar."
+            },
+            {
+              "key": "aspicvinegar",
+              "amount": 5,
+              "unit": "ml",
+              "name": "white wine vinegar for the aspic",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "whites",
+              "amount": 60,
+              "unit": "g",
+              "name": "pasteurized liquid egg whites, about two whites, for clarification",
+              "substitution": "Use whites from two large pasteurized shell eggs."
+            },
+            {
+              "key": "whitewater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "eggparsley",
+              "amount": 3,
+              "unit": "g",
+              "name": "small fresh parsley sprigs for the egg slices",
+              "substitution": "Use the same weight of chervil sprigs."
+            },
+            {
+              "key": "garnishlettuce",
+              "amount": 50,
+              "unit": "g",
+              "name": "small tender lettuce leaves for the platter",
+              "substitution": "Use the same weight of small romaine leaves."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Cut each peeled hard-boiled egg into four even slices at the base yield; reserve the trimmed white ends for another dish. Keep the slices cold.",
+            "Bring {{shrimpwater}} to a simmer. Add {{shrimp}} and cook for about 2–3 minutes until pearly and opaque throughout. Drain, cool promptly in a shallow container in the refrigerator and keep chilled.",
+            "Whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} in a clean bowl. Measure {{oil}}, {{vinegar}} and {{lemon}} separately. Add the oil a few drops at a time, whisking until thick, then continue in a thin stream, alternating small additions of the vinegar and lemon juice. Gradually whisk in {{mayohotwater}}, freshly boiled and allowed to stop bubbling; this addition does not pasteurize the sauce.",
+            "Sprinkle {{mayogel}} over {{mayogelwater}} in a small heatproof cup, bloom for 5 minutes, then stand the cup in hot water and stir until dissolved. Cool until barely warm, whisk in a spoonful of the mayonnaise, then stir this back into the remaining mayonnaise. Cover and refrigerate for about 45–60 minutes until it holds a soft piped shape; do not let it become a solid block.",
+            "Sprinkle {{aspicgel}} over {{stock|0.1}} in a small bowl and leave for 5 minutes. Whisk {{whites}} with {{whitewater}} just until loosened, without making a foam. Place the remaining {{stock|0.9}} in a saucepan with {{aspicvinegar}} and the loosened whites.",
+            "Heat the stock gently, stirring at first to prevent the whites sticking. Once the whites coagulate and rise, stop stirring and bring just to a gentle simmer. Cover, remove from the heat and let stand for 15 minutes. Strain slowly through a sieve lined with a clean damp fine cloth, without pressing the solids. If cloudy, pass through the rinsed cloth again.",
+            "Stir the bloomed gelatin and its stock into the warm strained stock until completely dissolved. Measure the finished liquid and top up with hot drinking water only to the original listed stock volume if evaporation or straining has reduced it. Let cool, stirring occasionally, until no longer warm but still liquid.",
+            "Use a shallow tray approximately 18 by 24 cm at the base yield, large enough to arrange the egg slices with gaps for cutting. Arrange the cold egg slices in the tray. Wash {{eggparsley}} and place a small sprig and one chilled shrimp on each slice. Pipe the thickened mayonnaise in a ring around each yolk, dividing all of it among the slices.",
+            "Spoon a thin layer of the cool liquid aspic over the decorated slices and chill for 10 minutes to anchor the toppings. Pour the rest gently around and over them without disturbing the mayonnaise. Refrigerate for at least 3 hours until firmly set.",
+            "Use a round cutter slightly wider than each egg slice to cut circles with a border of aspic. Lift carefully with a thin spatula onto a chilled serving platter. Cut the remaining aspic into small pieces and arrange alongside; wash and add {{garnishlettuce}}. Serve two decorated slices per portion at the base yield.",
+            "Keep covered at 4°C (40°F) or colder and serve within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving. Do not leave out for more than 2 hours."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-857d365894bdc5df5f800471",
+    "bodySha256": "656d0c5d82fd6cf93997227f41a97358e77236c10965083796e92a4c1549aa18",
+    "recipe": {
+      "id": "historical-857d365894bdc5df5f800471",
+      "title": "Idun Tarragon-Lemon Mayonnaise",
+      "description": "A softly textured mayonnaise combines tarragon vinegar with lemon and a small hot-water finish, then chills before serving.",
+      "category": "Condiments",
+      "servings": 18,
+      "yieldUnit": "servings",
+      "minutes": 315,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce to taste; the source explicitly gives 5 g."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the complete mustard-free variation if preferred."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 200,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "hotwater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} in a clean bowl on a damp towel until smooth. Gradually whisk in {{vinegar}} before adding the oil.",
+        "Measure {{oil}} into a jug. Whisk in a few drops at first, then a very thin stream once the sauce begins to thicken. Pause pouring if oil pools and whisk until fully incorporated.",
+        "Whisk in {{lemon}}. Gradually whisk in {{hotwater}}, freshly boiled and allowed to stop bubbling. This loosens the mayonnaise; it does not pasteurize raw yolks, so commercially pasteurized yolks are specified.",
+        "Cover and refrigerate at 4°C (40°F) or colder for 4–5 hours to firm before serving. The sauce is softer than a mayonnaise made with less water.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "All three entries reproduce Idun No442. The full original gives optional French mustard, 5 g salt, 200 ml oil, 15 ml vinegar, a range of 7.5–15 ml lemon juice and 15 ml boiling water. This base chooses the upper lemon amount and includes the optional mustard; complete alternatives retain the lower lemon amount, no mustard and the all-lemon version. Vinegar is added before oil, as printed. Modern refrigeration replaces the instruction to keep it cool but not on ice. Eighteen small condiment servings and active time are estimates; the displayed total includes five hours chilling. The full extra-yolk/vinegar rescue is supplied as a separate method. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 315,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-dd68b629756fa07799dab442",
+        "historical-1c57db554f9c61deb30283ca"
+      ],
+      "variants": [
+        {
+          "id": "less-lemon",
+          "label": "With the lower lemon amount",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 5,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce to taste; the source explicitly gives 5 g."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the complete mustard-free variation if preferred."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 200,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "hotwater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} in a clean bowl on a damp towel until smooth. Gradually whisk in {{vinegar}} before adding the oil.",
+            "Measure {{oil}} into a jug. Whisk in a few drops at first, then a very thin stream once the sauce begins to thicken. Pause pouring if oil pools and whisk until fully incorporated.",
+            "Whisk in {{lemon}}. Gradually whisk in {{hotwater}}, freshly boiled and allowed to stop bubbling. This loosens the mayonnaise; it does not pasteurize raw yolks, so commercially pasteurized yolks are specified.",
+            "Cover and refrigerate at 4°C (40°F) or colder for 4–5 hours to firm before serving. The sauce is softer than a mayonnaise made with less water.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "no-mustard",
+          "label": "Without mustard",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 5,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce to taste; the source explicitly gives 5 g."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 200,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "hotwater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{salt}} and {{cayenne}} in a clean bowl on a damp towel until smooth. Gradually whisk in {{vinegar}} before adding the oil.",
+            "Measure {{oil}} into a jug. Whisk in a few drops at first, then a very thin stream once the sauce begins to thicken. Pause pouring if oil pools and whisk until fully incorporated.",
+            "Whisk in {{lemon}}. Gradually whisk in {{hotwater}}, freshly boiled and allowed to stop bubbling. This loosens the mayonnaise; it does not pasteurize raw yolks, so commercially pasteurized yolks are specified.",
+            "Cover and refrigerate at 4°C (40°F) or colder for 4–5 hours to firm before serving. The sauce is softer than a mayonnaise made with less water.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "all-lemon",
+          "label": "Mustard-free, with lemon instead of vinegar",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 5,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce to taste; the source explicitly gives 5 g."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "firstlemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice for the initial yolk mixture",
+              "substitution": "Use the vinegar base recipe if preferred."
+            },
+            {
+              "key": "oil",
+              "amount": 200,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "hotwater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{salt}} and {{cayenne}} in a clean bowl on a damp towel until smooth. Gradually whisk in {{firstlemon}} before adding the oil.",
+            "Measure {{oil}} into a jug. Whisk in a few drops at first, then a very thin stream once the sauce begins to thicken. Pause pouring if oil pools and whisk until fully incorporated.",
+            "Whisk in {{lemon}}. Gradually whisk in {{hotwater}}, freshly boiled and allowed to stop bubbling. This loosens the mayonnaise; it does not pasteurize raw yolks, so commercially pasteurized yolks are specified.",
+            "Cover and refrigerate at 4°C (40°F) or colder for 4–5 hours to firm before serving. The sauce is softer than a mayonnaise made with less water.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "extra-yolk-rescue",
+          "label": "Extra-yolk method for a separated batch",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 5,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce to taste; the source explicitly gives 5 g."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the complete mustard-free variation if preferred."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 200,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "hotwater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "rescueyolk",
+              "amount": 1,
+              "unit": "",
+              "name": "additional large pasteurized egg yolk for the rescue",
+              "substitution": "Use 18 g commercially pasteurized liquid yolk."
+            },
+            {
+              "key": "rescuevinegar",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "additional tarragon vinegar for the rescue",
+              "substitution": "Use the same volume of white wine vinegar."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} in a clean bowl on a damp towel until smooth. Gradually whisk in {{vinegar}} before adding the oil.",
+            "Measure {{oil}} into a jug. Whisk in a few drops at first, then a very thin stream once the sauce begins to thicken. Pause pouring if oil pools and whisk until fully incorporated.",
+            "Whisk in {{lemon}}. Gradually whisk in {{hotwater}}, freshly boiled and allowed to stop bubbling. This loosens the mayonnaise; it does not pasteurize raw yolks, so commercially pasteurized yolks are specified.",
+            "In a second clean bowl, whisk {{rescueyolk}} with {{rescuevinegar}}. Add the prepared mayonnaise a few drops at a time, whisking continuously, then in a very thin stream once it holds together. This method uses the full base batch plus the two additional rescue ingredients; if rescuing mayonnaise already made, do not make the base again. It also makes a richer three-yolk sauce if the base has not separated.",
+            "Cover and refrigerate at 4°C (40°F) or colder for 4–5 hours to firm before serving. The sauce is softer than a mayonnaise made with less water.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-c0db970a16c1be6477067d8b",
+    "bodySha256": "5fed9dd3baf027bf7cc6c5a726c8705449167d5092f704149bcb892b1b8eec58",
+    "recipe": {
+      "id": "historical-c0db970a16c1be6477067d8b",
+      "title": "Hemmets Rich Mustard Mayonnaise",
+      "description": "A rich, oil-forward mayonnaise uses English mustard and gradually added vinegar, with a little water to loosen the emulsion.",
+      "category": "Condiments",
+      "servings": 36,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.75,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 500,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "water",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        }
+      ],
+      "steps": [
+        "Set a mixing bowl on a damp towel inside a larger bowl containing cold water, keeping water out of the mixing bowl. Whisk {{yolks}}, {{salt}} and {{mustard}} until smooth.",
+        "Measure {{oil}}, {{vinegar}} and {{water}} into separate small jugs. Whisk continuously while adding the oil a few drops at a time until an emulsion forms. Continue with a thin stream of oil, alternating small additions of the measured vinegar. Add the measured water in occasional drops as the sauce thickens, until all three liquids are incorporated.",
+        "Keep whisking until smooth and glossy. If oil starts to pool, stop pouring and whisk until it blends in before adding more.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "Both entries reproduce Hemmets kokbok No433. The printed formula is two yolks, half a litre oil, three to four tablespoons vinegar or lemon juice and half a tablespoon water. This base chooses four modern tablespoons vinegar, 60 ml; full variations retain 45 ml vinegar and both lemon amounts. A pinch of salt becomes one-eighth teaspoon and a small teaspoon dry English mustard becomes a chosen three-quarters teaspoon. Cool-water mixing replaces ice water to avoid solidifying olive oil. Thirty-six small condiment servings and timing are estimates, rather than the original twelve larger portions. This differs substantially from Idun No442 in its oil-to-yolk ratio and method and is retained separately. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-fc5dfcc9a21773ab3eb6f70d"
+      ],
+      "variants": [
+        {
+          "id": "less-vinegar",
+          "label": "Three tablespoons vinegar",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.75,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 500,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 45,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "water",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Set a mixing bowl on a damp towel inside a larger bowl containing cold water, keeping water out of the mixing bowl. Whisk {{yolks}}, {{salt}} and {{mustard}} until smooth.",
+            "Measure {{oil}}, {{vinegar}} and {{water}} into separate small jugs. Whisk continuously while adding the oil a few drops at a time until an emulsion forms. Continue with a thin stream of oil, alternating small additions of the measured vinegar. Add the measured water in occasional drops as the sauce thickens, until all three liquids are incorporated.",
+            "Keep whisking until smooth and glossy. If oil starts to pool, stop pouring and whisk until it blends in before adding more.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "lemon",
+          "label": "Four tablespoons lemon juice",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.75,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 500,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 60,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the corresponding vinegar variation if preferred."
+            },
+            {
+              "key": "water",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Set a mixing bowl on a damp towel inside a larger bowl containing cold water, keeping water out of the mixing bowl. Whisk {{yolks}}, {{salt}} and {{mustard}} until smooth.",
+            "Measure {{oil}}, {{lemon}} and {{water}} into separate small jugs. Whisk continuously while adding the oil a few drops at a time until an emulsion forms. Continue with a thin stream of oil, alternating small additions of the measured lemon juice. Add the measured water in occasional drops as the sauce thickens, until all three liquids are incorporated.",
+            "Keep whisking until smooth and glossy. If oil starts to pool, stop pouring and whisk until it blends in before adding more.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "less-lemon",
+          "label": "Three tablespoons lemon juice",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.75,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 500,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 45,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the corresponding vinegar variation if preferred."
+            },
+            {
+              "key": "water",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Set a mixing bowl on a damp towel inside a larger bowl containing cold water, keeping water out of the mixing bowl. Whisk {{yolks}}, {{salt}} and {{mustard}} until smooth.",
+            "Measure {{oil}}, {{lemon}} and {{water}} into separate small jugs. Whisk continuously while adding the oil a few drops at a time until an emulsion forms. Continue with a thin stream of oil, alternating small additions of the measured lemon juice. Add the measured water in occasional drops as the sauce thickens, until all three liquids are incorporated.",
+            "Keep whisking until smooth and glossy. If oil starts to pool, stop pouring and whisk until it blends in before adding more.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
   }
 ]

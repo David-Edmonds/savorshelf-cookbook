@@ -466,5 +466,35 @@
     "canonicalId": "historical-41101a3c5fa7b2a95249a38f",
     "bodySha256": "17680eea5eae502ea240affa580f27e9e3efff0dd2c411855ce9ee88dc631891",
     "reason": "Same full Idun No176 salmon, gelatin-free mayonnaise, dressed lettuce and egg/caper/olive/radish garnish; duplicate extraction with full cooked-leftover alternative retained."
+  },
+  {
+    "id": "historical-034fd48aef0e37330b125cf3",
+    "canonicalId": "historical-24b8912d82571dab2618ff4c",
+    "bodySha256": "e1c895b4df41eadc898ae41e85b54f9f250657f4008a5c10abe372fb2c5bf148",
+    "reason": "Same Wallace sardine-canape dish across editions; the full 1914 direct-milk gelatin and butter-free anchovy version is retained as a named variation, with full coating and decoration methods."
+  },
+  {
+    "id": "historical-27a883bce629c7cb909779bd",
+    "canonicalId": "historical-df178be12baaaef357b39037",
+    "bodySha256": "4e0c92615479e921760c46a9c3703ee1406d5b83f8355d90eb94e7d1848e5ac4",
+    "reason": "Same full Idun No10 egg slices, shrimp, set mayonnaise and clarified aspic method; duplicate extraction with oil unit corrected and complete components supplied."
+  },
+  {
+    "id": "historical-dd68b629756fa07799dab442",
+    "canonicalId": "historical-857d365894bdc5df5f800471",
+    "bodySha256": "2e81e65b504e1b160468d42a12407aa2aa0c4726898a7599a167683160327089",
+    "reason": "Same Idun No442 formula and full method; shorter extraction omits optional mustard, which is retained with complete no-mustard/lemon alternatives and rescue method."
+  },
+  {
+    "id": "historical-1c57db554f9c61deb30283ca",
+    "canonicalId": "historical-857d365894bdc5df5f800471",
+    "bodySha256": "724dda7d0add976d860a6e5e7d7e68e2cfa8cd446df561374750089437670fdf",
+    "reason": "Same Idun No442 printed recipe and measured formula; duplicate extraction, with optional mustard correctly distinguished from cayenne."
+  },
+  {
+    "id": "historical-fc5dfcc9a21773ab3eb6f70d",
+    "canonicalId": "historical-c0db970a16c1be6477067d8b",
+    "bodySha256": "c89e9bf330fe458c77cb1ffd7a446f8114f531df036424ff367a972cfc1b94b2",
+    "reason": "Same full Hemmets No433 formula and method with two yolks and 500ml oil; three/four tablespoon vinegar and lemon alternatives retained as complete variations."
   }
 ]

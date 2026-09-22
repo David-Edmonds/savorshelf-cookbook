@@ -1,3 +1,7 @@
+# Recipe content batch 038 — September 22, 2026
+
+Sardine canapés, decorated egg aspic and two distinct Swedish mayonnaise formulas now have complete measured components and named source variations. Five repeated sources are consolidated with saved IDs and credits retained. Totals: 40,810 imported recipes, 469 completed adaptations, 40,341 remaining content repairs and 42,262 visible recipes. Gelatin weights and missing quantities are explicitly modern working choices. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 037 — September 22, 2026
 
 Four Idun dishes now have complete cooking, homemade mayonnaise, garnishes and prepared-leftover alternatives. Three repeated sources are consolidated with saved IDs and credits retained. Totals: 40,815 imported recipes, 465 completed adaptations, 40,350 remaining content repairs and 42,267 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
