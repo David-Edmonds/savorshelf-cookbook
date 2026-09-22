@@ -37112,5 +37112,941 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-114cb2f43ef3cbf19483266d",
+    "bodySha256": "cd16a5bf273bf4a058cf16ff369bb9ea55fe96b2d493af885f2a776850006ab3",
+    "recipe": {
+      "id": "historical-114cb2f43ef3cbf19483266d",
+      "title": "Scandinavian Mustard Mayonnaise",
+      "description": "A smooth mustard mayonnaise is finished with vinegar and a small pinch of cayenne.",
+      "category": "Condiments",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "mustard",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same volume of Dijon mustard; the flavor may be sharper."
+        },
+        {
+          "key": "oil",
+          "amount": 180,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}} and {{mustard}} in a clean bowl. Gradually whisk in {{oil}}, beginning drop by drop and continuing in a thin stream once the sauce thickens. Stop pouring if oil pools and whisk until it blends in.",
+        "Slowly whisk in {{vinegar}}, {{salt}} and {{cayenne}} until smooth and evenly colored. Serve in small portions with already-cooked chilled lobster or fish, or green salad.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The original scan reads one and a half Sennepske, meaning mustard spoons, not tablespoons. Their exact volume is unresolved; 7.5 ml prepared mustard is an explicit modern working amount, not a historical conversion. The source describes adding a small spoonful of oil gradually until thick without a reliable total; 180 ml is supplied. The half teaspoon salt and tablespoon vinegar are retained using modern spoon measures. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Skandinavisk illustreret kogebog (1884), author not recorded. https://archive.org/details/skandinaviskillu00chic SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-5752185e6dd46dc5f32a416d",
+    "bodySha256": "2489ea1de9fa1cdb56a9294a7421649509e1d68f1e6e1a28a76f9c4edab013af",
+    "recipe": {
+      "id": "historical-5752185e6dd46dc5f32a416d",
+      "title": "Uægte Majonaise — Light Whipped Danish Dressing",
+      "description": "A cooled stock-and-butter sauce is enriched with yolks, lemon and oil, then lightened with whipped pasteurized egg whites.",
+      "category": "Condiments",
+      "servings": 16,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 30,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 30,
+          "unit": "g",
+          "name": "plain flour",
+          "substitution": "Use the same weight of a plain gluten-free flour blend suitable for sauces."
+        },
+        {
+          "key": "stock",
+          "amount": 200,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock",
+          "substitution": "Use the same volume of unsalted prepared vegetable stock."
+        },
+        {
+          "key": "yolks",
+          "amount": 4,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 100,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "mustard",
+          "amount": 5,
+          "unit": "ml",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same volume of Dijon mustard; the flavor may be sharper."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper; the appearance changes."
+        },
+        {
+          "key": "lemon",
+          "amount": 45,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "whites",
+          "amount": 90,
+          "unit": "g",
+          "name": "pasteurized liquid egg whites labeled suitable for whipping",
+          "substitution": "Use 90 g whites from commercially pasteurized shell eggs; do not use unpasteurized raw whites."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a saucepan over medium-low heat. Stir in {{flour}} for 2 minutes without browning. Gradually whisk in {{stock}} and simmer for 5 minutes, stirring, until thick and smooth.",
+        "Transfer the sauce to a shallow bowl over ice water. Stir frequently for about 20 minutes until cold, keeping water out of the sauce.",
+        "Beat {{yolks}} into the cold sauce in several additions. Gradually beat in {{oil}}, followed by {{mustard}}, {{salt}}, {{whitepepper}} and {{lemon}}. All eggs added after cooling must be commercially pasteurized.",
+        "In a separate clean, grease-free bowl, whip {{whites}} to soft peaks. Fold one third into the sauce to loosen it, then gently fold in the rest until no streaks remain. Serve promptly as a light dressing for already-cooked chilled foods.",
+        "Cover and refrigerate immediately at 4°C (40°F) or colder. Use the same day for the best texture; the foam gradually loses volume. Refrigerate within 2 hours, or within 1 hour above 32°C (90°F)."
+      ],
+      "notes": "The original specifically cools the cooked flour-and-stock base before adding four yolks and three whipped whites. Commercially pasteurized eggs retain this uncooked enrichment without pretending that the roux cooking also cooks the eggs. Three whites are standardized to 90 g. Butter, flour, stock, oil, mustard, acid and seasoning quantities are modern additions. This is distinct from the cooked-yolk Forloren Mayonnaise. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Illustreret kogebog for by og land (1899), author not recorded. https://archive.org/details/BSG_8SCSUP9079NOR SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-23e4833f030d3933ed30673e",
+    "bodySha256": "b222ad8c1e3b6ea21bb2990c2f296e32a3383c83d32d852da2ef60adcc9c6083",
+    "recipe": {
+      "id": "historical-23e4833f030d3933ed30673e",
+      "title": "Dutch Mayonnaise — First Recipe",
+      "description": "A classic mustard-and-vinegar mayonnaise uses the source’s full 350 ml of oil, with a whole-egg variation.",
+      "category": "Condiments",
+      "servings": 20,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 350,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 50,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same volume of Dijon mustard; the flavor may be sharper."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper; the appearance changes."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}}, {{mustard}}, {{salt}} and {{whitepepper}} in a clean bowl. Add {{vinegar|0.1}} and whisk until smooth.",
+        "Measure {{oil}} into a jug. Gradually whisk it in, drop by drop at first, then in a thin stream. Alternate the later oil additions with small additions of {{vinegar|0.9}} until all the measured ingredients are incorporated and the sauce is smooth.",
+        "Serve with already-cooked chilled meat, fish or vegetables. If the sauce separates, put one additional pasteurized yolk in a clean bowl and gradually whisk the broken sauce into it; this conditional rescue increases the yield.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The original page clearly gives 3½ dl oil, equal to 350 ml, not the 150 ml that could be inferred from its OCR. The half deciliter vinegar is 50 ml. Two pasteurized yolks are chosen from the source’s one-whole-egg-or-two-yolks option. Modern seasoning and yield are supplied. Refrigeration replaces storage merely under an oil layer. Prepared mustard is chosen; the same 7.5 ml dry mustard powder is the source alternative and gives a stronger flavor. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "whole-egg",
+          "label": "With one pasteurized whole egg",
+          "ingredients": [
+            {
+              "key": "wholeegg",
+              "amount": 50,
+              "unit": "g",
+              "name": "pasteurized liquid whole egg",
+              "substitution": "Use one large commercially pasteurized shell egg, weighing about 50 g without its shell."
+            },
+            {
+              "key": "oil",
+              "amount": 350,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 50,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of Dijon mustard; the flavor may be sharper."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of black pepper; the appearance changes."
+            }
+          ],
+          "steps": [
+            "Whisk {{wholeegg}}, {{mustard}}, {{salt}} and {{whitepepper}} in a clean bowl. Add {{vinegar|0.1}} and whisk until smooth.",
+            "Measure {{oil}} into a jug. Gradually whisk it in, drop by drop at first, then in a thin stream. Alternate the later oil additions with small additions of {{vinegar|0.9}} until all the measured ingredients are incorporated and the sauce is smooth.",
+            "Serve with already-cooked chilled meat, fish or vegetables. If the sauce separates, put one additional pasteurized yolk in a clean bowl and gradually whisk the broken sauce into it; this conditional rescue increases the yield.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-1e329e30fbff652a05cac967",
+    "bodySha256": "17551a2049965cdb2c3f21bce148f1fd5ccd8e59f396b5a93a08b94ee814ef97",
+    "recipe": {
+      "id": "historical-1e329e30fbff652a05cac967",
+      "title": "Dutch Mayonnaise — Cornstarch Version",
+      "description": "A cooked cornstarch base produces a lighter-oil mustard mayonnaise, finished after cooling with pasteurized yolks.",
+      "category": "Condiments",
+      "servings": 16,
+      "yieldUnit": "servings",
+      "minutes": 40,
+      "ingredients": [
+        {
+          "key": "water",
+          "amount": 150,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "name": "cornstarch",
+          "substitution": "Use the same weight of potato starch; simmer only until thick because prolonged boiling can weaken it."
+        },
+        {
+          "key": "vinegar",
+          "amount": 50,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same volume of Dijon mustard; the flavor may be sharper."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper; the appearance changes."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 100,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Whisk {{cornstarch}} with {{water}} in a small saucepan until no lumps remain. Bring to a simmer while whisking, then cook for 3–4 minutes, stirring, until thickened.",
+        "Remove from heat and stir in {{vinegar}}, {{mustard}}, {{salt}} and {{whitepepper}}. Transfer to a shallow bowl over ice water and stir frequently for about 15–20 minutes until cold, keeping water out.",
+        "Beat {{yolks}} into the cold base. Gradually beat in {{oil}}, drop by drop at first, until the sauce is smooth and creamy. Use commercially pasteurized yolks because they are added after cooling.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The source’s 150 ml water, 10 g cornstarch, 50 ml vinegar, two yolks, 100 ml oil and 1½ teaspoons mustard are retained. Seasoning, cooling time and yield are modern additions. Cooking the starch does not cook the yolks subsequently added. Prepared mustard is chosen; the source also permits the same volume of mustard powder for a stronger flavor. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 40,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b9a3b2a36a955f2c2d95a00a",
+    "bodySha256": "cd150795ed48106a78c6966f9d1a33d7f2d9ae93de3c169f0f197a463d33fcd3",
+    "recipe": {
+      "id": "historical-b9a3b2a36a955f2c2d95a00a",
+      "title": "Warme Mayonnaise — Dutch Warm Cream Sauce",
+      "description": "A warm, tangy egg sauce combines cooking cream and oil over gentle steam, with vinegar added off the heat.",
+      "category": "Condiments",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 3,
+          "unit": "",
+          "name": "large egg yolks",
+          "substitution": "Use 18 g pasteurized liquid egg yolk per yolk; the sauce is still cooked."
+        },
+        {
+          "key": "cream",
+          "amount": 50,
+          "unit": "ml",
+          "name": "pasteurized cooking cream",
+          "substitution": "Use the same volume of heavy cream for a richer sauce."
+        },
+        {
+          "key": "oil",
+          "amount": 50,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 50,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 5,
+          "unit": "ml",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same volume of Dijon mustard; the flavor may be sharper."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper; the appearance changes."
+        }
+      ],
+      "steps": [
+        "Bring a little water to a gentle simmer in a saucepan. In a heatproof bowl that fits over it without touching the water, whisk {{yolks}}, {{salt}}, {{whitepepper}} and {{mustard}}. Gradually whisk in {{oil}} and {{cream}}.",
+        "Set the bowl over the simmering water and whisk constantly for about 5–8 minutes until the sauce lightly thickens and reaches 71°C (160°F) throughout. Lift the bowl away from the steam if it heats too quickly; do not let the sauce boil.",
+        "Remove the bowl from the heat. Slowly whisk in {{vinegar}}, a few drops at a time at first, until evenly blended. Serve immediately with already-cooked warm salmon or other cooked fish.",
+        "This delicate warm sauce is best freshly made. Refrigerate leftovers in a shallow covered container within 2 hours, or within 1 hour above 32°C (90°F), and use within 2 days as a cold dressing; reheating may split it."
+      ],
+      "notes": "The original gives three yolks and 50 ml each of cream, oil and vinegar. These proportions are retained rather than silently reducing the acid. Mustard, seasoning and a measured egg-cooking endpoint are supplied. The vinegar is added gradually off the heat as the source specifies. Salmon is a serving suggestion; this entry is the sauce recipe. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1ab047e4bae9dbc184d0dd8e",
+    "bodySha256": "b296b1ac60efe31b9280e4a67899248092519cc16276d712585d65ce0e4a161c",
+    "recipe": {
+      "id": "historical-1ab047e4bae9dbc184d0dd8e",
+      "title": "Culinary Jottings Mayonnaise with Shallot",
+      "description": "Cooked and pasteurized yolks make a thick mustard mayonnaise with a restrained tarragon-vinegar finish; straining removes the shallot pieces.",
+      "category": "Condiments",
+      "servings": 16,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mustard",
+          "amount": 10,
+          "unit": "ml",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared English mustard for a milder version."
+        },
+        {
+          "key": "shallot",
+          "amount": 5,
+          "unit": "ml",
+          "name": "very finely minced peeled shallot",
+          "substitution": "Use the same volume of finely minced mild onion."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper; the appearance changes."
+        },
+        {
+          "key": "oil",
+          "amount": 250,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the cooked yolks and reserve the whites for another dish. Mash the cooked yolks with {{salt}}, {{mustard}}, {{shallot}} and {{whitepepper}} until fine. Work in {{oil|0.1}} a few drops at a time to make a moist paste.",
+        "Beat in {{yolks}}, then gradually whisk in {{oil|0.9}}, a few drops at a time at first. Slowly whisk in {{vinegar}}. Push through a fine sieve into a clean bowl, discarding the coarse shallot and egg particles.",
+        "Refrigerate for at least 10 minutes before serving in small portions with already-cooked chilled foods.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The source gives two cooked and two uncooked yolks and explicitly leaves the total oil unmeasured. A modern 250 ml working amount is supplied. Its salt spoon becomes an explicit modern ¼ teaspoon choice, not a verified historical conversion; the dessert spoon is represented by a modern 10 ml measure. The small tarragon-vinegar finish and straining are retained. Full cream-replacement and small cream-addition options preserve the source’s following sentences. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The all-cream version uses a supplied modern 250 ml and will be softer than the oil emulsion. The small addition uses 10 ml cream.",
+      "source": "Culinary Jottings for Madras (1885), Wyvern (A.R. Kenney-Herbert). https://archive.org/details/culinaryjottings00kenn SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cream-instead-of-oil",
+          "label": "Cream dressing without oil",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 10,
+              "unit": "ml",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared English mustard for a milder version."
+            },
+            {
+              "key": "shallot",
+              "amount": 5,
+              "unit": "ml",
+              "name": "very finely minced peeled shallot",
+              "substitution": "Use the same volume of finely minced mild onion."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of black pepper; the appearance changes."
+            },
+            {
+              "key": "replacementcream",
+              "amount": 250,
+              "unit": "ml",
+              "name": "pasteurized heavy cream",
+              "substitution": "Use the same volume of unsweetened dairy-free cooking cream; texture and flavor differ."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the cooked yolks and reserve the whites for another dish. Mash the cooked yolks with {{salt}}, {{mustard}}, {{shallot}} and {{whitepepper}} until fine. Work in {{replacementcream|0.1}} a few drops at a time to make a moist paste.",
+            "Beat in {{yolks}}, then gradually whisk in {{replacementcream|0.9}}, a few drops at a time at first. Slowly whisk in {{vinegar}}. Push through a fine sieve into a clean bowl, discarding the coarse shallot and egg particles.",
+            "Refrigerate for at least 10 minutes before serving in small portions with already-cooked chilled foods.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "cream-enriched",
+          "label": "With a little added cream",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 10,
+              "unit": "ml",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared English mustard for a milder version."
+            },
+            {
+              "key": "shallot",
+              "amount": 5,
+              "unit": "ml",
+              "name": "very finely minced peeled shallot",
+              "substitution": "Use the same volume of finely minced mild onion."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of black pepper; the appearance changes."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "extracream",
+              "amount": 10,
+              "unit": "ml",
+              "name": "pasteurized heavy cream",
+              "substitution": "Use the same volume of unsweetened dairy-free cooking cream; texture and flavor differ."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the cooked yolks and reserve the whites for another dish. Mash the cooked yolks with {{salt}}, {{mustard}}, {{shallot}} and {{whitepepper}} until fine. Work in {{oil|0.1}} a few drops at a time to make a moist paste.",
+            "Beat in {{yolks}}, then gradually whisk in {{oil|0.9}}, a few drops at a time at first. Slowly whisk in {{vinegar}}. Whisk in {{extracream}}. Push through a fine sieve into a clean bowl, discarding the coarse shallot and egg particles.",
+            "Refrigerate for at least 10 minutes before serving in small portions with already-cooked chilled foods.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-5db24f7c5261405b2eb21f19",
+    "bodySha256": "bc5c345200e261b26607e103da89f1b91ec275008bfefac3a25f029cb53d8f53",
+    "recipe": {
+      "id": "historical-5db24f7c5261405b2eb21f19",
+      "title": "Greenbaum Mayonnaise Dressing",
+      "description": "A one-yolk olive-oil mayonnaise is seasoned with English mustard, cayenne and a small amount of vinegar or lemon.",
+      "category": "Condiments",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "English mustard powder",
+          "substitution": "Use the same volume of prepared English mustard for a milder flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 240,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} in a clean cool bowl. In a hot kitchen, set the bowl over another bowl of ice water, keeping water out of the sauce.",
+        "Measure {{oil}} into a jug and whisk it in drop by drop at first. Once the sauce thickens, alternate the later oil additions with small additions of {{vinegar}} until all is incorporated. Keep whisking until smooth.",
+        "If the sauce splits, beat one additional commercially pasteurized whole egg in a clean bowl and gradually whisk the broken mixture into it, drop by drop at first. This conditional repair increases the yield. The direction of whisking does not determine whether an emulsion succeeds.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The source cup of oil is standardized to a modern 240 ml cup, with its two teaspoons acid, half teaspoon salt and half teaspoon English mustard retained. Cayenne is a measured small pinch. Twelve small condiment servings are estimated; the source separately suggests a pint of dressing for twenty people. Pasteurized yolk and a pasteurized whole egg for conditional rescue replace uncooked unpasteurized eggs. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lemon",
+          "label": "Lemon mayonnaise",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "English mustard powder",
+              "substitution": "Use the same volume of prepared English mustard for a milder flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 10,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} in a clean cool bowl. In a hot kitchen, set the bowl over another bowl of ice water, keeping water out of the sauce.",
+            "Measure {{oil}} into a jug and whisk it in drop by drop at first. Once the sauce thickens, alternate the later oil additions with small additions of {{lemon}} until all is incorporated. Keep whisking until smooth.",
+            "If the sauce splits, beat one additional commercially pasteurized whole egg in a clean bowl and gradually whisk the broken mixture into it, drop by drop at first. This conditional repair increases the yield. The direction of whisking does not determine whether an emulsion succeeds.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-fadb8713618472eeedf9eb90",
+    "bodySha256": "1e749debf38c252bc76b5b086cbe946de72adf84b6a0e935e953033571bff085",
+    "recipe": {
+      "id": "historical-fadb8713618472eeedf9eb90",
+      "title": "Cream and Cooked-Yolk Mayonnaise for Salmon",
+      "description": "Sieved cooked yolks enrich a cream dressing seasoned with white pepper, a trace of cayenne and a slow addition of white vinegar.",
+      "category": "Condiments",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "cream",
+          "amount": 120,
+          "unit": "ml",
+          "name": "pasteurized heavy cream",
+          "substitution": "Use the same volume of unsweetened dairy-free cooking cream; texture and flavor differ."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper; the appearance changes."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the cooked yolks and refrigerate the whites for another dish. Press the cooked yolks through a fine sieve into a clean bowl. Beat in {{cream}} very gradually until smooth.",
+        "Stir in {{whitepepper}}, {{salt}} and {{cayenne}}. Add {{vinegar}} very slowly, drop by drop at first, while stirring continuously; rapid acid addition can make the dressing grainy.",
+        "Chill for 10 minutes, then serve in small portions with already-cooked salmon. This is a cream dressing and contains no added oil.",
+        "Cover and refrigerate at 4°C (40°F) or colder. Use within 2 days. Refrigerate within 2 hours of preparation, or within 1 hour above 32°C (90°F)."
+      ],
+      "notes": "The eight tablespoons cream and two tablespoons vinegar become 120 ml and 30 ml using modern spoons. Both yolks are fully cooked as specified; the full boiling method is supplied. Heavy cream is a modern choice to provide a rich texture. Pepper, salt, cayenne, timing and eight condiment portions are modern estimates. Salmon is the source’s serving suggestion, not an omitted main-dish component. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]
