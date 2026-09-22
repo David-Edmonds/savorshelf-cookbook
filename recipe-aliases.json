@@ -406,5 +406,11 @@
     "canonicalId": "historical-68db948ef53e813c35222ab8",
     "bodySha256": "a659647daa9cf8eaa99360885973d6cae0542e4ba95abec1b76f60329207b448",
     "reason": "Same complete Hemmets original432, including twelve servings, three deciliters each stock and cream, three yolks and identical cooled-base method."
+  },
+  {
+    "id": "historical-b327b041149b10ae7038c190",
+    "canonicalId": "historical-eb1e5aa1a583d6fe648359af",
+    "bodySha256": "103a279242eb382a2508559c1d881df4ecdca427ffe8a2133055deae6f13d1ef",
+    "reason": "Truncated extraction of the same original Bialy Majonez z Ryb paragraph; canonical62 retains the complete gelatin-oil coating and all garnishes."
   }
 ]

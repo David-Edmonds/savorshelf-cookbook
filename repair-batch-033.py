@@ -1,0 +1,101 @@
+"""Complete two Polish whole-fish platters with full coatings, aspic and garnishes."""
+import pathlib,json,sqlite3,copy
+root=pathlib.Path(__file__).parent
+out=root.parent.parent/'outputs/SavorShelf-Content-Repairs'
+db=sqlite3.connect(out/'grouped-work.sqlite3')
+rows=json.loads((out/'dressing-candidates.json').read_text(encoding='utf-8'))
+
+records={r['sourceId']:r for r in json.loads((root/'content-overrides.json').read_text(encoding='utf-8'))}
+aliases={r['id']:r for r in json.loads((root/'recipe-aliases.json').read_text(encoding='utf-8'))}
+newids=[]
+def src(n):return json.loads(db.execute('select record from recipes where id=?',(rows[n]['id'],)).fetchone()[0])
+def I(k,a,u,n,s):return dict(key=k,amount=a,unit=u,name=n,substitution=s)
+def oil(a):return I('oil',a,'ml','olive oil','Use the same volume of a mild sunflower or rapeseed oil.')
+def vinegar(a,kind='white wine'):return I('vinegar',a,'ml',kind+' vinegar','Use the same volume of cider vinegar for a different flavor.')
+def salt(a=.5):return I('salt',a,'tsp','fine salt','Reduce or omit to taste.')
+def pepper(a=.25):return I('pepper',a,'tsp','ground black pepper','Use the same amount of ground white pepper, or omit.')
+def parsley(a=1):return I('parsley',a,'tsp','fresh parsley, finely chopped','Use the same amount of finely chopped chives.')
+def tk(k):return '{{'+k+'}}'
+STORE='Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve.'
+NOTE=' Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.'
+def add(n,title,y,t,desc,items,steps,notes):
+ s=src(n);r=copy.deepcopy(s['recipe']);r.update(title=title,description=desc,category='Condiments',servings=y,yieldUnit='servings',minutes=t,totalMinutes=t,ingredients=items,steps=steps,sourceStatus='adapted',versionNote='Modern measured adaptation',updatedAt='2026-09-22T20:00:00Z',notes=notes+NOTE,source=s['recipe']['source']+' SavorShelf measured adaptation.');r.pop('variants',None);r['sourceAliases']=[]
+ records[r['id']]=dict(sourceId=r['id'],bodySha256=s['bodySha256'],recipe=r);newids.append(r['id']);return r
+def variant(r,id,label,items,steps):r.setdefault('variants',[]).append(dict(id=id,label=label,ingredients=items,steps=steps))
+def yolks(a):return I('yolks',a,'','large pasteurized egg yolks','Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg.')
+def mustard(a):return I('mustard',a,'tsp','dry mustard powder','Use the same volume of prepared Dijon mustard for a milder flavor.')
+def cayenne():return I('cayenne',.0625,'tsp','ground cayenne pepper','Omit for a mild mayonnaise.')
+def lemon(a):return I('lemon',a,'ml','lemon juice','Use the same volume of lime juice for a different flavor.')
+COLD='Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve.'
+def emulsion(keys):
+ return ['Set a clean small bowl on a damp towel to steady it. Whisk '+', '.join(tk(k) for k in keys)+' until smooth.','Measure {{oil}} into a jug. Whisk continuously while adding it drop by drop at first. Once the mixture is thick and glossy, add the remaining measured oil in a very thin stream, whisking until fully incorporated. Stop pouring if oil pools on the surface and whisk until it blends in.','The finished mayonnaise should be smooth and creamy. If it separates, put 1 teaspoon cold drinking water in a clean bowl and whisk the separated mixture into it a few drops at a time; this small repair addition changes the yield slightly.',COLD]
+def eggsource(r):r['source']+=' Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .';return r
+def eggs(a):return I('eggs',a,'','large eggs for hard boiling','Use large pasteurized shell eggs if preferred; cook until the yolks are firm.')
+def water(a,k='water'):return I(k,a,'ml','drinking water','Use the same volume of drinking water, topping up to cover as directed.')
+def boil():return ['Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.']
+END='Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.'
+REF=' Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal .'
+def finish(r):r['category']='Main dishes';r['source']+=REF;return eggsource(r)
+
+merges=[];updatedids=[]
+def merge(n,r,reason):
+ s=src(n);aliases[s['id']]=dict(id=s['id'],canonicalId=r['id'],bodySha256=s['bodySha256'],reason=reason)
+ if s['id'] not in r['sourceAliases']:r['sourceAliases'].append(s['id']);r['source']+=' Equivalent source retained: '+s['recipe']['source']
+ records.pop(s['id'],None);merges.append(s)
+
+def fishitems(weight,wateramount,deboned=False):
+ return [I('fish',weight,'g','whole zander or pike, gutted, scaled and gills removed by the fishmonger'+('; backbone removed through the belly with skin kept intact' if deboned else ''),'Use a similar-sized whole white-fleshed freshwater fish suitable for poaching; have the fishmonger prepare it.'),water(wateramount,'poachwater'),I('onion',1,'','large onion, peeled and quartered','Use one cleaned leek per onion.'),I('stockcarrot',200,'g','carrot, scrubbed and sliced, for the broth','Use the same weight of parsnip.'),I('celery',100,'g','celery stalks, cleaned and sliced, for the broth','Use the same weight of peeled celeriac.'),I('brothsalt',15,'g','salt for the poaching broth','Reduce or omit; avoid adding more salt to the reserved broth.')]
+FISHSTEPS=[
+ 'Use a fish kettle or deep roasting pan large enough to hold the whole fish flat, with a lifting rack or sturdy foil cradle. Put {{poachwater}}, {{onion}}, {{stockcarrot}}, {{celery}} and {{brothsalt}} in the pan. Simmer for 20 minutes. Cool the broth promptly by standing the pan in cold water, stirring, until no longer warm; keep water from the cooling bath out of the broth.',
+ 'Place {{fish}} on the rack in the cooled vegetable broth. Keep its sides together in the whole-fish shape. Add cold drinking water only if needed to cover. Heat gradually to a bare simmer and poach gently for about 30–45 minutes after the broth becomes hot, until the thickest flesh reaches 63°C (145°F). Check the temperature; a particularly thick fish may need longer. Avoid a rolling boil, which can break the flesh.',
+ 'Lift out carefully on the rack, drain and transfer to a clean shallow platter that fits in the refrigerator. Let the strong steam subside briefly, then cover loosely and refrigerate promptly, within 2 hours of cooking, until thoroughly cold. Allow about 2–3 hours. Do not leave a whole cooked fish at room temperature until cold. Strain the poaching broth through a fine sieve and skim off any surface fat. Reserve the portions specified below; cool extra broth promptly in shallow containers and refrigerate for use within 2 days, or freeze.'
+]
+def vegitems(potato=False):
+ a=[I('garnishcarrot',200,'g','peeled carrot for garnish','Use the same weight of peeled parsnip.'),I('peas',150,'g','frozen green peas','Use the same weight of fresh shelled peas, cooking until tender.'),water(1500,'vegwater'),I('vegsalt',5,'g','salt for cooking the garnish vegetables','Reduce or omit.'),I('cornichons',60,'g','ready-to-eat pickled cornichons, drained and sliced','Use the same weight of pickled cucumber.'),I('mushrooms',60,'g','ready-to-eat pickled mushrooms, drained and sliced','Use the same weight of extra pickled cucumber.'),I('capers',30,'g','drained capers','Use the same weight of finely chopped pickled cornichons.'),I('lettuce',150,'g','lettuce leaves, washed and thoroughly dried','Use the same weight of romaine leaves.')]
+ if potato:a.append(I('potatoes',300,'g','peeled waxy potatoes for garnish','Use the same weight of another firm waxy potato variety.'))
+ else:a.append(I('olives',60,'g','drained pitted green olives','Use the same weight of pitted black olives.'))
+ return a
+def vegsteps(potato=False):
+ return ['Cut {{garnishcarrot}}'+(' and {{potatoes}}' if potato else '')+' into small even cubes or decorative shapes. Bring {{vegwater}} and {{vegsalt}} to a boil. Simmer the carrot'+(' and potato' if potato else '')+' pieces for about '+('8–12' if potato else '5–8')+' minutes until tender, lifting them out as they finish. Cook {{peas}} in the same water for about 2–3 minutes until tender. Drain the vegetables thoroughly, spread in a shallow container, cover and refrigerate until cold.']
+def gelatin(k,a,name):return I(k,a,'g',name+'; unflavored powdered gelatin, approximately 200 Bloom','Use the same weight of fish gelatin with a similar setting strength; agar requires a different formula.')
+JELLYSET='Pour the liquid jelly into shallow dishes about 1 cm deep. Cover and refrigerate for about 2–3 hours until firmly set. Cut into triangles shortly before serving.'
+
+r=add(62,'Biały Majonez z Ryb — White-Coated Polish Fish Platter',10,300,
+ 'A whole poached fish is covered with a pale whipped gelatin-and-oil coating and surrounded by vegetables, eggs, pickles and clear and pink lemon jelly.',
+ fishitems(3000,3500)+[
+ I('coatingstock',250,'ml','strained, skimmed cooked fish broth reserved from poaching; not an additional purchase','Use the same volume of clear unsalted fish stock.'),gelatin('coatinggelatin',12,'gelatin for the whipped coating'),I('oil',227,'g','olive oil, weighed, for the coating','Use the same weight of mild sunflower oil.'),lemon(30),I('sugar',1,'tsp','white sugar for the coating','Use the same amount of caster sugar.'),salt(.125),gelatin('jellygelatin',10,'gelatin for the decorative jelly'),water(400,'jellywater'),I('jellylemon',20,'ml','lemon juice for the decorative jelly','Use the same volume of lime juice.'),I('jellysugar',1,'tsp','white sugar for the decorative jelly','Use the same amount of caster sugar.'),I('jellysalt',.125,'tsp','fine salt for the decorative jelly','Reduce or omit.'),I('redcolor',2,'drops','food-safe red liquid coloring for half the jelly','Omit for an entirely clear jelly; never use non-food coloring.'),eggs(3),water(1000)
+ ]+vegitems(),
+ FISHSTEPS+[
+ 'For the decorative jelly, measure {{jellywater}} into a small saucepan. Put about one quarter of this measured water in a bowl, sprinkle {{jellygelatin}} over it and leave for 5 minutes. Warm the remaining measured water until steaming, remove from heat and stir in the bloomed gelatin until dissolved. Stir in {{jellylemon}}, {{jellysugar}} and {{jellysalt}}. Divide into two equal portions and stir {{redcolor}} into one portion.',JELLYSET,
+ ]+boil()+['Slice the firm hard-boiled eggs and refrigerate until assembly.']+vegsteps()+[
+ 'Make the coating only once the fish is cold and the garnishes are ready. Measure {{coatingstock}} into a jug and cool it if still warm. Sprinkle {{coatinggelatin}} over about one quarter of the measured broth and leave for 5 minutes. Heat the remaining measured broth until steaming, then remove from heat and stir in the bloomed gelatin until dissolved.',
+ 'Transfer the gelatin broth to a mixing bowl over cold water, keeping the cooling water out. Whisk until cool, lightly foamy and just starting to thicken, but still pourable. Remove the bowl from the cooling bath. Weigh {{oil}} into a jug and whisk it into the gelatin mixture in a very thin stream until evenly blended and pale. Whisk in {{lemon}}, {{sugar}} and {{salt}}. If the edges start setting before mixing is finished, briefly stand the bowl over lukewarm water and stir to loosen; do not let the coating become hot.',
+ 'Spread the soft coating over the cold fish in an even layer, working before the gelatin sets solid. Refrigerate for about 30 minutes to firm the coating. Arrange the cooked carrot, peas and sliced eggs around the fish with {{cornichons}}, {{mushrooms}}, {{capers}}, {{olives}} and {{lettuce}}. Add the clear and pink jelly triangles. Serve cold, lifting the flesh from the backbone in portions and checking carefully for remaining bones; bones and head are not eaten.',END],
+ 'Both source entries reproduce the same original Biały Majonez z Ryb paragraph; entry61 stops before the oil, lemon and full garnish instructions. The Polish text says to clean a whole fish, not fillet it. A modern 3 kg fish is within the intended large-platter scale. Its half-kwaterka broth phrase is not a quarter of the entire pot. This adaptation explicitly uses 250 ml broth and 12 g modern powdered gelatin for a workable cold coating, rather than treating the historical ounce of gelatin and undefined setting strength as directly interchangeable. The 227 g oil, 30 ml lemon juice, salt and all garnish quantities are modern working amounts; the teaspoon sugar is retained. Separate clear and pink lemon jelly replaces the unspecified white and red gelatin leaves, with its full formula supplied. Gelatin strength, foaming and final coating texture have not been kitchen-tested. Total time includes overlapping poaching, fish chilling, jelly setting and garnish preparation.');r['category']='Fish';r['source']+=' Cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .'
+merge(61,r,'Truncated extraction of the same original Bialy Majonez z Ryb paragraph; canonical62 retains the complete gelatin-oil coating and all garnishes.')
+
+r=add(65,'Majonez z Ryb — Whole Fish with Mayonnaise and Aspic',16,330,
+ 'A large boned whole fish is gently poached and served cold under rich mayonnaise, with clarified fish jelly, cooked vegetables, pickles and capers.',
+ fishitems(4500,5000,True)+[
+ I('jellystock',600,'ml','strained, skimmed cooked fish broth reserved from poaching; not an additional purchase','Use the same volume of clear unsalted fish stock.'),I('clarifywhite',60,'g','egg whites for clarifying the broth','Use the same weight of plain pasteurized liquid egg white.'),water(15,'clarifywater'),I('jellyvinegar',15,'ml','white wine vinegar for the jelly','Use the same volume of cider vinegar.'),gelatin('jellygelatin',14,'gelatin for the clarified jelly'),water(70,'bloomwater'),yolks(4),I('oilfirst',227,'g','olive oil for the first mayonnaise addition, weighed','Use the same weight of mild sunflower oil.'),I('oilnext',41,'g','olive oil for the middle mayonnaise addition, weighed','Use the same weight of mild sunflower oil.'),I('oillast',412,'g','olive oil for the final mayonnaise addition, weighed','Use the same weight of mild sunflower oil.'),salt(1),I('whitepepper',.25,'tsp','ground white pepper for the mayonnaise','Use the same amount of ground black pepper for a speckled sauce.'),vinegar(60),I('sugar',1,'tsp','white sugar for the mayonnaise','Use the same amount of caster sugar.')
+ ]+vegitems(True),
+ FISHSTEPS+[
+ 'For the jelly, cool {{jellystock}} until cold. Whisk {{clarifywhite}} with {{clarifywater}} and {{jellyvinegar}} in a saucepan, then whisk in the measured cold broth. Heat gently, stirring until the whites begin to form visible clumps. Stop stirring and keep at a very gentle simmer for 10 minutes so the whites can gather the cloudy particles. Remove from heat and stand for 10 minutes.',
+ 'Line a sieve with a clean fine cloth dampened with hot drinking water. Ladle the broth gently through it into a clean jug, without pressing the cooked whites. Discard the solids. The resulting broth should be clearer, although perfect transparency depends on the starting broth.',
+ 'Sprinkle {{jellygelatin}} over {{bloomwater}} and leave for 5 minutes. Warm the clarified broth until steaming, remove from heat and stir in the bloomed gelatin until dissolved.',JELLYSET,
+ ]+vegsteps(True)+[
+ 'For the mayonnaise, whisk {{yolks|0.5}}, {{salt}} and {{whitepepper}} in a clean large bowl. Measure {{oilfirst}} into a jug and whisk it in drop by drop at first, then in a very thin stream as the mixture thickens.',
+ 'Whisk in {{yolks|0.25}}, followed gradually by {{oilnext}}. Add {{yolks|0.25}} and mix until smooth. Whisk in {{oillast}} in a very thin stream, stopping the pour whenever oil pools and whisking until it blends in. This preserves the original staged-yolk method.',
+ 'Gradually whisk {{vinegar}} into the thick mayonnaise, then add {{sugar}} and stir until dissolved. Cover and refrigerate until assembly.',
+ 'Spread the mayonnaise over the cold fish. Surround it with the cooked carrot, peas and potato, the jelly triangles, {{mushrooms}}, {{cornichons}} and {{lettuce}}. Scatter {{capers}} over the mayonnaise. Keep chilled until serving. Lift the flesh into portions and check carefully for pin bones even though the backbone was removed; the head and any bones are not eaten.',END],
+ 'The source calls for an eight-to-ten-funt whole fish, boned through the belly with the skin intact, and one-and-a-half to two funt oil for a ten-funt fish. A 4.5 kg fish and 680 g total oil are explicit modern working choices near that intended scale, not universal historical-unit conversions. The first 227 g oil corresponds to the chosen half-pound stage; the next 41 g is a working three-tablespoon oil addition and the final 412 g completes the total. Four yolks are added in the original two-plus-one-plus-one sequence. All broth, garnish, acid, seasoning and gelatin quantities are supplied. Broth clarification is completed before adding modern gelatin to avoid extended reheating of the set; the source combines those stages. Prompt refrigerator chilling replaces leaving the fish in its broth in a merely cool place overnight. The optional colored-jelly variation retains the source’s amber and pink decoration. Sixteen meal portions and total time are estimates, including overlapping cooling and setting.');r['category']='Fish';eggsource(r);r['source']+=' Cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .'
+vi=copy.deepcopy(r['ingredients'])+[I('caramelcolor',5,'ml','ready-made food-grade caramel coloring or dark caramel syrup','Omit for clear jelly, or use the same volume of a mild dark caramel syrup.'),I('redcolor',2,'drops','food-safe red liquid coloring','Omit for an entirely amber and clear decoration.')]
+vs=[s.replace(JELLYSET,'Divide the liquid jelly into two equal portions. Stir {{caramelcolor}} into one portion and {{redcolor}} into the other. Pour into separate shallow dishes about 1 cm deep, cover and refrigerate for about 2–3 hours until firm. Cut into triangles shortly before serving.') for s in r['steps']]
+variant(r,'colored-aspic','With amber and pink aspic',vi,vs);r['notes']+=' The colored version uses measured ready-made food coloring or caramel syrup instead of preparing burnt sugar or buying historical red gelatin. Coloring affects presentation rather than the main fish and sauce formula.'
+
+assert len(newids)==2 and len(merges)==1
+(root/'content-overrides.json').write_text(json.dumps(list(records.values()),ensure_ascii=False,indent=2),encoding='utf-8')
+(root/'recipe-aliases.json').write_text(json.dumps(list(aliases.values()),ensure_ascii=False,indent=2),encoding='utf-8')
+for id in newids:db.execute('insert or replace into decisions values(?,?,?,?,?)',(id,records[id]['bodySha256'],'prepared-adaptation','Full source fish platter with complete measured coatings, aspic, cooked garnishes and chilling','repair-batch-033.py'))
+for s in merges:db.execute('insert or replace into decisions values(?,?,?,?,?)',(s['id'],s['bodySha256'],'prepared-merge',aliases[s['id']]['reason'],'repair-batch-033.py'))
+db.commit();print(json.dumps(dict(newAdaptations=len(newids),newAliases=len(merges),totalOverrides=len(records),totalAliases=len(aliases))))

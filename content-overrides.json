@@ -40943,5 +40943,732 @@
         "historical-48fc8c40d68514de21ef9c56"
       ]
     }
+  },
+  {
+    "sourceId": "historical-eb1e5aa1a583d6fe648359af",
+    "bodySha256": "7f498a93aad37e7060c1e47ad59a9d7f1a6f792a3173794c43da1d8bab6b7923",
+    "recipe": {
+      "id": "historical-eb1e5aa1a583d6fe648359af",
+      "title": "Biały Majonez z Ryb — White-Coated Polish Fish Platter",
+      "description": "A whole poached fish is covered with a pale whipped gelatin-and-oil coating and surrounded by vegetables, eggs, pickles and clear and pink lemon jelly.",
+      "category": "Fish",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 300,
+      "ingredients": [
+        {
+          "key": "fish",
+          "amount": 3000,
+          "unit": "g",
+          "name": "whole zander or pike, gutted, scaled and gills removed by the fishmonger",
+          "substitution": "Use a similar-sized whole white-fleshed freshwater fish suitable for poaching; have the fishmonger prepare it."
+        },
+        {
+          "key": "poachwater",
+          "amount": 3500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "onion",
+          "amount": 1,
+          "unit": "",
+          "name": "large onion, peeled and quartered",
+          "substitution": "Use one cleaned leek per onion."
+        },
+        {
+          "key": "stockcarrot",
+          "amount": 200,
+          "unit": "g",
+          "name": "carrot, scrubbed and sliced, for the broth",
+          "substitution": "Use the same weight of parsnip."
+        },
+        {
+          "key": "celery",
+          "amount": 100,
+          "unit": "g",
+          "name": "celery stalks, cleaned and sliced, for the broth",
+          "substitution": "Use the same weight of peeled celeriac."
+        },
+        {
+          "key": "brothsalt",
+          "amount": 15,
+          "unit": "g",
+          "name": "salt for the poaching broth",
+          "substitution": "Reduce or omit; avoid adding more salt to the reserved broth."
+        },
+        {
+          "key": "coatingstock",
+          "amount": 250,
+          "unit": "ml",
+          "name": "strained, skimmed cooked fish broth reserved from poaching; not an additional purchase",
+          "substitution": "Use the same volume of clear unsalted fish stock."
+        },
+        {
+          "key": "coatinggelatin",
+          "amount": 12,
+          "unit": "g",
+          "name": "gelatin for the whipped coating; unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the same weight of fish gelatin with a similar setting strength; agar requires a different formula."
+        },
+        {
+          "key": "oil",
+          "amount": 227,
+          "unit": "g",
+          "name": "olive oil, weighed, for the coating",
+          "substitution": "Use the same weight of mild sunflower oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "white sugar for the coating",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "jellygelatin",
+          "amount": 10,
+          "unit": "g",
+          "name": "gelatin for the decorative jelly; unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the same weight of fish gelatin with a similar setting strength; agar requires a different formula."
+        },
+        {
+          "key": "jellywater",
+          "amount": 400,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "jellylemon",
+          "amount": 20,
+          "unit": "ml",
+          "name": "lemon juice for the decorative jelly",
+          "substitution": "Use the same volume of lime juice."
+        },
+        {
+          "key": "jellysugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "white sugar for the decorative jelly",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "jellysalt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt for the decorative jelly",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "redcolor",
+          "amount": 2,
+          "unit": "drops",
+          "name": "food-safe red liquid coloring for half the jelly",
+          "substitution": "Omit for an entirely clear jelly; never use non-food coloring."
+        },
+        {
+          "key": "eggs",
+          "amount": 3,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "garnishcarrot",
+          "amount": 200,
+          "unit": "g",
+          "name": "peeled carrot for garnish",
+          "substitution": "Use the same weight of peeled parsnip."
+        },
+        {
+          "key": "peas",
+          "amount": 150,
+          "unit": "g",
+          "name": "frozen green peas",
+          "substitution": "Use the same weight of fresh shelled peas, cooking until tender."
+        },
+        {
+          "key": "vegwater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "vegsalt",
+          "amount": 5,
+          "unit": "g",
+          "name": "salt for cooking the garnish vegetables",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "cornichons",
+          "amount": 60,
+          "unit": "g",
+          "name": "ready-to-eat pickled cornichons, drained and sliced",
+          "substitution": "Use the same weight of pickled cucumber."
+        },
+        {
+          "key": "mushrooms",
+          "amount": 60,
+          "unit": "g",
+          "name": "ready-to-eat pickled mushrooms, drained and sliced",
+          "substitution": "Use the same weight of extra pickled cucumber."
+        },
+        {
+          "key": "capers",
+          "amount": 30,
+          "unit": "g",
+          "name": "drained capers",
+          "substitution": "Use the same weight of finely chopped pickled cornichons."
+        },
+        {
+          "key": "lettuce",
+          "amount": 150,
+          "unit": "g",
+          "name": "lettuce leaves, washed and thoroughly dried",
+          "substitution": "Use the same weight of romaine leaves."
+        },
+        {
+          "key": "olives",
+          "amount": 60,
+          "unit": "g",
+          "name": "drained pitted green olives",
+          "substitution": "Use the same weight of pitted black olives."
+        }
+      ],
+      "steps": [
+        "Use a fish kettle or deep roasting pan large enough to hold the whole fish flat, with a lifting rack or sturdy foil cradle. Put {{poachwater}}, {{onion}}, {{stockcarrot}}, {{celery}} and {{brothsalt}} in the pan. Simmer for 20 minutes. Cool the broth promptly by standing the pan in cold water, stirring, until no longer warm; keep water from the cooling bath out of the broth.",
+        "Place {{fish}} on the rack in the cooled vegetable broth. Keep its sides together in the whole-fish shape. Add cold drinking water only if needed to cover. Heat gradually to a bare simmer and poach gently for about 30–45 minutes after the broth becomes hot, until the thickest flesh reaches 63°C (145°F). Check the temperature; a particularly thick fish may need longer. Avoid a rolling boil, which can break the flesh.",
+        "Lift out carefully on the rack, drain and transfer to a clean shallow platter that fits in the refrigerator. Let the strong steam subside briefly, then cover loosely and refrigerate promptly, within 2 hours of cooking, until thoroughly cold. Allow about 2–3 hours. Do not leave a whole cooked fish at room temperature until cold. Strain the poaching broth through a fine sieve and skim off any surface fat. Reserve the portions specified below; cool extra broth promptly in shallow containers and refrigerate for use within 2 days, or freeze.",
+        "For the decorative jelly, measure {{jellywater}} into a small saucepan. Put about one quarter of this measured water in a bowl, sprinkle {{jellygelatin}} over it and leave for 5 minutes. Warm the remaining measured water until steaming, remove from heat and stir in the bloomed gelatin until dissolved. Stir in {{jellylemon}}, {{jellysugar}} and {{jellysalt}}. Divide into two equal portions and stir {{redcolor}} into one portion.",
+        "Pour the liquid jelly into shallow dishes about 1 cm deep. Cover and refrigerate for about 2–3 hours until firmly set. Cut into triangles shortly before serving.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Slice the firm hard-boiled eggs and refrigerate until assembly.",
+        "Cut {{garnishcarrot}} into small even cubes or decorative shapes. Bring {{vegwater}} and {{vegsalt}} to a boil. Simmer the carrot pieces for about 5–8 minutes until tender, lifting them out as they finish. Cook {{peas}} in the same water for about 2–3 minutes until tender. Drain the vegetables thoroughly, spread in a shallow container, cover and refrigerate until cold.",
+        "Make the coating only once the fish is cold and the garnishes are ready. Measure {{coatingstock}} into a jug and cool it if still warm. Sprinkle {{coatinggelatin}} over about one quarter of the measured broth and leave for 5 minutes. Heat the remaining measured broth until steaming, then remove from heat and stir in the bloomed gelatin until dissolved.",
+        "Transfer the gelatin broth to a mixing bowl over cold water, keeping the cooling water out. Whisk until cool, lightly foamy and just starting to thicken, but still pourable. Remove the bowl from the cooling bath. Weigh {{oil}} into a jug and whisk it into the gelatin mixture in a very thin stream until evenly blended and pale. Whisk in {{lemon}}, {{sugar}} and {{salt}}. If the edges start setting before mixing is finished, briefly stand the bowl over lukewarm water and stir to loosen; do not let the coating become hot.",
+        "Spread the soft coating over the cold fish in an even layer, working before the gelatin sets solid. Refrigerate for about 30 minutes to firm the coating. Arrange the cooked carrot, peas and sliced eggs around the fish with {{cornichons}}, {{mushrooms}}, {{capers}}, {{olives}} and {{lettuce}}. Add the clear and pink jelly triangles. Serve cold, lifting the flesh from the backbone in portions and checking carefully for remaining bones; bones and head are not eaten.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "Both source entries reproduce the same original Biały Majonez z Ryb paragraph; entry61 stops before the oil, lemon and full garnish instructions. The Polish text says to clean a whole fish, not fillet it. A modern 3 kg fish is within the intended large-platter scale. Its half-kwaterka broth phrase is not a quarter of the entire pot. This adaptation explicitly uses 250 ml broth and 12 g modern powdered gelatin for a workable cold coating, rather than treating the historical ounce of gelatin and undefined setting strength as directly interchangeable. The 227 g oil, 30 ml lemon juice, salt and all garnish quantities are modern working amounts; the teaspoon sugar is retained. Separate clear and pink lemon jelly replaces the unspecified white and red gelatin leaves, with its full formula supplied. Gelatin strength, foaming and final coating texture have not been kitchen-tested. Total time includes overlapping poaching, fish chilling, jelly setting and garnish preparation. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. Cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Equivalent source retained: Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 300,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-b327b041149b10ae7038c190"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-c91d5c2e5954a82085997883",
+    "bodySha256": "90ca2b9effa2e85ffbcd4fa5c102a2d9bf35c7f80ecf5482967838098d786356",
+    "recipe": {
+      "id": "historical-c91d5c2e5954a82085997883",
+      "title": "Majonez z Ryb — Whole Fish with Mayonnaise and Aspic",
+      "description": "A large boned whole fish is gently poached and served cold under rich mayonnaise, with clarified fish jelly, cooked vegetables, pickles and capers.",
+      "category": "Fish",
+      "servings": 16,
+      "yieldUnit": "servings",
+      "minutes": 330,
+      "ingredients": [
+        {
+          "key": "fish",
+          "amount": 4500,
+          "unit": "g",
+          "name": "whole zander or pike, gutted, scaled and gills removed by the fishmonger; backbone removed through the belly with skin kept intact",
+          "substitution": "Use a similar-sized whole white-fleshed freshwater fish suitable for poaching; have the fishmonger prepare it."
+        },
+        {
+          "key": "poachwater",
+          "amount": 5000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "onion",
+          "amount": 1,
+          "unit": "",
+          "name": "large onion, peeled and quartered",
+          "substitution": "Use one cleaned leek per onion."
+        },
+        {
+          "key": "stockcarrot",
+          "amount": 200,
+          "unit": "g",
+          "name": "carrot, scrubbed and sliced, for the broth",
+          "substitution": "Use the same weight of parsnip."
+        },
+        {
+          "key": "celery",
+          "amount": 100,
+          "unit": "g",
+          "name": "celery stalks, cleaned and sliced, for the broth",
+          "substitution": "Use the same weight of peeled celeriac."
+        },
+        {
+          "key": "brothsalt",
+          "amount": 15,
+          "unit": "g",
+          "name": "salt for the poaching broth",
+          "substitution": "Reduce or omit; avoid adding more salt to the reserved broth."
+        },
+        {
+          "key": "jellystock",
+          "amount": 600,
+          "unit": "ml",
+          "name": "strained, skimmed cooked fish broth reserved from poaching; not an additional purchase",
+          "substitution": "Use the same volume of clear unsalted fish stock."
+        },
+        {
+          "key": "clarifywhite",
+          "amount": 60,
+          "unit": "g",
+          "name": "egg whites for clarifying the broth",
+          "substitution": "Use the same weight of plain pasteurized liquid egg white."
+        },
+        {
+          "key": "clarifywater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "jellyvinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar for the jelly",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "jellygelatin",
+          "amount": 14,
+          "unit": "g",
+          "name": "gelatin for the clarified jelly; unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the same weight of fish gelatin with a similar setting strength; agar requires a different formula."
+        },
+        {
+          "key": "bloomwater",
+          "amount": 70,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 4,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oilfirst",
+          "amount": 227,
+          "unit": "g",
+          "name": "olive oil for the first mayonnaise addition, weighed",
+          "substitution": "Use the same weight of mild sunflower oil."
+        },
+        {
+          "key": "oilnext",
+          "amount": 41,
+          "unit": "g",
+          "name": "olive oil for the middle mayonnaise addition, weighed",
+          "substitution": "Use the same weight of mild sunflower oil."
+        },
+        {
+          "key": "oillast",
+          "amount": 412,
+          "unit": "g",
+          "name": "olive oil for the final mayonnaise addition, weighed",
+          "substitution": "Use the same weight of mild sunflower oil."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground white pepper for the mayonnaise",
+          "substitution": "Use the same amount of ground black pepper for a speckled sauce."
+        },
+        {
+          "key": "vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "white sugar for the mayonnaise",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "garnishcarrot",
+          "amount": 200,
+          "unit": "g",
+          "name": "peeled carrot for garnish",
+          "substitution": "Use the same weight of peeled parsnip."
+        },
+        {
+          "key": "peas",
+          "amount": 150,
+          "unit": "g",
+          "name": "frozen green peas",
+          "substitution": "Use the same weight of fresh shelled peas, cooking until tender."
+        },
+        {
+          "key": "vegwater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "vegsalt",
+          "amount": 5,
+          "unit": "g",
+          "name": "salt for cooking the garnish vegetables",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "cornichons",
+          "amount": 60,
+          "unit": "g",
+          "name": "ready-to-eat pickled cornichons, drained and sliced",
+          "substitution": "Use the same weight of pickled cucumber."
+        },
+        {
+          "key": "mushrooms",
+          "amount": 60,
+          "unit": "g",
+          "name": "ready-to-eat pickled mushrooms, drained and sliced",
+          "substitution": "Use the same weight of extra pickled cucumber."
+        },
+        {
+          "key": "capers",
+          "amount": 30,
+          "unit": "g",
+          "name": "drained capers",
+          "substitution": "Use the same weight of finely chopped pickled cornichons."
+        },
+        {
+          "key": "lettuce",
+          "amount": 150,
+          "unit": "g",
+          "name": "lettuce leaves, washed and thoroughly dried",
+          "substitution": "Use the same weight of romaine leaves."
+        },
+        {
+          "key": "potatoes",
+          "amount": 300,
+          "unit": "g",
+          "name": "peeled waxy potatoes for garnish",
+          "substitution": "Use the same weight of another firm waxy potato variety."
+        }
+      ],
+      "steps": [
+        "Use a fish kettle or deep roasting pan large enough to hold the whole fish flat, with a lifting rack or sturdy foil cradle. Put {{poachwater}}, {{onion}}, {{stockcarrot}}, {{celery}} and {{brothsalt}} in the pan. Simmer for 20 minutes. Cool the broth promptly by standing the pan in cold water, stirring, until no longer warm; keep water from the cooling bath out of the broth.",
+        "Place {{fish}} on the rack in the cooled vegetable broth. Keep its sides together in the whole-fish shape. Add cold drinking water only if needed to cover. Heat gradually to a bare simmer and poach gently for about 30–45 minutes after the broth becomes hot, until the thickest flesh reaches 63°C (145°F). Check the temperature; a particularly thick fish may need longer. Avoid a rolling boil, which can break the flesh.",
+        "Lift out carefully on the rack, drain and transfer to a clean shallow platter that fits in the refrigerator. Let the strong steam subside briefly, then cover loosely and refrigerate promptly, within 2 hours of cooking, until thoroughly cold. Allow about 2–3 hours. Do not leave a whole cooked fish at room temperature until cold. Strain the poaching broth through a fine sieve and skim off any surface fat. Reserve the portions specified below; cool extra broth promptly in shallow containers and refrigerate for use within 2 days, or freeze.",
+        "For the jelly, cool {{jellystock}} until cold. Whisk {{clarifywhite}} with {{clarifywater}} and {{jellyvinegar}} in a saucepan, then whisk in the measured cold broth. Heat gently, stirring until the whites begin to form visible clumps. Stop stirring and keep at a very gentle simmer for 10 minutes so the whites can gather the cloudy particles. Remove from heat and stand for 10 minutes.",
+        "Line a sieve with a clean fine cloth dampened with hot drinking water. Ladle the broth gently through it into a clean jug, without pressing the cooked whites. Discard the solids. The resulting broth should be clearer, although perfect transparency depends on the starting broth.",
+        "Sprinkle {{jellygelatin}} over {{bloomwater}} and leave for 5 minutes. Warm the clarified broth until steaming, remove from heat and stir in the bloomed gelatin until dissolved.",
+        "Pour the liquid jelly into shallow dishes about 1 cm deep. Cover and refrigerate for about 2–3 hours until firmly set. Cut into triangles shortly before serving.",
+        "Cut {{garnishcarrot}} and {{potatoes}} into small even cubes or decorative shapes. Bring {{vegwater}} and {{vegsalt}} to a boil. Simmer the carrot and potato pieces for about 8–12 minutes until tender, lifting them out as they finish. Cook {{peas}} in the same water for about 2–3 minutes until tender. Drain the vegetables thoroughly, spread in a shallow container, cover and refrigerate until cold.",
+        "For the mayonnaise, whisk {{yolks|0.5}}, {{salt}} and {{whitepepper}} in a clean large bowl. Measure {{oilfirst}} into a jug and whisk it in drop by drop at first, then in a very thin stream as the mixture thickens.",
+        "Whisk in {{yolks|0.25}}, followed gradually by {{oilnext}}. Add {{yolks|0.25}} and mix until smooth. Whisk in {{oillast}} in a very thin stream, stopping the pour whenever oil pools and whisking until it blends in. This preserves the original staged-yolk method.",
+        "Gradually whisk {{vinegar}} into the thick mayonnaise, then add {{sugar}} and stir until dissolved. Cover and refrigerate until assembly.",
+        "Spread the mayonnaise over the cold fish. Surround it with the cooked carrot, peas and potato, the jelly triangles, {{mushrooms}}, {{cornichons}} and {{lettuce}}. Scatter {{capers}} over the mayonnaise. Keep chilled until serving. Lift the flesh into portions and check carefully for pin bones even though the backbone was removed; the head and any bones are not eaten.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The source calls for an eight-to-ten-funt whole fish, boned through the belly with the skin intact, and one-and-a-half to two funt oil for a ten-funt fish. A 4.5 kg fish and 680 g total oil are explicit modern working choices near that intended scale, not universal historical-unit conversions. The first 227 g oil corresponds to the chosen half-pound stage; the next 41 g is a working three-tablespoon oil addition and the final 412 g completes the total. Four yolks are added in the original two-plus-one-plus-one sequence. All broth, garnish, acid, seasoning and gelatin quantities are supplied. Broth clarification is completed before adding modern gelatin to avoid extended reheating of the set; the source combines those stages. Prompt refrigerator chilling replaces leaving the fish in its broth in a merely cool place overnight. The optional colored-jelly variation retains the source’s amber and pink decoration. Sixteen meal portions and total time are estimates, including overlapping cooling and setting. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The colored version uses measured ready-made food coloring or caramel syrup instead of preparing burnt sugar or buying historical red gelatin. Coloring affects presentation rather than the main fish and sauce formula.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 330,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "colored-aspic",
+          "label": "With amber and pink aspic",
+          "ingredients": [
+            {
+              "key": "fish",
+              "amount": 4500,
+              "unit": "g",
+              "name": "whole zander or pike, gutted, scaled and gills removed by the fishmonger; backbone removed through the belly with skin kept intact",
+              "substitution": "Use a similar-sized whole white-fleshed freshwater fish suitable for poaching; have the fishmonger prepare it."
+            },
+            {
+              "key": "poachwater",
+              "amount": 5000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "onion",
+              "amount": 1,
+              "unit": "",
+              "name": "large onion, peeled and quartered",
+              "substitution": "Use one cleaned leek per onion."
+            },
+            {
+              "key": "stockcarrot",
+              "amount": 200,
+              "unit": "g",
+              "name": "carrot, scrubbed and sliced, for the broth",
+              "substitution": "Use the same weight of parsnip."
+            },
+            {
+              "key": "celery",
+              "amount": 100,
+              "unit": "g",
+              "name": "celery stalks, cleaned and sliced, for the broth",
+              "substitution": "Use the same weight of peeled celeriac."
+            },
+            {
+              "key": "brothsalt",
+              "amount": 15,
+              "unit": "g",
+              "name": "salt for the poaching broth",
+              "substitution": "Reduce or omit; avoid adding more salt to the reserved broth."
+            },
+            {
+              "key": "jellystock",
+              "amount": 600,
+              "unit": "ml",
+              "name": "strained, skimmed cooked fish broth reserved from poaching; not an additional purchase",
+              "substitution": "Use the same volume of clear unsalted fish stock."
+            },
+            {
+              "key": "clarifywhite",
+              "amount": 60,
+              "unit": "g",
+              "name": "egg whites for clarifying the broth",
+              "substitution": "Use the same weight of plain pasteurized liquid egg white."
+            },
+            {
+              "key": "clarifywater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "jellyvinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar for the jelly",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "jellygelatin",
+              "amount": 14,
+              "unit": "g",
+              "name": "gelatin for the clarified jelly; unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the same weight of fish gelatin with a similar setting strength; agar requires a different formula."
+            },
+            {
+              "key": "bloomwater",
+              "amount": 70,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oilfirst",
+              "amount": 227,
+              "unit": "g",
+              "name": "olive oil for the first mayonnaise addition, weighed",
+              "substitution": "Use the same weight of mild sunflower oil."
+            },
+            {
+              "key": "oilnext",
+              "amount": 41,
+              "unit": "g",
+              "name": "olive oil for the middle mayonnaise addition, weighed",
+              "substitution": "Use the same weight of mild sunflower oil."
+            },
+            {
+              "key": "oillast",
+              "amount": 412,
+              "unit": "g",
+              "name": "olive oil for the final mayonnaise addition, weighed",
+              "substitution": "Use the same weight of mild sunflower oil."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground white pepper for the mayonnaise",
+              "substitution": "Use the same amount of ground black pepper for a speckled sauce."
+            },
+            {
+              "key": "vinegar",
+              "amount": 60,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "white sugar for the mayonnaise",
+              "substitution": "Use the same amount of caster sugar."
+            },
+            {
+              "key": "garnishcarrot",
+              "amount": 200,
+              "unit": "g",
+              "name": "peeled carrot for garnish",
+              "substitution": "Use the same weight of peeled parsnip."
+            },
+            {
+              "key": "peas",
+              "amount": 150,
+              "unit": "g",
+              "name": "frozen green peas",
+              "substitution": "Use the same weight of fresh shelled peas, cooking until tender."
+            },
+            {
+              "key": "vegwater",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "vegsalt",
+              "amount": 5,
+              "unit": "g",
+              "name": "salt for cooking the garnish vegetables",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "cornichons",
+              "amount": 60,
+              "unit": "g",
+              "name": "ready-to-eat pickled cornichons, drained and sliced",
+              "substitution": "Use the same weight of pickled cucumber."
+            },
+            {
+              "key": "mushrooms",
+              "amount": 60,
+              "unit": "g",
+              "name": "ready-to-eat pickled mushrooms, drained and sliced",
+              "substitution": "Use the same weight of extra pickled cucumber."
+            },
+            {
+              "key": "capers",
+              "amount": 30,
+              "unit": "g",
+              "name": "drained capers",
+              "substitution": "Use the same weight of finely chopped pickled cornichons."
+            },
+            {
+              "key": "lettuce",
+              "amount": 150,
+              "unit": "g",
+              "name": "lettuce leaves, washed and thoroughly dried",
+              "substitution": "Use the same weight of romaine leaves."
+            },
+            {
+              "key": "potatoes",
+              "amount": 300,
+              "unit": "g",
+              "name": "peeled waxy potatoes for garnish",
+              "substitution": "Use the same weight of another firm waxy potato variety."
+            },
+            {
+              "key": "caramelcolor",
+              "amount": 5,
+              "unit": "ml",
+              "name": "ready-made food-grade caramel coloring or dark caramel syrup",
+              "substitution": "Omit for clear jelly, or use the same volume of a mild dark caramel syrup."
+            },
+            {
+              "key": "redcolor",
+              "amount": 2,
+              "unit": "drops",
+              "name": "food-safe red liquid coloring",
+              "substitution": "Omit for an entirely amber and clear decoration."
+            }
+          ],
+          "steps": [
+            "Use a fish kettle or deep roasting pan large enough to hold the whole fish flat, with a lifting rack or sturdy foil cradle. Put {{poachwater}}, {{onion}}, {{stockcarrot}}, {{celery}} and {{brothsalt}} in the pan. Simmer for 20 minutes. Cool the broth promptly by standing the pan in cold water, stirring, until no longer warm; keep water from the cooling bath out of the broth.",
+            "Place {{fish}} on the rack in the cooled vegetable broth. Keep its sides together in the whole-fish shape. Add cold drinking water only if needed to cover. Heat gradually to a bare simmer and poach gently for about 30–45 minutes after the broth becomes hot, until the thickest flesh reaches 63°C (145°F). Check the temperature; a particularly thick fish may need longer. Avoid a rolling boil, which can break the flesh.",
+            "Lift out carefully on the rack, drain and transfer to a clean shallow platter that fits in the refrigerator. Let the strong steam subside briefly, then cover loosely and refrigerate promptly, within 2 hours of cooking, until thoroughly cold. Allow about 2–3 hours. Do not leave a whole cooked fish at room temperature until cold. Strain the poaching broth through a fine sieve and skim off any surface fat. Reserve the portions specified below; cool extra broth promptly in shallow containers and refrigerate for use within 2 days, or freeze.",
+            "For the jelly, cool {{jellystock}} until cold. Whisk {{clarifywhite}} with {{clarifywater}} and {{jellyvinegar}} in a saucepan, then whisk in the measured cold broth. Heat gently, stirring until the whites begin to form visible clumps. Stop stirring and keep at a very gentle simmer for 10 minutes so the whites can gather the cloudy particles. Remove from heat and stand for 10 minutes.",
+            "Line a sieve with a clean fine cloth dampened with hot drinking water. Ladle the broth gently through it into a clean jug, without pressing the cooked whites. Discard the solids. The resulting broth should be clearer, although perfect transparency depends on the starting broth.",
+            "Sprinkle {{jellygelatin}} over {{bloomwater}} and leave for 5 minutes. Warm the clarified broth until steaming, remove from heat and stir in the bloomed gelatin until dissolved.",
+            "Divide the liquid jelly into two equal portions. Stir {{caramelcolor}} into one portion and {{redcolor}} into the other. Pour into separate shallow dishes about 1 cm deep, cover and refrigerate for about 2–3 hours until firm. Cut into triangles shortly before serving.",
+            "Cut {{garnishcarrot}} and {{potatoes}} into small even cubes or decorative shapes. Bring {{vegwater}} and {{vegsalt}} to a boil. Simmer the carrot and potato pieces for about 8–12 minutes until tender, lifting them out as they finish. Cook {{peas}} in the same water for about 2–3 minutes until tender. Drain the vegetables thoroughly, spread in a shallow container, cover and refrigerate until cold.",
+            "For the mayonnaise, whisk {{yolks|0.5}}, {{salt}} and {{whitepepper}} in a clean large bowl. Measure {{oilfirst}} into a jug and whisk it in drop by drop at first, then in a very thin stream as the mixture thickens.",
+            "Whisk in {{yolks|0.25}}, followed gradually by {{oilnext}}. Add {{yolks|0.25}} and mix until smooth. Whisk in {{oillast}} in a very thin stream, stopping the pour whenever oil pools and whisking until it blends in. This preserves the original staged-yolk method.",
+            "Gradually whisk {{vinegar}} into the thick mayonnaise, then add {{sugar}} and stir until dissolved. Cover and refrigerate until assembly.",
+            "Spread the mayonnaise over the cold fish. Surround it with the cooked carrot, peas and potato, the jelly triangles, {{mushrooms}}, {{cornichons}} and {{lettuce}}. Scatter {{capers}} over the mayonnaise. Keep chilled until serving. Lift the flesh into portions and check carefully for pin bones even though the backbone was removed; the head and any bones are not eaten.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
   }
 ]
