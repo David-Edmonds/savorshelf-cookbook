@@ -1,3 +1,7 @@
+## Recipe repair batch 047
+
+Eight dressing adaptations now include complete cooking steps, linked quantities and substitutions. The Wallace mustard error is corrected, and milk, unwhipped cream, mustard and egg-free alternatives have complete methods. 524 imported recipes are completed adaptations; 40280 still need substantive repair. Kitchen and physical-phone testing remain unverified.
+
 Batch 046: twelve further Denison and Manila dressings, with corrected source fractions, complete cooking and cream/milk alternatives. Unspecified quantities and a printed sugar ambiguity are identified as modern choices. 516 completed adaptations; 40,288 imported recipes still need substantive content repair. 89 duplicate sources consolidated; 42,256 recipes visible. Automated and browser validation do not constitute kitchen or physical-phone testing.
 
 Batch 045: nine further measured Canadian dressings and salads, with corrected source fractions, full cooking methods and milk, cream, lettuce and cooked-beet alternatives. 504 completed adaptations; 40,300 imported recipes still need substantive content repair. 89 duplicate sources consolidated; 42,256 recipes visible. Automated and browser validation do not constitute kitchen or physical-phone testing.

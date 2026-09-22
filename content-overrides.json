@@ -57541,5 +57541,923 @@
       "updatedAt": "2026-09-22T20:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-90aa66326ff09ee15d7447b2",
+    "bodySha256": "07dc9ac3e727bfcd7bb570697d1a086242fdc65436642e0f717a0d5fc53a567f",
+    "recipe": {
+      "id": "historical-90aa66326ff09ee15d7447b2",
+      "title": "Wallace Cooked-Yolk Cream Dressing",
+      "description": "Hard-boiled yolks, mustard and vinegar form a smooth paste that is loosened gradually with cream.",
+      "category": "Condiments",
+      "servings": 20,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "cream",
+          "amount": 240,
+          "unit": "ml",
+          "name": "pouring cream",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolks and press through a fine sieve into a mixing bowl. Refrigerate the cooked whites for another dish and use within 2 days.",
+        "Mash {{mustard}}, {{salt}}, {{pepper}} and {{sugar}} into the sieved yolks. Work in {{vinegar}} until the paste is smooth.",
+        "Gradually stir in {{cream}}, a little at a time, until evenly combined. The cream is poured in without whipping. Serve cold over the prepared salad.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The full 1914 bilingual recipe has two hard-boiled yolks, half a teaspoon mustard, two tablespoons vinegar and one cup cream. It does not instruct whipping the cream. This adaptation uses modern 30 ml vinegar and 240 ml cream and supplies quarter teaspoon salt, one-eighth teaspoon pepper and half a teaspoon sugar. The unspecified mustard is represented by dry mustard. Egg boiling, handling the unused whites and short refrigerated storage are supplied. Twenty small dressing portions and timing are estimates. This differs from the later Wallace dressing in its acid formula and cream treatment. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1ed6175aa3309770ae480515",
+    "bodySha256": "f64ea6bf8367926238a00065912c8eff48e88f3d32bc5b707df0f66d21f74dcd",
+    "recipe": {
+      "id": "historical-1ed6175aa3309770ae480515",
+      "title": "Wallace Cooked Lemon-and-Butter Dressing",
+      "description": "Eggs and lemon thicken a cream dressing in a water bath, with butter beaten in after cooking.",
+      "category": "Condiments",
+      "servings": 26,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        },
+        {
+          "key": "cream",
+          "amount": 240,
+          "unit": "ml",
+          "name": "pouring cream",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Mix {{mustard}}, {{salt}}, {{sugar}} and {{pepper}} in a heatproof bowl. Beat {{eggs}} separately, then whisk them in with {{lemon}} and {{cream}}.",
+        "Set the bowl over gently simmering water, keeping its base above the water. Whisk continuously until the dressing coats a spoon and reaches at least 71°C (160°F), about 8–12 minutes. Remove promptly without boiling the egg mixture hard.",
+        "Remove from the heat and beat in {{butter}} in small pieces until fully melted and smooth.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Stir before using and spoon over the prepared salad just before serving.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The 1928 source specifies half a teaspoon mustard, one teaspoon each salt and sugar, two whole eggs, one cup cream or milk, the juice of one lemon and two tablespoons butter. The measured base uses modern 240 ml cream, working 30 ml lemon juice and 28 g butter, with one-eighth teaspoon pepper supplied. Butter is added AFTER the egg mixture is cooked, as the source requires. Both dairy options have complete methods. Twenty-six small portions and the time including cooling are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "milk",
+          "label": "Made with milk",
+          "ingredients": [
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+            },
+            {
+              "key": "milk",
+              "amount": 240,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of lactose-free dairy milk."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Mix {{mustard}}, {{salt}}, {{sugar}} and {{pepper}} in a heatproof bowl. Beat {{eggs}} separately, then whisk them in with {{lemon}} and {{milk}}.",
+            "Set the bowl over gently simmering water, keeping its base above the water. Whisk continuously until the dressing coats a spoon and reaches at least 71°C (160°F), about 8–12 minutes. Remove promptly without boiling the egg mixture hard.",
+            "Remove from the heat and beat in {{butter}} in small pieces until fully melted and smooth.",
+            "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+            "Stir before using and spoon over the prepared salad just before serving.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-76f08b0b3f54917d099d51bb",
+    "bodySha256": "c7fb6c571dff23c4b2591945061c4e4ff8376e04057efdbdefd79eb0568ebf55",
+    "recipe": {
+      "id": "historical-76f08b0b3f54917d099d51bb",
+      "title": "Wallace Lemon Dressing with Whipped Cream",
+      "description": "A paste of cooked yolks, prepared mustard, vinegar and lemon is lightened with softly whipped cream.",
+      "category": "Condiments",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same volume of another smooth prepared mustard."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "cream",
+          "amount": 240,
+          "unit": "ml",
+          "name": "cold heavy whipping cream, measured before whipping",
+          "substitution": "Use the same volume of lactose-free dairy whipping cream."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolks and press through a fine sieve into a mixing bowl. Refrigerate the cooked whites for another dish and use within 2 days.",
+        "Mash {{mustard}}, {{salt}}, {{pepper}} and {{sugar}} into the sieved yolks. Gradually work in {{vinegar}} and {{lemon}} to make a smooth paste. Let the paste cool completely.",
+        "Whip {{cream}} in a chilled bowl until it holds soft peaks. Stir a spoonful into the cold yolk paste, then gently fold in the remaining measured cream. Serve cold over the prepared salad.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The scanned bilingual page238 specifies HALF a teaspoon prepared mustard, not the extracted one-and-a-half teaspoons. Two hard-boiled yolks, one tablespoon vinegar, two tablespoons lemon juice and one cup cream are retained as modern 15 ml, 30 ml and 240 ml. Cream is measured liquid before whipping as an explicit working choice. The English method calls for whipped cream; the Finnish method says to add cream gradually without specifying whipping, so a complete unwhipped variation is retained. Salt, pepper and sugar are supplied. The separate oil-lemon-cream alternative has its own complete egg-free variation, not extra steps appended to the egg recipe. Twenty-four small portions and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. In the egg-free alternative, the printed half cup oil becomes 120 ml and the scant half cup lemon juice is a working 110 ml; cream is 240 ml. Mustard and pepper are not in that separate source formula. At the shared 24-serving setting it makes larger portions than the whipped-yolk base.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "unwhipped",
+          "label": "With unwhipped cream, following the Finnish method",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same volume of another smooth prepared mustard."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "cream",
+              "amount": 240,
+              "unit": "ml",
+              "name": "pouring cream",
+              "substitution": "Use the same volume of lactose-free dairy cream."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the firm cooked yolks and press through a fine sieve into a mixing bowl. Refrigerate the cooked whites for another dish and use within 2 days.",
+            "Mash {{mustard}}, {{salt}}, {{pepper}} and {{sugar}} into the sieved yolks. Gradually work in {{vinegar}} and {{lemon}} to make a smooth paste. Let the paste cool completely.",
+            "Gradually stir in {{cream}}, without whipping, until the dressing is smooth. Serve cold over the prepared salad.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+          ]
+        },
+        {
+          "id": "egg-free",
+          "label": "The source’s separate egg-free oil and lemon dressing",
+          "ingredients": [
+            {
+              "key": "oil",
+              "amount": 120,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 110,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "cream",
+              "amount": 240,
+              "unit": "ml",
+              "name": "pouring cream",
+              "substitution": "Use the same volume of lactose-free dairy cream."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+            }
+          ],
+          "steps": [
+            "Whisk {{lemon}}, {{salt}} and {{sugar}} until the seasonings dissolve. Gradually whisk in {{oil}} until blended.",
+            "Add {{cream}} very gradually while whisking, then serve promptly over the prepared salad. This is a loose cream dressing; whisk again if it separates.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-4468530792b24f9ce94c4629",
+    "bodySha256": "a82cf4cb71f04dc97e9b55a7cd3cb9ff04fae6f9f73b7e2bce9fe86601feffec",
+    "recipe": {
+      "id": "historical-4468530792b24f9ce94c4629",
+      "title": "Idun Paprika Salad Dressing",
+      "description": "A lightly sweet oil-and-vinegar dressing combines paprika with a small amount of sugar and salt.",
+      "category": "Condiments",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the same amount of smoked paprika for a different flavor, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 22.5,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Whisk {{salt}}, {{paprika}}, {{sugar}} and {{vinegar}} in a small bowl until the salt and sugar dissolve.",
+        "Just before serving, whisk in {{oil}} a little at a time. Spoon over the prepared green or potato salad and toss to coat. Serve immediately; whisk again if the oil separates.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "Idun recipe448 explicitly serves six. Quarter teaspoon salt, half a teaspoon sugar, one-and-a-half tablespoons vinegar and four tablespoons oil are retained using modern 22.5 ml vinegar and 60 ml oil. The few grains of paprika become a working one-sixteenth teaspoon. The source mixes spices with vinegar before adding oil just before serving. Its optional teaspoon French mustard for fish or lobster salad is preserved as a complete variation. Five minutes is an estimate; the six portions follow the printed yield. This is distinct from the earlier sweet paprika dressing in its oil-to-vinegar and seasoning ratios. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "french-mustard",
+          "label": "With French mustard for fish or lobster salad",
+          "ingredients": [
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "paprika",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "sweet paprika",
+              "substitution": "Use the same amount of smoked paprika for a different flavor, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 22.5,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 60,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same volume of another smooth prepared mustard."
+            }
+          ],
+          "steps": [
+            "Whisk {{salt}}, {{paprika}}, {{sugar}}, {{mustard}} and {{vinegar}} in a small bowl until evenly mixed.",
+            "Just before serving, gradually whisk in {{oil}}. Spoon over the prepared chilled fish or lobster salad and toss gently. Serve immediately; whisk again if the oil separates.",
+            "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-49f83b0ae5fc943b8c8cbedc",
+    "bodySha256": "c0ba79a27e695f5233f827eeedb999aa75df26d3433847278a5eb5401594006e",
+    "recipe": {
+      "id": "historical-49f83b0ae5fc943b8c8cbedc",
+      "title": "Beeton Uncooked Milk-and-Mustard Dressing",
+      "description": "Prepared mustard and sugar are blended with oil, then milk and vinegar are added gradually for a thin, tangy dressing.",
+      "category": "Condiments",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same volume of another smooth prepared mustard."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "milk",
+          "amount": 60,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of lactose-free dairy milk."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        }
+      ],
+      "steps": [
+        "Mix {{mustard}} and {{sugar}} in a small bowl. Measure {{oil}} into a jug and beat it in drop by drop at first, then in a thin stream, until evenly blended.",
+        "Gradually beat in {{milk}}, then add {{vinegar}} a little at a time, stirring well after each addition. Keep the mixture cool. This is a thin dressing rather than a thick mayonnaise; acid may make the milk slightly grainy.",
+        "Stir in {{salt}} and {{cayenne}} last. Use promptly on the prepared salad, whisking again before serving.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The complete recipe506 specifies mixed mustard, interpreted as prepared mustard, and one teaspoon sugar, two tablespoons oil, four tablespoons milk and two tablespoons vinegar. These liquid amounts become modern 30 ml, 60 ml and 30 ml. Salt and cayenne are supplied as quarter and one-sixteenth teaspoons. The oil, milk, vinegar and final seasoning order is retained. This method is uncooked and does not promise that gradual mixing will prevent all acid-related milk separation. Eight small dressing portions and ten minutes are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-868778d47c9a3e4289661869",
+    "bodySha256": "8cd1286fd2cba8d600ebbd05f5c93c8ed60f28ddd91034d6d8fc0eb13c479a2d",
+    "recipe": {
+      "id": "historical-868778d47c9a3e4289661869",
+      "title": "Beeton Peppery Cooked-Yolk Salad Dressing",
+      "description": "Four hard-boiled yolks make a rich mustard-and-cream dressing, sharpened with vinegar and seasoned with white pepper and cayenne.",
+      "category": "Condiments",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same volume of another smooth prepared mustard."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground black pepper."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Reduce or omit for a milder dressing."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cream",
+          "amount": 60,
+          "unit": "ml",
+          "name": "pouring cream",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        },
+        {
+          "key": "vinegar",
+          "amount": 45,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolks and pound in a mortar until smooth. Slice the cooked whites into rings and refrigerate them for the salad garnish.",
+        "Work {{mustard}}, {{pepper}}, {{cayenne}}, {{salt}} and {{cream}} into the yolk paste until evenly combined.",
+        "Add {{vinegar}} very gradually, stirring well after each addition, to loosen the dressing. The final thickness depends on egg size and cream; the measured adaptation makes a spoonable dressing. Spoon over the prepared salad and garnish with the reserved cooked-white rings.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The full source has four hard-boiled yolks, one teaspoon mixed mustard, quarter teaspoon white pepper, half that amount of cayenne and four tablespoons cream. Modern cream is 60 ml; unmeasured vinegar and salt become working 45 ml and quarter teaspoon. The source’s cooked-white-ring garnish is restored from the following note. The egg-boiling method and short refrigeration guidance are supplied. Twelve small portions and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-dc0dd7459f789468c9355e69",
+    "bodySha256": "c7e0862f028a9a56f1aa5b23516d570110c7715c61bb1ebbf134c3d0a9d11b17",
+    "recipe": {
+      "id": "historical-dc0dd7459f789468c9355e69",
+      "title": "Farmer Chicken-Stock Salad Dressing",
+      "description": "Reduced chicken stock adds savory depth to a cooked five-yolk mustard dressing, strained smooth and finished with cream and melted butter.",
+      "category": "Condiments",
+      "servings": 40,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "stock",
+          "amount": 240,
+          "unit": "ml",
+          "name": "unsalted cooked chicken stock",
+          "substitution": "Use the same volume of unsalted turkey stock for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 120,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "yolks",
+          "amount": 5,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "mustard",
+          "amount": 2,
+          "unit": "tbsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same volume of another smooth prepared mustard."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "cream",
+          "amount": 120,
+          "unit": "ml",
+          "name": "pouring cream",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        },
+        {
+          "key": "butter",
+          "amount": 80,
+          "unit": "ml",
+          "name": "unsalted butter, measured after melting",
+          "substitution": "Use the same volume of melted salted butter and reduce the added salt."
+        }
+      ],
+      "steps": [
+        "Put {{stock}} in a small saucepan and simmer uncovered until reduced to half its starting volume, about 10–15 minutes. Measure the reduced stock in a heatproof jug; return it to the pan briefly if more reduction is needed. Let cool until lukewarm.",
+        "In a heatproof bowl, whisk {{yolks}}, {{mustard}}, {{salt}}, {{pepper}} and {{cayenne}}. Gradually whisk in {{vinegar}} and the reduced stock.",
+        "Set the bowl over gently simmering water, keeping its base above the water. Whisk continuously until the dressing coats a spoon and reaches at least 71°C (160°F), about 8–12 minutes. Remove promptly without boiling the egg mixture hard.",
+        "Strain the hot dressing through a fine sieve into a clean bowl. Gradually stir in {{cream}} and {{butter}} until evenly combined.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Stir before using and spoon over the prepared salad just before serving.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The source begins with half a cup rich chicken stock AFTER reduction. This adaptation supplies 240 ml unsalted cooked stock and reduces it to 120 ml; the starting amount is a modern choice. Half a cup each vinegar and cream become 120 ml, and one-third cup melted butter is retained as 80 ml measured after melting. Five yolks, two tablespoons prepared mustard, one teaspoon salt and quarter teaspoon pepper are retained; cayenne is supplied. Straining occurs before cream and melted butter are added, and cooling follows, as printed. Forty small portions and the 75-minute total including reduction and cooling are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ad00b126bc30eb8821123536",
+    "bodySha256": "23c6ed7d33025653a4a4eef60adeb303c712ee5e50b56c8d755d57018a469a75",
+    "recipe": {
+      "id": "historical-ad00b126bc30eb8821123536",
+      "title": "White House French Dressing with Grated Onion",
+      "description": "Finely grated onion gives bite to a simple three-to-one olive-oil and vinegar dressing.",
+      "category": "Condiments",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 5,
+      "ingredients": [
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "onion",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "peeled onion, finely grated",
+          "substitution": "Use the same amount of finely grated shallot."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Mix {{pepper}} and {{salt}} in a small bowl. Stir in {{oil}} and {{onion}} until evenly combined.",
+        "Add {{vinegar}} and whisk vigorously. Immediately pour over the prepared salad and toss until evenly coated.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The source specifies three tablespoons oil, one level tablespoon scraped onion and one tablespoon vinegar. Modern liquid measures are 45 ml and 15 ml. Its saltspoon measures are not a verified modern standard; this adaptation chooses quarter teaspoon salt and one-eighth teaspoon pepper. The full tablespoon onion and oil-before-vinegar order are retained. This differs from the existing tarragon-and-onion dressing, which has tarragon vinegar, parsley and extracted onion juice. Five small portions and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 5,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]
