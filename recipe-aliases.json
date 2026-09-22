@@ -448,5 +448,23 @@
     "canonicalId": "historical-61b174f7bf4fe2d7fd35f9fc",
     "bodySha256": "be3b58add0f2735613f63b520f452bee6b280b16c8229e239264c579b0ae1409",
     "reason": "Same complete Wallace No632 formula with cooked and raw yolks,1.5cups oil and4tablespoons lemon; canonical87 restores the whipped-cream finish omitted by88."
+  },
+  {
+    "id": "historical-3db9b1296016609d2f653777",
+    "canonicalId": "historical-3f5516370c3705d5e13ea62a",
+    "bodySha256": "41e31480f07a1a91f5f3e171de40906879d97e9b70d85378f8b984616b1c2cf1",
+    "reason": "Same full Idun No174 lobster formula, separate dressed salad and gelatin-free mayonnaise; duplicate extraction of the same printed recipe, with prepared-lobster option retained."
+  },
+  {
+    "id": "historical-997ca918c9262a0f19d2d9b3",
+    "canonicalId": "historical-bab15d031bc13f8c7d8a686d",
+    "bodySha256": "4e07ef98c6b83e3c35422426470802629c9bece5c15f8c5571de30e9a15f1f7e",
+    "reason": "Same full Idun No102 tongue, breading, butter frying and 200ml-oil mayonnaise formula; duplicate source extraction, including missing parsley garnish restored in canonical95."
+  },
+  {
+    "id": "historical-e67602f507adf284a61fbe84",
+    "canonicalId": "historical-41101a3c5fa7b2a95249a38f",
+    "bodySha256": "17680eea5eae502ea240affa580f27e9e3efff0dd2c411855ce9ee88dc631891",
+    "reason": "Same full Idun No176 salmon, gelatin-free mayonnaise, dressed lettuce and egg/caper/olive/radish garnish; duplicate extraction with full cooked-leftover alternative retained."
   }
 ]

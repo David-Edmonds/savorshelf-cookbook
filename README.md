@@ -1,3 +1,7 @@
+# Recipe content batch 037 — September 22, 2026
+
+Four Idun dishes now have complete cooking, homemade mayonnaise, garnishes and prepared-leftover alternatives. Three repeated sources are consolidated with saved IDs and credits retained. Totals: 40,815 imported recipes, 465 completed adaptations, 40,350 remaining content repairs and 42,267 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 036 — September 22, 2026
 
 Four Wallace sauces now have complete measured cooking, cream and named variations, including the printed Finnish/English fat difference and one-yolk economy method. Four repeated sources are consolidated with old IDs and credits retained. Totals: 40,818 imported recipes, 461 completed adaptations, 40,357 remaining content repairs and 42,270 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.

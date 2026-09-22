@@ -44773,5 +44773,1168 @@
         "historical-b6182ab25178b29ff000995b"
       ]
     }
+  },
+  {
+    "sourceId": "historical-3f5516370c3705d5e13ea62a",
+    "bodySha256": "e7d5a173668ba2aba2d4a8c6bcfac72fa5cec873817b4f57bc19bc29854596d9",
+    "recipe": {
+      "id": "historical-3f5516370c3705d5e13ea62a",
+      "title": "Idun Lobster with Mayonnaise and Dressed Lettuce",
+      "description": "Chilled lobster is coated with homemade tarragon-lemon mayonnaise and surrounded by crisp lettuce, cucumber, tomatoes and sliced eggs.",
+      "category": "Starters",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 110,
+      "ingredients": [
+        {
+          "key": "lobsters",
+          "amount": 800,
+          "unit": "g",
+          "name": "whole raw lobsters, about two small lobsters, dispatched by the fishmonger",
+          "substitution": "Use the complete prepared-lobster variation for cooked shellfish."
+        },
+        {
+          "key": "poachwater",
+          "amount": 4000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "poachsalt",
+          "amount": 150,
+          "unit": "g",
+          "name": "coarse salt for the lobster cooking water; most is discarded",
+          "substitution": "Use the same weight of fine salt, or reduce for a less salty cooking liquid."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        },
+        {
+          "key": "oil",
+          "amount": 150,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "mayowater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "freshly boiled drinking water for the mayonnaise",
+          "substitution": "Use the same amount of warm drinking water for a gentler addition."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "eggwater",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "lettuce",
+          "amount": 300,
+          "unit": "g",
+          "name": "crisp lettuce leaves, trimmed weight",
+          "substitution": "Use the same weight of romaine or little-gem leaves."
+        },
+        {
+          "key": "saladsalt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt for the salad",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the same amount of mild smoked paprika for a different flavor, or omit."
+        },
+        {
+          "key": "saladoil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil for the salad",
+          "substitution": "Use the same volume of sunflower oil."
+        },
+        {
+          "key": "saladvinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar for the salad",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "cucumber",
+          "amount": 50,
+          "unit": "g",
+          "name": "fresh cucumber, approximately ten thin slices",
+          "substitution": "Use the same weight of extra tomato."
+        },
+        {
+          "key": "tomatoes",
+          "amount": 240,
+          "unit": "g",
+          "name": "ripe tomatoes, about two medium tomatoes",
+          "substitution": "Use the same weight of cherry tomatoes, halved."
+        }
+      ],
+      "steps": [
+        "Bring {{poachwater}} and {{poachsalt}} to a boil in a pot large enough for {{lobsters}}. Carefully lower in the freshly dispatched lobsters, return to a gentle boil and cook for about 12–18 minutes for small whole lobsters; size and starting temperature affect the time. Check that the tail and claw meat is pearly white and opaque throughout before removing.",
+        "Drain the lobsters and let them cool only until safe to handle. Split the bodies lengthwise, crack the claws and remove the tail and claw meat. Discard shell, stomach sac behind the eyes and the dark intestinal vein; check the meat carefully for shell fragments. Spread the meat in a shallow clean container, cover loosely and refrigerate promptly until cold, about 45–60 minutes. Do not leave it on the counter to cool completely.",
+        "Place {{eggs}} in a saucepan with {{eggwater}}, topping up only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and leave for 12 minutes. Cool under cold running water and peel. The yolks and whites must be firm throughout; cut as directed when garnishing.",
+        "In a clean bowl set on a damp towel, whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} until smooth.",
+        "Measure {{oil}}, {{vinegar}} and {{lemon}} into separate small jugs. Whisk oil into the yolks a few drops at a time until thickened, then add the remaining oil in a thin stream, alternating small additions of the measured vinegar and lemon juice. Pause pouring whenever oil pools and whisk until it blends in.",
+        "Gradually whisk {{mayowater}} into the thick sauce rather than pouring it all onto the yolks. Cover and refrigerate at 4°C (40°F) or colder while preparing the dish. The hot-water addition does not pasteurize the mayonnaise; commercially pasteurized yolks are specified.",
+        "Cut the cold lobster meat into bite-size pieces, reserving a few attractive pieces for the top. Arrange the rest in a low mound on a chilled platter, spoon over the mayonnaise and top with the reserved meat.",
+        "Wash {{lettuce}} in cold water, drain and dry thoroughly, then cut across into bite-size strips. Immediately before assembly, toss with {{saladsalt}}, {{paprika}}, {{saladoil}} and {{saladvinegar}}. Wash and thinly slice {{cucumber}} and {{tomatoes}}, then fold into the dressed lettuce. Arrange the salad around the lobster and garnish with the hard-boiled eggs cut into slices.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "Original Idun recipe 174 and its duplicate extraction give two 400 g lobsters, 4 litres water and 150 g cooking salt. Most cooking salt is discarded with the water. The full referenced lobster preparation and mayonnaise without gelatin are supplied here. Three unspecified lettuce heads become 300 g trimmed leaves, two tomatoes 240 g, and ten cucumber slices 50 g. Cayenne is standardized to one-sixteenth teaspoon. Six small first-course portions follow the source, not six substantial main meals. Cooling time is included. The original canned alternative is specified only as a one-litre can including packing liquid; its drained yield is unknown. The full prepared-lobster variation uses a chosen 240 g drained meat portion for convenience, not a claimed conversion of that can. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 110,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-3db9b1296016609d2f653777"
+      ],
+      "variants": [
+        {
+          "id": "prepared-lobster",
+          "label": "With prepared cooked lobster",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "oil",
+              "amount": 150,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mayowater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "freshly boiled drinking water for the mayonnaise",
+              "substitution": "Use the same amount of warm drinking water for a gentler addition."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "eggwater",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "lettuce",
+              "amount": 300,
+              "unit": "g",
+              "name": "crisp lettuce leaves, trimmed weight",
+              "substitution": "Use the same weight of romaine or little-gem leaves."
+            },
+            {
+              "key": "saladsalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt for the salad",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "paprika",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "sweet paprika",
+              "substitution": "Use the same amount of mild smoked paprika for a different flavor, or omit."
+            },
+            {
+              "key": "saladoil",
+              "amount": 30,
+              "unit": "ml",
+              "name": "olive oil for the salad",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "saladvinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar for the salad",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "cucumber",
+              "amount": 50,
+              "unit": "g",
+              "name": "fresh cucumber, approximately ten thin slices",
+              "substitution": "Use the same weight of extra tomato."
+            },
+            {
+              "key": "tomatoes",
+              "amount": 240,
+              "unit": "g",
+              "name": "ripe tomatoes, about two medium tomatoes",
+              "substitution": "Use the same weight of cherry tomatoes, halved."
+            },
+            {
+              "key": "cookedlobster",
+              "amount": 240,
+              "unit": "g",
+              "name": "cooked lobster meat, chilled and drained weight",
+              "substitution": "Use the same weight of cooked peeled prawns for a different shellfish version."
+            }
+          ],
+          "steps": [
+            "Drain {{cookedlobster}} well and check carefully for shell fragments. Keep covered in the refrigerator until assembly.",
+            "Place {{eggs}} in a saucepan with {{eggwater}}, topping up only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and leave for 12 minutes. Cool under cold running water and peel. The yolks and whites must be firm throughout; cut as directed when garnishing.",
+            "In a clean bowl set on a damp towel, whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} until smooth.",
+            "Measure {{oil}}, {{vinegar}} and {{lemon}} into separate small jugs. Whisk oil into the yolks a few drops at a time until thickened, then add the remaining oil in a thin stream, alternating small additions of the measured vinegar and lemon juice. Pause pouring whenever oil pools and whisk until it blends in.",
+            "Gradually whisk {{mayowater}} into the thick sauce rather than pouring it all onto the yolks. Cover and refrigerate at 4°C (40°F) or colder while preparing the dish. The hot-water addition does not pasteurize the mayonnaise; commercially pasteurized yolks are specified.",
+            "Cut the cold lobster meat into bite-size pieces, reserving a few attractive pieces for the top. Arrange the rest in a low mound on a chilled platter, spoon over the mayonnaise and top with the reserved meat.",
+            "Wash {{lettuce}} in cold water, drain and dry thoroughly, then cut across into bite-size strips. Immediately before assembly, toss with {{saladsalt}}, {{paprika}}, {{saladoil}} and {{saladvinegar}}. Wash and thinly slice {{cucumber}} and {{tomatoes}}, then fold into the dressed lettuce. Arrange the salad around the lobster and garnish with the hard-boiled eggs cut into slices.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-b6aee49ae8876ccc3767f6a5",
+    "bodySha256": "dc144163a10e93da4910fe34820f366b0bb2dd34cba1e54eb40a7b5e8f8e43c9",
+    "recipe": {
+      "id": "historical-b6aee49ae8876ccc3767f6a5",
+      "title": "Idun Chicken with Mayonnaise and Lettuce",
+      "description": "Gently poached chicken is layered with tarragon-lemon mayonnaise over dressed lettuce and finished with eggs, capers and olives.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 160,
+      "ingredients": [
+        {
+          "key": "chicken",
+          "amount": 1000,
+          "unit": "g",
+          "name": "small whole chicken, oven-ready and eviscerated, cut into joints by the butcher",
+          "substitution": "Use the complete cooked-chicken variation when using leftovers."
+        },
+        {
+          "key": "poachwater",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "poachsalt",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "fine salt for the chicken cooking liquid",
+          "substitution": "Reduce to taste; most remains in the discarded cooking liquid."
+        },
+        {
+          "key": "peppercorns",
+          "amount": 4,
+          "unit": "",
+          "name": "white peppercorns",
+          "substitution": "Use the same number of black peppercorns."
+        },
+        {
+          "key": "bay",
+          "amount": 1,
+          "unit": "",
+          "name": "dried bay leaf",
+          "substitution": "Use one fresh bay leaf, or omit."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        },
+        {
+          "key": "oil",
+          "amount": 150,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "mayowater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "freshly boiled drinking water for the mayonnaise",
+          "substitution": "Use the same amount of warm drinking water for a gentler addition."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "eggwater",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "lettuce",
+          "amount": 200,
+          "unit": "g",
+          "name": "crisp lettuce leaves, trimmed weight",
+          "substitution": "Use the same weight of romaine or little-gem leaves."
+        },
+        {
+          "key": "saladsalt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt for the salad",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the same amount of mild smoked paprika for a different flavor, or omit."
+        },
+        {
+          "key": "saladoil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "olive oil for the salad",
+          "substitution": "Use the same volume of sunflower oil."
+        },
+        {
+          "key": "saladvinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar for the salad",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "hearts",
+          "amount": 100,
+          "unit": "g",
+          "name": "small lettuce hearts, trimmed weight",
+          "substitution": "Use the same weight of tender inner romaine leaves."
+        },
+        {
+          "key": "capers",
+          "amount": 30,
+          "unit": "ml",
+          "name": "capers, drained",
+          "substitution": "Use the same volume of finely chopped cornichons."
+        },
+        {
+          "key": "olives",
+          "amount": 4,
+          "unit": "",
+          "name": "pitted green olives",
+          "substitution": "Use the same number of pitted black olives."
+        }
+      ],
+      "steps": [
+        "Put {{poachwater}}, {{poachsalt}}, {{peppercorns}} and {{bay}} in a snug saucepan and bring to a simmer. Add {{chicken}}; add only enough extra hot water to cover the joints. Do not wash raw chicken. Cover partially and simmer gently for about 45–70 minutes, skimming foam if needed, until the thickest breast and thigh portions reach 74°C (165°F), checking away from bone. Older birds may take longer to become tender.",
+        "Lift out the chicken. As soon as it is cool enough to handle, remove the skin and bones and cut the meat into even bite-size pieces. Spread in a shallow container and refrigerate promptly until cold, about 60 minutes. Do not leave it at room temperature to cool completely. Discard the cooking liquid or chill it separately for another use.",
+        "Place {{eggs}} in a saucepan with {{eggwater}}, topping up only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and leave for 12 minutes. Cool under cold running water and peel. The yolks and whites must be firm throughout; cut as directed when garnishing.",
+        "In a clean bowl set on a damp towel, whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} until smooth.",
+        "Measure {{oil}}, {{vinegar}} and {{lemon}} into separate small jugs. Whisk oil into the yolks a few drops at a time until thickened, then add the remaining oil in a thin stream, alternating small additions of the measured vinegar and lemon juice. Pause pouring whenever oil pools and whisk until it blends in.",
+        "Gradually whisk {{mayowater}} into the thick sauce rather than pouring it all onto the yolks. Cover and refrigerate at 4°C (40°F) or colder while preparing the dish. The hot-water addition does not pasteurize the mayonnaise; commercially pasteurized yolks are specified.",
+        "Wash {{lettuce}} in cold water, drain and dry thoroughly, then cut across into bite-size strips. Immediately before assembly, toss with {{saladsalt}}, {{paprika}}, {{saladoil}} and {{saladvinegar}}. Arrange the dressed lettuce on a chilled platter. Layer the cold chicken and mayonnaise into a low mound on top.",
+        "Wash and dry {{hearts}}. Drain {{capers}} and thinly slice {{olives}}. Cut the hard-boiled eggs into wedges. Arrange the lettuce hearts, egg wedges, capers, olive slices around the platter.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "Original No180 offers either one young whole chicken or 300 g cooked leftovers. This base chooses a modern 1 kg prepared bird and uses all its cooked meat; the leftover version makes smaller portions and is supplied in full. The historical singeing with spirits and prolonged soaking are replaced with a butcher-prepared bird, hygienic handling and temperature-checked poaching. The source 1.2 litre water is retained as a starting quantity, with topping up only to cover the joints. The full salad from No176 and mayonnaise from No10 are supplied; no gelatin is listed for this dish and none is added. Two lettuce heads become 200 g trimmed leaves, two small garnish hearts 100 g. Six portions follow the source and vary in size between versions; the time includes chilling. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 160,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cooked-chicken",
+          "label": "Source alternative — cooked chicken leftovers",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "oil",
+              "amount": 150,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mayowater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "freshly boiled drinking water for the mayonnaise",
+              "substitution": "Use the same amount of warm drinking water for a gentler addition."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "eggwater",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "lettuce",
+              "amount": 200,
+              "unit": "g",
+              "name": "crisp lettuce leaves, trimmed weight",
+              "substitution": "Use the same weight of romaine or little-gem leaves."
+            },
+            {
+              "key": "saladsalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt for the salad",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "paprika",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "sweet paprika",
+              "substitution": "Use the same amount of mild smoked paprika for a different flavor, or omit."
+            },
+            {
+              "key": "saladoil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for the salad",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "saladvinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar for the salad",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "hearts",
+              "amount": 100,
+              "unit": "g",
+              "name": "small lettuce hearts, trimmed weight",
+              "substitution": "Use the same weight of tender inner romaine leaves."
+            },
+            {
+              "key": "capers",
+              "amount": 30,
+              "unit": "ml",
+              "name": "capers, drained",
+              "substitution": "Use the same volume of finely chopped cornichons."
+            },
+            {
+              "key": "olives",
+              "amount": 4,
+              "unit": "",
+              "name": "pitted green olives",
+              "substitution": "Use the same number of pitted black olives."
+            },
+            {
+              "key": "cookedchicken",
+              "amount": 300,
+              "unit": "g",
+              "name": "cooked boneless chicken, chilled",
+              "substitution": "Use the same weight of cooked boneless turkey."
+            }
+          ],
+          "steps": [
+            "Check {{cookedchicken}} for skin and bones and cut into even bite-size pieces. Use properly refrigerated cooked chicken; keep cold until assembly. This version makes six small starter portions and needs about 30 minutes if the chicken is already cold.",
+            "Place {{eggs}} in a saucepan with {{eggwater}}, topping up only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and leave for 12 minutes. Cool under cold running water and peel. The yolks and whites must be firm throughout; cut as directed when garnishing.",
+            "In a clean bowl set on a damp towel, whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} until smooth.",
+            "Measure {{oil}}, {{vinegar}} and {{lemon}} into separate small jugs. Whisk oil into the yolks a few drops at a time until thickened, then add the remaining oil in a thin stream, alternating small additions of the measured vinegar and lemon juice. Pause pouring whenever oil pools and whisk until it blends in.",
+            "Gradually whisk {{mayowater}} into the thick sauce rather than pouring it all onto the yolks. Cover and refrigerate at 4°C (40°F) or colder while preparing the dish. The hot-water addition does not pasteurize the mayonnaise; commercially pasteurized yolks are specified.",
+            "Wash {{lettuce}} in cold water, drain and dry thoroughly, then cut across into bite-size strips. Immediately before assembly, toss with {{saladsalt}}, {{paprika}}, {{saladoil}} and {{saladvinegar}}. Arrange the dressed lettuce on a chilled platter. Layer the cold chicken and mayonnaise into a low mound on top.",
+            "Wash and dry {{hearts}}. Drain {{capers}} and thinly slice {{olives}}. Cut the hard-boiled eggs into wedges. Arrange the lettuce hearts, egg wedges, capers, olive slices around the platter.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-bab15d031bc13f8c7d8a686d",
+    "bodySha256": "1227edf7294210c0df12dec62fd708808f609d9c5d10d1c8a9f8a2a8dd285cb1",
+    "recipe": {
+      "id": "historical-bab15d031bc13f8c7d8a686d",
+      "title": "Idun Breaded Calf Tongue with Mayonnaise",
+      "description": "Tender simmered calf tongue is sliced, coated in fine rusks and fried in butter, then served with tarragon-lemon mayonnaise and parsley.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 220,
+      "ingredients": [
+        {
+          "key": "tongue",
+          "amount": 700,
+          "unit": "g",
+          "name": "raw calf tongue, trimmed by the butcher",
+          "substitution": "Use a similar weight of veal tongue; a larger beef tongue needs longer simmering and thicker slices may need longer frying."
+        },
+        {
+          "key": "poachwater",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "poachsalt",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "fine salt for the tongue cooking water",
+          "substitution": "Reduce to taste; most remains in the discarded cooking liquid."
+        },
+        {
+          "key": "coategg",
+          "amount": 1,
+          "unit": "",
+          "name": "large egg for coating",
+          "substitution": "Use one large pasteurized shell egg if preferred."
+        },
+        {
+          "key": "cream",
+          "amount": 15,
+          "unit": "ml",
+          "name": "pouring cream",
+          "substitution": "Use the same volume of whole milk."
+        },
+        {
+          "key": "crumbs",
+          "amount": 40,
+          "unit": "g",
+          "name": "finely crushed plain rusks",
+          "substitution": "Use the same weight of fine dry breadcrumbs."
+        },
+        {
+          "key": "butter",
+          "amount": 60,
+          "unit": "g",
+          "name": "butter for frying",
+          "substitution": "Use the same weight of clarified butter; omit additional frying salt."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley sprigs",
+          "substitution": "Use the same weight of small chervil sprigs."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        },
+        {
+          "key": "oil",
+          "amount": 200,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "mayowater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "freshly boiled drinking water for the mayonnaise",
+          "substitution": "Use the same amount of warm drinking water for a gentler addition."
+        }
+      ],
+      "steps": [
+        "In a clean bowl set on a damp towel, whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} until smooth.",
+        "Measure {{oil}}, {{vinegar}} and {{lemon}} into separate small jugs. Whisk oil into the yolks a few drops at a time until thickened, then add the remaining oil in a thin stream, alternating small additions of the measured vinegar and lemon juice. Pause pouring whenever oil pools and whisk until it blends in.",
+        "Gradually whisk {{mayowater}} into the thick sauce rather than pouring it all onto the yolks. Cover and refrigerate at 4°C (40°F) or colder while preparing the dish. The hot-water addition does not pasteurize the mayonnaise; commercially pasteurized yolks are specified.",
+        "Bring {{poachwater}} and {{poachsalt}} to a boil in a snug saucepan. Add {{tongue}}, reduce to a gentle simmer and cover partially; add hot water only as needed to keep the tongue covered. Simmer for about 2–3 hours, until a skewer enters easily and the thickest part is at least 71°C (160°F). Tenderness, not the clock alone, determines when it is ready.",
+        "Lift out the tongue and let it cool just enough to handle. Peel away the tough outer skin while warm and trim away any hard gristle or fat at the root. Cut lengthwise into three slices and halve each to make six pieces at the base yield; when scaling, keep similar slice thickness.",
+        "Whisk {{coategg}} with {{cream}} in a shallow dish. Spread {{crumbs}} on a plate. Dip each tongue slice into the egg mixture, let excess drip off, then coat both sides with the crumbs. Discard unused coating that has touched egg.",
+        "Melt {{butter}} in a wide frying pan over medium heat. Fry the breaded slices for about 3–4 minutes per side until crisp, golden and hot through, lowering the heat if the butter browns too quickly. Work in batches with portions of the measured butter if the pan is crowded.",
+        "Arrange on a warm platter, spoon the chilled mayonnaise beside the slices just before serving, and garnish with washed {{parsley}}. Serve promptly so the crumb coating stays crisp.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The two entries reproduce Idun No102. Its reference to No101 supplies preparation and boiling, not the separate Madeira-sauce braise in that preceding recipe. A complete simmer-until-tender and warm peeling method is supplied. One tongue is represented by a chosen 700 g raw trimmed weight; tenderness controls the time. Half a Swedish coffee cup of crushed rusks is represented by a chosen 40 g, not half a US cup. Three tablespoons butter use the source book’s convention of 60 g, explicitly printed in adjacent recipes. The missing parsley garnish is supplied at 5 g. Mayonnaise No10 is written out with the 200 ml oil and other quantities listed in No102, without adding unlisted gelatin. Six portions follow the source. Total time allows a slow tongue but can be shorter for a tender small tongue. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 220,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-997ca918c9262a0f19d2d9b3"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-41101a3c5fa7b2a95249a38f",
+    "bodySha256": "a245a329fb6617739b4323b4c49dde6138c82440f100c92f94958a64551d9d7a",
+    "recipe": {
+      "id": "historical-41101a3c5fa7b2a95249a38f",
+      "title": "Idun Salmon with Mayonnaise, Capers and Radishes",
+      "description": "Chilled salmon rests on dressed lettuce beneath tarragon-lemon mayonnaise, with eggs, capers, olives and crisp radishes around the platter.",
+      "category": "Starters",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 120,
+      "ingredients": [
+        {
+          "key": "salmon",
+          "amount": 750,
+          "unit": "g",
+          "name": "raw salmon fillet, pin bones removed",
+          "substitution": "Use the same weight of trout fillet; thickness determines cooking time."
+        },
+        {
+          "key": "fishwater",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        },
+        {
+          "key": "oil",
+          "amount": 150,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "mayowater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "freshly boiled drinking water for the mayonnaise",
+          "substitution": "Use the same amount of warm drinking water for a gentler addition."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "eggwater",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "lettuce",
+          "amount": 200,
+          "unit": "g",
+          "name": "crisp lettuce leaves, trimmed weight",
+          "substitution": "Use the same weight of romaine or little-gem leaves."
+        },
+        {
+          "key": "saladsalt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt for the salad",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the same amount of mild smoked paprika for a different flavor, or omit."
+        },
+        {
+          "key": "saladoil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "olive oil for the salad",
+          "substitution": "Use the same volume of sunflower oil."
+        },
+        {
+          "key": "saladvinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar for the salad",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "hearts",
+          "amount": 150,
+          "unit": "g",
+          "name": "small lettuce hearts, trimmed weight",
+          "substitution": "Use the same weight of tender inner romaine leaves."
+        },
+        {
+          "key": "capers",
+          "amount": 30,
+          "unit": "ml",
+          "name": "capers, drained",
+          "substitution": "Use the same volume of finely chopped cornichons."
+        },
+        {
+          "key": "olives",
+          "amount": 4,
+          "unit": "",
+          "name": "pitted green olives",
+          "substitution": "Use the same number of pitted black olives."
+        },
+        {
+          "key": "radishes",
+          "amount": 6,
+          "unit": "",
+          "name": "small radishes",
+          "substitution": "Use the same number of thin cucumber rounds for a milder garnish."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (350°F). Put {{salmon}} skin-side down in a snug baking dish and pour {{fishwater}} around it. Cover the dish tightly with a lid or foil. Bake for about 18–25 minutes, depending on thickness, until the thickest part reaches 63°C (145°F).",
+        "Lift the fish out of the cooking liquid. Once it is cool enough to handle, remove skin and any remaining bones, keeping the flesh in broad pieces. Place in a shallow container and refrigerate promptly until cold, about 60 minutes; do not leave it on the counter to cool completely.",
+        "Place {{eggs}} in a saucepan with {{eggwater}}, topping up only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and leave for 12 minutes. Cool under cold running water and peel. The yolks and whites must be firm throughout; cut as directed when garnishing.",
+        "In a clean bowl set on a damp towel, whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} until smooth.",
+        "Measure {{oil}}, {{vinegar}} and {{lemon}} into separate small jugs. Whisk oil into the yolks a few drops at a time until thickened, then add the remaining oil in a thin stream, alternating small additions of the measured vinegar and lemon juice. Pause pouring whenever oil pools and whisk until it blends in.",
+        "Gradually whisk {{mayowater}} into the thick sauce rather than pouring it all onto the yolks. Cover and refrigerate at 4°C (40°F) or colder while preparing the dish. The hot-water addition does not pasteurize the mayonnaise; commercially pasteurized yolks are specified.",
+        "Wash {{lettuce}} in cold water, drain and dry thoroughly, then cut across into bite-size strips. Immediately before assembly, toss with {{saladsalt}}, {{paprika}}, {{saladoil}} and {{saladvinegar}}. Place the dressed lettuce on a chilled platter. Arrange broad slices or flakes of the cold salmon in a low mound on top and coat with the chilled mayonnaise.",
+        "Wash and dry {{hearts}} and scrub {{radishes}}. Drain {{capers}} and thinly slice {{olives}} and the radishes. Cut the hard-boiled eggs into wedges. Arrange the lettuce hearts, egg wedges, capers, olive slices and radish slices around the platter.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "Both entries reproduce Idun No176, which begins with 600 g cooked boneless salmon. This from-scratch version uses a chosen 750 g raw fillet to allow for skin and cooking losses, not a guaranteed conversion; use all the resulting flesh. The source’s 600 g cooked-fish alternative is retained in full. The oven-poaching method, water and timing are modern additions to make the recipe self-contained. Two lettuce heads become 200 g trimmed leaves and three small garnish hearts 150 g. The mayonnaise follows the listed quantities and explicitly omits gelatin as directed by the original. Six starter portions follow the source and the time includes chilling. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Iduns kokbok (1911), Elisabeth Östman. https://archive.org/details/arkivkopia.se-runeberg-idunskok",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 120,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-e67602f507adf284a61fbe84"
+      ],
+      "variants": [
+        {
+          "id": "cooked-salmon",
+          "label": "Source alternative — cooked salmon leftovers",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "oil",
+              "amount": 150,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mayowater",
+              "amount": 15,
+              "unit": "ml",
+              "name": "freshly boiled drinking water for the mayonnaise",
+              "substitution": "Use the same amount of warm drinking water for a gentler addition."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "eggwater",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "lettuce",
+              "amount": 200,
+              "unit": "g",
+              "name": "crisp lettuce leaves, trimmed weight",
+              "substitution": "Use the same weight of romaine or little-gem leaves."
+            },
+            {
+              "key": "saladsalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt for the salad",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "paprika",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "sweet paprika",
+              "substitution": "Use the same amount of mild smoked paprika for a different flavor, or omit."
+            },
+            {
+              "key": "saladoil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for the salad",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "saladvinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar for the salad",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "hearts",
+              "amount": 150,
+              "unit": "g",
+              "name": "small lettuce hearts, trimmed weight",
+              "substitution": "Use the same weight of tender inner romaine leaves."
+            },
+            {
+              "key": "capers",
+              "amount": 30,
+              "unit": "ml",
+              "name": "capers, drained",
+              "substitution": "Use the same volume of finely chopped cornichons."
+            },
+            {
+              "key": "olives",
+              "amount": 4,
+              "unit": "",
+              "name": "pitted green olives",
+              "substitution": "Use the same number of pitted black olives."
+            },
+            {
+              "key": "radishes",
+              "amount": 6,
+              "unit": "",
+              "name": "small radishes",
+              "substitution": "Use the same number of thin cucumber rounds for a milder garnish."
+            },
+            {
+              "key": "cookedsalmon",
+              "amount": 600,
+              "unit": "g",
+              "name": "cooked boneless salmon, chilled weight",
+              "substitution": "Use the same weight of properly refrigerated cooked trout."
+            }
+          ],
+          "steps": [
+            "Check {{cookedsalmon}} for skin and bones and divide into broad slices or flakes. Keep covered and refrigerated until assembly. This version takes about 30 minutes with already chilled fish.",
+            "Place {{eggs}} in a saucepan with {{eggwater}}, topping up only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and leave for 12 minutes. Cool under cold running water and peel. The yolks and whites must be firm throughout; cut as directed when garnishing.",
+            "In a clean bowl set on a damp towel, whisk {{yolks}}, {{salt}}, {{cayenne}} and {{mustard}} until smooth.",
+            "Measure {{oil}}, {{vinegar}} and {{lemon}} into separate small jugs. Whisk oil into the yolks a few drops at a time until thickened, then add the remaining oil in a thin stream, alternating small additions of the measured vinegar and lemon juice. Pause pouring whenever oil pools and whisk until it blends in.",
+            "Gradually whisk {{mayowater}} into the thick sauce rather than pouring it all onto the yolks. Cover and refrigerate at 4°C (40°F) or colder while preparing the dish. The hot-water addition does not pasteurize the mayonnaise; commercially pasteurized yolks are specified.",
+            "Wash {{lettuce}} in cold water, drain and dry thoroughly, then cut across into bite-size strips. Immediately before assembly, toss with {{saladsalt}}, {{paprika}}, {{saladoil}} and {{saladvinegar}}. Place the dressed lettuce on a chilled platter. Arrange broad slices or flakes of the cold salmon in a low mound on top and coat with the chilled mayonnaise.",
+            "Wash and dry {{hearts}} and scrub {{radishes}}. Drain {{capers}} and thinly slice {{olives}} and the radishes. Cut the hard-boiled eggs into wedges. Arrange the lettuce hearts, egg wedges, capers, olive slices and radish slices around the platter.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
   }
 ]
