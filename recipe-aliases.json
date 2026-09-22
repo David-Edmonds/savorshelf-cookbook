@@ -352,5 +352,11 @@
     "canonicalId": "historical-e32da05daa9cbb17e3643823",
     "bodySha256": "ce77c28d23fa5d40f1fc0c685b82ce1b66ddf64147b5ae7f63b3c81d2547e368",
     "reason": "Truncated opening of the same single original Salmon a la Mayonesa paragraph; full ingredients and layering retained in canonical source21."
+  },
+  {
+    "id": "historical-661fb246a973758594cae3b7",
+    "canonicalId": "historical-f2df9fb5deed15117d5a1d94",
+    "bodySha256": "71d54a3bf095903d556c1fb43666874f916bf5e12eef668872bbcb229b223586",
+    "reason": "Equivalent yolk-rich sauce: both originals specify one tablespoon oil per yolk, salt/pepper and acid. Vinegar-first method, external cooling and parsley/tarragon variations retained in canonical recipe."
   }
 ]

@@ -1,3 +1,7 @@
+# Recipe content batch 025 — September 22, 2026
+
+Six adaptations complete Poblana garlic fish, Mexican layered fish, Poblana mahonesa and bayoneta, Artusi mayonnaise and his fish-beet-potato salad. Full chicken, vinegar, herb, cooked-yolk and caper-olive variations are retained. One equivalent yolk-rich sauce is merged with its original ID and source credit preserved. Totals: 40,833 imported recipes, 412 completed adaptations, 40,421 remaining content repairs and 42,285 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 024 — September 22, 2026
 
 Four adaptations complete the two distinct Chilean shellfish platters, turkey with ravigote and aspic, and Burnet mayonnaise. Full roast-poultry, spinach-green and cooked calf-brain variations are included. Historical bottle and cuartillo amounts are distinguished from supplied modern quantities. Totals: 40,834 imported recipes, 406 completed adaptations, 40,428 remaining content repairs and 42,286 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
