@@ -1,3 +1,7 @@
+# Recipe content batch 027 — September 22, 2026
+
+Two complete main dishes supply French chicken in herb jelly sauce and breaded Danish calf tongue with pickle mayonnaise. Full braising, veloute, aspic, croutons, poaching and frying are included, with egg-liaison, deep-frying and cooked-remoulade variations. Original references distinguish pickled cucumber from anchovies and rendered frying fat from wine. Totals: 40,833 imported recipes, 418 completed adaptations, 40,415 remaining content repairs and 42,285 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 026 — September 22, 2026
 
 Four adaptations complete Danish cooked mayonnaise, lemon-and-wine mayonnaise, cold fish with that sauce, and chopped cabbage salad with mustard mayonnaise. Full egg preparation, fish and carrot cooking, measured acid and seasoning, and meaningful yolk and lemon variations are supplied. An original scan restores 60 g butter in the cooked sauce. Totals: 40,833 imported recipes, 416 completed adaptations, 40,417 remaining content repairs and 42,285 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.

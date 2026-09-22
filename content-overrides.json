@@ -36257,5 +36257,860 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-91cafdea3ba4dd1a8ccca281",
+    "bodySha256": "74350342cc1707aa5e286afdd74bf301263d96f12202822ee44ec61c81df1af2",
+    "recipe": {
+      "id": "historical-91cafdea3ba4dd1a8ccca281",
+      "title": "Poulets en Mayonnaise — Cold Chicken in Herb Jelly Sauce",
+      "description": "Lemon-braised chicken is coated with a chilled velouté-and-jelly sauce flavored with parsley and tarragon, then garnished with aspic and crisp croutons.",
+      "category": "Main dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 300,
+      "ingredients": [
+        {
+          "key": "chickens",
+          "amount": 2,
+          "unit": "",
+          "name": "small oven-ready chickens, about 1.2 kg each, giblets removed",
+          "substitution": "Use chickens of a similar total weight; larger birds need longer cooking."
+        },
+        {
+          "key": "chickenbutter",
+          "amount": 60,
+          "unit": "g",
+          "name": "unsalted butter, softened",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "chickensalt",
+          "amount": 6,
+          "unit": "g",
+          "name": "fine salt for the chicken",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "chickenpepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "coarsely ground black pepper",
+          "substitution": "Use the same amount of white pepper."
+        },
+        {
+          "key": "chickenjuice",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice for the chicken",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "slicelemon",
+          "amount": 1,
+          "unit": "",
+          "name": "lemon, washed and thinly sliced",
+          "substitution": "Use one small lime for a different flavor."
+        },
+        {
+          "key": "barding",
+          "amount": 120,
+          "unit": "g",
+          "name": "thin slices of unsmoked pork back fat for barding",
+          "substitution": "Use the same weight of unsmoked streaky bacon; reduce added salt if the bacon is salty."
+        },
+        {
+          "key": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "name": "carrot, peeled and sliced",
+          "substitution": "Use the same weight of parsnip for a sweeter broth."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "onion, peeled and sliced",
+          "substitution": "Use the same weight of shallots."
+        },
+        {
+          "key": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "name": "fresh thyme sprigs",
+          "substitution": "Use 0.5 g dried thyme."
+        },
+        {
+          "key": "bay",
+          "amount": 1,
+          "unit": "",
+          "name": "dried bay leaf",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "braiseparsley",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley sprigs",
+          "substitution": "Use the same weight of chervil sprigs."
+        },
+        {
+          "key": "braisestock",
+          "amount": 750,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock for braising",
+          "substitution": "Use the same volume of unsalted prepared vegetable stock."
+        },
+        {
+          "key": "jellystock",
+          "amount": 360,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock for aspic",
+          "substitution": "Use the same volume of unsalted prepared veal stock."
+        },
+        {
+          "key": "gelatin",
+          "amount": 10,
+          "unit": "g",
+          "name": "unflavored powdered gelatin",
+          "substitution": "Use equivalent-strength leaf gelatin according to its package."
+        },
+        {
+          "key": "bloomwater",
+          "amount": 40,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "saucebutter",
+          "amount": 20,
+          "unit": "g",
+          "name": "unsalted butter for the velouté",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 20,
+          "unit": "g",
+          "name": "plain flour",
+          "substitution": "Use the same weight of a plain gluten-free flour blend suitable for sauces."
+        },
+        {
+          "key": "mushrooms",
+          "amount": 60,
+          "unit": "g",
+          "name": "white mushrooms, cleaned and finely chopped",
+          "substitution": "Use the same weight of cremini mushrooms; the sauce will be darker."
+        },
+        {
+          "key": "saucestock",
+          "amount": 400,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock for the velouté",
+          "substitution": "Use the same volume of unsalted prepared veal stock."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley leaves, finely chopped",
+          "substitution": "Use the same weight of chervil."
+        },
+        {
+          "key": "tarragon",
+          "amount": 3,
+          "unit": "g",
+          "name": "fresh tarragon leaves, finely chopped",
+          "substitution": "Use 1 g dried tarragon."
+        },
+        {
+          "key": "bread",
+          "amount": 100,
+          "unit": "g",
+          "name": "day-old white bread, cut into small cubes",
+          "substitution": "Use the same weight of gluten-free bread."
+        },
+        {
+          "key": "toastbutter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter for croutons",
+          "substitution": "Use the same weight of olive oil."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 170°C (340°F). Pat {{chickens}} dry without rinsing. Mix {{chickenbutter}}, {{chickensalt}}, {{chickenpepper}} and {{chickenjuice}}, then spread inside the cavities. Loosely tie the legs with kitchen string.",
+        "Put {{carrot}}, {{onion}}, {{thyme}}, {{bay}} and {{braiseparsley}} in a large lidded roasting dish. Lay half of {{barding}} over the vegetables. Set the birds on top, cover their breasts with {{slicelemon}} and the remaining barding fat, and pour {{braisestock}} around them.",
+        "Cover and braise for about 1½–2 hours, checking that liquid remains and adding a little hot water if needed. Check each bird: the thickest breast and inner thigh must reach 74°C (165°F), with the thermometer clear of bone.",
+        "Remove the birds, discard the string and rest for 10 minutes. Remove the barding fat and lemon slices, carve into serving pieces and remove loose bones. Spread in shallow containers and refrigerate promptly, within 2 hours of cooking, until cold, about 1–1½ hours. The braising vegetables, fat and liquid are not needed in the measured sauce.",
+        "While the birds cook, sprinkle {{gelatin}} over cold {{bloomwater}} and leave for 5 minutes. Heat {{jellystock}} until steaming, remove from heat and dissolve the bloomed gelatin in it. Pour into a shallow container and refrigerate for at least 2 hours until set. Divide the finished aspic into two equal portions; keep one chilled for garnish.",
+        "For the velouté, melt {{saucebutter}} in a saucepan. Add {{mushrooms}} and cook gently for 3 minutes without browning. Stir in {{flour}} for 1 minute, then gradually whisk in {{saucestock}}. Simmer for 8 minutes, stirring. Press through a fine sieve, discarding the mushroom pieces. Return the sauce to the pan.",
+        "Add the other half of the aspic to the velouté with {{vinegar}} and {{pepper}}. Heat gently until the jelly melts. Mark the sauce level on a wooden spoon, then simmer uncovered, stirring frequently, until reduced by about one third, about 10–15 minutes.",
+        "Stir in {{parsley}}, {{tarragon}} and {{salt}} and simmer for 1 minute. Transfer the sauce to a bowl set over ice water, keeping water out, and stir frequently until cool and beginning to thicken but still pourable, about 15–20 minutes.",
+        "Arrange the cold chicken on a platter, spoon the cool thickening sauce over the pieces and refrigerate for at least 30 minutes until the coating has set. Cut the reserved aspic into small cubes.",
+        "For the garnish, melt {{toastbutter}} in a frying pan, add {{bread}} and cook over medium heat for 5–8 minutes, turning, until golden and crisp. Cool on a plate. Garnish the chicken with the aspic cubes and croutons just before serving.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The complete chicken, velouté, jelly and crouton references are expanded. The same book’s Chapon poêlé explicitly permits carrots, onion, thyme, bay, parsley and broth when prepared poêle is unavailable; this is used as a measured shortcut. Chicken size and all missing weights are modern working quantities. Eight skimming ladles of velouté to four of jelly become approximately 400 ml sauce to 200 ml aspic, based on an explicit modern 50 ml ladle, not a verified historical conversion. Prepared stock plus gelatin replaces making meat jelly from bones. Mushroom stock-and-roux velouté replaces the longer meat-stock preparation. The sauce is reduced separately and cooled before coating the cold chicken; this resolves the source’s conflicting hot-casserole and cold-piece wording. Total time includes concurrent braising, jelly setting and chilling. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The original optional liaison says one egg, not specifically one yolk. Its full-egg variation is retained; controlled heating replaces boiling after adding the egg.",
+      "source": "Le Cuisinier impérial (1806), A. Viard. https://archive.org/details/lecuisinierimpe00viargoog SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 300,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "egg-liaison",
+          "label": "With an egg-thickened sauce",
+          "ingredients": [
+            {
+              "key": "chickens",
+              "amount": 2,
+              "unit": "",
+              "name": "small oven-ready chickens, about 1.2 kg each, giblets removed",
+              "substitution": "Use chickens of a similar total weight; larger birds need longer cooking."
+            },
+            {
+              "key": "chickenbutter",
+              "amount": 60,
+              "unit": "g",
+              "name": "unsalted butter, softened",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "chickensalt",
+              "amount": 6,
+              "unit": "g",
+              "name": "fine salt for the chicken",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "chickenpepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "coarsely ground black pepper",
+              "substitution": "Use the same amount of white pepper."
+            },
+            {
+              "key": "chickenjuice",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice for the chicken",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "slicelemon",
+              "amount": 1,
+              "unit": "",
+              "name": "lemon, washed and thinly sliced",
+              "substitution": "Use one small lime for a different flavor."
+            },
+            {
+              "key": "barding",
+              "amount": 120,
+              "unit": "g",
+              "name": "thin slices of unsmoked pork back fat for barding",
+              "substitution": "Use the same weight of unsmoked streaky bacon; reduce added salt if the bacon is salty."
+            },
+            {
+              "key": "carrot",
+              "amount": 150,
+              "unit": "g",
+              "name": "carrot, peeled and sliced",
+              "substitution": "Use the same weight of parsnip for a sweeter broth."
+            },
+            {
+              "key": "onion",
+              "amount": 150,
+              "unit": "g",
+              "name": "onion, peeled and sliced",
+              "substitution": "Use the same weight of shallots."
+            },
+            {
+              "key": "thyme",
+              "amount": 2,
+              "unit": "g",
+              "name": "fresh thyme sprigs",
+              "substitution": "Use 0.5 g dried thyme."
+            },
+            {
+              "key": "bay",
+              "amount": 1,
+              "unit": "",
+              "name": "dried bay leaf",
+              "substitution": "Omit if unavailable."
+            },
+            {
+              "key": "braiseparsley",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh parsley sprigs",
+              "substitution": "Use the same weight of chervil sprigs."
+            },
+            {
+              "key": "braisestock",
+              "amount": 750,
+              "unit": "ml",
+              "name": "unsalted prepared chicken stock for braising",
+              "substitution": "Use the same volume of unsalted prepared vegetable stock."
+            },
+            {
+              "key": "jellystock",
+              "amount": 360,
+              "unit": "ml",
+              "name": "unsalted prepared chicken stock for aspic",
+              "substitution": "Use the same volume of unsalted prepared veal stock."
+            },
+            {
+              "key": "gelatin",
+              "amount": 10,
+              "unit": "g",
+              "name": "unflavored powdered gelatin",
+              "substitution": "Use equivalent-strength leaf gelatin according to its package."
+            },
+            {
+              "key": "bloomwater",
+              "amount": 40,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "saucebutter",
+              "amount": 20,
+              "unit": "g",
+              "name": "unsalted butter for the velouté",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "flour",
+              "amount": 20,
+              "unit": "g",
+              "name": "plain flour",
+              "substitution": "Use the same weight of a plain gluten-free flour blend suitable for sauces."
+            },
+            {
+              "key": "mushrooms",
+              "amount": 60,
+              "unit": "g",
+              "name": "white mushrooms, cleaned and finely chopped",
+              "substitution": "Use the same weight of cremini mushrooms; the sauce will be darker."
+            },
+            {
+              "key": "saucestock",
+              "amount": 400,
+              "unit": "ml",
+              "name": "unsalted prepared chicken stock for the velouté",
+              "substitution": "Use the same volume of unsalted prepared veal stock."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley leaves, finely chopped",
+              "substitution": "Use the same weight of chervil."
+            },
+            {
+              "key": "tarragon",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh tarragon leaves, finely chopped",
+              "substitution": "Use 1 g dried tarragon."
+            },
+            {
+              "key": "bread",
+              "amount": 100,
+              "unit": "g",
+              "name": "day-old white bread, cut into small cubes",
+              "substitution": "Use the same weight of gluten-free bread."
+            },
+            {
+              "key": "toastbutter",
+              "amount": 15,
+              "unit": "g",
+              "name": "unsalted butter for croutons",
+              "substitution": "Use the same weight of olive oil."
+            },
+            {
+              "key": "liaisonegg",
+              "amount": 1,
+              "unit": "",
+              "name": "large egg for the optional sauce liaison",
+              "substitution": "Use 50 g pasteurized liquid whole egg."
+            }
+          ],
+          "steps": [
+            "Heat the oven to 170°C (340°F). Pat {{chickens}} dry without rinsing. Mix {{chickenbutter}}, {{chickensalt}}, {{chickenpepper}} and {{chickenjuice}}, then spread inside the cavities. Loosely tie the legs with kitchen string.",
+            "Put {{carrot}}, {{onion}}, {{thyme}}, {{bay}} and {{braiseparsley}} in a large lidded roasting dish. Lay half of {{barding}} over the vegetables. Set the birds on top, cover their breasts with {{slicelemon}} and the remaining barding fat, and pour {{braisestock}} around them.",
+            "Cover and braise for about 1½–2 hours, checking that liquid remains and adding a little hot water if needed. Check each bird: the thickest breast and inner thigh must reach 74°C (165°F), with the thermometer clear of bone.",
+            "Remove the birds, discard the string and rest for 10 minutes. Remove the barding fat and lemon slices, carve into serving pieces and remove loose bones. Spread in shallow containers and refrigerate promptly, within 2 hours of cooking, until cold, about 1–1½ hours. The braising vegetables, fat and liquid are not needed in the measured sauce.",
+            "While the birds cook, sprinkle {{gelatin}} over cold {{bloomwater}} and leave for 5 minutes. Heat {{jellystock}} until steaming, remove from heat and dissolve the bloomed gelatin in it. Pour into a shallow container and refrigerate for at least 2 hours until set. Divide the finished aspic into two equal portions; keep one chilled for garnish.",
+            "For the velouté, melt {{saucebutter}} in a saucepan. Add {{mushrooms}} and cook gently for 3 minutes without browning. Stir in {{flour}} for 1 minute, then gradually whisk in {{saucestock}}. Simmer for 8 minutes, stirring. Press through a fine sieve, discarding the mushroom pieces. Return the sauce to the pan.",
+            "Add the other half of the aspic to the velouté with {{vinegar}} and {{pepper}}. Heat gently until the jelly melts. Mark the sauce level on a wooden spoon, then simmer uncovered, stirring frequently, until reduced by about one third, about 10–15 minutes.",
+            "Beat {{liaisonegg}} in a heatproof bowl. Remove the reduced sauce from the heat and gradually whisk a few spoonfuls into the egg. Return everything to the pan with {{parsley}}, {{tarragon}} and {{salt}}. Stir over low heat until the sauce reaches 71°C (160°F) throughout, without boiling. Transfer to a bowl over ice water and stir until cool and starting to thicken, about 15–20 minutes, keeping water out.",
+            "Arrange the cold chicken on a platter, spoon the cool thickening sauce over the pieces and refrigerate for at least 30 minutes until the coating has set. Cut the reserved aspic into small cubes.",
+            "For the garnish, melt {{toastbutter}} in a frying pan, add {{bread}} and cook over medium heat for 5–8 minutes, turning, until golden and crisp. Cool on a plate. Garnish the chicken with the aspic cubes and croutons just before serving.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-e552a1d815fda03829522876",
+    "bodySha256": "7d83f4629e588527fc3461172d2bf7d15eaf9d868e8f50f353ead942e0d0c946",
+    "recipe": {
+      "id": "historical-e552a1d815fda03829522876",
+      "title": "Ferske Kalvetunger — Breaded Calf Tongues with Pickle Mayonnaise",
+      "description": "Tender simmered calf tongue is breaded and butter-fried, with parsley and a chilled mustard mayonnaise containing chopped pickled cucumber.",
+      "category": "Main dishes",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 210,
+      "ingredients": [
+        {
+          "key": "tongues",
+          "amount": 5,
+          "unit": "",
+          "name": "small fresh calf tongues, about 400–500 g each, cleaned by the butcher",
+          "substitution": "Use the same total weight of larger calf tongues; simmer longer until tender."
+        },
+        {
+          "key": "poachwater",
+          "amount": 3500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "poachsalt",
+          "amount": 15,
+          "unit": "g",
+          "name": "salt for the cooking water",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "coatingeggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs, beaten, for coating",
+          "substitution": "Use 100 g pasteurized liquid whole egg."
+        },
+        {
+          "key": "crumbs",
+          "amount": 150,
+          "unit": "g",
+          "name": "fine dry breadcrumbs",
+          "substitution": "Use the same weight of gluten-free breadcrumbs."
+        },
+        {
+          "key": "frybutter",
+          "amount": 100,
+          "unit": "g",
+          "name": "butter for shallow frying",
+          "substitution": "Use the same weight of clarified butter."
+        },
+        {
+          "key": "garnish",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley leaves, washed and dried",
+          "substitution": "Use the same weight of chervil leaves."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 250,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper."
+        },
+        {
+          "key": "pickles",
+          "amount": 50,
+          "unit": "g",
+          "name": "sweet-sour pickled cucumber, drained and finely chopped",
+          "substitution": "Use the same weight of drained cornichons; the flavor will be sharper."
+        },
+        {
+          "key": "mustard",
+          "amount": 15,
+          "unit": "ml",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same volume of Dijon mustard."
+        }
+      ],
+      "steps": [
+        "Put {{tongues}} in a large pot with {{poachwater}} and {{poachsalt}}, adding more water only if needed to cover. Bring to a boil, skim, then simmer gently for about 2–3 hours until a skewer enters easily and the center reaches at least 71°C (160°F). Top up with hot water if needed.",
+        "Lift out one tongue at a time. When cool enough to handle but still warm, peel off the thick outer skin and trim any tough tissue at the base. Split each tongue lengthwise into two or three pieces. If preparing ahead, spread in shallow containers and refrigerate promptly within 2 hours; use within 2 days.",
+        "While the tongues simmer, whisk {{yolks}} and {{salt}} in a clean bowl. Gradually whisk in {{oil}}, drop by drop at first and then in a thin stream, alternating with small additions of {{vinegar}}. Stir in {{whitepepper}}, {{pickles}} and {{mustard}}. Cover and refrigerate until serving.",
+        "Put {{coatingeggs}} and {{crumbs}} in separate shallow dishes. Dip the tongue pieces in egg, then breadcrumbs, pressing to coat. Discard any coating egg or crumbs left after dipping.",
+        "Heat {{frybutter}} in a large frying pan over medium heat. Fry the pieces in batches for about 3–5 minutes per side until golden and hot throughout, dividing the measured butter among the batches. If the tongue was chilled, reheat the center to 74°C (165°F). Do not let the butter burn.",
+        "Arrange the hot breaded tongue pieces on a platter and garnish with {{garnish}}. Serve the chilled sauce separately.",
+        "Refrigerate leftovers promptly within 2 hours, or within 1 hour above 32°C (90°F). Keep the sauce and tongue in separate covered containers at 4°C (40°F) or colder and use within 2 days. Reheat tongue leftovers to 74°C (165°F); do not reheat the mayonnaise."
+      ],
+      "notes": "The original gives five tongues for ten people. Tongue size, water, coating and frying quantities are modern estimates. Asier means pickled cucumber, not anchovies; Klaret means rendered frying fat, not claret wine. The sauce uses the book’s recipe 243/753, with the chopped pickles and prepared mustard required for this dish. The alternate cooked remoulade reference 754 is supplied in full as a separate variation. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The deep-frying variation uses a modern neutral oil with rendered fat as an explicit alternative; the listed frying volume is a cooking medium, not the amount absorbed. The cooked remoulade is half the source 244/754 batch, including half the parsley, capers, pickled shallots and cream, to suit this platter. Half of five yolks is supplied as 45 g weighed yolk; stock and seasonings are modern working quantities. The dish-specific pickles and mustard remain included.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 210,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "deep-fried",
+          "label": "Deep-fried tongue pieces",
+          "ingredients": [
+            {
+              "key": "tongues",
+              "amount": 5,
+              "unit": "",
+              "name": "small fresh calf tongues, about 400–500 g each, cleaned by the butcher",
+              "substitution": "Use the same total weight of larger calf tongues; simmer longer until tender."
+            },
+            {
+              "key": "poachwater",
+              "amount": 3500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "poachsalt",
+              "amount": 15,
+              "unit": "g",
+              "name": "salt for the cooking water",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "coatingeggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs, beaten, for coating",
+              "substitution": "Use 100 g pasteurized liquid whole egg."
+            },
+            {
+              "key": "crumbs",
+              "amount": 150,
+              "unit": "g",
+              "name": "fine dry breadcrumbs",
+              "substitution": "Use the same weight of gluten-free breadcrumbs."
+            },
+            {
+              "key": "fryoil",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "neutral oil for deep frying",
+              "substitution": "Use the same volume of food-grade rendered beef fat for the source-style alternative."
+            },
+            {
+              "key": "garnish",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh parsley leaves, washed and dried",
+              "substitution": "Use the same weight of chervil leaves."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of black pepper."
+            },
+            {
+              "key": "pickles",
+              "amount": 50,
+              "unit": "g",
+              "name": "sweet-sour pickled cucumber, drained and finely chopped",
+              "substitution": "Use the same weight of drained cornichons; the flavor will be sharper."
+            },
+            {
+              "key": "mustard",
+              "amount": 15,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of Dijon mustard."
+            }
+          ],
+          "steps": [
+            "Put {{tongues}} in a large pot with {{poachwater}} and {{poachsalt}}, adding more water only if needed to cover. Bring to a boil, skim, then simmer gently for about 2–3 hours until a skewer enters easily and the center reaches at least 71°C (160°F). Top up with hot water if needed.",
+            "Lift out one tongue at a time. When cool enough to handle but still warm, peel off the thick outer skin and trim any tough tissue at the base. Split each tongue lengthwise into two or three pieces. If preparing ahead, spread in shallow containers and refrigerate promptly within 2 hours; use within 2 days.",
+            "While the tongues simmer, whisk {{yolks}} and {{salt}} in a clean bowl. Gradually whisk in {{oil}}, drop by drop at first and then in a thin stream, alternating with small additions of {{vinegar}}. Stir in {{whitepepper}}, {{pickles}} and {{mustard}}. Cover and refrigerate until serving.",
+            "Put {{coatingeggs}} and {{crumbs}} in separate shallow dishes. Dip the tongue pieces in egg, then breadcrumbs, pressing to coat. Discard any coating egg or crumbs left after dipping.",
+            "Heat {{fryoil}} to 175°C (350°F) in a deep heavy pan, filling the pan no more than one third full. Fry the coated tongue pieces in small batches for about 3–5 minutes until golden and hot through. If the tongue was chilled, the center must reach 74°C (165°F). Drain on a rack. Let the frying fat cool completely before straining or disposal; most of it remains in the pan.",
+            "Arrange the hot breaded tongue pieces on a platter and garnish with {{garnish}}. Serve the chilled sauce separately.",
+            "Refrigerate leftovers promptly within 2 hours, or within 1 hour above 32°C (90°F). Keep the sauce and tongue in separate covered containers at 4°C (40°F) or colder and use within 2 days. Reheat tongue leftovers to 74°C (165°F); do not reheat the mayonnaise."
+          ]
+        },
+        {
+          "id": "cooked-remoulade",
+          "label": "With cooked remoulade and whipped cream",
+          "ingredients": [
+            {
+              "key": "tongues",
+              "amount": 5,
+              "unit": "",
+              "name": "small fresh calf tongues, about 400–500 g each, cleaned by the butcher",
+              "substitution": "Use the same total weight of larger calf tongues; simmer longer until tender."
+            },
+            {
+              "key": "poachwater",
+              "amount": 3500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "poachsalt",
+              "amount": 15,
+              "unit": "g",
+              "name": "salt for the cooking water",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "coatingeggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs, beaten, for coating",
+              "substitution": "Use 100 g pasteurized liquid whole egg."
+            },
+            {
+              "key": "crumbs",
+              "amount": 150,
+              "unit": "g",
+              "name": "fine dry breadcrumbs",
+              "substitution": "Use the same weight of gluten-free breadcrumbs."
+            },
+            {
+              "key": "frybutter",
+              "amount": 100,
+              "unit": "g",
+              "name": "butter for shallow frying",
+              "substitution": "Use the same weight of clarified butter."
+            },
+            {
+              "key": "garnish",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh parsley leaves, washed and dried",
+              "substitution": "Use the same weight of chervil leaves."
+            },
+            {
+              "key": "saucebutter",
+              "amount": 30,
+              "unit": "g",
+              "name": "unsalted butter for cooked remoulade",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "sauceflour",
+              "amount": 30,
+              "unit": "g",
+              "name": "plain flour",
+              "substitution": "Use the same weight of a plain gluten-free flour blend suitable for sauces."
+            },
+            {
+              "key": "saucestock",
+              "amount": 200,
+              "unit": "ml",
+              "name": "unsalted prepared chicken stock",
+              "substitution": "Use the same volume of unsalted prepared vegetable stock."
+            },
+            {
+              "key": "cookyolks",
+              "amount": 45,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk for the cooked sauce",
+              "substitution": "Weigh beaten fresh yolks to the same weight; the sauce is fully cooked."
+            },
+            {
+              "key": "sauceoil",
+              "amount": 30,
+              "unit": "ml",
+              "name": "olive oil for cooked remoulade",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "whitepepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of black pepper."
+            },
+            {
+              "key": "herb",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "finely chopped fresh parsley",
+              "substitution": "Use the same volume of chervil."
+            },
+            {
+              "key": "capers",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "drained capers, finely chopped",
+              "substitution": "Use the same volume of finely chopped cornichons."
+            },
+            {
+              "key": "shallots",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "pickled shallots, drained and finely chopped",
+              "substitution": "Use the same volume of drained pickled onions."
+            },
+            {
+              "key": "cream",
+              "amount": 62.5,
+              "unit": "ml",
+              "name": "cold whipping cream",
+              "substitution": "Use the same volume of an unsweetened dairy-free whipping cream suitable for savory dishes."
+            },
+            {
+              "key": "pickles",
+              "amount": 50,
+              "unit": "g",
+              "name": "sweet-sour pickled cucumber, drained and finely chopped",
+              "substitution": "Use the same weight of drained cornichons; the flavor will be sharper."
+            },
+            {
+              "key": "mustard",
+              "amount": 15,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of Dijon mustard."
+            }
+          ],
+          "steps": [
+            "Put {{tongues}} in a large pot with {{poachwater}} and {{poachsalt}}, adding more water only if needed to cover. Bring to a boil, skim, then simmer gently for about 2–3 hours until a skewer enters easily and the center reaches at least 71°C (160°F). Top up with hot water if needed.",
+            "Lift out one tongue at a time. When cool enough to handle but still warm, peel off the thick outer skin and trim any tough tissue at the base. Split each tongue lengthwise into two or three pieces. If preparing ahead, spread in shallow containers and refrigerate promptly within 2 hours; use within 2 days.",
+            "While the tongues simmer, melt {{saucebutter}} in a saucepan. Stir in {{sauceflour}} for 2 minutes without browning. Gradually whisk in {{saucestock}} and simmer for 5 minutes until thick and smooth.",
+            "Beat {{cookyolks}} in a bowl. Remove the sauce from heat, gradually whisk a few spoonfuls into the yolks, then return to the pan. Stir over low heat until the sauce reaches 71°C (160°F) throughout, without boiling. Transfer to a shallow bowl over ice water and stir frequently until cold, about 15–20 minutes, keeping water out.",
+            "Gradually whisk {{sauceoil}}, {{vinegar}}, {{salt}} and {{whitepepper}} into the cold sauce. Stir in {{herb}}, {{capers}}, {{shallots}}, {{pickles}} and {{mustard}}. Whip {{cream}} to soft peaks and fold in gently. Cover and refrigerate until serving.",
+            "Put {{coatingeggs}} and {{crumbs}} in separate shallow dishes. Dip the tongue pieces in egg, then breadcrumbs, pressing to coat. Discard any coating egg or crumbs left after dipping.",
+            "Heat {{frybutter}} in a large frying pan over medium heat. Fry the pieces in batches for about 3–5 minutes per side until golden and hot throughout, dividing the measured butter among the batches. If the tongue was chilled, reheat the center to 74°C (165°F). Do not let the butter burn.",
+            "Arrange the hot breaded tongue pieces on a platter and garnish with {{garnish}}. Serve the chilled sauce separately.",
+            "Refrigerate leftovers promptly within 2 hours, or within 1 hour above 32°C (90°F). Keep the sauce and tongue in separate covered containers at 4°C (40°F) or colder and use within 2 days. Reheat tongue leftovers to 74°C (165°F); do not reheat the mayonnaise."
+          ]
+        }
+      ]
+    }
   }
 ]
