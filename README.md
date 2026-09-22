@@ -1,3 +1,7 @@
+# Recipe content batch 021 — September 22, 2026
+
+Eight distinct mayonnaise and cooked-dressing recipes now have complete measured methods, substitutions and meaningful cream/mustard variations. Original-page corrections restore oil, butter, cream, mustard, salt and pepper amounts. Modern working volumes, pasteurized raw yolks, cooking endpoints and refrigeration are explicit. Totals: 40,835 imported recipes, 390 completed adaptations, 40,445 remaining content repairs and 42,287 visible recipes. No new duplicate merge. The collection remains unfinished; kitchen and physical-phone testing remain unverified. No Android, portfolio, personal-data or automation changes.
+
 # Recipe content batch 020 — September 22, 2026
 
 Four measured adaptations complete the source-reviewed hake, Polish fish salad, calf’s-head and sour-braised brain dishes, including all sauces and garnishes. Original sources correct an eightfold vinegar extraction error and distinguish the calf’s-head tomato sauce from a different baked preparation. Modern cooking, chilling and reheating endpoints are explicit; raw-yolk ambiguity becomes a disclosed cooked-yolk dressing. Totals: 40,835 imported recipes, 382 completed adaptations, 40,453 remaining content repairs and 42,287 visible recipes. No new duplicate merge. The collection remains unfinished; no kitchen or physical-phone tests. Saved data, Android, portfolio and automations are unchanged.
