@@ -1,3 +1,7 @@
+# Recipe content batch 024 — September 22, 2026
+
+Four adaptations complete the two distinct Chilean shellfish platters, turkey with ravigote and aspic, and Burnet mayonnaise. Full roast-poultry, spinach-green and cooked calf-brain variations are included. Historical bottle and cuartillo amounts are distinguished from supplied modern quantities. Totals: 40,834 imported recipes, 406 completed adaptations, 40,428 remaining content repairs and 42,286 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 023 — September 22, 2026
 
 Four complete cold main dishes include sweetbreads in aspic, braised chicken, lobster and layered salmon with chicken or lobster. Full cooking, mayonnaise, jelly and garnish components are supplied. A truncated salmon entry is merged into its complete original paragraph with saved ID and source retained. Totals: 40,834 imported recipes, 402 completed adaptations, 40,432 remaining content repairs and 42,286 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified. No Android, portfolio, personal-data or automation changes.
