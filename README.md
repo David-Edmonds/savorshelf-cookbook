@@ -1,3 +1,5 @@
+Batch 042: four further measured adaptations: two cold fish preparations, warm parsley mayonnaise and brown-butter tartar sauce. Full poaching, aspic, mayonnaise and cooked tartar components preserve source variations. 486 completed adaptations; 40,321 imported recipes still need substantive content repair. 86 duplicate sources consolidated; 42,259 recipes visible. Automated and browser validation do not constitute kitchen or physical-phone testing.
+
 Batch 041: four further measured adaptations of Viennese green, herb and aspic sauces, with full component recipes and source variations. 482 completed adaptations; 40,325 imported recipes still need substantive content repair. 86 duplicate sources consolidated; 42,259 recipes visible. Automated and browser validation do not constitute kitchen or physical-phone testing.
 
 # Recipe content batch 040 — September 22, 2026
