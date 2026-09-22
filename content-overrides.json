@@ -53449,5 +53449,724 @@
       "updatedAt": "2026-09-22T20:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-54f4f64af89b85b1161abe4d",
+    "bodySha256": "fff6834097fa637ad0843c7416152c47171589b3f9394f9a431f6f585cf365ba",
+    "recipe": {
+      "id": "historical-54f4f64af89b85b1161abe4d",
+      "title": "Farmer Lemon and Vinegar Mayonnaise",
+      "description": "A thick two-yolk mayonnaise combines olive oil with equal parts lemon juice and vinegar, dry mustard and a touch of sugar.",
+      "category": "Condiments",
+      "servings": 30,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "icing sugar",
+          "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 360,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+        "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+        "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The full Farmer Mayonnaise Dressing I gives two yolks, one-and-a-half cups oil, two tablespoons each lemon and vinegar, and one teaspoon each mustard, salt and powdered sugar. Modern measures are 360 ml oil and 30 ml each acid. The initial half teaspoon vinegar is 2.5 ml reserved from the total, not an extra quantity. Cayenne, thirty small condiment servings and timing are supplied. Commercially pasteurized yolks replace unspecified raw eggs. The cooked-yolk Dressing II differs only by one mashed hard-boiled yolk and is preserved as a complete named variation with its original source ID and credit. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-c048d194a0c777a523e57a7b"
+      ],
+      "variants": [
+        {
+          "id": "cooked-yolk",
+          "label": "Dressing II with an extra hard-boiled yolk",
+          "ingredients": [
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "icing sugar",
+              "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 360,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "eggs",
+              "amount": 1,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the firm cooked yolk and press it through a fine sieve. Refrigerate the cooked white separately for another dish and use within 2 days.",
+            "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, mix in the sieved cooked yolk, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+            "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+            "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        },
+        {
+          "id": "extra-yolk-rescue",
+          "label": "Extra-yolk method for a separated batch",
+          "ingredients": [
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "icing sugar",
+              "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 360,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "rescueyolk",
+              "amount": 1,
+              "unit": "",
+              "name": "additional large pasteurized egg yolk for the rescue",
+              "substitution": "Use 18 g commercially pasteurized liquid yolk."
+            }
+          ],
+          "steps": [
+            "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+            "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+            "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+            "Whisk {{rescueyolk}} in a second clean bowl. Add the prepared mayonnaise a few drops at a time while whisking, then in a thin stream once it is smooth. If rescuing a batch already made, begin at this step rather than making the base again. The ingredient list includes the base plus one rescue yolk; with an unbroken base it produces a richer sauce.",
+            "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-51760f1c9e7d9cff7eaf4e58",
+    "bodySha256": "35467eea2eba22f7d8856504fc80869fe31e0c7b784a55f3d4764bd65e196485",
+    "recipe": {
+      "id": "historical-51760f1c9e7d9cff7eaf4e58",
+      "title": "Farmer Whipped-Cream Mayonnaise",
+      "description": "Firmly whipped cream is folded into lemon-and-vinegar mayonnaise for a lighter, softly textured dressing.",
+      "category": "Condiments",
+      "servings": 34,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "icing sugar",
+          "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 360,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "cream",
+          "amount": 80,
+          "unit": "ml",
+          "name": "cold heavy whipping cream, measured before whipping",
+          "substitution": "Use the same volume of lactose-free dairy whipping cream."
+        }
+      ],
+      "steps": [
+        "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+        "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+        "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+        "In a chilled clean bowl, whip {{cream}} until it holds firm peaks, stopping before it becomes grainy. Fold the whipped cream into the finished mayonnaise gently until evenly combined.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The original adds one-third cup thick cream, beaten stiff, to Dressing I or II. The 80 ml cream is measured as liquid before whipping, not as 80 ml whipped foam. The complete Dressing I formula is included; Dressing II with a fully prepared cooked yolk is retained as an alternative. Modern measures, cayenne, thirty-four small servings and timing are working choices. The source’s same-day use instruction is preserved. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cooked-yolk",
+          "label": "Whipped cream with Dressing II cooked-yolk base",
+          "ingredients": [
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "icing sugar",
+              "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 360,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "eggs",
+              "amount": 1,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "cream",
+              "amount": 80,
+              "unit": "ml",
+              "name": "cold heavy whipping cream, measured before whipping",
+              "substitution": "Use the same volume of lactose-free dairy whipping cream."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the firm cooked yolk and press it through a fine sieve. Refrigerate the cooked white separately for another dish and use within 2 days.",
+            "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, mix in the sieved cooked yolk, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+            "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+            "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+            "In a chilled clean bowl, whip {{cream}} until it holds firm peaks, stopping before it becomes grainy. Fold the whipped cream into the finished mayonnaise gently until evenly combined.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-a7f439449812911d094f4522",
+    "bodySha256": "54470810d1979cfc9ce091b8eb173d9adf7d5ad57a779037556eb69c1856e266",
+    "recipe": {
+      "id": "historical-a7f439449812911d094f4522",
+      "title": "Farmer Parsley and Watercress Mayonnaise",
+      "description": "Freshly expressed parsley and watercress juice colors a full lemon-and-vinegar mayonnaise and adds a fresh, peppery herb flavor.",
+      "category": "Condiments",
+      "servings": 32,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "icing sugar",
+          "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 360,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "greenparsley",
+          "amount": 15,
+          "unit": "g",
+          "name": "fresh parsley leaves, washed and dried",
+          "substitution": "Use the same weight of extra watercress for a different herb balance."
+        },
+        {
+          "key": "watercress",
+          "amount": 30,
+          "unit": "g",
+          "name": "cultivated watercress, washed and dried",
+          "substitution": "Use the same weight of baby spinach for a milder green sauce."
+        }
+      ],
+      "steps": [
+        "Tear {{greenparsley}} and {{watercress}} into small pieces and pound thoroughly in a mortar until very wet and finely broken down. Transfer to a clean piece of fine cheesecloth over a small bowl and squeeze firmly to collect the green juice. Discard the squeezed fibrous residue; do not add water to increase the yield.",
+        "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+        "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+        "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+        "Stir the freshly expressed herb juice into the finished mayonnaise gradually until evenly colored. The natural color intensity varies with the greens; this is not a food-dye formula.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The source calls the full Dressing I base and juice expressed from parsley and watercress in a one-to-two ratio, with no weights. This adaptation chooses 15 g parsley and 30 g watercress, preserving that ratio. Pounding and squeezing through cloth are the actual method; the greens are not simply stirred in chopped. Modern quantities, thirty-two small servings and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-dd00f80feb52bc863b3931ca",
+    "bodySha256": "5333ae6904f9a4d7ed02ae87da1b37a841db6f1b45ac7f42b78c45ac08de3e45",
+    "recipe": {
+      "id": "historical-dd00f80feb52bc863b3931ca",
+      "title": "Farmer Lobster-Coral Mayonnaise",
+      "description": "Cooked lobster roe is sieved into lemon-and-vinegar mayonnaise for a naturally pink-red seafood dressing.",
+      "category": "Condiments",
+      "servings": 32,
+      "yieldUnit": "servings",
+      "minutes": 30,
+      "ingredients": [
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "icing sugar",
+          "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 360,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "roe",
+          "amount": 15,
+          "unit": "g",
+          "name": "raw lobster roe obtained chilled from a fishmonger",
+          "substitution": "Use the parsley-and-watercress recipe instead if lobster roe is unavailable; it makes a different sauce."
+        },
+        {
+          "key": "roewater",
+          "amount": 75,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        }
+      ],
+      "steps": [
+        "Place {{roe}} and {{roewater}} in a small saucepan. Bring to a gentle simmer and stir for about 3–5 minutes until the roe turns bright red and is firm and opaque throughout. Drain thoroughly, cool promptly, then pound and press through a fine sieve. Refrigerate the cooked roe until needed.",
+        "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+        "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+        "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+        "Stir the sieved cooked lobster roe into the finished mayonnaise just before serving. The roe gives a natural pink-red tint, which varies with the roe and sauce quantities.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The red mayonnaise instruction is the final sentence of the Green Mayonnaise passage, not a separate fully quantified formula. It adds sieved lobster coral to mayonnaise; the complete adjacent Dressing I is the chosen base. The source does not print a roe weight or cooking procedure. A working 15 g roe, 75 ml cooking water, full preparation, thirty-two small portions and timing are supplied. Coral means lobster roe here, not shell, tomalley or red food coloring. This is distinct from the parsley/watercress sauce. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Seafood cooking context: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 30,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-987a2cef4bf1345a44cb6401",
+    "bodySha256": "b9e9a5117b901f36ea7d6d05d2e936407680faa899e0c3e911f00a7771f8a6a8",
+    "recipe": {
+      "id": "historical-987a2cef4bf1345a44cb6401",
+      "title": "Farmer Egg-Free Baked-Potato Mayonnaise",
+      "description": "Smooth baked potato binds olive oil, vinegar, mustard and a little sugar into a creamy egg-free dressing.",
+      "category": "Condiments",
+      "servings": 18,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "potato",
+          "amount": 100,
+          "unit": "g",
+          "name": "small floury potato, skin on, about one very small potato",
+          "substitution": "Use the same weight of another floury baking potato."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "icing sugar",
+          "substitution": "Use the same volume of fine white sugar."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 180,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 200°C (390°F). Scrub {{potato}}, prick the skin a few times and place directly on a baking tray without foil. Bake for about 35–50 minutes until the center is completely tender when pierced; size and variety affect the time.",
+        "While just cool enough to handle, split the baked potato, scoop the flesh into a bowl and discard the skin. Mash thoroughly, then mix in {{mustard}}, {{salt}} and {{sugar}}. Stir in {{vinegar|0.5}} and press the mixture through a fine sieve into a clean bowl.",
+        "Let the smooth potato mixture cool to room temperature, about 10 minutes. Measure {{oil}} and the remaining {{vinegar|0.5}} separately. Whisk in oil very slowly, a few drops at first, alternating with small additions of the remaining vinegar until all are incorporated and the sauce is creamy. Stop pouring if oil pools and whisk until it blends in.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder until serving; use within 2 days. Stir before serving. This is a fresh egg-free potato dressing, not a shelf-stable commercial mayonnaise."
+      ],
+      "notes": "The original calls a very small baked potato, one teaspoon each mustard, salt and sugar, two tablespoons vinegar and three-quarter cup oil. The potato is a working 100 g raw weight and includes its complete baking method. Modern liquid measures are 30 ml vinegar and 180 ml oil. Half the vinegar is mixed in before sieving and half alternates with the oil, as printed. Eighteen small servings and the total including baking and cooling are estimates. No egg is added, so this is distinct from the egg-based formulas. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]

@@ -514,5 +514,11 @@
     "canonicalId": "historical-3a36053bdd0a4df10571a6d1",
     "bodySha256": "b2997ee41904f3c1211390953183c43f28e75e99e85b23c6d5fb86097aa1f16f",
     "reason": "Same four-yolk cooked mayonnaise base from the same book; plain-vinegar finishing and cold-water rescue differences retained as complete named methods."
+  },
+  {
+    "id": "historical-c048d194a0c777a523e57a7b",
+    "canonicalId": "historical-54f4f64af89b85b1161abe4d",
+    "bodySha256": "d40796ef589b399c9d27c2e7100ea105012b5d03b82f40bb2d84f369312145af",
+    "reason": "Full ingredients and primary method match Dressing I with exactly one extra cooked yolk. Complete cooked-yolk variation retains the difference, preparation, source credit and original saved ID."
   }
 ]
