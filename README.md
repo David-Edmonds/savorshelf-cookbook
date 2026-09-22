@@ -1,3 +1,5 @@
+Batch 041: four further measured adaptations of Viennese green, herb and aspic sauces, with full component recipes and source variations. 482 completed adaptations; 40,325 imported recipes still need substantive content repair. 86 duplicate sources consolidated; 42,259 recipes visible. Automated and browser validation do not constitute kitchen or physical-phone testing.
+
 # Recipe content batch 040 — September 22, 2026
 
 Four Viennese adaptations now include full cooked and uncooked mayonnaise, filled-egg variations, poaching and aspic. One repeated cooked-sauce source is consolidated with its vinegar finish and rescue method retained. Totals: 40,807 imported recipes, 478 completed adaptations, 40,329 remaining content repairs and 42,259 visible recipes. Missing quantities are labelled modern working choices. The collection remains unfinished; kitchen and physical-phone testing remain unverified.

@@ -50407,5 +50407,1359 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-68225ca6d1d3e56e3bc19e69",
+    "bodySha256": "1e25a8b4f451040b5124322d691e642e247f27cf900d54d5b1b36c4ff9583a87",
+    "recipe": {
+      "id": "historical-68225ca6d1d3e56e3bc19e69",
+      "title": "Viennese Green Sauce with Egg Sponge and Herbs",
+      "description": "Blanched greens, cooked yolks and softened egg sponge make a thick herb sauce, finished with oil, vinegar and a little sugar.",
+      "category": "Condiments",
+      "servings": 20,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "spinach",
+          "amount": 50,
+          "unit": "g",
+          "name": "fresh spinach leaves, washed",
+          "substitution": "Use the same weight of young chard leaves, removing tough stems."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley sprigs",
+          "substitution": "Use the same weight of extra chervil."
+        },
+        {
+          "key": "chervil",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh chervil sprigs",
+          "substitution": "Use the same weight of extra parsley."
+        },
+        {
+          "key": "greenwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "greensalt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt for blanching water",
+          "substitution": "Reduce or omit; the water is discarded."
+        },
+        {
+          "key": "tarragon",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "fresh tarragon leaves, finely chopped",
+          "substitution": "Use the same volume of chopped chervil for a milder flavor."
+        },
+        {
+          "key": "sponge",
+          "amount": 120,
+          "unit": "g",
+          "name": "plain uniced egg sponge cake, without filling",
+          "substitution": "Use the complete homemade-sponge variation, or the same weight of a plain gluten-free egg sponge."
+        },
+        {
+          "key": "soakwater",
+          "amount": 250,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolks and press them through a fine sieve into a mixing bowl. Refrigerate the cooked whites separately for another dish and use within 2 days.",
+        "Bring {{greenwater}} and {{greensalt}} to a boil. Add {{spinach}}, washed {{parsley}} and {{chervil}} and blanch for about 1 minute until wilted. Drain, refresh under cold running drinking water, then squeeze firmly in a clean cloth to remove excess water.",
+        "Put {{sponge}} in a shallow bowl and briefly moisten with {{soakwater}}. Lift out and gently squeeze in a clean cloth or fine sieve to remove excess water; discard the soaking liquid. Do not leave it soaking until it dissolves.",
+        "Pound the squeezed greens with {{tarragon}}, the sieved cooked yolks and the damp sponge in a mortar until smooth, working in batches if needed. Press through a fine sieve, scraping the smooth mixture into a clean bowl. Cover and refrigerate until serving.",
+        "Just before serving, stir in {{salt}}, {{sugar}}, {{vinegar}} and {{oil}} until smoothly combined. The finished sauce is thick and spoonable; the source delays salt and vinegar to help preserve the green color.",
+        "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+      ],
+      "notes": "The scanned No273 specifies 12 deka Biscuit, 120 g, not twelve teaspoons; it calls for sugar, not the extracted pepper. In the same book No1498 defines Biscuit-Torte as an egg, sugar and flour sponge, and No1503 uses Biscuit for pieces of that cake. Plain uniced egg sponge is therefore the chosen contextual interpretation, not an explicit cross-reference in No273 or an English buttery biscuit. Six cooked yolks and four modern tablespoons oil, 60 ml, are retained. A handful spinach becomes 50 g and the parsley/chervil sprigs become 5 g each. One unstandardized spoon of tarragon is represented by a modern tablespoon. Soaking/blanching water, salt, sugar, 30 ml vinegar, twenty small condiment servings and timing are working choices. The complete small sponge variation follows a sixth of the No1498 egg/flour/sugar proportions, with rounding and modern baking instructions. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-sponge",
+          "label": "With a small homemade egg sponge",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 6,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "spinach",
+              "amount": 50,
+              "unit": "g",
+              "name": "fresh spinach leaves, washed",
+              "substitution": "Use the same weight of young chard leaves, removing tough stems."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley sprigs",
+              "substitution": "Use the same weight of extra chervil."
+            },
+            {
+              "key": "chervil",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh chervil sprigs",
+              "substitution": "Use the same weight of extra parsley."
+            },
+            {
+              "key": "greenwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "greensalt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt for blanching water",
+              "substitution": "Reduce or omit; the water is discarded."
+            },
+            {
+              "key": "tarragon",
+              "amount": 1,
+              "unit": "tbsp",
+              "name": "fresh tarragon leaves, finely chopped",
+              "substitution": "Use the same volume of chopped chervil for a milder flavor."
+            },
+            {
+              "key": "soakwater",
+              "amount": 250,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "oil",
+              "amount": 60,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "cakeeggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for the sponge",
+              "substitution": "Use two large pasteurized shell eggs if preferred."
+            },
+            {
+              "key": "cakesugar",
+              "amount": 47,
+              "unit": "g",
+              "name": "caster sugar for the sponge",
+              "substitution": "Use the same weight of fine white sugar."
+            },
+            {
+              "key": "cakeflour",
+              "amount": 40,
+              "unit": "g",
+              "name": "plain wheat flour",
+              "substitution": "Use the same weight of a plain gluten-free baking blend; the sponge may be more fragile."
+            },
+            {
+              "key": "cakebutter",
+              "amount": 3,
+              "unit": "g",
+              "name": "butter for greasing the tin",
+              "substitution": "Use the same weight of neutral oil."
+            },
+            {
+              "key": "spongeportion",
+              "amount": 120,
+              "unit": "g",
+              "name": "cooled sponge reserved from the cake below; not an additional purchase",
+              "substitution": "Weigh after baking and cooling; keep any extra cake separately."
+            }
+          ],
+          "steps": [
+            "Heat the oven to 180°C (350°F). Line the base of a small round tin, about 15 cm across at the base yield, with baking paper and lightly grease with {{cakebutter}}. Separate {{cakeeggs}} into two clean bowls.",
+            "Beat the cake yolks with {{cakesugar}} until thick and pale. With clean beaters, whisk the cake whites to firm peaks. Fold the whites gently into the yolk mixture in two additions, sifting {{cakeflour}} over it and folding just until no dry flour remains.",
+            "Transfer to the tin and bake for about 18–25 minutes until golden, springy and a skewer inserted into the center comes out clean. Cool in the tin for 5 minutes, turn out onto a rack and cool completely. Weigh out {{spongeportion}} for the sauce; wrap any extra plain sponge for another use. Allow about 45 additional minutes for baking and cooling.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the firm cooked yolks and press them through a fine sieve into a mixing bowl. Refrigerate the cooked whites separately for another dish and use within 2 days.",
+            "Bring {{greenwater}} and {{greensalt}} to a boil. Add {{spinach}}, washed {{parsley}} and {{chervil}} and blanch for about 1 minute until wilted. Drain, refresh under cold running drinking water, then squeeze firmly in a clean cloth to remove excess water.",
+            "Put the weighed reserved sponge in a shallow bowl and briefly moisten with {{soakwater}}. Lift out and gently squeeze in a clean cloth or fine sieve to remove excess water; discard the soaking liquid. Do not leave it soaking until it dissolves.",
+            "Pound the squeezed greens with {{tarragon}}, the sieved cooked yolks and the damp sponge in a mortar until smooth, working in batches if needed. Press through a fine sieve, scraping the smooth mixture into a clean bowl. Cover and refrigerate until serving.",
+            "Just before serving, stir in {{salt}}, {{sugar}}, {{vinegar}} and {{oil}} until smoothly combined. The finished sauce is thick and spoonable; the source delays salt and vinegar to help preserve the green color.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-075f02aaee91a27b86a374be",
+    "bodySha256": "87fb0d141a2e382834aa513493f311a6b1d718fdef25af64be4bbe8ceb7a86af",
+    "recipe": {
+      "id": "historical-075f02aaee91a27b86a374be",
+      "title": "Viennese Cold Fricassee Sauce with Aspic",
+      "description": "Cooked and pasteurized yolks form a rich mayonnaise that is lightened with lemon and liquid stock jelly, then chilled until thick.",
+      "category": "Condiments",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 120,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 3,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 250,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 60,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground black pepper, or omit."
+        },
+        {
+          "key": "stock",
+          "amount": 250,
+          "unit": "ml",
+          "name": "clear unsalted veal stock, chilled",
+          "substitution": "Use the same volume of clear unsalted chicken stock for a different flavor."
+        },
+        {
+          "key": "gelatin",
+          "amount": 5,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining it first; agar is not a gram-for-gram substitute."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the hard-boiled yolks, press through a fine sieve and place in a clean mixing bowl. Refrigerate the cooked whites separately for use in another dish within 2 days. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+        "Sprinkle {{gelatin}} over {{stock|0.2}} in a small bowl and leave for 5 minutes. Warm the remaining {{stock|0.8}} in a saucepan, remove from heat, then stir in the bloomed gelatin and its stock until fully dissolved. Do not boil. Let cool, stirring occasionally, until barely warm and still liquid.",
+        "Measure {{oil}} into a jug. Whisk it into the yolk mixture a few drops at a time, then in a very thin stream once the sauce begins to thicken. Stop pouring if oil pools and whisk until it blends in.",
+        "Stir {{lemon}} into the prepared liquid aspic, which must be barely warm and still fluid. Gradually whisk this mixture into the mayonnaise in small additions until smooth. Do not add hot aspic or a solid block of jelly.",
+        "Stir in {{salt}} and {{pepper}}. Cover and refrigerate for about 1 hour until thickened and cold, then stir briefly before spooning over cold cooked fish, meat or vegetables.",
+        "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+      ],
+      "notes": "The actual scanned recipe is No271, cold fricassee sauce with aspic; it is not an anchovy or green sauce. It specifies six cooked yolks, three raw yolks and 125–250 ml oil. This base chooses 250 ml and retains 125 ml as a full variation. The continuation on page64 supplies the missing 250 ml melted aspic, now made in full from stock and a chosen 5 g approximately 200 Bloom gelatin. Juice of two lemons is standardized to 60 ml. The historical acid alternatives include concentrated vinegar essence, dissolved citric acid or strong tarragon vinegar. Full modern alternatives use ordinary 5% wine or tarragon vinegar, or a measured food-grade citric-acid solution; these are working choices, not verified equivalents of the unspecified old concentrations. Salt, pepper, twenty-four condiment servings and timing are supplied. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The citric variation chooses 3 g food-grade citric acid in 60 ml water; it is not a measurement recovered from the source’s unspecified drops of solution.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 120,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lower-oil",
+          "label": "With the lower oil amount",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 6,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 60,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "stock",
+              "amount": 250,
+              "unit": "ml",
+              "name": "clear unsalted veal stock, chilled",
+              "substitution": "Use the same volume of clear unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "gelatin",
+              "amount": 5,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining it first; agar is not a gram-for-gram substitute."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks, press through a fine sieve and place in a clean mixing bowl. Refrigerate the cooked whites separately for use in another dish within 2 days. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Sprinkle {{gelatin}} over {{stock|0.2}} in a small bowl and leave for 5 minutes. Warm the remaining {{stock|0.8}} in a saucepan, remove from heat, then stir in the bloomed gelatin and its stock until fully dissolved. Do not boil. Let cool, stirring occasionally, until barely warm and still liquid.",
+            "Measure {{oil}} into a jug. Whisk it into the yolk mixture a few drops at a time, then in a very thin stream once the sauce begins to thicken. Stop pouring if oil pools and whisk until it blends in.",
+            "Stir {{lemon}} into the prepared liquid aspic, which must be barely warm and still fluid. Gradually whisk this mixture into the mayonnaise in small additions until smooth. Do not add hot aspic or a solid block of jelly.",
+            "Stir in {{salt}} and {{pepper}}. Cover and refrigerate for about 1 hour until thickened and cold, then stir briefly before spooning over cold cooked fish, meat or vegetables.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        },
+        {
+          "id": "white-wine-vinegar",
+          "label": "With ordinary white wine vinegar",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 6,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "acid",
+              "amount": 60,
+              "unit": "ml",
+              "name": "white wine vinegar, ordinary food-grade, about 5% acidity",
+              "substitution": "Use the lemon-juice base recipe instead; do not substitute concentrated vinegar essence."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "stock",
+              "amount": 250,
+              "unit": "ml",
+              "name": "clear unsalted veal stock, chilled",
+              "substitution": "Use the same volume of clear unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "gelatin",
+              "amount": 5,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining it first; agar is not a gram-for-gram substitute."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks, press through a fine sieve and place in a clean mixing bowl. Refrigerate the cooked whites separately for use in another dish within 2 days. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Sprinkle {{gelatin}} over {{stock|0.2}} in a small bowl and leave for 5 minutes. Warm the remaining {{stock|0.8}} in a saucepan, remove from heat, then stir in the bloomed gelatin and its stock until fully dissolved. Do not boil. Let cool, stirring occasionally, until barely warm and still liquid.",
+            "Measure {{oil}} into a jug. Whisk it into the yolk mixture a few drops at a time, then in a very thin stream once the sauce begins to thicken. Stop pouring if oil pools and whisk until it blends in.",
+            "Stir {{acid}} into the prepared liquid aspic, which must be barely warm and still fluid. Gradually whisk this mixture into the mayonnaise in small additions until smooth. Do not add hot aspic or a solid block of jelly.",
+            "Stir in {{salt}} and {{pepper}}. Cover and refrigerate for about 1 hour until thickened and cold, then stir briefly before spooning over cold cooked fish, meat or vegetables.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        },
+        {
+          "id": "tarragon-vinegar",
+          "label": "With ordinary tarragon vinegar",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 6,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "acid",
+              "amount": 60,
+              "unit": "ml",
+              "name": "tarragon vinegar, ordinary food-grade, about 5% acidity",
+              "substitution": "Use the lemon-juice base recipe instead; do not substitute concentrated vinegar essence."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "stock",
+              "amount": 250,
+              "unit": "ml",
+              "name": "clear unsalted veal stock, chilled",
+              "substitution": "Use the same volume of clear unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "gelatin",
+              "amount": 5,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining it first; agar is not a gram-for-gram substitute."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks, press through a fine sieve and place in a clean mixing bowl. Refrigerate the cooked whites separately for use in another dish within 2 days. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Sprinkle {{gelatin}} over {{stock|0.2}} in a small bowl and leave for 5 minutes. Warm the remaining {{stock|0.8}} in a saucepan, remove from heat, then stir in the bloomed gelatin and its stock until fully dissolved. Do not boil. Let cool, stirring occasionally, until barely warm and still liquid.",
+            "Measure {{oil}} into a jug. Whisk it into the yolk mixture a few drops at a time, then in a very thin stream once the sauce begins to thicken. Stop pouring if oil pools and whisk until it blends in.",
+            "Stir {{acid}} into the prepared liquid aspic, which must be barely warm and still fluid. Gradually whisk this mixture into the mayonnaise in small additions until smooth. Do not add hot aspic or a solid block of jelly.",
+            "Stir in {{salt}} and {{pepper}}. Cover and refrigerate for about 1 hour until thickened and cold, then stir briefly before spooning over cold cooked fish, meat or vegetables.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        },
+        {
+          "id": "citric-solution",
+          "label": "With a measured citric-acid solution",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 6,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "stock",
+              "amount": 250,
+              "unit": "ml",
+              "name": "clear unsalted veal stock, chilled",
+              "substitution": "Use the same volume of clear unsalted chicken stock for a different flavor."
+            },
+            {
+              "key": "gelatin",
+              "amount": 5,
+              "unit": "g",
+              "name": "unflavored powdered gelatin, approximately 200 Bloom",
+              "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining it first; agar is not a gram-for-gram substitute."
+            },
+            {
+              "key": "citric",
+              "amount": 3,
+              "unit": "g",
+              "name": "food-grade citric acid crystals",
+              "substitution": "Use the lemon-juice base recipe instead; do not use cleaning-grade acid."
+            },
+            {
+              "key": "acidwater",
+              "amount": 60,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks, press through a fine sieve and place in a clean mixing bowl. Refrigerate the cooked whites separately for use in another dish within 2 days. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Sprinkle {{gelatin}} over {{stock|0.2}} in a small bowl and leave for 5 minutes. Warm the remaining {{stock|0.8}} in a saucepan, remove from heat, then stir in the bloomed gelatin and its stock until fully dissolved. Do not boil. Let cool, stirring occasionally, until barely warm and still liquid.",
+            "Measure {{oil}} into a jug. Whisk it into the yolk mixture a few drops at a time, then in a very thin stream once the sauce begins to thicken. Stop pouring if oil pools and whisk until it blends in.",
+            "Dissolve {{citric}} completely in {{acidwater}}, then stir that solution into the prepared liquid aspic, which must be barely warm and still fluid. Gradually whisk this mixture into the mayonnaise in small additions until smooth. Do not add hot aspic or a solid block of jelly.",
+            "Stir in {{salt}} and {{pepper}}. Cover and refrigerate for about 1 hour until thickened and cold, then stir briefly before spooning over cold cooked fish, meat or vegetables.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-73c00ace45c8bb88414a5ce0",
+    "bodySha256": "2d2d8a431c3edc53dbdb395005ad5822e44fd067f94287dd971cbfe26db4e62e",
+    "recipe": {
+      "id": "historical-73c00ace45c8bb88414a5ce0",
+      "title": "Viennese Whipped Aspic and Oil Sauce",
+      "description": "Clear stock jelly is whipped until airy, then enriched with a little oil, lemon, tarragon vinegar and nutmeg for a cold seafood sauce.",
+      "category": "Condiments",
+      "servings": 16,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "stock",
+          "amount": 250,
+          "unit": "ml",
+          "name": "clear unsalted veal stock, chilled",
+          "substitution": "Use the same volume of clear unsalted chicken stock for a different flavor."
+        },
+        {
+          "key": "gelatin",
+          "amount": 5,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining it first; agar is not a gram-for-gram substitute."
+        },
+        {
+          "key": "oil",
+          "amount": 62.5,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Omit for a milder sauce."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "freshly grated nutmeg",
+          "substitution": "Omit if preferred."
+        }
+      ],
+      "steps": [
+        "Sprinkle {{gelatin}} over {{stock|0.2}} in a small bowl and leave for 5 minutes. Warm the remaining {{stock|0.8}} in a saucepan, remove from heat, then stir in the bloomed gelatin and its stock until fully dissolved. Do not boil. Let cool, stirring occasionally, until barely warm and still liquid.",
+        "Place the bowl of liquid aspic over a larger bowl of ice water, keeping water out of the aspic. Whisk continuously or use an electric whisk on medium speed as it cools. Continue until pale, foamy and thick enough to hold soft peaks, about 10–20 minutes depending on bowl and cooling rate. Do not leave it unattended to set into a solid block.",
+        "Measure {{oil}} into a jug and beat it in a few drops at a time, then in a very thin stream, keeping the mixture cool. Gradually beat in {{lemon}} and {{vinegar}}, followed by {{salt}}, {{pepper}} and {{nutmeg}}.",
+        "Transfer the aerated sauce to a clean bowl, cover and refrigerate for about 30 minutes to firm. Serve cold with cooked fish or shellfish. If the aspic sets solid before it has been whipped, gently rewarm it just until fluid and start the cooling-and-whisking step again before adding oil.",
+        "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+      ],
+      "notes": "The scanned No272 calls for 250 ml clear hot aspic and one-sixteenth litre oil, 62.5 ml. The extracted vinegar and cream were misread: neither is the main liquid, and there is no horseradish. The complete aspic uses 250 ml stock and a chosen 5 g approximately 200 Bloom gelatin. Lemon, tarragon vinegar, salt, white pepper and nutmeg are the actual seasonings, with working quantities supplied. Whipping while the gelatin cools is essential to the source method. Sixteen small condiment servings and timing are estimates. This egg-free sauce is distinct from the yolk-rich aspic fricassee sauce. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Scanned original page64, recipe272.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-972b63dcd8bb5846ecad99fc",
+    "bodySha256": "1e1058b0290ac25daa6445d71045d356c51e4feb78255b030afbc5bd0272c879",
+    "recipe": {
+      "id": "historical-972b63dcd8bb5846ecad99fc",
+      "title": "Viennese Herb and Juniper Mayonnaise",
+      "description": "A fine herb butter with juniper, sorrel and tarragon is worked into mayonnaise for a rich cold sauce.",
+      "category": "Condiments",
+      "servings": 28,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 6,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 250,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground black pepper, or omit."
+        },
+        {
+          "key": "tarragonherb",
+          "amount": 3,
+          "unit": "g",
+          "name": "fresh tarragon leaves",
+          "substitution": "Use the same weight of extra chervil for a milder flavor."
+        },
+        {
+          "key": "parsleyherb",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley leaves",
+          "substitution": "Use the same weight of extra chervil."
+        },
+        {
+          "key": "chervilherb",
+          "amount": 3,
+          "unit": "g",
+          "name": "fresh chervil leaves",
+          "substitution": "Use the same weight of extra parsley."
+        },
+        {
+          "key": "sorrel",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh sorrel leaves",
+          "substitution": "Use the same weight of baby spinach plus a few drops of lemon juice to taste."
+        },
+        {
+          "key": "mint",
+          "amount": 2,
+          "unit": "g",
+          "name": "fresh garden mint leaves, a modern substitute for the historical Gundelkraut",
+          "substitution": "Use the complete ground-ivy variation for the source herb."
+        },
+        {
+          "key": "juniper",
+          "amount": 5,
+          "unit": "",
+          "name": "culinary juniper berries",
+          "substitution": "Omit for a less resinous sauce; use berries sold for cooking."
+        },
+        {
+          "key": "herbbutter",
+          "amount": 40,
+          "unit": "g",
+          "name": "unsalted butter, softened",
+          "substitution": "Use the same weight of salted butter and reduce the added sauce salt."
+        },
+        {
+          "key": "herboil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "olive oil for pounding the herbs",
+          "substitution": "Use the same volume of sunflower oil."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{lemon}} separately.",
+        "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured lemon juice. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+        "When all the measured oil and lemon juice are incorporated, stir in {{salt}} and {{pepper}}.",
+        "Wash and thoroughly dry {{tarragonherb}}, {{parsleyherb}}, {{chervilherb}}, {{sorrel}} and {{mint}}. Chop finely. Crush {{juniper}} in a mortar, add the herbs and pound with {{herbbutter}} and {{herboil}} until finely blended.",
+        "Press the herb mixture through a fine sieve into a clean bowl, working it firmly with a spoon and discarding tough fibrous fragments. Stir the smooth herb butter gradually into the finished mayonnaise just before serving.",
+        "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+      ],
+      "notes": "The scanned No274 gives 4 deka butter, 40 g, not four teaspoons, plus one tablespoon oil and five juniper berries. It says Gundelkraut, interpreted as ground ivy (Glechoma hederacea), not the extracted burnet. The base uses a clearly labelled 2 g mint substitution for that less common herb; a full food-grade ground-ivy version retains the source option. Herb sprigs and unspecified sorrel become working weights. The text requests raw-yolk mayonnaise but cites No269, which combines cooked and raw yolks. This base follows the description using the full adapted No268; a complete alternative follows the cited No269. The optional tablespoon French mustard and lower oil amount are retained. Twenty-eight small condiment servings and time are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Botanical name context: https://virtuelle-gaerten.uni-hohenheim.de/4DACTION/W_Init/HG_Taxon_de?TaxonID=939796 and https://www.rhs.org.uk/plants/8034/glechoma-hederacea/details .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "ground-ivy",
+          "label": "With the source ground-ivy herb",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 6,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "tarragonherb",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh tarragon leaves",
+              "substitution": "Use the same weight of extra chervil for a milder flavor."
+            },
+            {
+              "key": "parsleyherb",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley leaves",
+              "substitution": "Use the same weight of extra chervil."
+            },
+            {
+              "key": "chervilherb",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh chervil leaves",
+              "substitution": "Use the same weight of extra parsley."
+            },
+            {
+              "key": "sorrel",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh sorrel leaves",
+              "substitution": "Use the same weight of baby spinach plus a few drops of lemon juice to taste."
+            },
+            {
+              "key": "groundivy",
+              "amount": 2,
+              "unit": "g",
+              "name": "food-grade ground-ivy leaves (Glechoma hederacea), supplied for culinary use",
+              "substitution": "Use the mint-substitution base recipe instead."
+            },
+            {
+              "key": "juniper",
+              "amount": 5,
+              "unit": "",
+              "name": "culinary juniper berries",
+              "substitution": "Omit for a less resinous sauce; use berries sold for cooking."
+            },
+            {
+              "key": "herbbutter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter, softened",
+              "substitution": "Use the same weight of salted butter and reduce the added sauce salt."
+            },
+            {
+              "key": "herboil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for pounding the herbs",
+              "substitution": "Use the same volume of sunflower oil."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{lemon}} separately.",
+            "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured lemon juice. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+            "When all the measured oil and lemon juice are incorporated, stir in {{salt}} and {{pepper}}.",
+            "Wash and thoroughly dry {{tarragonherb}}, {{parsleyherb}}, {{chervilherb}}, {{sorrel}} and {{groundivy}}. Chop finely. Crush {{juniper}} in a mortar, add the herbs and pound with {{herbbutter}} and {{herboil}} until finely blended.",
+            "Press the herb mixture through a fine sieve into a clean bowl, working it firmly with a spoon and discarding tough fibrous fragments. Stir the smooth herb butter gradually into the finished mayonnaise just before serving.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        },
+        {
+          "id": "mustard",
+          "label": "With French mustard",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 6,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "tarragonherb",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh tarragon leaves",
+              "substitution": "Use the same weight of extra chervil for a milder flavor."
+            },
+            {
+              "key": "parsleyherb",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley leaves",
+              "substitution": "Use the same weight of extra chervil."
+            },
+            {
+              "key": "chervilherb",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh chervil leaves",
+              "substitution": "Use the same weight of extra parsley."
+            },
+            {
+              "key": "sorrel",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh sorrel leaves",
+              "substitution": "Use the same weight of baby spinach plus a few drops of lemon juice to taste."
+            },
+            {
+              "key": "mint",
+              "amount": 2,
+              "unit": "g",
+              "name": "fresh garden mint leaves, a modern substitute for the historical Gundelkraut",
+              "substitution": "Use the complete ground-ivy variation for the source herb."
+            },
+            {
+              "key": "juniper",
+              "amount": 5,
+              "unit": "",
+              "name": "culinary juniper berries",
+              "substitution": "Omit for a less resinous sauce; use berries sold for cooking."
+            },
+            {
+              "key": "herbbutter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter, softened",
+              "substitution": "Use the same weight of salted butter and reduce the added sauce salt."
+            },
+            {
+              "key": "herboil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for pounding the herbs",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tbsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{lemon}} separately.",
+            "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured lemon juice. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+            "When all the measured oil and lemon juice are incorporated, stir in {{salt}} and {{pepper}}.",
+            "Wash and thoroughly dry {{tarragonherb}}, {{parsleyherb}}, {{chervilherb}}, {{sorrel}} and {{mint}}. Chop finely. Crush {{juniper}} in a mortar, add the herbs and pound with {{herbbutter}} and {{herboil}} until finely blended.",
+            "Press the herb mixture through a fine sieve into a clean bowl, working it firmly with a spoon and discarding tough fibrous fragments. Stir the smooth herb butter gradually into the finished mayonnaise just before serving.",
+            "Stir in {{mustard}} just before serving.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        },
+        {
+          "id": "lower-oil",
+          "label": "With the lower oil amount in the base mayonnaise",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 6,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 125,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "tarragonherb",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh tarragon leaves",
+              "substitution": "Use the same weight of extra chervil for a milder flavor."
+            },
+            {
+              "key": "parsleyherb",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley leaves",
+              "substitution": "Use the same weight of extra chervil."
+            },
+            {
+              "key": "chervilherb",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh chervil leaves",
+              "substitution": "Use the same weight of extra parsley."
+            },
+            {
+              "key": "sorrel",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh sorrel leaves",
+              "substitution": "Use the same weight of baby spinach plus a few drops of lemon juice to taste."
+            },
+            {
+              "key": "mint",
+              "amount": 2,
+              "unit": "g",
+              "name": "fresh garden mint leaves, a modern substitute for the historical Gundelkraut",
+              "substitution": "Use the complete ground-ivy variation for the source herb."
+            },
+            {
+              "key": "juniper",
+              "amount": 5,
+              "unit": "",
+              "name": "culinary juniper berries",
+              "substitution": "Omit for a less resinous sauce; use berries sold for cooking."
+            },
+            {
+              "key": "herbbutter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter, softened",
+              "substitution": "Use the same weight of salted butter and reduce the added sauce salt."
+            },
+            {
+              "key": "herboil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for pounding the herbs",
+              "substitution": "Use the same volume of sunflower oil."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a clean bowl set over a larger bowl of cool water, keeping water out of the yolks. Measure {{oil}} and {{lemon}} separately.",
+            "Add oil a few drops at a time while whisking constantly. Once smoothly blended, continue in a very thin stream, alternating small additions of the measured lemon juice. Pause adding liquid whenever the sauce begins to separate and whisk until smooth.",
+            "When all the measured oil and lemon juice are incorporated, stir in {{salt}} and {{pepper}}.",
+            "Wash and thoroughly dry {{tarragonherb}}, {{parsleyherb}}, {{chervilherb}}, {{sorrel}} and {{mint}}. Chop finely. Crush {{juniper}} in a mortar, add the herbs and pound with {{herbbutter}} and {{herboil}} until finely blended.",
+            "Press the herb mixture through a fine sieve into a clean bowl, working it firmly with a spoon and discarding tough fibrous fragments. Stir the smooth herb butter gradually into the finished mayonnaise just before serving.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        },
+        {
+          "id": "cited-mixed-yolks",
+          "label": "With the cited cooked-and-raw-yolk mayonnaise",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 250,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 60,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Use the same amount of ground black pepper, or omit."
+            },
+            {
+              "key": "tarragonherb",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh tarragon leaves",
+              "substitution": "Use the same weight of extra chervil for a milder flavor."
+            },
+            {
+              "key": "parsleyherb",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley leaves",
+              "substitution": "Use the same weight of extra chervil."
+            },
+            {
+              "key": "chervilherb",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh chervil leaves",
+              "substitution": "Use the same weight of extra parsley."
+            },
+            {
+              "key": "sorrel",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh sorrel leaves",
+              "substitution": "Use the same weight of baby spinach plus a few drops of lemon juice to taste."
+            },
+            {
+              "key": "mint",
+              "amount": 2,
+              "unit": "g",
+              "name": "fresh garden mint leaves, a modern substitute for the historical Gundelkraut",
+              "substitution": "Use the complete ground-ivy variation for the source herb."
+            },
+            {
+              "key": "juniper",
+              "amount": 5,
+              "unit": "",
+              "name": "culinary juniper berries",
+              "substitution": "Omit for a less resinous sauce; use berries sold for cooking."
+            },
+            {
+              "key": "herbbutter",
+              "amount": 40,
+              "unit": "g",
+              "name": "unsalted butter, softened",
+              "substitution": "Use the same weight of salted butter and reduce the added sauce salt."
+            },
+            {
+              "key": "herboil",
+              "amount": 15,
+              "unit": "ml",
+              "name": "olive oil for pounding the herbs",
+              "substitution": "Use the same volume of sunflower oil."
+            }
+          ],
+          "steps": [
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the hard-boiled yolks and press them through a fine sieve into a clean mixing bowl. Refrigerate the cooked whites separately and use within 2 days in another dish. Whisk {{yolks}} into the sieved cooked yolks until smooth.",
+            "Measure {{oil|0.5}} into a small jug and whisk it into the yolks a few drops at a time, then in a thin stream once blended. Do not add the acid yet.",
+            "Measure the remaining {{oil|0.5}} and {{lemon}} separately. Continue whisking, alternating very small additions of oil and lemon juice until both are incorporated. Stop pouring if oil pools and whisk until it blends in.",
+            "Stir in {{salt}} and {{pepper}}.",
+            "Wash and thoroughly dry {{tarragonherb}}, {{parsleyherb}}, {{chervilherb}}, {{sorrel}} and {{mint}}. Chop finely. Crush {{juniper}} in a mortar, add the herbs and pound with {{herbbutter}} and {{herboil}} until finely blended.",
+            "Press the herb mixture through a fine sieve into a clean bowl, working it firmly with a spoon and discarding tough fibrous fragments. Stir the smooth herb butter gradually into the finished mayonnaise just before serving.",
+            "Keep covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours of preparation and keep cold until serving."
+          ]
+        }
+      ]
+    }
   }
 ]
