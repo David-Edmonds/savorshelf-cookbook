@@ -1,3 +1,7 @@
+# Recipe content batch 020 — September 22, 2026
+
+Four measured adaptations complete the source-reviewed hake, Polish fish salad, calf’s-head and sour-braised brain dishes, including all sauces and garnishes. Original sources correct an eightfold vinegar extraction error and distinguish the calf’s-head tomato sauce from a different baked preparation. Modern cooking, chilling and reheating endpoints are explicit; raw-yolk ambiguity becomes a disclosed cooked-yolk dressing. Totals: 40,835 imported recipes, 382 completed adaptations, 40,453 remaining content repairs and 42,287 visible recipes. No new duplicate merge. The collection remains unfinished; no kitchen or physical-phone tests. Saved data, Android, portfolio and automations are unchanged.
+
 # Recipe content batch 019 — September 22, 2026
 
 Seven complete adaptations supply dressed asparagus, whole artichokes, green beans, tomato salad, Guatemalan mustard-parsley vinaigrette and Creole shallot vinaigrette. All vegetable preparation and sauce components are self-contained. Original-page conflicts are explicitly resolved as modern choices, with twelve small shallots distinguished from twelve large bulbs and the canned asparagus cooking reference restored. Totals: 40,835 imported recipes, 378 completed adaptations, 40,457 remaining content repairs and 42,287 visible recipes. No new duplicate merge. The full collection remains unfinished; kitchen and physical-phone testing remain unverified. No Android, portfolio, personal-data or automation changes.

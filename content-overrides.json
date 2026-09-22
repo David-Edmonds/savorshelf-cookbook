@@ -30001,5 +30001,759 @@
       "updatedAt": "2026-09-22T20:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-3ac0853135e959bb4467edf9",
+    "bodySha256": "208354fbf5106addc4d8bf16217a43c40acd6f6240189192db1530cbc8e13a79",
+    "recipe": {
+      "id": "historical-3ac0853135e959bb4467edf9",
+      "title": "Merluza with Warm Egg and Tarragon Vinaigrette",
+      "description": "Gently poached hake is topped with warm olive oil and a chunky tarragon-vinegar sauce containing hard-boiled eggs, onion, garlic and parsley.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "fish",
+          "amount": 1200,
+          "unit": "g",
+          "name": "boneless hake fillet, skin on, in one or two large pieces",
+          "substitution": "Use the same weight of thick cod or pollock fillet; cook to the same endpoint."
+        },
+        {
+          "key": "fishwater",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "eggs",
+          "amount": 6,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs; cook fully as directed."
+        },
+        {
+          "key": "eggwater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "onion",
+          "amount": 60,
+          "unit": "g",
+          "name": "peeled onion, finely chopped",
+          "substitution": "Use the same weight of shallot."
+        },
+        {
+          "key": "garlic",
+          "amount": 5,
+          "unit": "g",
+          "name": "peeled garlic, finely minced",
+          "substitution": "Use the same weight of shallot for a different flavor."
+        },
+        {
+          "key": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of chives for a different herb flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 45,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "whitepepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of black pepper."
+        },
+        {
+          "key": "clove",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cloves",
+          "substitution": "Omit for milder seasoning."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Use the same amount of ground mace."
+        },
+        {
+          "key": "oil",
+          "amount": 90,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a pan with {{eggwater}}, topping up if needed to cover by about 2 cm. Bring to a boil, cover, remove from the heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout. Separate the yolks and finely chop the whites.",
+        "Mix {{onion}}, {{garlic}}, {{parsley}}, {{vinegar}}, {{salt}}, {{whitepepper}}, {{clove}} and {{nutmeg}} in a bowl. Stir and press with a spoon for about 15 minutes, then mash in the cooked yolks and fold in the chopped whites.",
+        "Check {{fish}} for pin bones and remove them. Lay the large pieces in a wide shallow pan with cold {{fishwater}}, adding a little more if needed to cover. Heat gradually to a bare simmer, then keep at a gentle simmer for about 8–15 minutes, until the thickest part reaches 63°C (145°F) and the flesh is opaque and flakes easily. Do not assume it is cooked at the first boil.",
+        "Lift the fish carefully onto a warm deep serving platter and drain away excess water. Warm {{oil}} in a small pan over low heat for 1–2 minutes, just until warm and fluid; do not let it smoke. Spoon it over the fish, then spread the egg-and-vinegar mixture over the top. Serve immediately.",
+        "Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Use within 3 days. Reheat cooked leftovers to 74°C (165°F)."
+      ],
+      "notes": "The original says the whole piece of hake, not necessarily a whole fish. Two large boneless pieces are an explicit modern handling choice. Six hard-boiled yolks and their whites are retained. Missing fish, oil, vinegar, vegetable and spice amounts are supplied. The unspecified mixed spices become a disclosed white-pepper, clove and nutmeg blend. Warm oil replaces the source smoking-hot oil to avoid splashing over wet fish. The unreliable first-boil cooking endpoint is replaced with a measured fish temperature. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "El Practicón: tratado completo de cocina (1894), Ángel Muro. https://archive.org/details/elpracticntrat00muro SavorShelf measured adaptation. Modern cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Veal variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-156eeccf3c462a2211d89d37",
+    "bodySha256": "eeac8ef6d6d676ccb8d083f713984070ebbcab0f40a249bf6b4f7244b0e2c201",
+    "recipe": {
+      "id": "historical-156eeccf3c462a2211d89d37",
+      "title": "Polish-American Fish and Beet Vinaigrette Salad",
+      "description": "Cooked fish, potatoes, beets and pickled vegetables form a substantial cold salad with an egg-yolk mustard dressing and a colorful garnish.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 120,
+      "ingredients": [
+        {
+          "key": "fish",
+          "amount": 600,
+          "unit": "g",
+          "name": "boneless skinless cod fillets",
+          "substitution": "Use the complete fresh-herring variation for a different traditional fish choice."
+        },
+        {
+          "key": "fishwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "potatoes",
+          "amount": 500,
+          "unit": "g",
+          "name": "small waxy potatoes, scrubbed",
+          "substitution": "Use the same weight of another firm salad potato."
+        },
+        {
+          "key": "potatowater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "beets",
+          "amount": 300,
+          "unit": "g",
+          "name": "small whole beets, scrubbed",
+          "substitution": "Use the same weight of golden beets; color and flavor differ."
+        },
+        {
+          "key": "beetwater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs; cook fully as directed."
+        },
+        {
+          "key": "sauceeggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs; cook fully as directed."
+        },
+        {
+          "key": "eggwater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "gherkins",
+          "amount": 40,
+          "unit": "g",
+          "name": "drained pickled gherkins",
+          "substitution": "Use the same weight of cornichons."
+        },
+        {
+          "key": "cucumber",
+          "amount": 80,
+          "unit": "g",
+          "name": "drained fermented cucumber pickles",
+          "substitution": "Use the same weight of sour dill pickles."
+        },
+        {
+          "key": "mushrooms",
+          "amount": 80,
+          "unit": "g",
+          "name": "commercially prepared marinated mushrooms, drained",
+          "substitution": "Use the same weight of drained pickled artichoke hearts for a different salad."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "sauceoil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil for the yolk dressing",
+          "substitution": "Use the same volume of mild sunflower oil."
+        },
+        {
+          "key": "saucevinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar for the yolk dressing",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "granulated sugar",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of prepared yellow mustard."
+        },
+        {
+          "key": "capers",
+          "amount": 15,
+          "unit": "g",
+          "name": "drained capers",
+          "substitution": "Use the same weight of finely chopped sour cucumber pickle."
+        },
+        {
+          "key": "cabbage",
+          "amount": 60,
+          "unit": "g",
+          "name": "red cabbage, finely shredded",
+          "substitution": "Use the same weight of shredded green cabbage."
+        }
+      ],
+      "steps": [
+        "Put {{potatoes}} in a pan with {{potatowater}}. Bring to a boil and simmer for 15–25 minutes until just tender. Drain, cool until safe to handle, peel if desired and slice thinly. Spread in a shallow dish to cool.",
+        "In a separate pan, cover {{beets}} with {{beetwater}}. Simmer for 30–50 minutes until a small knife enters easily, adding water if needed to keep them covered. Drain and cool briefly, then rub off the skins and slice thinly. Keep separate from the potatoes while cooling.",
+        "Put {{eggs}} and {{sauceeggs}} together in a pan with {{eggwater}}, topping up to cover by 2 cm if needed. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water and peel. Check that every yolk is firm. Reserve one third of the cooked eggs whole for the salad. Separate the yolks of the remaining two thirds for the sauce and refrigerate their whites for another dish.",
+        "Check {{fish}} for bones and remove them. Bring {{fishwater}} to a bare simmer in a wide pan. Add the fish and poach gently for 6–10 minutes, until the thickest part reaches 63°C (145°F) and flakes easily. Lift out, drain and flake into bite-size pieces.",
+        "Spread the cooked fish and vegetables in separate shallow dishes, cover and refrigerate promptly, within 2 hours of cooking. Chill for about 45 minutes at 4°C (40°F) or colder. Slice the reserved whole salad eggs, {{gherkins}} and {{cucumber}}; cut {{mushrooms}} into small pieces.",
+        "Set aside half the sliced beets, half the sliced eggs and half the sliced cucumber for garnish. Gently mix the remaining portions with the potatoes, fish, gherkins, mushrooms, {{oil}} and {{vinegar}}. Arrange on a serving platter.",
+        "Mash the reserved cooked sauce yolks very finely with {{saucevinegar}}, {{sugar}} and {{mustard}}. Gradually whisk in {{sauceoil}} until smooth. Spoon over the salad.",
+        "Garnish with the reserved beet, egg and cucumber slices, {{capers}} and {{cabbage}}. Serve cold. Refrigerate leftovers promptly and use within 2 days."
+      ],
+      "notes": "The complete original Polish paragraph includes cooked fish or herring and a separate four-yolk sauce. The sauce yolks are not described as raw or cooked; this adaptation explicitly cooks them fully, producing a thick cooked-yolk dressing. Two additional eggs supply the salad and garnish. Both source oil-and-vinegar additions are retained and measured separately. Vegetable, fish, pickle and garnish quantities are supplied. The source garnish is divided from the listed ingredients, not double-counted. Total time includes parallel cooking and chilling. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Kuchnia polsko-amerykańska (1917), author not recorded. https://archive.org/details/kuchniapolskoame00kami SavorShelf measured adaptation. Modern cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Veal variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 120,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "fresh-herring",
+          "label": "Fish and beet salad with cooked herring",
+          "ingredients": [
+            {
+              "key": "fish",
+              "amount": 600,
+              "unit": "g",
+              "name": "fresh boneless herring fillets, skin removed",
+              "substitution": "Use the cod base recipe if preferred; this variation uses fresh fish, not raw salted herring."
+            },
+            {
+              "key": "fishwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+            },
+            {
+              "key": "potatoes",
+              "amount": 500,
+              "unit": "g",
+              "name": "small waxy potatoes, scrubbed",
+              "substitution": "Use the same weight of another firm salad potato."
+            },
+            {
+              "key": "potatowater",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+            },
+            {
+              "key": "beets",
+              "amount": 300,
+              "unit": "g",
+              "name": "small whole beets, scrubbed",
+              "substitution": "Use the same weight of golden beets; color and flavor differ."
+            },
+            {
+              "key": "beetwater",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use the same number of large pasteurized shell eggs; cook fully as directed."
+            },
+            {
+              "key": "sauceeggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use the same number of large pasteurized shell eggs; cook fully as directed."
+            },
+            {
+              "key": "eggwater",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+            },
+            {
+              "key": "gherkins",
+              "amount": 40,
+              "unit": "g",
+              "name": "drained pickled gherkins",
+              "substitution": "Use the same weight of cornichons."
+            },
+            {
+              "key": "cucumber",
+              "amount": 80,
+              "unit": "g",
+              "name": "drained fermented cucumber pickles",
+              "substitution": "Use the same weight of sour dill pickles."
+            },
+            {
+              "key": "mushrooms",
+              "amount": 80,
+              "unit": "g",
+              "name": "commercially prepared marinated mushrooms, drained",
+              "substitution": "Use the same weight of drained pickled artichoke hearts for a different salad."
+            },
+            {
+              "key": "oil",
+              "amount": 30,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "sauceoil",
+              "amount": 60,
+              "unit": "ml",
+              "name": "olive oil for the yolk dressing",
+              "substitution": "Use the same volume of mild sunflower oil."
+            },
+            {
+              "key": "saucevinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar for the yolk dressing",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "granulated sugar",
+              "substitution": "Use the same amount of caster sugar."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of prepared yellow mustard."
+            },
+            {
+              "key": "capers",
+              "amount": 15,
+              "unit": "g",
+              "name": "drained capers",
+              "substitution": "Use the same weight of finely chopped sour cucumber pickle."
+            },
+            {
+              "key": "cabbage",
+              "amount": 60,
+              "unit": "g",
+              "name": "red cabbage, finely shredded",
+              "substitution": "Use the same weight of shredded green cabbage."
+            }
+          ],
+          "steps": [
+            "Put {{potatoes}} in a pan with {{potatowater}}. Bring to a boil and simmer for 15–25 minutes until just tender. Drain, cool until safe to handle, peel if desired and slice thinly. Spread in a shallow dish to cool.",
+            "In a separate pan, cover {{beets}} with {{beetwater}}. Simmer for 30–50 minutes until a small knife enters easily, adding water if needed to keep them covered. Drain and cool briefly, then rub off the skins and slice thinly. Keep separate from the potatoes while cooling.",
+            "Put {{eggs}} and {{sauceeggs}} together in a pan with {{eggwater}}, topping up to cover by 2 cm if needed. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water and peel. Check that every yolk is firm. Reserve one third of the cooked eggs whole for the salad. Separate the yolks of the remaining two thirds for the sauce and refrigerate their whites for another dish.",
+            "Check {{fish}} for bones and remove them. Bring {{fishwater}} to a bare simmer in a wide pan. Add the fish and poach gently for 6–10 minutes, until the thickest part reaches 63°C (145°F) and flakes easily. Lift out, drain and flake into bite-size pieces.",
+            "Spread the cooked fish and vegetables in separate shallow dishes, cover and refrigerate promptly, within 2 hours of cooking. Chill for about 45 minutes at 4°C (40°F) or colder. Slice the reserved whole salad eggs, {{gherkins}} and {{cucumber}}; cut {{mushrooms}} into small pieces.",
+            "Set aside half the sliced beets, half the sliced eggs and half the sliced cucumber for garnish. Gently mix the remaining portions with the potatoes, fish, gherkins, mushrooms, {{oil}} and {{vinegar}}. Arrange on a serving platter.",
+            "Mash the reserved cooked sauce yolks very finely with {{saucevinegar}}, {{sugar}} and {{mustard}}. Gradually whisk in {{sauceoil}} until smooth. Spoon over the salad.",
+            "Garnish with the reserved beet, egg and cucumber slices, {{capers}} and {{cabbage}}. Serve cold. Refrigerate leftovers promptly and use within 2 days."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-3afdfe33945efb2ff69c1f3f",
+    "bodySha256": "511bc42f51fbe44f9fd665455336ea186c80b3dc279497113ea5a25d4d58d831",
+    "recipe": {
+      "id": "historical-3afdfe33945efb2ff69c1f3f",
+      "title": "Calf’s Head with Tomato Sauce and Vinaigrette",
+      "description": "Tender simmered calf’s-head meat is coated with a light tomato sauce and served with parsley, caper and onion vinaigrette.",
+      "category": "Main dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "head",
+          "amount": 1200,
+          "unit": "g",
+          "name": "boneless calf’s-head meat and skin, cleaned and prepared by an inspected butcher, tongue and brains removed",
+          "substitution": "Use the same weight of beef cheek for a different texture and flavor; simmer until tender."
+        },
+        {
+          "key": "blanchwater",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "lemon",
+          "amount": 0.5,
+          "unit": "",
+          "name": "lemon, washed",
+          "substitution": "Use half a lime for a different flavor."
+        },
+        {
+          "key": "potvinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar for the simmering liquid",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "peppercorns",
+          "amount": 10,
+          "unit": "",
+          "name": "whole black peppercorns",
+          "substitution": "Use the same number of white peppercorns."
+        },
+        {
+          "key": "bay",
+          "amount": 1,
+          "unit": "",
+          "name": "dried bay leaf",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "onion",
+          "amount": 120,
+          "unit": "g",
+          "name": "peeled onion, quartered",
+          "substitution": "Use the same weight of trimmed leek, rinsed well."
+        },
+        {
+          "key": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "name": "peeled carrot, cut into large pieces",
+          "substitution": "Use the same weight of peeled parsnip."
+        },
+        {
+          "key": "potparsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley sprigs",
+          "substitution": "Use the same weight of parsley stems."
+        },
+        {
+          "key": "tomato",
+          "amount": 300,
+          "unit": "ml",
+          "name": "plain unsalted tomato juice",
+          "substitution": "Use 150 ml plain tomato passata mixed with 150 ml water."
+        },
+        {
+          "key": "starch",
+          "amount": 8,
+          "unit": "g",
+          "name": "cornstarch (cornflour)",
+          "substitution": "Use the same weight of arrowroot starch, heating just until thickened."
+        },
+        {
+          "key": "slurrywater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "gratedonion",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "finely grated onion for the vinaigrette",
+          "substitution": "Use the same amount of grated shallot."
+        },
+        {
+          "key": "parsley",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "capers",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "drained capers, chopped",
+          "substitution": "Use the same amount of chopped sour cucumber pickle."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Check {{head}} carefully for any remaining bone fragments and remove them. Put in a deep pot with {{blanchwater}}, adding more cold water only if needed to cover. Bring to a boil and simmer for 5 minutes. Drain, discard the blanching water and rinse the pot.",
+        "When the meat is cool enough to handle with tongs, rub its surface with the cut side of {{lemon}}, then discard the lemon. Return the meat to the clean pot with hot {{water}}, {{potvinegar}}, {{peppercorns}}, {{bay}}, {{onion}}, {{carrot}} and {{potparsley}}. Add more hot water only if needed to cover.",
+        "Cover and simmer very gently for 2½–3½ hours until the meat and skin are tender but still hold their shape. Maintain enough liquid to cover them, topping up as needed. The thickest meat must reach at least 71°C (160°F), and tenderness determines the longer cooking time.",
+        "Lift the meat out, discard the cooking vegetables and spices, and cut the meat into neat serving pieces, checking again for any small bone fragments. Keep covered and warm while making the sauces.",
+        "Bring {{tomato}} to a gentle simmer in a small saucepan. Mix {{starch}} with cold {{slurrywater}} until smooth, whisk into the tomato juice and simmer for 2 minutes, stirring, until lightly thickened. Spoon this tomato sauce over the meat.",
+        "Whisk {{vinegar}}, {{salt}} and {{pepper}} in a bowl. Gradually whisk in {{oil}}, then stir in {{gratedonion}}, {{parsley}} and {{capers}}. Serve the vinaigrette in a separate small bowl with the hot tomato-coated meat.",
+        "Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Use within 3 days. Reheat cooked leftovers to 74°C (165°F)."
+      ],
+      "notes": "The full original boiling cross-reference is expanded, but a butcher prepares and debones the head; the tongue and brains are not part of this dish. The preliminary cold soak is omitted because the meat is already professionally cleaned. The original tomato-and-cornstarch sauce is supplied in full. Egg, breadcrumbs and butter in the extracted list belong to the preceding baked-head recipe and are not used in this separate vinaigrette dish. Missing meat, tomato, starch and herb quantities are explicit modern estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Modern cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Veal variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-975e9d69a7938eb17de554f6",
+    "bodySha256": "5a3b1f9ff10c7a5606ff5ccb165d89e992b17473aa62481bba3ffbb1da34bab2",
+    "recipe": {
+      "id": "historical-975e9d69a7938eb17de554f6",
+      "title": "Sour-Braised Calf’s Brain with Tarragon and Chervil",
+      "description": "Gently poached calf’s brain is briefly reheated in a light tarragon-vinegar broth with blanched fresh herbs.",
+      "category": "Main dishes",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 100,
+      "ingredients": [
+        {
+          "key": "brains",
+          "amount": 300,
+          "unit": "g",
+          "name": "food-grade calf’s brain, cleaned and membrane removed by an inspected meat supplier",
+          "substitution": "Use the same weight of food-grade lamb brain from an inspected supplier for a different flavor."
+        },
+        {
+          "key": "poachwater",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "poachvinegar",
+          "amount": 500,
+          "unit": "ml",
+          "name": "white wine vinegar for poaching",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "vinegar",
+          "amount": 62.5,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "stock",
+          "amount": 200,
+          "unit": "ml",
+          "name": "unsalted prepared veal stock",
+          "substitution": "Use the same volume of unsalted prepared chicken or vegetable stock."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "bay",
+          "amount": 1,
+          "unit": "",
+          "name": "dried bay leaf",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "tarragon",
+          "amount": 3,
+          "unit": "g",
+          "name": "fresh tarragon leaves",
+          "substitution": "Use the same weight of fresh parsley for a different herb flavor."
+        },
+        {
+          "key": "chervil",
+          "amount": 3,
+          "unit": "g",
+          "name": "fresh chervil leaves",
+          "substitution": "Use the same weight of fresh parsley for a different herb flavor."
+        },
+        {
+          "key": "parsley",
+          "amount": 3,
+          "unit": "g",
+          "name": "fresh parsley leaves",
+          "substitution": "Use the same weight of fresh chervil."
+        },
+        {
+          "key": "herbwater",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up as directed to keep the food covered."
+        },
+        {
+          "key": "herbsalt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt for the herb water",
+          "substitution": "Reduce or omit."
+        }
+      ],
+      "steps": [
+        "Bring {{poachwater}} and {{poachvinegar}} to a gentle simmer in a snug saucepan. Add {{brains}}, topping up with equal amounts of water and vinegar only if needed to cover. Poach gently for about 10–15 minutes, until firm and at least 71°C (160°F) in the center.",
+        "Transfer the brain and enough poaching liquid to cover it into a shallow heatproof container. Set the container in a cold-water bath without allowing water into the food; change the bath water as it warms. Cover and refrigerate promptly, within 2 hours of cooking, until cool, about 30–45 minutes. Lift out, drain and discard all the poaching liquid.",
+        "In a small saucepan, combine {{vinegar}}, {{stock}}, {{salt}}, {{pepper}} and {{bay}}. Simmer gently for 5–8 minutes, then remove the bay leaf.",
+        "Bring {{herbwater}} and {{herbsalt}} to a boil. Add {{tarragon}}, {{chervil}} and {{parsley}} for 15–20 seconds. Drain through a fine sieve, cool briefly under cold running water, press out excess water and chop finely.",
+        "Cut the cooled brain into large pieces and arrange in a small saucepan with the chopped herbs. Pour over the hot vinegar-stock sauce. Bring gently to a simmer and heat for 3–5 minutes, until the brain reaches 74°C (165°F) throughout. Avoid vigorous stirring so the pieces remain intact. Serve immediately.",
+        "Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder. Use within 3 days. Reheat cooked leftovers to 74°C (165°F)."
+      ],
+      "notes": "The original printed page118 clearly specifies one sixteenth liter of tarragon vinegar, or 62.5 ml, not the extracted half liter. The separate equal-parts water-and-vinegar poach is retained. Brain weight, stock volume, herb quantities, cooling method and cooking endpoints are supplied modern choices. Cooling takes place promptly in a shallow container and refrigerator instead of an unspecified room-temperature wait. This is a freshly cooked sour-braised dish, not a shelf-stable pickle. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Wiener Kochbuch (1883), Louise Seleskowitz. https://archive.org/details/bub_gb_oP8yAQAAMAAJ SavorShelf measured adaptation. Original scan checked: Wiener Kochbuch, recipe547, printed page118.  Modern cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Veal variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 100,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]
