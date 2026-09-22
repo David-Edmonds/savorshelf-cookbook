@@ -1,3 +1,7 @@
+# Carrot dishes and sauce components repair batch 012
+
+Thirty additional measured adaptations include twenty-three carrot dishes and seven complete sauce recipes. Missing white-sauce, mushroom veloute, drawn-butter, Maitre dHotel and Poulette components now have full measured steps. Salad cross-references, cream alternatives and egg finishes are explicit. Source ingredients and methods remain preserved; modern quantities and stock shortcuts are disclosed. Current totals: 40,844 imported records, 284 completed adaptations, 40,560 remaining content repairs and 42,296 visible recipes. No duplicate consolidation in this batch. The collection remains unfinished and recipes are not kitchen-tested. Android, portfolio, personal saves and automations are unchanged.
+
 # Carrot soups and sides repair batch 011
 
 Twenty-six measured adaptations and fourteen duplicate consolidations resolve forty more source entries. Full soup cross-references, egg-cream finishes, rice and bread accompaniments, carrot sauces and glazing methods are supplied. Meaningful milk, cream, herb and method options remain as named versions. Current totals: 40,844 imported records, 254 completed adaptations, 40,590 remaining content repairs and 42,296 visible recipes. The collection remains unfinished. Modern quantity choices and the absence of kitchen testing are disclosed. Android, portfolio, personal saves and automations are unchanged.
