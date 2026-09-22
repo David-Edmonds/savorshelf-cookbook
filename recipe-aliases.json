@@ -520,5 +520,17 @@
     "canonicalId": "historical-54f4f64af89b85b1161abe4d",
     "bodySha256": "d40796ef589b399c9d27c2e7100ea105012b5d03b82f40bb2d84f369312145af",
     "reason": "Full ingredients and primary method match Dressing I with exactly one extra cooked yolk. Complete cooked-yolk variation retains the difference, preparation, source credit and original saved ID."
+  },
+  {
+    "id": "historical-28c57d06b5f75a2c75281845",
+    "canonicalId": "historical-24978a71451e47750cbe55ac",
+    "bodySha256": "164baf47bf96b4c7b618c7ba861f2f16b81e942fc16c6c6a87d5987c724c1667",
+    "reason": "Full Harland formula and method match the oil version of White House fish mayonnaise. The canonical recipe preserves the pale-inner-lettuce interpretation and the White House butter alternative in full, with both source credits and saved IDs."
+  },
+  {
+    "id": "historical-55210a311e8a9c9a8c323d5d",
+    "canonicalId": "historical-24978a71451e47750cbe55ac",
+    "bodySha256": "756c0c0a798a6b280675b79b0f56a54c06d1a761953a33c6298a3645d4bd0089",
+    "reason": "Truncated repeat of the same White House Mayonnaise Fish passage. The full canonical recipe restores the missing fish quantity, egg-white froth, lettuce border and complete dressing method."
   }
 ]

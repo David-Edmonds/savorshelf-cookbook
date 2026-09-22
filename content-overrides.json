@@ -54168,5 +54168,896 @@
       "updatedAt": "2026-09-22T20:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-b013418ff4222f476ee6387b",
+    "bodySha256": "b43fe481eaa69913a22cf31906f7a95500eb840c2e7af9381af244e8e2c663c7",
+    "recipe": {
+      "id": "historical-b013418ff4222f476ee6387b",
+      "title": "White House Cooked-and-Raw-Yolk Mayonnaise",
+      "description": "Cooked yolks and pasteurized raw yolks make a rich, peppery mayonnaise with a modest amount of oil, mustard and vinegar.",
+      "category": "Condiments",
+      "servings": 14,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 4,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of another smooth prepared mustard."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolks and press them through a fine sieve into a cold bowl. Refrigerate the cooked whites separately for another dish and use within 2 days.",
+        "Set the bowl over a larger bowl of ice water, keeping water out of the sauce. Whisk {{yolks}} into the sieved cooked yolks until smooth. Measure {{oil}} and whisk it in a few drops at a time, waiting for each addition to blend in.",
+        "Once all the oil is incorporated, stir in {{salt}}, {{pepper}} and {{mustard}}. Whisk in {{vinegar}} gradually. The finished sauce should be creamy and spoonable.",
+        "If the sauce begins to separate, stop mixing, cover and refrigerate for 40–60 minutes, then whisk again. This is the source’s cold-rest method and is not guaranteed to rescue a fully broken sauce. Keep the sauce cold throughout.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The full source says four raw yolks with two hard-boiled ones; this adaptation interprets the latter as cooked yolks in that grammatical context, rather than adding egg whites. One tablespoon oil per raw yolk gives 60 ml oil. The original two heaping teaspoons salt would make this small batch very salty: the modern adaptation deliberately reduces it to half a level teaspoon, not an asserted conversion of the old heap. One teaspoon pepper, one teaspoon prepared mustard and 30 ml vinegar are retained. Fourteen small sauce portions and thirty-five-minute preparation are estimates; the optional cold-rest rescue adds 40–60 minutes. The full text’s lobster-coral addition for lobster salad is retained as a complete variation. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lobster-coral",
+          "label": "With cooked lobster coral",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "yolks",
+              "amount": 4,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 60,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "prepared Dijon mustard",
+              "substitution": "Use the same amount of another smooth prepared mustard."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "roe",
+              "amount": 15,
+              "unit": "g",
+              "name": "raw lobster roe, supplied chilled by a fishmonger",
+              "substitution": "Omit for the plain sauce; roe is a flavoring, not a substitute for the sauce’s egg yolks."
+            },
+            {
+              "key": "roewater",
+              "amount": 75,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            }
+          ],
+          "steps": [
+            "Put {{roe}} and {{roewater}} in a small saucepan. Bring to a gentle simmer and stir for about 3–5 minutes until the roe is bright red, firm and opaque throughout. Drain, cool promptly, then pound and press through a fine sieve. Keep refrigerated until needed.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the firm cooked yolks and press them through a fine sieve into a cold bowl. Refrigerate the cooked whites separately for another dish and use within 2 days.",
+            "Set the bowl over a larger bowl of ice water, keeping water out of the sauce. Whisk {{yolks}} into the sieved cooked yolks until smooth. Measure {{oil}} and whisk it in a few drops at a time, waiting for each addition to blend in.",
+            "Once all the oil is incorporated, stir in {{salt}}, {{pepper}} and {{mustard}}. Whisk in {{vinegar}} gradually. The finished sauce should be creamy and spoonable.",
+            "If the sauce begins to separate, stop mixing, cover and refrigerate for 40–60 minutes, then whisk again. This is the source’s cold-rest method and is not guaranteed to rescue a fully broken sauce. Keep the sauce cold throughout.",
+            "Stir the sieved cooked lobster roe into the finished mayonnaise just before serving.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-24978a71451e47750cbe55ac",
+    "bodySha256": "fb62da5457083c43378636d9cf612c040b2f4d351a13ba6b662cbce33150c7db",
+    "recipe": {
+      "id": "historical-24978a71451e47750cbe55ac",
+      "title": "Cold Fish with Frothy Cooked-Yolk Dressing",
+      "description": "Cold white fish is coated with a tangy cooked-yolk dressing lightened with pasteurized egg-white froth and served with tender lettuce.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 100,
+      "ingredients": [
+        {
+          "key": "fish",
+          "amount": 600,
+          "unit": "g",
+          "name": "raw skinless boneless cod fillets",
+          "substitution": "Use the same raw weight of halibut or another lean white fish."
+        },
+        {
+          "key": "fishwater",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "fishsalt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt for poaching",
+          "substitution": "Reduce or omit; the liquid is discarded."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 2,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of fine caster sugar."
+        },
+        {
+          "key": "vinegar",
+          "amount": 90,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "white",
+          "amount": 30,
+          "unit": "g",
+          "name": "commercially pasteurized egg white suitable for whipping, about one large white",
+          "substitution": "Use a pasteurized shell-egg white of the same weight; do not use unpasteurized raw white."
+        },
+        {
+          "key": "lettuce",
+          "amount": 100,
+          "unit": "g",
+          "name": "pale inner lettuce leaves, washed and dried",
+          "substitution": "Use the same weight of tender butter-lettuce leaves."
+        }
+      ],
+      "steps": [
+        "Bring {{fishwater}} and {{fishsalt}} to a simmer in a pan just large enough for {{fish}}. Lower in the fillets, adding hot drinking water only if needed to cover. Poach gently without a rolling boil for about 8–12 minutes, until the thickest part reaches 63°C (145°F), is opaque and separates easily. Thickness determines the cooking time.",
+        "Lift the cooked fish into a shallow container, drain well and check for pin bones. Cool briefly over ice water, cover and refrigerate promptly at 4°C (40°F) or colder until fully cold, about 1 hour. Cut the cold fish into pieces about 2.5 cm long; do not mince it.",
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolks and mash them to a smooth paste. Refrigerate the hard-boiled whites separately for another dish and use within 2 days.",
+        "Gradually beat {{oil}} into the cooked-yolk paste. Mix in {{salt}}, {{pepper}}, {{mustard}} and {{sugar}}, then gradually beat in {{vinegar}} until the dressing is smooth and light.",
+        "Immediately before assembly, whisk {{white}} in a clean bowl until frothy and softly foamy, rather than dry and stiff. Fold the froth gently into the cooked-yolk dressing.",
+        "Put the cold fish in a serving bowl and fold in half of the finished dressing. Spread the remaining dressing over the top. Arrange {{lettuce}} around the edge and serve cold.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The complete White House and Harland texts have the same pound of cooked fish, four cooked yolks, two teaspoons sugar, six tablespoons vinegar, egg-white froth and half-inside/half-on-top dressing method. The White House text additionally allows butter instead of salad oil; this is retained in full. A 600 g raw fillet starting weight aims for roughly the source’s pound of cooked fish but is an estimated cooking yield, not a weight conversion. The cooked-fish variation uses a measured 454 g directly. Oil, seasonings, lettuce weight, poaching liquid, four servings and timing are working choices. Harland’s blanched lettuce is interpreted here as pale inner leaves, consistent with the White House text’s explicit leaves from the heart; it is not an instruction to boil lettuce. Commercially pasteurized white replaces unspecified raw white. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Common Sense in the Household (1871), Marion Harland. https://www.gutenberg.org/ebooks/48804 Equivalent source retained: The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 100,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-28c57d06b5f75a2c75281845",
+        "historical-55210a311e8a9c9a8c323d5d"
+      ],
+      "variants": [
+        {
+          "id": "butter-dressing",
+          "label": "With the source’s butter dressing",
+          "ingredients": [
+            {
+              "key": "fish",
+              "amount": 600,
+              "unit": "g",
+              "name": "raw skinless boneless cod fillets",
+              "substitution": "Use the same raw weight of halibut or another lean white fish."
+            },
+            {
+              "key": "fishwater",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "fishsalt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt for poaching",
+              "substitution": "Reduce or omit; the liquid is discarded."
+            },
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "butter",
+              "amount": 60,
+              "unit": "g",
+              "name": "unsalted butter, softened but not melted",
+              "substitution": "Use the oil-based recipe instead; the two amounts are modern working choices, not equal-volume conversions."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 2,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same volume of fine caster sugar."
+            },
+            {
+              "key": "vinegar",
+              "amount": 90,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "white",
+              "amount": 30,
+              "unit": "g",
+              "name": "commercially pasteurized egg white suitable for whipping, about one large white",
+              "substitution": "Use a pasteurized shell-egg white of the same weight; do not use unpasteurized raw white."
+            },
+            {
+              "key": "lettuce",
+              "amount": 100,
+              "unit": "g",
+              "name": "pale inner lettuce leaves, washed and dried",
+              "substitution": "Use the same weight of tender butter-lettuce leaves."
+            }
+          ],
+          "steps": [
+            "Bring {{fishwater}} and {{fishsalt}} to a simmer in a pan just large enough for {{fish}}. Lower in the fillets, adding hot drinking water only if needed to cover. Poach gently without a rolling boil for about 8–12 minutes, until the thickest part reaches 63°C (145°F), is opaque and separates easily. Thickness determines the cooking time.",
+            "Lift the cooked fish into a shallow container, drain well and check for pin bones. Cool briefly over ice water, cover and refrigerate promptly at 4°C (40°F) or colder until fully cold, about 1 hour. Cut the cold fish into pieces about 2.5 cm long; do not mince it.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the firm cooked yolks and mash them to a smooth paste. Refrigerate the hard-boiled whites separately for another dish and use within 2 days.",
+            "Gradually beat {{butter}} into the cooked-yolk paste. Mix in {{salt}}, {{pepper}}, {{mustard}} and {{sugar}}, then gradually beat in {{vinegar}} until the dressing is smooth and light.",
+            "Immediately before assembly, whisk {{white}} in a clean bowl until frothy and softly foamy, rather than dry and stiff. Fold the froth gently into the cooked-yolk dressing.",
+            "Put the cold fish in a serving bowl and fold in half of the finished dressing. Spread the remaining dressing over the top. Arrange {{lettuce}} around the edge and serve cold.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+          ]
+        },
+        {
+          "id": "cooked-fish",
+          "label": "Starting with cold cooked fish",
+          "ingredients": [
+            {
+              "key": "fish",
+              "amount": 454,
+              "unit": "g",
+              "name": "cooked, chilled, skinless and boneless white fish",
+              "substitution": "Use the freshly poached base recipe instead."
+            },
+            {
+              "key": "eggs",
+              "amount": 4,
+              "unit": "",
+              "name": "large eggs for hard boiling",
+              "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+            },
+            {
+              "key": "water",
+              "amount": 1200,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "oil",
+              "amount": 60,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 2,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same volume of fine caster sugar."
+            },
+            {
+              "key": "vinegar",
+              "amount": 90,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "white",
+              "amount": 30,
+              "unit": "g",
+              "name": "commercially pasteurized egg white suitable for whipping, about one large white",
+              "substitution": "Use a pasteurized shell-egg white of the same weight; do not use unpasteurized raw white."
+            },
+            {
+              "key": "lettuce",
+              "amount": 100,
+              "unit": "g",
+              "name": "pale inner lettuce leaves, washed and dried",
+              "substitution": "Use the same weight of tender butter-lettuce leaves."
+            }
+          ],
+          "steps": [
+            "Use {{fish}} that was cooked through and promptly refrigerated at 4°C (40°F) or colder. Check carefully for bones, drain and cut into pieces about 2.5 cm long; keep cold while preparing the dressing.",
+            "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+            "Separate the firm cooked yolks and mash them to a smooth paste. Refrigerate the hard-boiled whites separately for another dish and use within 2 days.",
+            "Gradually beat {{oil}} into the cooked-yolk paste. Mix in {{salt}}, {{pepper}}, {{mustard}} and {{sugar}}, then gradually beat in {{vinegar}} until the dressing is smooth and light.",
+            "Immediately before assembly, whisk {{white}} in a clean bowl until frothy and softly foamy, rather than dry and stiff. Fold the froth gently into the cooked-yolk dressing.",
+            "Put the cold fish in a serving bowl and fold in half of the finished dressing. Spread the remaining dressing over the top. Arrange {{lettuce}} around the edge and serve cold.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-7acf64b3f8497c9a45d70d7a",
+    "bodySha256": "5bb7a8d086332b696058e317b74d6f25efe15eda586aaef486e66a081b084c91",
+    "recipe": {
+      "id": "historical-7acf64b3f8497c9a45d70d7a",
+      "title": "Chilled Mackerel with Set Mayonnaise and Lemon Baskets",
+      "description": "Mackerel baked with two vinegars and whole spices is chilled under a lightly set mayonnaise coating, with cucumber and lemon baskets of plain mayonnaise.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 180,
+      "ingredients": [
+        {
+          "key": "mackerel",
+          "amount": 1000,
+          "unit": "g",
+          "name": "two medium whole mackerel, cleaned and gutted, about 500 g each",
+          "substitution": "Use the same cleaned weight of another similarly sized oily fish; adjust cooking to thickness."
+        },
+        {
+          "key": "bakewater",
+          "amount": 80,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "cidervinegar",
+          "amount": 80,
+          "unit": "ml",
+          "name": "cider vinegar for baking",
+          "substitution": "Use the same volume of white wine vinegar."
+        },
+        {
+          "key": "tarragonvinegar",
+          "amount": 80,
+          "unit": "ml",
+          "name": "tarragon vinegar for baking",
+          "substitution": "Use the same volume of white wine vinegar for a different flavor."
+        },
+        {
+          "key": "cloves",
+          "amount": 12,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Reduce or omit for a less strongly spiced fish."
+        },
+        {
+          "key": "peppercorns",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "whole black peppercorns",
+          "substitution": "Use the same amount of white peppercorns."
+        },
+        {
+          "key": "bakesalt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt for baking",
+          "substitution": "Reduce or omit; the cooking liquid is discarded."
+        },
+        {
+          "key": "bay",
+          "amount": 0.25,
+          "unit": "",
+          "name": "dried bay leaf",
+          "substitution": "Omit if preferred."
+        },
+        {
+          "key": "paperbutter",
+          "amount": 5,
+          "unit": "g",
+          "name": "butter for the baking-paper cover",
+          "substitution": "Use the same weight of neutral oil."
+        },
+        {
+          "key": "gelatin",
+          "amount": 2,
+          "unit": "g",
+          "name": "unflavored powdered gelatin, approximately 200 Bloom",
+          "substitution": "Use the manufacturer’s equivalent setting amount of leaf gelatin, soaking and draining it first."
+        },
+        {
+          "key": "gelwater",
+          "amount": 30,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "plainreserve",
+          "amount": 60,
+          "unit": "ml",
+          "name": "plain mayonnaise reserved from the batch below; not an additional purchase",
+          "substitution": "Reserve before adding gelatin."
+        },
+        {
+          "key": "cucumber",
+          "amount": 150,
+          "unit": "g",
+          "name": "fresh cucumber",
+          "substitution": "Use the same weight of peeled cucumber if its skin is tough."
+        },
+        {
+          "key": "basketlemons",
+          "amount": 2,
+          "unit": "",
+          "name": "medium lemons for serving baskets",
+          "substitution": "Use two small food-safe ramekins instead if the lemons are too small to hollow safely."
+        },
+        {
+          "key": "choppedparsley",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "finely chopped fresh parsley",
+          "substitution": "Use the same volume of finely chopped chives."
+        },
+        {
+          "key": "parsleysprigs",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley sprigs",
+          "substitution": "Use the same weight of fresh dill sprigs."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "icing sugar",
+          "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.03125,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "yolks",
+          "amount": 1.0,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "lemon",
+          "amount": 15.0,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15.0,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 180.0,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 180°C (350°F). Put {{mackerel}} in a snug baking dish with {{bakewater}}, {{cidervinegar}}, {{tarragonvinegar}}, {{cloves}}, {{peppercorns}}, {{bakesalt}} and {{bay}}. Brush a sheet of baking paper with {{paperbutter}} and lay it buttered-side down over the fish.",
+        "Bake for about 20–30 minutes, until the thickest flesh reaches 63°C (145°F), is opaque and separates readily. Lift the fish out and discard the paper, spices and cooking liquid. When just safe to handle, remove the skin, backbone and pin bones carefully, keeping the fillets as intact as possible.",
+        "Arrange the fillets in a shallow dish to resemble the two fish, cool briefly over ice water, then cover and refrigerate promptly until cold, about 1 hour. Prepare the mayonnaise while they chill.",
+        "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+        "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+        "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+        "Measure {{plainreserve}} from the plain mayonnaise, cover and keep refrigerated for the lemon baskets. Keep the remaining mayonnaise in the mixing bowl.",
+        "Sprinkle {{gelatin}} over {{gelwater}} in a small heatproof bowl and leave for 5 minutes. Set the bowl over hot water and stir until dissolved; do not boil. Cool until barely lukewarm and still fluid. Whisk a spoonful of the remaining mayonnaise into the gelatin, then whisk this mixture gradually back into the remaining mayonnaise.",
+        "Spread the gelatin-thickened mayonnaise over the cold fish. Cover without touching the coating and refrigerate for about 1 hour until set and thoroughly cold.",
+        "Wash {{basketlemons}}. For each basket, trim only a very thin slice from the base so it stands upright. Mark a band about 1 cm wide across the top; carefully cut away the upper quarter on each side, leaving the band attached as a handle. Scoop pulp from the lower half with a small spoon without piercing the skin or handle. Keep the pulp for another use. If the handle breaks, the hollowed lower half still works as a serving cup.",
+        "Fill the lemon baskets with the reserved plain mayonnaise and sprinkle with {{choppedparsley}}. Thinly slice washed {{cucumber}} and arrange around the fish with the filled baskets and washed {{parsleysprigs}}. Serve cold.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The full Farmer recipe specifies two medium mackerel, one-third cup each water, cider vinegar and tarragon vinegar, twelve cloves, one teaspoon each peppercorns and salt, and a bit of bay. Modern measures give 80 ml of each liquid; the fish weight, quarter bay leaf, paper butter, baking temperature, thermometer endpoint and timing are supplied. Half the complete Dressing I makes the sauce; 60 ml is reserved plain before adding a chosen 2 g gelatin dissolved in 30 ml water to the remainder. Plain mayonnaise in the lemon baskets is distinct from the set coating. Cucumber, lemons and two parsley garnishes are measured working choices. Deboning, prompt shallow cooling, four servings and the three-hour total are modern instructions. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 180,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-8e3b4a5f7b76a52ec6c83cdf",
+    "bodySha256": "b3e5939e9b380ce06fb2071c30c0fcfc184c93c41b56f235386bd89004e1700c",
+    "recipe": {
+      "id": "historical-8e3b4a5f7b76a52ec6c83cdf",
+      "title": "Salmon with Ravigote Herb Mayonnaise",
+      "description": "Flaked salmon is dressed with spinach, watercress, parsley, caper and anchovy mayonnaise, then coated with plain mayonnaise and decorated with pimiento and truffle.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "salmon",
+          "amount": 340,
+          "unit": "g",
+          "name": "canned salmon, drained weight, roughly one large can depending on brand",
+          "substitution": "Use the same drained weight of canned pink or red salmon; use the label’s drained weight rather than assuming all cans match."
+        },
+        {
+          "key": "lettuce",
+          "amount": 100,
+          "unit": "g",
+          "name": "tender lettuce leaves, washed and dried",
+          "substitution": "Use the same weight of butter lettuce."
+        },
+        {
+          "key": "spinach",
+          "amount": 60,
+          "unit": "g",
+          "name": "fresh spinach leaves",
+          "substitution": "Use the same raw weight of young chard leaves without tough stems."
+        },
+        {
+          "key": "spinachwater",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "spinachreserve",
+          "amount": 30,
+          "unit": "ml",
+          "name": "cooked squeezed spinach reserved from below, about two level tablespoons; not an additional purchase",
+          "substitution": "Measure after cooking and squeezing; save any extra separately."
+        },
+        {
+          "key": "capers",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "capers, drained",
+          "substitution": "Use the same volume of finely chopped cornichons."
+        },
+        {
+          "key": "shallot",
+          "amount": 15,
+          "unit": "g",
+          "name": "peeled shallot, about half a medium shallot",
+          "substitution": "Use the same weight of mild onion."
+        },
+        {
+          "key": "anchovies",
+          "amount": 12,
+          "unit": "g",
+          "name": "anchovy fillets, drained, about three fillets",
+          "substitution": "Use the same weight of finely chopped smoked sprat for a different flavor."
+        },
+        {
+          "key": "herbparsley",
+          "amount": 80,
+          "unit": "ml",
+          "name": "fresh parsley leaves, loosely packed before chopping",
+          "substitution": "Use the same loose volume of chervil."
+        },
+        {
+          "key": "watercress",
+          "amount": 120,
+          "unit": "ml",
+          "name": "cultivated watercress leaves, loosely packed",
+          "substitution": "Use the same loose volume of baby spinach for a milder flavor."
+        },
+        {
+          "key": "pimiento",
+          "amount": 30,
+          "unit": "g",
+          "name": "canned pimiento, drained",
+          "substitution": "Use the same drained weight of roasted red pepper."
+        },
+        {
+          "key": "truffle",
+          "amount": 5,
+          "unit": "g",
+          "name": "preserved ready-to-eat black truffle, drained",
+          "substitution": "Use the same weight of a cooked mushroom cap, thinly sliced; this is a different garnish."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "icing sugar",
+          "substitution": "Use the same volume of fine white sugar, stirring until dissolved."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 360,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Briefly rinse {{salmon}} under cold drinking water in a sieve, drain thoroughly and pat dry. Remove any skin or hard bone fragments and separate into flakes. Cover and keep refrigerated.",
+        "Bring {{spinachwater}} to a boil, add washed {{spinach}} and cook for about 1–2 minutes until wilted. Drain, cool promptly under cold running drinking water, then squeeze dry. Measure {{spinachreserve}} for the sauce and refrigerate any surplus separately for use within 2 days.",
+        "Set a clean mixing bowl over a larger bowl of cool water, keeping water out of the sauce. Mix {{mustard}}, {{salt}}, {{sugar}} and {{cayenne}}, then whisk in {{yolks}} and {{vinegar|0.08333333333333333}}.",
+        "Measure {{oil}}, {{lemon}} and the remaining {{vinegar|0.9166666666666666}} into separate small jugs. Keep the oil cool but fluid. Whisk in oil a few drops at a time, waiting until each addition blends in. As the sauce thickens, alternate a thin stream of oil with small additions of the measured lemon juice and remaining vinegar until all are incorporated.",
+        "Stop pouring if oil begins to pool and whisk until it blends in. The completed dressing should be thick enough to hold its shape. Keep chilled, and fold it into meat or vegetables only just before serving because their moisture will loosen it.",
+        "Divide the finished plain mayonnaise into two equal portions. Keep one covered and chilled for the outer coating; use the other for the herb sauce.",
+        "Wash and dry {{herbparsley}} and {{watercress}}. Finely chop {{shallot}} and {{anchovies}}. Pound these with {{capers}}, the reserved cooked spinach and the fresh greens in a mortar until finely broken down, then press through a fine sieve. Stir all the smooth strained herb mixture into one of the two equal mayonnaise portions.",
+        "Arrange {{lettuce}} on a chilled platter. Gently moisten the salmon with the herb mayonnaise and mound it on the lettuce. Spread the reserved plain mayonnaise over the top. If a lighter coating is preferred, keep the unused portion covered in the refrigerator for another use within 3 days.",
+        "Cut {{pimiento}} into small triangles and {{truffle}} into thin decorative slices or shapes. Arrange over the mayonnaise-coated salmon and serve cold.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 1 day, keep cold until serving, and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The complete Farmer salmon recipe calls one unspecified can, a lettuce bed, ravigote mayonnaise, a separate plain mayonnaise coating, pimiento and truffle garnishes. The adaptation chooses 340 g drained salmon and measured garnishes. The herb sauce retains two tablespoons cooked spinach, one tablespoon capers, half a shallot, three anchovies, one-third cup parsley and half a cup watercress. The latter greens are measured as loose volumes of 80 ml and 120 ml, not falsely converted to grams. Fresh spinach and a complete cooking step supply the measured cooked portion. The printed herb sauce uses half the full Dressing I formula; this recipe makes a full batch, divides it equally, and uses the other half for the plain coating, accounting for any optional surplus. Four servings and forty-five minutes are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]
