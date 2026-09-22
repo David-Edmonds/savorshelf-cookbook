@@ -38048,5 +38048,1237 @@
       "updatedAt": "2026-09-22T20:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-26b64040d20101a2c64dc808",
+    "bodySha256": "b27240068918e94cb8f68c4fff1b3cedbe3988c3ccbdfc8e1fcb3d084a629dbd",
+    "recipe": {
+      "id": "historical-26b64040d20101a2c64dc808",
+      "title": "Asparagus Tips with Mayonnaise",
+      "description": "Tender asparagus tips are chilled and served with a small spoonful of mayonnaise.",
+      "category": "Vegetables",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 25,
+      "ingredients": [
+        {
+          "key": "asparagus",
+          "amount": 8,
+          "unit": "",
+          "name": "medium asparagus tips, the upper 8–10 cm of the spears",
+          "substitution": "Use the same number of thick tips split lengthwise; cooking time may differ."
+        },
+        {
+          "key": "water",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mayo",
+          "amount": 30,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-sauce variation below; its measured portion replaces this amount."
+        }
+      ],
+      "steps": [
+        "Rinse {{asparagus}} and trim any tough ends. Bring {{water}} and {{salt}} to a boil in a saucepan. Add the asparagus and simmer for 2–4 minutes until tender but still holding its shape.",
+        "Drain and refresh under cold running drinking water. Drain thoroughly, pat dry and refrigerate for about 10 minutes until cold.",
+        "Arrange the cold tips on a small platter and spoon {{mayo}} over them. Serve chilled.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original eight asparagus tips are retained. Cooking water, salt, sauce amount, chilling time and two small servings are supplied modern quantities. Only the tips are part of this recipe; save the remaining stalks for soup or another dish. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows half the Dutch recipe 367, making about 220 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 25,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "asparagus",
+              "amount": 8,
+              "unit": "",
+              "name": "medium asparagus tips, the upper 8–10 cm of the spears",
+              "substitution": "Use the same number of thick tips split lengthwise; cooking time may differ."
+            },
+            {
+              "key": "water",
+              "amount": 750,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 30,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "mayoyolk",
+              "amount": 18,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk",
+              "substitution": "Use one large commercially pasteurized shell-egg yolk, about 18 g."
+            },
+            {
+              "key": "mayooil",
+              "amount": 175,
+              "unit": "ml",
+              "name": "olive oil for homemade mayonnaise",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mayoacid",
+              "amount": 25,
+              "unit": "ml",
+              "name": "white wine vinegar for homemade mayonnaise",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayomustard",
+              "amount": 3.75,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of prepared English mustard; the flavor differs."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt for homemade mayonnaise",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Omit for a milder dressing."
+            }
+          ],
+          "steps": [
+            "For the homemade sauce, whisk {{mayoyolk}}, {{mayomustard}}, {{mayosalt}} and {{mayopepper}} in a clean bowl. Measure {{mayooil}} into a jug and whisk it in drop by drop at first, then in a thin stream as the sauce thickens. Alternate the later oil additions with small additions of {{mayoacid}} until smooth. Cover and refrigerate while preparing the dish.",
+            "Rinse {{asparagus}} and trim any tough ends. Bring {{water}} and {{salt}} to a boil in a saucepan. Add the asparagus and simmer for 2–4 minutes until tender but still holding its shape.",
+            "Drain and refresh under cold running drinking water. Drain thoroughly, pat dry and refrigerate for about 10 minutes until cold.",
+            "Arrange the cold tips on a small platter and spoon {{mayoreserve}} over them. Serve chilled.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.",
+            "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-c8d45ad6e3b8261c2c1d7dd3",
+    "bodySha256": "920ada1ef298b047c49a56d2cf57fbb061f82d8011f21d3951189444007d2860",
+    "recipe": {
+      "id": "historical-c8d45ad6e3b8261c2c1d7dd3",
+      "title": "Garnalen met Mayonnaise — Dutch Shrimp Salad",
+      "description": "Chilled cooked shrimp are lightly seasoned with oil and vinegar, then mixed with tangy mayonnaise.",
+      "category": "Main dishes",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "shrimp",
+          "amount": 125,
+          "unit": "g",
+          "name": "raw peeled deveined shrimp, thawed if frozen",
+          "substitution": "Use 100 g commercially cooked peeled shrimp, thawed in the refrigerator; omit the poaching step."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "poachsalt",
+          "amount": 2,
+          "unit": "g",
+          "name": "salt for poaching",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "dressoil",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "olive oil for seasoning the shrimp",
+          "substitution": "Use the same volume of sunflower oil."
+        },
+        {
+          "key": "dressvinegar",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "white wine vinegar for seasoning the shrimp",
+          "substitution": "Use the same volume of lemon juice."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "mayo",
+          "amount": 30,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-sauce variation below; its measured portion replaces this amount."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} and {{poachsalt}} to a gentle simmer. Add {{shrimp}} and poach for about 2–4 minutes, until opaque and at least 63°C (145°F) in the thickest part. Drain and spread in a shallow container. Cover and refrigerate promptly for about 20 minutes until cold.",
+        "Toss the cold drained shrimp with {{dressoil}}, {{dressvinegar}} and {{pepper}}. Fold in {{mayo}}, arrange on a small serving dish and serve chilled.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "Both imported entries reproduce the same original recipe 4. Its reference to recipe 3 includes oil, vinegar, pepper and optional salt before the mayonnaise; those seasonings are expanded here, with no additional dressing salt beyond the poaching water and mayonnaise. A modern 125 g raw shrimp quantity is intended to yield roughly the original 100 g cooked portion. The original two tablespoons mayonnaise become 30 ml. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows half the Dutch recipe 367, making about 220 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-ce2dabbeba09b271e1bb3a02"
+      ],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "shrimp",
+              "amount": 125,
+              "unit": "g",
+              "name": "raw peeled deveined shrimp, thawed if frozen",
+              "substitution": "Use 100 g commercially cooked peeled shrimp, thawed in the refrigerator; omit the poaching step."
+            },
+            {
+              "key": "water",
+              "amount": 500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "poachsalt",
+              "amount": 2,
+              "unit": "g",
+              "name": "salt for poaching",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "dressoil",
+              "amount": 2.5,
+              "unit": "ml",
+              "name": "olive oil for seasoning the shrimp",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "dressvinegar",
+              "amount": 2.5,
+              "unit": "ml",
+              "name": "white wine vinegar for seasoning the shrimp",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 30,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "mayoyolk",
+              "amount": 18,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk",
+              "substitution": "Use one large commercially pasteurized shell-egg yolk, about 18 g."
+            },
+            {
+              "key": "mayooil",
+              "amount": 175,
+              "unit": "ml",
+              "name": "olive oil for homemade mayonnaise",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mayoacid",
+              "amount": 25,
+              "unit": "ml",
+              "name": "white wine vinegar for homemade mayonnaise",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayomustard",
+              "amount": 3.75,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of prepared English mustard; the flavor differs."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt for homemade mayonnaise",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Omit for a milder dressing."
+            }
+          ],
+          "steps": [
+            "For the homemade sauce, whisk {{mayoyolk}}, {{mayomustard}}, {{mayosalt}} and {{mayopepper}} in a clean bowl. Measure {{mayooil}} into a jug and whisk it in drop by drop at first, then in a thin stream as the sauce thickens. Alternate the later oil additions with small additions of {{mayoacid}} until smooth. Cover and refrigerate while preparing the dish.",
+            "Bring {{water}} and {{poachsalt}} to a gentle simmer. Add {{shrimp}} and poach for about 2–4 minutes, until opaque and at least 63°C (145°F) in the thickest part. Drain and spread in a shallow container. Cover and refrigerate promptly for about 20 minutes until cold.",
+            "Toss the cold drained shrimp with {{dressoil}}, {{dressvinegar}} and {{pepper}}. Fold in {{mayoreserve}}, arrange on a small serving dish and serve chilled.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.",
+            "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-7e1f25f6455a1085cfa91770",
+    "bodySha256": "bfd8d2ac16816c90f72098c1bb989d5d601ad5b446780946f64f5d7dffff11c6",
+    "recipe": {
+      "id": "historical-7e1f25f6455a1085cfa91770",
+      "title": "Haring met Mayonnaise — Cured Herring Platter",
+      "description": "Ready-to-eat cured herring is cut into diagonal pieces and topped with mayonnaise.",
+      "category": "Fish",
+      "servings": 2,
+      "yieldUnit": "servings",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "key": "herring",
+          "amount": 200,
+          "unit": "g",
+          "name": "commercial ready-to-eat salt-cured herring fillets, skin and bones removed",
+          "substitution": "Use the same weight of drained ready-to-eat pickled herring; the flavor will be more acidic."
+        },
+        {
+          "key": "mayo",
+          "amount": 45,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-sauce variation below; its measured portion replaces this amount."
+        }
+      ],
+      "steps": [
+        "Keep {{herring}} refrigerated until preparing the platter. Check the fillets carefully and remove any remaining pin bones. Pat dry if wet; follow any preparation directions on the ready-to-eat product.",
+        "Cut the fillets diagonally into bite-size pieces and arrange on a small platter. Spoon {{mayo}} over the fish and serve chilled.",
+        "Refrigerate promptly at 4°C (40°F) or colder and use within 2 days or the herring package’s shorter limit. Do not leave at room temperature for more than 2 hours, or 1 hour above 32°C (90°F)."
+      ],
+      "notes": "The original two salted herrings become a modern 200 g prepared fillet portion. The source reference soaks whole salted fish in milk and water before gutting, skinning and slicing. Commercial ready-to-eat boneless cured fillets replace that preparation; this is not a method for making raw fresh herring edible by brief salting. The three tablespoons mayonnaise are retained as 45 ml. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows half the Dutch recipe 367, making about 220 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 10,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "herring",
+              "amount": 200,
+              "unit": "g",
+              "name": "commercial ready-to-eat salt-cured herring fillets, skin and bones removed",
+              "substitution": "Use the same weight of drained ready-to-eat pickled herring; the flavor will be more acidic."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 45,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "mayoyolk",
+              "amount": 18,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk",
+              "substitution": "Use one large commercially pasteurized shell-egg yolk, about 18 g."
+            },
+            {
+              "key": "mayooil",
+              "amount": 175,
+              "unit": "ml",
+              "name": "olive oil for homemade mayonnaise",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mayoacid",
+              "amount": 25,
+              "unit": "ml",
+              "name": "white wine vinegar for homemade mayonnaise",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayomustard",
+              "amount": 3.75,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of prepared English mustard; the flavor differs."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt for homemade mayonnaise",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Omit for a milder dressing."
+            }
+          ],
+          "steps": [
+            "For the homemade sauce, whisk {{mayoyolk}}, {{mayomustard}}, {{mayosalt}} and {{mayopepper}} in a clean bowl. Measure {{mayooil}} into a jug and whisk it in drop by drop at first, then in a thin stream as the sauce thickens. Alternate the later oil additions with small additions of {{mayoacid}} until smooth. Cover and refrigerate while preparing the dish.",
+            "Keep {{herring}} refrigerated until preparing the platter. Check the fillets carefully and remove any remaining pin bones. Pat dry if wet; follow any preparation directions on the ready-to-eat product.",
+            "Cut the fillets diagonally into bite-size pieces and arrange on a small platter. Spoon {{mayoreserve}} over the fish and serve chilled.",
+            "Refrigerate promptly at 4°C (40°F) or colder and use within 2 days or the herring package’s shorter limit. Do not leave at room temperature for more than 2 hours, or 1 hour above 32°C (90°F).",
+            "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-300a480ae3a7e0cd2fbe352a",
+    "bodySha256": "c1b9fddf6d26c8d00a3905084745d6e9eac7542a1f5b096a22faace159b956c8",
+    "recipe": {
+      "id": "historical-300a480ae3a7e0cd2fbe352a",
+      "title": "Dutch Lobster Platter with Lettuce and Mayonnaise",
+      "description": "Chilled lobster meat is arranged with lettuce, mayonnaise and a toasted-bread centerpiece beneath the decorative head shell.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 100,
+      "ingredients": [
+        {
+          "key": "lobster",
+          "amount": 900,
+          "unit": "g",
+          "name": "whole raw lobster, freshly and humanely dispatched by the fishmonger, kept chilled",
+          "substitution": "Use a similar-sized commercially cooked whole lobster; omit poaching and follow its package storage instructions."
+        },
+        {
+          "key": "water",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "brothsalt",
+          "amount": 45,
+          "unit": "g",
+          "name": "salt for the lobster water",
+          "substitution": "Reduce to taste."
+        },
+        {
+          "key": "lettuce",
+          "amount": 2,
+          "unit": "",
+          "name": "small lettuce heads, about 120 g each",
+          "substitution": "Use the same total weight of romaine hearts."
+        },
+        {
+          "key": "bread",
+          "amount": 80,
+          "unit": "g",
+          "name": "firm white bread, cut into thick slices",
+          "substitution": "Use the same weight of gluten-free bread."
+        },
+        {
+          "key": "mayo",
+          "amount": 120,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-sauce variation below; its measured portion replaces this amount."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} and {{brothsalt}} to a boil in a pot large enough for {{lobster}}. Lower in the lobster and return to a gentle boil. Cook for about 18–22 minutes for this size, until the thickest tail meat is opaque and reaches 63°C (145°F).",
+        "Lift out and drain. When cool enough to handle, separate the claws and tail, crack or cut the shells and remove the meat. Remove the dark tail vein. Open the head shell and discard the gills, stomach sac, intestines and green internal organs. Keep the clean empty head shell only for the decorative presentation. Check all edible meat for shell fragments.",
+        "Spread the meat in a shallow container and refrigerate promptly, within 2 hours of cooking, until cold, about 45–60 minutes. Keep the decorative shell chilled separately.",
+        "Separate, wash and thoroughly dry {{lettuce}}. Toast {{bread}} until crisp, then cool. Arrange the toast in the middle of a platter and rest the clean head shell on it; arrange lettuce leaves around the toast, keeping some lettuce for a side bowl.",
+        "Place the cold lobster meat on the lettuce and spoon {{mayo|0.5}} between the pieces. Serve {{mayo|0.5}} separately with the reserved lettuce. The clean shell is decorative; only the lobster meat, bread, lettuce and sauce are eaten.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The full original includes the toasted-bread pedestal, two lettuce heads, separated lobster meat and additional lettuce and mayonnaise on the side. The source explicitly permits buying already-cooked lobster. A modern 900 g raw lobster and measured water, salt, bread and sauce amounts are supplied. Prompt shallow-container chilling replaces leaving a whole cooked lobster warm for an extended period. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows half the Dutch recipe 367, making about 220 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 100,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "lobster",
+              "amount": 900,
+              "unit": "g",
+              "name": "whole raw lobster, freshly and humanely dispatched by the fishmonger, kept chilled",
+              "substitution": "Use a similar-sized commercially cooked whole lobster; omit poaching and follow its package storage instructions."
+            },
+            {
+              "key": "water",
+              "amount": 3000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "brothsalt",
+              "amount": 45,
+              "unit": "g",
+              "name": "salt for the lobster water",
+              "substitution": "Reduce to taste."
+            },
+            {
+              "key": "lettuce",
+              "amount": 2,
+              "unit": "",
+              "name": "small lettuce heads, about 120 g each",
+              "substitution": "Use the same total weight of romaine hearts."
+            },
+            {
+              "key": "bread",
+              "amount": 80,
+              "unit": "g",
+              "name": "firm white bread, cut into thick slices",
+              "substitution": "Use the same weight of gluten-free bread."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 120,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "mayoyolk",
+              "amount": 18,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk",
+              "substitution": "Use one large commercially pasteurized shell-egg yolk, about 18 g."
+            },
+            {
+              "key": "mayooil",
+              "amount": 175,
+              "unit": "ml",
+              "name": "olive oil for homemade mayonnaise",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mayoacid",
+              "amount": 25,
+              "unit": "ml",
+              "name": "white wine vinegar for homemade mayonnaise",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayomustard",
+              "amount": 3.75,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of prepared English mustard; the flavor differs."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt for homemade mayonnaise",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Omit for a milder dressing."
+            }
+          ],
+          "steps": [
+            "For the homemade sauce, whisk {{mayoyolk}}, {{mayomustard}}, {{mayosalt}} and {{mayopepper}} in a clean bowl. Measure {{mayooil}} into a jug and whisk it in drop by drop at first, then in a thin stream as the sauce thickens. Alternate the later oil additions with small additions of {{mayoacid}} until smooth. Cover and refrigerate while preparing the dish.",
+            "Bring {{water}} and {{brothsalt}} to a boil in a pot large enough for {{lobster}}. Lower in the lobster and return to a gentle boil. Cook for about 18–22 minutes for this size, until the thickest tail meat is opaque and reaches 63°C (145°F).",
+            "Lift out and drain. When cool enough to handle, separate the claws and tail, crack or cut the shells and remove the meat. Remove the dark tail vein. Open the head shell and discard the gills, stomach sac, intestines and green internal organs. Keep the clean empty head shell only for the decorative presentation. Check all edible meat for shell fragments.",
+            "Spread the meat in a shallow container and refrigerate promptly, within 2 hours of cooking, until cold, about 45–60 minutes. Keep the decorative shell chilled separately.",
+            "Separate, wash and thoroughly dry {{lettuce}}. Toast {{bread}} until crisp, then cool. Arrange the toast in the middle of a platter and rest the clean head shell on it; arrange lettuce leaves around the toast, keeping some lettuce for a side bowl.",
+            "Place the cold lobster meat on the lettuce and spoon {{mayoreserve|0.5}} between the pieces. Serve {{mayoreserve|0.5}} separately with the reserved lettuce. The clean shell is decorative; only the lobster meat, bread, lettuce and sauce are eaten.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.",
+            "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-09a4cf200ffc5bb91e2f06c7",
+    "bodySha256": "d07c9e287095ec330fb8fe6f246a4547a5570cee2740051fcac7006b2a43632c",
+    "recipe": {
+      "id": "historical-09a4cf200ffc5bb91e2f06c7",
+      "title": "Selderijknol met Mayonnaise — Raw Celeriac Salad",
+      "description": "Fine strips of raw celeriac are briefly seasoned and drained, then dressed with mayonnaise and parsley.",
+      "category": "Salads",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "celeriac",
+          "amount": 300,
+          "unit": "g",
+          "name": "peeled celeriac, prepared weight",
+          "substitution": "Use the same weight of peeled kohlrabi for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "seasonvinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar for resting the celeriac",
+          "substitution": "Use the same volume of lemon juice."
+        },
+        {
+          "key": "mayo",
+          "amount": 45,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-sauce variation below; its measured portion replaces this amount."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley leaves, finely chopped",
+          "substitution": "Use the same weight of chervil."
+        }
+      ],
+      "steps": [
+        "Rinse {{celeriac}}, pat dry and cut into very thin slices, then long fine matchsticks. Toss with {{salt}} and {{seasonvinegar}} in a bowl. Cover and refrigerate for 20 minutes.",
+        "Drain in a sieve and gently squeeze out excess liquid. Fold in {{mayo}}, transfer to a serving dish and sprinkle with {{parsley}}. Serve cold.",
+        "Cover and refrigerate at 4°C (40°F) or colder and use within 2 days. Stir before serving; the celeriac may release more liquid."
+      ],
+      "notes": "Half a celeriac is standardized to a modern 300 g peeled portion. The original raw preparation, seasoning rest and draining are retained. Salt, vinegar, parsley, rest time and yield are supplied. The original three tablespoons mayonnaise become 45 ml. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows half the Dutch recipe 367, making about 220 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "celeriac",
+              "amount": 300,
+              "unit": "g",
+              "name": "peeled celeriac, prepared weight",
+              "substitution": "Use the same weight of peeled kohlrabi for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "seasonvinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar for resting the celeriac",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 45,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley leaves, finely chopped",
+              "substitution": "Use the same weight of chervil."
+            },
+            {
+              "key": "mayoyolk",
+              "amount": 18,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk",
+              "substitution": "Use one large commercially pasteurized shell-egg yolk, about 18 g."
+            },
+            {
+              "key": "mayooil",
+              "amount": 175,
+              "unit": "ml",
+              "name": "olive oil for homemade mayonnaise",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mayoacid",
+              "amount": 25,
+              "unit": "ml",
+              "name": "white wine vinegar for homemade mayonnaise",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayomustard",
+              "amount": 3.75,
+              "unit": "ml",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same volume of prepared English mustard; the flavor differs."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt for homemade mayonnaise",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground white pepper",
+              "substitution": "Omit for a milder dressing."
+            }
+          ],
+          "steps": [
+            "For the homemade sauce, whisk {{mayoyolk}}, {{mayomustard}}, {{mayosalt}} and {{mayopepper}} in a clean bowl. Measure {{mayooil}} into a jug and whisk it in drop by drop at first, then in a thin stream as the sauce thickens. Alternate the later oil additions with small additions of {{mayoacid}} until smooth. Cover and refrigerate while preparing the dish.",
+            "Rinse {{celeriac}}, pat dry and cut into very thin slices, then long fine matchsticks. Toss with {{salt}} and {{seasonvinegar}} in a bowl. Cover and refrigerate for 20 minutes.",
+            "Drain in a sieve and gently squeeze out excess liquid. Fold in {{mayoreserve}}, transfer to a serving dish and sprinkle with {{parsley}}. Serve cold.",
+            "Cover and refrigerate at 4°C (40°F) or colder and use within 2 days. Stir before serving; the celeriac may release more liquid.",
+            "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-ca07ea3de02b6e994a6dbfe8",
+    "bodySha256": "a5fe983b926da3d63db92f2626d0bc12255af56fe6459cc42d68f71880cbba31",
+    "recipe": {
+      "id": "historical-ca07ea3de02b6e994a6dbfe8",
+      "title": "Chicken Finger-Roll Sandwiches with Mayonnaise",
+      "description": "Finely chopped poached chicken is moistened with a little mayonnaise and chicken broth, then tucked into soft finger rolls.",
+      "category": "Main dishes",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 90,
+      "ingredients": [
+        {
+          "key": "chicken",
+          "amount": 450,
+          "unit": "g",
+          "name": "raw boneless skinless chicken breast",
+          "substitution": "Use the same weight of boneless skinless chicken thigh; poach until fully cooked."
+        },
+        {
+          "key": "stock",
+          "amount": 900,
+          "unit": "ml",
+          "name": "unsalted prepared chicken stock for poaching",
+          "substitution": "Use the same volume of unsalted vegetable stock."
+        },
+        {
+          "key": "cookedchicken",
+          "amount": 300,
+          "unit": "g",
+          "name": "cooked chicken reserved from the poaching step; not an additional purchase",
+          "substitution": "Use 300 g commercially cooked plain chicken for a quicker version and omit raw-chicken poaching."
+        },
+        {
+          "key": "soup",
+          "amount": 30,
+          "unit": "ml",
+          "name": "poaching broth reserved after the chicken is fully cooked",
+          "substitution": "Use the same volume of fresh prepared chicken stock."
+        },
+        {
+          "key": "mayo",
+          "amount": 30,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-sauce variation below; its measured portion replaces this amount."
+        },
+        {
+          "key": "rolls",
+          "amount": 8,
+          "unit": "",
+          "name": "small soft finger rolls, about 35 g each",
+          "substitution": "Use the same number of small soft sandwich buns."
+        }
+      ],
+      "steps": [
+        "Bring {{stock}} to a gentle simmer in a saucepan. Add {{chicken}} and poach for about 15–20 minutes until the thickest part reaches 74°C (165°F). Lift out and measure {{soup}} from the fully cooked poaching broth into a small clean container.",
+        "Measure {{cookedchicken}} from the poached meat. Spread it in a shallow container and refrigerate promptly, along with the reserved broth, until cold, about 45 minutes. Refrigerate any extra cooked meat separately for another dish within 2 days.",
+        "Finely chop the cold measured chicken, or pulse briefly in a food processor. Mix with {{mayo}} and the measured cold broth until evenly moistened and soft enough to spread.",
+        "Split {{rolls}} lengthwise without cutting all the way through. Divide the chicken filling evenly among them and serve.",
+        "Keep filled rolls covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours, or within 1 hour above 32°C (90°F)."
+      ],
+      "notes": "Both imported entries reproduce the same Greenbaum paragraph. The source ratio is one tablespoon each mayonnaise and chicken soup per cup of ground chicken. This modern batch uses two loosely packed cups represented by 300 g cooked chopped chicken, with 30 ml each mayonnaise and broth. The cooked-cup weight is a working estimate, not a universal conversion. Raw chicken is provided in excess to allow for cooking loss; the measured cooked portion is explicit. Finger-roll count, cooking and chilling are supplied. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows the Greenbaum one-yolk recipe, making about 270 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Cooking endpoints: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Variety meats: https://ask.fsis.usda.gov/article/What-are-the-recommended-cooking-times-for-veal . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 90,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-bf0e8bfcb200c514f940cb93"
+      ],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "chicken",
+              "amount": 450,
+              "unit": "g",
+              "name": "raw boneless skinless chicken breast",
+              "substitution": "Use the same weight of boneless skinless chicken thigh; poach until fully cooked."
+            },
+            {
+              "key": "stock",
+              "amount": 900,
+              "unit": "ml",
+              "name": "unsalted prepared chicken stock for poaching",
+              "substitution": "Use the same volume of unsalted vegetable stock."
+            },
+            {
+              "key": "cookedchicken",
+              "amount": 300,
+              "unit": "g",
+              "name": "cooked chicken reserved from the poaching step; not an additional purchase",
+              "substitution": "Use 300 g commercially cooked plain chicken for a quicker version and omit raw-chicken poaching."
+            },
+            {
+              "key": "soup",
+              "amount": 30,
+              "unit": "ml",
+              "name": "poaching broth reserved after the chicken is fully cooked",
+              "substitution": "Use the same volume of fresh prepared chicken stock."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 30,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "rolls",
+              "amount": 8,
+              "unit": "",
+              "name": "small soft finger rolls, about 35 g each",
+              "substitution": "Use the same number of small soft sandwich buns."
+            },
+            {
+              "key": "mayoyolk",
+              "amount": 18,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk",
+              "substitution": "Use one large commercially pasteurized shell-egg yolk, about 18 g."
+            },
+            {
+              "key": "mayooil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "olive oil for homemade mayonnaise",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mayoacid",
+              "amount": 10,
+              "unit": "ml",
+              "name": "white wine vinegar for homemade mayonnaise",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayomustard",
+              "amount": 2.5,
+              "unit": "ml",
+              "name": "English mustard powder",
+              "substitution": "Use the same volume of prepared English mustard; the flavor differs."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt for homemade mayonnaise",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a milder dressing."
+            }
+          ],
+          "steps": [
+            "For the homemade sauce, whisk {{mayoyolk}}, {{mayomustard}}, {{mayosalt}} and {{mayopepper}} in a clean bowl. Measure {{mayooil}} into a jug and whisk it in drop by drop at first, then in a thin stream as the sauce thickens. Alternate the later oil additions with small additions of {{mayoacid}} until smooth. Cover and refrigerate while preparing the dish.",
+            "Bring {{stock}} to a gentle simmer in a saucepan. Add {{chicken}} and poach for about 15–20 minutes until the thickest part reaches 74°C (165°F). Lift out and measure {{soup}} from the fully cooked poaching broth into a small clean container.",
+            "Measure {{cookedchicken}} from the poached meat. Spread it in a shallow container and refrigerate promptly, along with the reserved broth, until cold, about 45 minutes. Refrigerate any extra cooked meat separately for another dish within 2 days.",
+            "Finely chop the cold measured chicken, or pulse briefly in a food processor. Mix with {{mayoreserve}} and the measured cold broth until evenly moistened and soft enough to spread.",
+            "Split {{rolls}} lengthwise without cutting all the way through. Divide the chicken filling evenly among them and serve.",
+            "Keep filled rolls covered at 4°C (40°F) or colder and use within 1 day. Refrigerate within 2 hours, or within 1 hour above 32°C (90°F).",
+            "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-cd91883800c5195529872c02",
+    "bodySha256": "d8696084a01f1832217c229bb171cab9a9a9293c09472f839fb767bffe85aae4",
+    "recipe": {
+      "id": "historical-cd91883800c5195529872c02",
+      "title": "Greenbaum Parsley-Tinted Mayonnaise",
+      "description": "Strained parsley and lemon juice give mayonnaise a fresh herb flavor and a natural green tint.",
+      "category": "Condiments",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "mayo",
+          "amount": 200,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-sauce variation below; its measured portion replaces this amount."
+        },
+        {
+          "key": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "name": "fresh parsley leaves, washed and thoroughly dried",
+          "substitution": "Use the same weight of chervil for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        }
+      ],
+      "steps": [
+        "Chop {{parsley}} very finely. Pound with {{lemon}} in a mortar until the leaves form a wet paste, or process in a small food processor.",
+        "Press through a fine sieve lined with a clean cloth, squeezing to collect the green liquid and leaving the coarse herb fibers behind. Gradually stir the extracted liquid into {{mayo}} until evenly blended. The color varies naturally with the parsley.",
+        "Serve as a condiment with cooked chilled foods. Cover and refrigerate at 4°C (40°F) or colder and use within 2 days."
+      ],
+      "notes": "The source gives no quantities; all amounts and twelve small condiment servings are modern working estimates. Its chopped, pounded and strained parsley method is retained, rather than simply leaving chopped herbs in the dressing. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows the Greenbaum one-yolk recipe, making about 270 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "mayoreserve",
+              "amount": 200,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "parsley",
+              "amount": 15,
+              "unit": "g",
+              "name": "fresh parsley leaves, washed and thoroughly dried",
+              "substitution": "Use the same weight of chervil for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mayoyolk",
+              "amount": 18,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk",
+              "substitution": "Use one large commercially pasteurized shell-egg yolk, about 18 g."
+            },
+            {
+              "key": "mayooil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "olive oil for homemade mayonnaise",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mayoacid",
+              "amount": 10,
+              "unit": "ml",
+              "name": "white wine vinegar for homemade mayonnaise",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayomustard",
+              "amount": 2.5,
+              "unit": "ml",
+              "name": "English mustard powder",
+              "substitution": "Use the same volume of prepared English mustard; the flavor differs."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt for homemade mayonnaise",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a milder dressing."
+            }
+          ],
+          "steps": [
+            "For the homemade sauce, whisk {{mayoyolk}}, {{mayomustard}}, {{mayosalt}} and {{mayopepper}} in a clean bowl. Measure {{mayooil}} into a jug and whisk it in drop by drop at first, then in a thin stream as the sauce thickens. Alternate the later oil additions with small additions of {{mayoacid}} until smooth. Cover and refrigerate while preparing the dish.",
+            "Chop {{parsley}} very finely. Pound with {{lemon}} in a mortar until the leaves form a wet paste, or process in a small food processor.",
+            "Press through a fine sieve lined with a clean cloth, squeezing to collect the green liquid and leaving the coarse herb fibers behind. Gradually stir the extracted liquid into {{mayoreserve}} until evenly blended. The color varies naturally with the parsley.",
+            "Serve as a condiment with cooked chilled foods. Cover and refrigerate at 4°C (40°F) or colder and use within 2 days.",
+            "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-5ff310db3261c93d4eee4a04",
+    "bodySha256": "70fce9b9f04ee43e948818e38b34066b4d2c9512a1a2245a8b9fcbce1c45f8e9",
+    "recipe": {
+      "id": "historical-5ff310db3261c93d4eee4a04",
+      "title": "Whole Tomatoes with Mayonnaise",
+      "description": "Peeled, chilled tomatoes sit on lettuce leaves with a tablespoon of mayonnaise over each.",
+      "category": "Salads",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "tomatoes",
+          "amount": 4,
+          "unit": "",
+          "name": "medium ripe firm tomatoes, about 120 g each",
+          "substitution": "Use similarly sized yellow tomatoes for a different color."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "lettuce",
+          "amount": 4,
+          "unit": "",
+          "name": "large lettuce leaves, washed and dried",
+          "substitution": "Use the same number of romaine leaves."
+        },
+        {
+          "key": "mayo",
+          "amount": 60,
+          "unit": "ml",
+          "name": "plain prepared mayonnaise, kept refrigerated",
+          "substitution": "Use the complete homemade-sauce variation below; its measured portion replaces this amount."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} to a boil. Rinse {{tomatoes}}, remove the stem cores and score a shallow cross on the bottom of each. Lower into the water for about 20–40 seconds, just until the skins loosen; avoid cooking the flesh soft.",
+        "Lift into a bowl of cold drinking water. When cool enough to handle, peel off the skins, pat dry and refrigerate for about 30 minutes until cold.",
+        "Place {{lettuce}} on individual plates. Set a cold peeled tomato on each leaf and divide {{mayo}} evenly over the tomatoes, giving one tablespoon per tomato in this batch. Serve cold.",
+        "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours."
+      ],
+      "notes": "The original specifies peeling and chilling whole tomatoes and one tablespoon mayonnaise per tomato. Four modern medium tomatoes, cooking water, chilling time and four servings are supplied. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The prepared-mayonnaise version is a modern shortcut. The complete homemade variation follows the Greenbaum one-yolk recipe, making about 270 ml and reserves only the stated portion for this dish; unused sauce is explicitly accounted for. Allow about 15 additional minutes if making the sauce.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "homemade-mayonnaise",
+          "label": "With homemade mayonnaise",
+          "ingredients": [
+            {
+              "key": "tomatoes",
+              "amount": 4,
+              "unit": "",
+              "name": "medium ripe firm tomatoes, about 120 g each",
+              "substitution": "Use similarly sized yellow tomatoes for a different color."
+            },
+            {
+              "key": "water",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "lettuce",
+              "amount": 4,
+              "unit": "",
+              "name": "large lettuce leaves, washed and dried",
+              "substitution": "Use the same number of romaine leaves."
+            },
+            {
+              "key": "mayoreserve",
+              "amount": 60,
+              "unit": "ml",
+              "name": "mayonnaise portion reserved from the homemade batch below; not an additional purchase",
+              "substitution": "Use the prepared-mayonnaise base recipe for a quicker version."
+            },
+            {
+              "key": "mayoyolk",
+              "amount": 18,
+              "unit": "g",
+              "name": "pasteurized liquid egg yolk",
+              "substitution": "Use one large commercially pasteurized shell-egg yolk, about 18 g."
+            },
+            {
+              "key": "mayooil",
+              "amount": 240,
+              "unit": "ml",
+              "name": "olive oil for homemade mayonnaise",
+              "substitution": "Use the same volume of sunflower oil."
+            },
+            {
+              "key": "mayoacid",
+              "amount": 10,
+              "unit": "ml",
+              "name": "white wine vinegar for homemade mayonnaise",
+              "substitution": "Use the same volume of lemon juice."
+            },
+            {
+              "key": "mayomustard",
+              "amount": 2.5,
+              "unit": "ml",
+              "name": "English mustard powder",
+              "substitution": "Use the same volume of prepared English mustard; the flavor differs."
+            },
+            {
+              "key": "mayosalt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt for homemade mayonnaise",
+              "substitution": "Reduce or omit."
+            },
+            {
+              "key": "mayopepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a milder dressing."
+            }
+          ],
+          "steps": [
+            "For the homemade sauce, whisk {{mayoyolk}}, {{mayomustard}}, {{mayosalt}} and {{mayopepper}} in a clean bowl. Measure {{mayooil}} into a jug and whisk it in drop by drop at first, then in a thin stream as the sauce thickens. Alternate the later oil additions with small additions of {{mayoacid}} until smooth. Cover and refrigerate while preparing the dish.",
+            "Bring {{water}} to a boil. Rinse {{tomatoes}}, remove the stem cores and score a shallow cross on the bottom of each. Lower into the water for about 20–40 seconds, just until the skins loosen; avoid cooking the flesh soft.",
+            "Lift into a bowl of cold drinking water. When cool enough to handle, peel off the skins, pat dry and refrigerate for about 30 minutes until cold.",
+            "Place {{lettuce}} on individual plates. Set a cold peeled tomato on each leaf and divide {{mayoreserve}} evenly over the tomatoes, giving one tablespoon per tomato in this batch. Serve cold.",
+            "Keep covered at 4°C (40°F) or colder until serving. Refrigerate leftovers within 2 hours and use within 2 days. Do not leave the platter at room temperature for more than 2 hours.",
+            "The measured mayonnaise portion in the dish is taken from the homemade batch. Refrigerate the unused mayonnaise in a separate clean covered container at 4°C (40°F) or colder and use within 3 days; use a clean spoon each time. The batch makes extra so that a whole yolk can be emulsified reliably."
+          ]
+        }
+      ]
+    }
   }
 ]

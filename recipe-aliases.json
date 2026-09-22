@@ -358,5 +358,17 @@
     "canonicalId": "historical-f2df9fb5deed15117d5a1d94",
     "bodySha256": "71d54a3bf095903d556c1fb43666874f916bf5e12eef668872bbcb229b223586",
     "reason": "Equivalent yolk-rich sauce: both originals specify one tablespoon oil per yolk, salt/pepper and acid. Vinegar-first method, external cooling and parsley/tarragon variations retained in canonical recipe."
+  },
+  {
+    "id": "historical-ce2dabbeba09b271e1bb3a02",
+    "canonicalId": "historical-c8d45ad6e3b8261c2c1d7dd3",
+    "bodySha256": "ba896f81876f0a863959189ecf5ec646b3451bdfb9f65fb82038f98de8155d02",
+    "reason": "Same single original Dutch recipe 4, including the identical recipe-3 preparation reference and 100 g shrimp with about two tablespoons mayonnaise."
+  },
+  {
+    "id": "historical-bf0e8bfcb200c514f940cb93",
+    "canonicalId": "historical-ca07ea3de02b6e994a6dbfe8",
+    "bodySha256": "c22f5c4a681495eb1e5555fcde84134360b7167d44f61699a082543ff941f8c3",
+    "reason": "Exact repetition of the single Greenbaum Chicken Sandwiches with Mayonnaise paragraph, including the one-tablespoon-each per cup ratio."
   }
 ]

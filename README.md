@@ -1,3 +1,7 @@
+# Recipe content batch 029 — September 22, 2026
+
+Eight adaptations complete asparagus tips, shrimp salad, cured herring, lobster platter, raw celeriac salad, chicken finger-rolls, parsley-tinted mayonnaise and whole tomatoes. Exact prepared-sauce quantities and complete homemade variations are supplied; extra homemade sauce is accounted for. Two repeated shrimp and sandwich records are merged with old IDs and source credits retained. Totals: 40,831 imported recipes, 434 completed adaptations, 40,397 remaining content repairs and 42,283 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 028 — September 22, 2026
 
 Eight distinct sauces now have complete measured methods: Scandinavian mustard mayonnaise, whipped Danish dressing, Dutch classic and cornstarch mayonnaise, warm Dutch cream sauce, Culinary Jottings shallot mayonnaise, Greenbaum dressing and cooked-yolk cream sauce for salmon. Whole-egg, cream and lemon alternatives are retained. Original quantities are distinguished from modern working amounts. Totals: 40,833 imported recipes, 426 completed adaptations, 40,407 remaining content repairs and 42,285 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
