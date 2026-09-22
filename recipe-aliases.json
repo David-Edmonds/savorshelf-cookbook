@@ -208,5 +208,89 @@
     "canonicalId": "historical-dc08b1508cce39c3156caa88",
     "bodySha256": "acb360500af252925fbf9a3dc371ca9e3e7acdf0e68e8f64e9310533b06db2e1",
     "reason": "Identical source soup and proportions, with a herb-bundle translation correction. Initial broth is included within the total. Both source credits retained."
+  },
+  {
+    "id": "historical-6d217c6d8c7c7495934e0baa",
+    "canonicalId": "historical-1235143db15d18ca9b0e17b0",
+    "bodySha256": "ceb997ba46432a6ea78816f3b0cf84f256dbcc6693100760b0e745ee7fcb49ec",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-094f80aa8b6a3491b67ab993",
+    "canonicalId": "historical-1235143db15d18ca9b0e17b0",
+    "bodySha256": "649987418af7560ba1050d1d7815bef430a6600ecf70569fdc63b9ff50cd3b1d",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-42b00c300c6f92770aca69a5",
+    "canonicalId": "historical-1235143db15d18ca9b0e17b0",
+    "bodySha256": "b8ea19c6130bb2c91ab781fba4954532b070094b75ecbbca68c3f1deb01b9d78",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-1f9afc7e471f520a163fc11a",
+    "canonicalId": "historical-e842063335dd7c52ed5f03d6",
+    "bodySha256": "30f69ece7b3a7aabdd5c06fadf2bdee697eb96425b08912a4a8031d730d0fa5f",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-e4109a79049aebf7c0006477",
+    "canonicalId": "historical-db1d18a33593f915d8b5af66",
+    "bodySha256": "b29f946d66f70c301bfec69767ed958ef431060222a99cef8c13b6bd6c20cf84",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-9d5f92568d9445a9c0049e10",
+    "canonicalId": "historical-19a7ecd6be93acad8563346e",
+    "bodySha256": "79dbfeba88d96d90ac0ab68a621414238b6f77e86d2a82a0ac0144a8e53dd064",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-e3e18cfdc17f01a5b95b4ef1",
+    "canonicalId": "historical-a4aa0c9b0e64f74258c7b9bf",
+    "bodySha256": "370137e200a2404b98f4046eea935afbf6e6d19d3e5a21e02314f84ad4b4c711",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-c5eda33025d18b95898ce688",
+    "canonicalId": "historical-7ecb19d09baeb41cec960ee5",
+    "bodySha256": "bbc672daa7053541582cb310339232cea2ddff7ec4a869651f3ae2c4c238af8d",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-2a905481ea2932f5a16f2b30",
+    "canonicalId": "historical-4e6d3c47e0b877303fee39f4",
+    "bodySha256": "13abb2ce289642be3af2d3424d789b16318cf6bc7f224682e7a542f01822331f",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-fd8aa76543fb126dd98eebfa",
+    "canonicalId": "historical-4e6d3c47e0b877303fee39f4",
+    "bodySha256": "503b0520d8f25ad33767ad79d8c1d1ded257ab7df505b38f138e40fad402af04",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-968ce2a179b402acacf488cb",
+    "canonicalId": "historical-4e6d3c47e0b877303fee39f4",
+    "bodySha256": "b5a5a459ecb2655a2246e20dd413b2a2908ba55efee15a7d5b76500d0900f4ba",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-73a58f638b05fa2cb1ee25cc",
+    "canonicalId": "historical-c540fe20f8982023d428e6f2",
+    "bodySha256": "67145f033629855fcf8bffad106bf222a88c563e7a2c16b15be8ba308d8d1a67",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-dbfb0cfa78133c4f5c579c69",
+    "canonicalId": "historical-c540fe20f8982023d428e6f2",
+    "bodySha256": "daff7e73138863028c4a2cceb6a1c13f00943767f02eb9bbc5e1c1cb6267563c",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
+  },
+  {
+    "id": "historical-8d8e2a7e93193d7169ed04ac",
+    "canonicalId": "historical-a3cab7641d4ee75701918dbf",
+    "bodySha256": "0d3a8af51c93bac12e5edce941cb7a335b3df2a767cc342313c6e4fa93493bdb",
+    "reason": "Full source ingredients and methods compared. Matching preparation or shorter transcription consolidated, with cream/milk and other meaningful method choices retained in named variants and original source evidence."
   }
 ]
