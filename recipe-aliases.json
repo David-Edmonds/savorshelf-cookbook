@@ -424,5 +424,29 @@
     "canonicalId": "historical-49cbb1e030a4e423f4c65a85",
     "bodySha256": "1e71c04258fa6313f928319174e22e76a4132539dc56aa0a330ac05d9f93038a",
     "reason": "Truncated version of the same Picayune Mayonnaise de Saumon paragraph; complete77 retains cooking, chilling, lettuce assembly, mayonnaise and egg/celery garnish."
+  },
+  {
+    "id": "historical-ec7c22aa8b289b6304aff9d0",
+    "canonicalId": "historical-ee618467ec9791316185f773",
+    "bodySha256": "f4c8d87fc4369c750780a8169fddbc1d6285dead8a48842be69ba207ecf603e9",
+    "reason": "Same complete hot-mayonnaise formula across the 1914 and 1928 Wallace books, including three yolks, three tablespoons oil, vinegar, lemon and hot water; parsley option retained."
+  },
+  {
+    "id": "historical-ad0665108eaf30e467e82a56",
+    "canonicalId": "historical-a4b9e2f4d02954877523e54c",
+    "bodySha256": "1949697996ea8bb0f4f53c384f330b2367916d33926ecf3071739564fa37b396",
+    "reason": "Same full Wallace one-yolk mayonnaise formula and method as1928No631; 1914 cream, green-juice and red-color alternatives retained in canonical86."
+  },
+  {
+    "id": "historical-5ae70173c41776ebcf0bed6c",
+    "canonicalId": "historical-a4b9e2f4d02954877523e54c",
+    "bodySha256": "434fa83d446802a0bed8d577f5b4233c699bb654f637cf3dfb4cc95d4a21a162",
+    "reason": "Repeated base extraction of the same1914Wallace mayonnaise paragraph, corresponding to1928No631; canonical86 retains the complete accompanying variations."
+  },
+  {
+    "id": "historical-b6182ab25178b29ff000995b",
+    "canonicalId": "historical-61b174f7bf4fe2d7fd35f9fc",
+    "bodySha256": "be3b58add0f2735613f63b520f452bee6b280b16c8229e239264c579b0ae1409",
+    "reason": "Same complete Wallace No632 formula with cooked and raw yolks,1.5cups oil and4tablespoons lemon; canonical87 restores the whipped-cream finish omitted by88."
   }
 ]

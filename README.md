@@ -1,3 +1,7 @@
+# Recipe content batch 036 — September 22, 2026
+
+Four Wallace sauces now have complete measured cooking, cream and named variations, including the printed Finnish/English fat difference and one-yolk economy method. Four repeated sources are consolidated with old IDs and credits retained. Totals: 40,818 imported recipes, 461 completed adaptations, 40,357 remaining content repairs and 42,270 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.
+
 # Recipe content batch 035 — September 22, 2026
 
 Three Hungarian adaptations complete whipped aspic-and-oil sauce, cooked mayonnaise and cold pike-perch with cooked-yolk sauce. Full aspic, braising, chilling and pastry-garnish alternatives are supplied. Historical coffee-glass and ladle measures are distinguished from modern working amounts. Totals: 40,822 imported recipes, 457 completed adaptations, 40,365 remaining content repairs and 42,274 visible recipes. The collection remains unfinished; kitchen and physical-phone testing remain unverified.

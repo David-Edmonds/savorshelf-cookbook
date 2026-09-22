@@ -43569,5 +43569,1209 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-ee618467ec9791316185f773",
+    "bodySha256": "18df7570b91afd976505bb70e58d8cf489d4ee302ac8d8ff32efe3f7c82d38b0",
+    "recipe": {
+      "id": "historical-ee618467ec9791316185f773",
+      "title": "Wallace Hot Mayonnaise Sauce",
+      "description": "A small yolk-and-oil sauce is thickened over hot water with vinegar and lemon, then seasoned for serving warm.",
+      "category": "Condiments",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 3,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 5,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}} in a heatproof bowl. Add {{oil}} a few drops at a time while whisking until smoothly blended. Gradually whisk in {{vinegar}}, {{lemon}} and {{water}}, using warm water rather than pouring boiling water directly onto the yolks.",
+        "Set the bowl over gently simmering water, keeping its base above the water. Whisk constantly until the sauce thickens and reaches 71°C (160°F), then immediately remove from heat. Do not let the sauce boil or the eggs scramble.",
+        "Whisk in {{salt}} and {{pepper}} and serve warm in small portions with cooked fish or vegetables.",
+        "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+      ],
+      "notes": "The 1914 and 1928 entries reproduce the same formula and method. Modern tablespoons and a quarter cup become 45 ml oil, 15 ml vinegar and 60 ml water. The teaspoon lemon juice appears in both ingredient lists but is omitted from both methods; it is explicitly incorporated with the other liquids here. Salt, pepper, six small servings and time are supplied. The optional parsley is retained as a full variation. Temperature checking and controlled warm-water addition are modern handling details. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Egg-dish endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Equivalent source retained: Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-ec7c22aa8b289b6304aff9d0"
+      ],
+      "variants": [
+        {
+          "id": "parsley",
+          "label": "With chopped parsley",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 45,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "vinegar",
+              "amount": 15,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 5,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "water",
+              "amount": 60,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "salt",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "parsley",
+              "amount": 3,
+              "unit": "g",
+              "name": "fresh parsley, finely chopped",
+              "substitution": "Use the same weight of finely chopped chives."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} in a heatproof bowl. Add {{oil}} a few drops at a time while whisking until smoothly blended. Gradually whisk in {{vinegar}}, {{lemon}} and {{water}}, using warm water rather than pouring boiling water directly onto the yolks.",
+            "Set the bowl over gently simmering water, keeping its base above the water. Whisk constantly until the sauce thickens and reaches 71°C (160°F), then immediately remove from heat. Do not let the sauce boil or the eggs scramble.",
+            "Whisk in {{salt}} and {{pepper}} and serve warm in small portions with cooked fish or vegetables.",
+            "Stir in {{parsley}} immediately before serving.",
+            "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-d27c4a75d2c3b9127d626355",
+    "bodySha256": "1ca151ab95b372f12209ab88f6f77c279c76a400ab8442d1bbf0a3d4b5f6cbaa",
+    "recipe": {
+      "id": "historical-d27c4a75d2c3b9127d626355",
+      "title": "Wallace Boiled Mayonnaise Dressing",
+      "description": "Yolks, mustard, vinegar and lemon are cooked gently, then enriched with oil and a little cream.",
+      "category": "Condiments",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 20,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 3,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "prepared smooth mustard",
+          "substitution": "Use the same amount of prepared Dijon mustard."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "oil",
+          "amount": 30,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "thincream",
+          "amount": 15,
+          "unit": "ml",
+          "name": "pouring cream for thinning",
+          "substitution": "Use the complete lemon-thinned variation instead."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}}, {{mustard}}, {{salt}}, {{pepper}}, {{sugar}}, {{vinegar}} and {{lemon}} in a heatproof bowl. Set over gently simmering water, keeping the bowl above the water. Whisk constantly until thickened and at least 71°C (160°F), then remove from heat immediately.",
+        "Gradually whisk in {{oil}} off the heat until smooth. Stir in {{thincream}} just before serving to loosen the sauce.",
+        "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+      ],
+      "notes": "The printed recipe 633 differs between its Finnish and English columns: Finnish gives three tablespoons oil or butter, English two. This base follows the English two-tablespoon oil amount, 30 ml; full variations retain the Finnish 45 ml amount and both butter quantities. Three yolks, two tablespoons each vinegar and lemon, and half teaspoon each mustard and salt are retained. Pepper, sugar and 15 ml thinning liquid are modern working amounts. Prepared mustard is the chosen form because the source does not specify powder. The full one-yolk-and-flour economy alternative, omitted from the extracted entry, is included. Six small condiment servings and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. Butter working weights use 14 g per modern tablespoon. The economy variant chooses the English 28 g butter quantity and represents the source teaspoon flour by 3 g. Tempering and heating the added yolk replace simply stirring it into the cooked mixture off the heat. Economy portions are slightly smaller at the same serving count.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Egg-dish endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 20,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "finnish-oil",
+          "label": "Finnish column — three tablespoons oil",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of prepared Dijon mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same amount of caster sugar."
+            },
+            {
+              "key": "oil",
+              "amount": 45,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "thincream",
+              "amount": 15,
+              "unit": "ml",
+              "name": "pouring cream for thinning",
+              "substitution": "Use the complete lemon-thinned variation instead."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{mustard}}, {{salt}}, {{pepper}}, {{sugar}}, {{vinegar}} and {{lemon}} in a heatproof bowl. Set over gently simmering water, keeping the bowl above the water. Whisk constantly until thickened and at least 71°C (160°F), then remove from heat immediately.",
+            "Gradually whisk in {{oil}} off the heat until smooth. Stir in {{thincream}} just before serving to loosen the sauce.",
+            "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+          ]
+        },
+        {
+          "id": "english-butter",
+          "label": "English column — with butter",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of prepared Dijon mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same amount of caster sugar."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter, cut into small pieces",
+              "substitution": "Use the corresponding oil variation if preferred."
+            },
+            {
+              "key": "thincream",
+              "amount": 15,
+              "unit": "ml",
+              "name": "pouring cream for thinning",
+              "substitution": "Use the complete lemon-thinned variation instead."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{mustard}}, {{salt}}, {{pepper}}, {{sugar}}, {{vinegar}} and {{lemon}} in a heatproof bowl. Set over gently simmering water, keeping the bowl above the water. Whisk constantly until thickened and at least 71°C (160°F), then remove from heat immediately.",
+            "Whisk in {{butter}} a few pieces at a time off the heat until smooth. Stir in {{thincream}} just before serving to loosen the sauce.",
+            "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+          ]
+        },
+        {
+          "id": "finnish-butter",
+          "label": "Finnish column — with butter",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of prepared Dijon mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same amount of caster sugar."
+            },
+            {
+              "key": "butter",
+              "amount": 42,
+              "unit": "g",
+              "name": "unsalted butter, cut into small pieces",
+              "substitution": "Use the corresponding oil variation if preferred."
+            },
+            {
+              "key": "thincream",
+              "amount": 15,
+              "unit": "ml",
+              "name": "pouring cream for thinning",
+              "substitution": "Use the complete lemon-thinned variation instead."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{mustard}}, {{salt}}, {{pepper}}, {{sugar}}, {{vinegar}} and {{lemon}} in a heatproof bowl. Set over gently simmering water, keeping the bowl above the water. Whisk constantly until thickened and at least 71°C (160°F), then remove from heat immediately.",
+            "Whisk in {{butter}} a few pieces at a time off the heat until smooth. Stir in {{thincream}} just before serving to loosen the sauce.",
+            "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+          ]
+        },
+        {
+          "id": "lemon-thinned",
+          "label": "Thinned with lemon juice",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 3,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of prepared Dijon mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same amount of caster sugar."
+            },
+            {
+              "key": "oil",
+              "amount": 30,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "thinlemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "additional lemon juice for thinning",
+              "substitution": "Use the cream-thinned base recipe for a less acidic sauce."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}}, {{mustard}}, {{salt}}, {{pepper}}, {{sugar}}, {{vinegar}} and {{lemon}} in a heatproof bowl. Set over gently simmering water, keeping the bowl above the water. Whisk constantly until thickened and at least 71°C (160°F), then remove from heat immediately.",
+            "Gradually whisk in {{oil}} off the heat until smooth. Stir in {{thinlemon}} just before serving to loosen the sauce.",
+            "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+          ]
+        },
+        {
+          "id": "economy-cream",
+          "label": "One-yolk flour version — cream finish",
+          "ingredients": [
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of prepared Dijon mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same amount of caster sugar."
+            },
+            {
+              "key": "thincream",
+              "amount": 15,
+              "unit": "ml",
+              "name": "pouring cream for thinning",
+              "substitution": "Use the complete lemon-thinned variation instead."
+            },
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "flour",
+              "amount": 3,
+              "unit": "g",
+              "name": "plain wheat flour",
+              "substitution": "Use the same weight of a plain gluten-free flour blend; thickening may differ."
+            }
+          ],
+          "steps": [
+            "Melt {{butter}} in a small saucepan over gentle heat. Stir in {{flour}} and cook for 1 minute without browning. Gradually whisk in {{vinegar}} and {{lemon}}, then add {{mustard}}, {{salt}}, {{pepper}} and {{sugar}}. Simmer gently for 3 minutes, stirring until smooth.",
+            "Whisk {{yolks}} in a heatproof bowl. Slowly whisk some of the hot sauce into the yolk, then return the mixture to the saucepan. Set over very gentle heat and stir continuously until it reaches 71°C (160°F), then remove immediately; do not boil.",
+            "Stir in {{thincream}} just before serving.",
+            "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+          ]
+        },
+        {
+          "id": "economy-lemon",
+          "label": "One-yolk flour version — lemon finish",
+          "ingredients": [
+            {
+              "key": "vinegar",
+              "amount": 30,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "prepared smooth mustard",
+              "substitution": "Use the same amount of prepared Dijon mustard."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "sugar",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same amount of caster sugar."
+            },
+            {
+              "key": "thinlemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "additional lemon juice for thinning",
+              "substitution": "Use the economy cream version for a less acidic sauce."
+            },
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "flour",
+              "amount": 3,
+              "unit": "g",
+              "name": "plain wheat flour",
+              "substitution": "Use the same weight of a plain gluten-free flour blend; thickening may differ."
+            }
+          ],
+          "steps": [
+            "Melt {{butter}} in a small saucepan over gentle heat. Stir in {{flour}} and cook for 1 minute without browning. Gradually whisk in {{vinegar}} and {{lemon}}, then add {{mustard}}, {{salt}}, {{pepper}} and {{sugar}}. Simmer gently for 3 minutes, stirring until smooth.",
+            "Whisk {{yolks}} in a heatproof bowl. Slowly whisk some of the hot sauce into the yolk, then return the mixture to the saucepan. Set over very gentle heat and stir continuously until it reaches 71°C (160°F), then remove immediately; do not boil.",
+            "Stir in {{thinlemon}} just before serving.",
+            "Serve promptly. If preparing ahead, cool the sauce promptly in a shallow container, cover and refrigerate at 4°C (40°F) or colder within 2 hours; use within 1 day."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-a4b9e2f4d02954877523e54c",
+    "bodySha256": "3f21af812877c82e8918b7f163ef26d5bbcdcf97c70e66331d7e11a51779f8db",
+    "recipe": {
+      "id": "historical-a4b9e2f4d02954877523e54c",
+      "title": "Wallace Mayonnaise Dressing No. 1",
+      "description": "A one-yolk mayonnaise combines olive oil, lemon juice, tarragon vinegar and mustard, with complete cream and colored variations.",
+      "category": "Condiments",
+      "servings": 15,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "oil",
+          "amount": 180,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 7.5,
+          "unit": "ml",
+          "name": "tarragon vinegar",
+          "substitution": "Use the same volume of white wine vinegar."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        }
+      ],
+      "steps": [
+        "Whisk {{yolks}} and {{mustard}} in a clean bowl. Measure {{oil}} into a jug and add a few drops at a time while whisking. Once the mixture thickens, continue in a thin stream, alternating with small additions of {{lemon}} and {{vinegar}} until all are incorporated.",
+        "Whisk in {{salt}} and {{cayenne}} at the end. The sauce should be smooth and creamy. If oil pools, stop pouring and whisk until it blends in before continuing.",
+        "Transfer to a clean covered container and refrigerate immediately at 4°C (40°F) or colder. Use within 3 days, using a clean spoon each time. This is fresh homemade mayonnaise, not a shelf-stable preserve."
+      ],
+      "notes": "The 1914 recipe and the 1928 recipe 631 share the same full base formula. Three-quarters of a modern 240 ml cup becomes 180 ml oil; half a tablespoon vinegar becomes 7.5 ml. One-sixteenth teaspoon cayenne is a supplied amount for the unspecified little cayenne. Fifteen small condiment servings and time are estimates. White, green and red versions retain the full source alternatives. The white variation makes more sauce at the same serving count because whipped cream increases its volume. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times. The source half cup of cream is measured AFTER whipping, supplied as a reserved 120 ml portion from 90 ml liquid cream with any surplus accounted for. Herb, extracting juice and tomato quantities are supplied modern working amounts. The 1914 red version also suggests carmine; a separate optional food-coloring variation retains that presentation without making added color essential.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall Equivalent source retained: Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-ad0665108eaf30e467e82a56",
+        "historical-5ae70173c41776ebcf0bed6c"
+      ],
+      "variants": [
+        {
+          "id": "white-cream",
+          "label": "White mayonnaise with whipped cream",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 180,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of white wine vinegar."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "cream",
+              "amount": 90,
+              "unit": "ml",
+              "name": "cold whipping cream, at least 35% fat, measured before whipping",
+              "substitution": "Use the same volume of cold heavy cream."
+            },
+            {
+              "key": "whippedportion",
+              "amount": 120,
+              "unit": "ml",
+              "name": "whipped cream reserved from the cream above; not an additional purchase",
+              "substitution": "Measure after whipping; liquid cream and whipped cream volumes are not interchangeable."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} and {{mustard}} in a clean bowl. Measure {{oil}} into a jug and add a few drops at a time while whisking. Once the mixture thickens, continue in a thin stream, alternating with small additions of {{lemon}} and {{vinegar}} until all are incorporated.",
+            "Whisk in {{salt}} and {{cayenne}} at the end. The sauce should be smooth and creamy. If oil pools, stop pouring and whisk until it blends in before continuing.",
+            "Whip {{cream}} in a separate chilled bowl until soft peaks hold. Gently spoon into a measuring jug without pressing it down and reserve {{whippedportion}}. Refrigerate any extra whipped cream separately and use within 1 day.",
+            "Fold the measured whipped cream into the sauce just before serving. Keep covered at 4°C (40°F) or colder and use within 1 day; the cream gradually loses volume. Refrigerate within 2 hours of preparation."
+          ]
+        },
+        {
+          "id": "green-herbs",
+          "label": "Green mayonnaise with strained herb juice",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 180,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of white wine vinegar."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "spinach",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh spinach leaves, washed and dried",
+              "substitution": "Use the same weight of extra watercress."
+            },
+            {
+              "key": "watercress",
+              "amount": 10,
+              "unit": "g",
+              "name": "fresh watercress leaves, washed and dried",
+              "substitution": "Use the same weight of extra spinach."
+            },
+            {
+              "key": "parsley",
+              "amount": 5,
+              "unit": "g",
+              "name": "fresh parsley leaves, washed and dried",
+              "substitution": "Use the same weight of chervil."
+            },
+            {
+              "key": "greenlemon",
+              "amount": 10,
+              "unit": "ml",
+              "name": "additional lemon juice for extracting the green color",
+              "substitution": "Use the same volume of drinking water for less acidity."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} and {{mustard}} in a clean bowl. Measure {{oil}} into a jug and add a few drops at a time while whisking. Once the mixture thickens, continue in a thin stream, alternating with small additions of {{lemon}} and {{vinegar}} until all are incorporated.",
+            "Whisk in {{salt}} and {{cayenne}} at the end. The sauce should be smooth and creamy. If oil pools, stop pouring and whisk until it blends in before continuing.",
+            "Finely chop {{spinach}}, {{watercress}} and {{parsley}}. Pound them with {{greenlemon}} in a mortar, or process in a small blender until thoroughly broken down. Press through a clean fine cloth over a bowl, collecting the juice and discarding the coarse fibers. Stir the extracted juice into the mayonnaise just before serving.",
+            "Cover and refrigerate at 4°C (40°F) or colder and use within 1 day."
+          ]
+        },
+        {
+          "id": "red-tomato",
+          "label": "Tomato-tinted mayonnaise",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 180,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of white wine vinegar."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "tomato",
+              "amount": 30,
+              "unit": "ml",
+              "name": "plain unsalted canned tomato puree, passed through a fine sieve",
+              "substitution": "Use the same volume of strained plain tomato passata."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} and {{mustard}} in a clean bowl. Measure {{oil}} into a jug and add a few drops at a time while whisking. Once the mixture thickens, continue in a thin stream, alternating with small additions of {{lemon}} and {{vinegar}} until all are incorporated.",
+            "Whisk in {{salt}} and {{cayenne}} at the end. The sauce should be smooth and creamy. If oil pools, stop pouring and whisk until it blends in before continuing.",
+            "Stir {{tomato}} into the mayonnaise until evenly tinted. The natural color will be pale pink rather than bright red.",
+            "Cover and refrigerate at 4°C (40°F) or colder and use within 2 days."
+          ]
+        },
+        {
+          "id": "red-colored",
+          "label": "Tomato mayonnaise with added red color",
+          "ingredients": [
+            {
+              "key": "yolks",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+            },
+            {
+              "key": "oil",
+              "amount": 180,
+              "unit": "ml",
+              "name": "olive oil",
+              "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "vinegar",
+              "amount": 7.5,
+              "unit": "ml",
+              "name": "tarragon vinegar",
+              "substitution": "Use the same volume of white wine vinegar."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "cayenne",
+              "amount": 0.0625,
+              "unit": "tsp",
+              "name": "ground cayenne pepper",
+              "substitution": "Omit for a mild mayonnaise."
+            },
+            {
+              "key": "tomato",
+              "amount": 30,
+              "unit": "ml",
+              "name": "plain unsalted canned tomato puree, passed through a fine sieve",
+              "substitution": "Use the same volume of strained plain tomato passata."
+            },
+            {
+              "key": "redcolor",
+              "amount": 2,
+              "unit": "drops",
+              "name": "food-safe red liquid coloring",
+              "substitution": "Use the uncolored tomato variation if preferred."
+            }
+          ],
+          "steps": [
+            "Whisk {{yolks}} and {{mustard}} in a clean bowl. Measure {{oil}} into a jug and add a few drops at a time while whisking. Once the mixture thickens, continue in a thin stream, alternating with small additions of {{lemon}} and {{vinegar}} until all are incorporated.",
+            "Whisk in {{salt}} and {{cayenne}} at the end. The sauce should be smooth and creamy. If oil pools, stop pouring and whisk until it blends in before continuing.",
+            "Stir {{tomato}} into the mayonnaise until evenly tinted. The natural color will be pale pink rather than bright red.",
+            "Stir in {{redcolor}} for a stronger red tint.",
+            "Cover and refrigerate at 4°C (40°F) or colder and use within 2 days."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-61b174f7bf4fe2d7fd35f9fc",
+    "bodySha256": "9650eae0ddb267a5035aee149a64a50e7dad7ecfa249267775acb60f473e7071",
+    "recipe": {
+      "id": "historical-61b174f7bf4fe2d7fd35f9fc",
+      "title": "Wallace Mayonnaise Dressing No. 2",
+      "description": "A sieved hard-boiled yolk enriches lemon mayonnaise, which is folded with whipped cream just before serving.",
+      "category": "Condiments",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs for hard boiling",
+          "substitution": "Use large pasteurized shell eggs if preferred; cook until the yolks are firm."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mustard",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "oil",
+          "amount": 360,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "lemon",
+          "amount": 60,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "cream",
+          "amount": 90,
+          "unit": "ml",
+          "name": "cold whipping cream, at least 35% fat, measured before whipping",
+          "substitution": "Use the same volume of cold heavy cream."
+        },
+        {
+          "key": "whippedportion",
+          "amount": 120,
+          "unit": "ml",
+          "name": "whipped cream reserved from the cream above; not an additional purchase",
+          "substitution": "Measure after whipping; liquid cream and whipped cream volumes are not interchangeable."
+        }
+      ],
+      "steps": [
+        "Put {{eggs}} in a saucepan with {{water}}, adding more water only if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open; the yolks must be firm throughout.",
+        "Separate the firm cooked yolk and press it through a fine sieve into a clean bowl. Refrigerate the cooked white for another dish within 2 days. Mix the sieved yolk with {{salt}}, {{mustard}} and {{sugar}}, then whisk in {{yolks}} until smooth.",
+        "Measure {{oil}} into a jug and whisk it in a few drops at a time, then in a thin stream as the sauce thickens. Gradually whisk in {{lemon}} until smooth. Stop adding oil whenever it pools and whisk until it blends in before continuing.",
+        "Whip {{cream}} in a separate chilled bowl until soft peaks hold. Gently spoon into a measuring jug without pressing it down and reserve {{whippedportion}}. Refrigerate any extra whipped cream separately and use within 1 day.",
+        "Fold the measured whipped cream into the sauce just before serving. Keep covered at 4°C (40°F) or colder and use within 1 day; the cream gradually loses volume. Refrigerate within 2 hours of preparation."
+      ],
+      "notes": "Both entries reproduce Wallace recipe 632. The shorter entry omits the whipped cream, which appears in both languages of the full original and is restored here. One-and-a-half modern cups oil becomes 360 ml and four tablespoons lemon juice becomes 60 ml. A dash of sugar is standardized to one-eighth teaspoon. The original does not give a cream amount; 120 ml measured whipped cream is an explicit working addition, supplied from 90 ml liquid cream with surplus accounted for. Full hard-boiled egg preparation, twenty-four small condiment servings and timing are supplied. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk . Equivalent source retained: Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [
+        "historical-b6182ab25178b29ff000995b"
+      ]
+    }
   }
 ]
