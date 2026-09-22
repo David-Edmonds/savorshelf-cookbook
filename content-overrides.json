@@ -6344,5 +6344,2336 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-f6be5a3ac0c1eecad6598d0b",
+    "bodySha256": "200cd36fa41bf0c196f62f94cb7eb7fb33e0f50d08a48da4bca2d7e0753ae16f",
+    "recipe": {
+      "id": "historical-f6be5a3ac0c1eecad6598d0b",
+      "title": "Jablkový Kompot (Lemon Apple Halves)",
+      "description": "Peeled apple halves are gently cooked in a lightly sweet lemon syrup.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Cut into halves.",
+        "In a snug pan, heat {{water}} with {{sugar}}, {{lemon}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold."
+      ],
+      "notes": "A half batch retains the source proportions, with 240 ml as a modern cup choice. Whole pieces are retained rather than mashed. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Národní domácí kuchařka česko-americká (1904), author not recorded. https://archive.org/details/nrodndomc00rosi SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "wine-cinnamon",
+          "label": "Wine and cinnamon",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 6,
+              "unit": "",
+              "name": "medium firm apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 50,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "water",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different citrus flavor."
+            },
+            {
+              "key": "wine",
+              "amount": 120,
+              "unit": "ml",
+              "name": "dry white wine",
+              "substitution": "Use 120 ml unsweetened white grape juice for an alcohol-free version with a sweeter flavor."
+            },
+            {
+              "key": "stick",
+              "amount": 1,
+              "unit": "",
+              "name": "small cinnamon stick",
+              "substitution": "Use 0.25 tsp ground cinnamon; it remains in the syrup rather than being removed."
+            }
+          ],
+          "steps": [
+            "Rinse {{apples}}, peel and remove every core and seed. Cut into halves.",
+            "In a snug pan, heat {{water}} with {{sugar}}, {{wine}} and {{stick}}, {{lemon}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+            "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+            "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Remove the cinnamon stick before serving. This wine variation is not alcohol-free after cooking."
+          ]
+        },
+        {
+          "id": "cherries",
+          "label": "Preserved cherry garnish",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 6,
+              "unit": "",
+              "name": "medium firm apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 50,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "water",
+              "amount": 240,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different citrus flavor."
+            },
+            {
+              "key": "cherries",
+              "amount": 60,
+              "unit": "g",
+              "name": "drained preserved cherries",
+              "substitution": "Use 60 g raisins, softened for 10 minutes in warm water and drained."
+            }
+          ],
+          "steps": [
+            "Rinse {{apples}}, peel and remove every core and seed. Cut into halves.",
+            "In a snug pan, heat {{water}} with {{sugar}}, {{lemon}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+            "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+            "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold.",
+            "Divide {{cherries}} among the apple hollows before serving."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-b45377f685cc6c249e6bd9ec",
+    "bodySha256": "36f4d261e11ef16e67e2ead52ff1929f0f630206da2759525d5b2e92d1b4c3a7",
+    "recipe": {
+      "id": "historical-b45377f685cc6c249e6bd9ec",
+      "title": "Compote de Pommes (Skin-On Apple Halves)",
+      "description": "Unpeeled apple halves soften in sugar syrup while keeping the flavor and color of their skins.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 125,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, halve without peeling, and scoop out all cores and seeds. Prick the skins with a fork.",
+        "In a snug pan, heat {{water}} with {{sugar}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold."
+      ],
+      "notes": "Two same-book preparations share apple halves, water and about a quarter pound of sugar. The source slightly higher sugar wording becomes 125 g. Their different softness endpoints are preserved as named versions. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "La Cuisinière bourgeoise (1801), Menon. https://archive.org/details/b22019935 SavorShelf measured adaptation. Equivalent source retained: La Cuisinière bourgeoise (1801), Menon. https://archive.org/details/b22019935",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [
+        "historical-740c85fcbd828d91efb8c3c8"
+      ],
+      "variants": [
+        {
+          "id": "softer",
+          "label": "Very soft apple halves",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 4,
+              "unit": "",
+              "name": "medium firm apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 125,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "water",
+              "amount": 240,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            }
+          ],
+          "steps": [
+            "Rinse {{apples}}, halve without peeling, and scoop out all cores and seeds. Prick the skins with a fork.",
+            "In a snug pan, heat {{water}} with {{sugar}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+            "Cover and simmer gently, turning carefully halfway through, until a knife enters easily and the edges just begin to collapse: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+            "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-ac06c3eadccf3078be9086f2",
+    "bodySha256": "60a11229afe9fecc7d5a4291abf8e7610cff4bd00c7d5f4db00bf5d071909bc7",
+    "recipe": {
+      "id": "historical-ac06c3eadccf3078be9086f2",
+      "title": "Compote de Pommes Entières (Whole Apples)",
+      "description": "Whole peeled apples are poached gently and served with their reduced lemon-flavored syrup.",
+      "category": "Desserts",
+      "servings": 7,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 7,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 700,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "lemon",
+          "amount": 20,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Keep the apples whole.",
+        "In a snug pan, heat {{water}} with {{sugar}}, {{lemon}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 20–35 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold."
+      ],
+      "notes": "Two matching transcriptions are consolidated. Refined sugar needs no separate clarification. Water and lemon amounts are supplied; the lemon is kept in the syrup instead of a discarded holding bath. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Le Cuisinier impérial (1806), A. Viard. https://archive.org/details/lecuisinierimpe00viargoog SavorShelf measured adaptation. Equivalent source retained: Le Cuisinier impérial (1806), A. Viard. https://archive.org/details/lecuisinierimpe00viargoog",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [
+        "historical-f5c88652b27b15a051dfdff7"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-dc5177f669136e7751248b07",
+    "bodySha256": "beab61d12becad2dcb5df043325656551936f1f895972073c04cfea4da5ee7f0",
+    "recipe": {
+      "id": "historical-dc5177f669136e7751248b07",
+      "title": "Apfelkompott (Simply Stewed Apples)",
+      "description": "A small quantity of water and sugar steams apple quarters into a simple compote.",
+      "category": "Desserts",
+      "servings": 3,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 3,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 38,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Cut into quarters.",
+        "In a snug pan, heat {{water}} with {{sugar}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold."
+      ],
+      "notes": "The source 500 g whole apples is represented by three medium apples, approximately 540 g before trimming. Three sugar tablespoons become 38 g and four water tablespoons 60 ml; check the small liquid quantity frequently. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Volks-Kochbuch (1905), Hedwig Heyl. https://www.gutenberg.org/ebooks/13921 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-7a9108eadcb6cf9ed774e459",
+    "bodySha256": "e55a17c0b8fd3b78556a93421f96610d27630c1e260c7e7787bf9c518360a0fa",
+    "recipe": {
+      "id": "historical-7a9108eadcb6cf9ed774e459",
+      "title": "White Apple Compote with Lemon",
+      "description": "Peeled apple halves are poached in a light lemon syrup that is reduced after the fruit is removed.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Cut into halves.",
+        "In a snug pan, heat {{water}} with {{sugar}}, {{lemon}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold."
+      ],
+      "notes": "Missing sugar is assigned 100 g. The pint is a modern 500 ml choice, not an exact historical conversion. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-d4ae7bdbdf2061ac22e1c6f3",
+    "bodySha256": "9c92b6e7632b93ccf2db894555cf76448b430cb019f37ec22a6beb1fbf16adea",
+    "recipe": {
+      "id": "historical-d4ae7bdbdf2061ac22e1c6f3",
+      "title": "Helkokta Äpplen (Whole Stewed Apples)",
+      "description": "Whole apples cook gently in a clear sugar syrup and are served chilled with whipped cream.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 125,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 720,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "cream",
+          "amount": 150,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of plant-based cream suitable for the stated use."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Keep the apples whole.",
+        "In a snug pan, heat {{water}} with {{sugar}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 20–35 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Cool briefly, then refrigerate within 2 hours. Chill for at least 1 hour before serving.",
+        "Whip {{cream}} until soft peaks form and serve alongside the chilled apples."
+      ],
+      "notes": "The source twelve-apple batch is halved. Modern cup choices give 200 g sugar and 720 ml water. Coring is supplied as a modern preparation step; the skin-on option remains a named version. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 125,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "skin-on",
+          "label": "Unpeeled whole apples",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 6,
+              "unit": "",
+              "name": "medium firm apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 200,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "water",
+              "amount": 720,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "cream",
+              "amount": 150,
+              "unit": "ml",
+              "name": "heavy cream",
+              "substitution": "Use the same volume of plant-based cream suitable for the stated use."
+            }
+          ],
+          "steps": [
+            "Rinse {{apples}} without peeling. Remove the cores and seeds while keeping the apples whole, then prick the skins with a fork.",
+            "In a snug pan, heat {{water}} with {{sugar}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+            "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 20–35 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+            "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Cool briefly, then refrigerate within 2 hours. Chill for at least 1 hour before serving.",
+            "Whip {{cream}} until soft peaks form and serve alongside the chilled apples."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-2e8b1f2ff4fa79c536bb8b38",
+    "bodySha256": "aaeb7b589eb4fe4d88845c3bd5aad721f84650cf0091610bf1224c8f7f0df403",
+    "recipe": {
+      "id": "historical-2e8b1f2ff4fa79c536bb8b38",
+      "title": "Lemon Apple Compote with Candied Citron",
+      "description": "Peeled apple halves are coated in lemon syrup and finished with strips of candied citron.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 125,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 250,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        },
+        {
+          "key": "citron",
+          "amount": 20,
+          "unit": "g",
+          "name": "candied citron peel, cut into thin strips",
+          "substitution": "Use 20 g candied angelica or candied orange peel."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Cut into halves.",
+        "In a snug pan, heat {{water}} with {{sugar}}, {{lemon}}, {{zest}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Cool briefly, then refrigerate within 2 hours. Chill for at least 1 hour before serving.",
+        "Decorate with {{citron}} just before serving."
+      ],
+      "notes": "The source sugar weight is retained; water and lemon sizes become explicit modern amounts. Candied citron is selected from the citron-or-angelica garnish options. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 125,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-6afa2f137b53331bb324b457",
+    "bodySha256": "3cedc35d55455ea1290324c407538c7e9d2886e378e2cc0493ece4f5401f05b9",
+    "recipe": {
+      "id": "historical-6afa2f137b53331bb324b457",
+      "title": "Apple Quarters in Lemon-Infused Syrup",
+      "description": "Apple quarters are poached in batches in a concentrated lemon-scented syrup, staying intact rather than becoming a mash.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 8,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "zest",
+          "amount": 1,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Cut into quarters.",
+        "In a snug pan, heat {{water}} with {{sugar}}, {{zest}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold."
+      ],
+      "notes": "The source eight apples and cup quantities become 200 g sugar and 240 ml water. Finely grated zest replaces a removable shaving. The syrup is dissolved without a fixed seven-minute pre-boil to avoid premature concentration. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-86f1198ebe1b3546e788f6f4",
+    "bodySha256": "7add9d871ff15c32003b75956bab4b86f912dd199f0c395a203a44dc04283dd4",
+    "recipe": {
+      "id": "historical-86f1198ebe1b3546e788f6f4",
+      "title": "Cinnamon and Lemon Apple Compote",
+      "description": "Apple quarters cook in a generous cinnamon-lemon syrup for a sweet fruit dessert.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 8,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 454,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 700,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half as much ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Cut into quarters.",
+        "In a snug pan, heat {{water}} with {{sugar}}, {{cinnamon}}, {{zest}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or refrigerate promptly for serving cold."
+      ],
+      "notes": "Eight medium apples define the source large dish; its pound of sugar is retained as 454 g. Ground cinnamon and grated zest replace unspecified spice and prepared peel strips. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Virginia Housewife; Or, Methodical Cook (1824), Mary Randolph. https://www.gutenberg.org/ebooks/12519 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-a99d5a7f8bf20cf1d7d7b95b",
+    "bodySha256": "4f6c158a212e881a91ac26db9e409bcefd053ab547f326ee460274f468216377",
+    "recipe": {
+      "id": "historical-a99d5a7f8bf20cf1d7d7b95b",
+      "title": "Stewed Apple Halves in Reduced Syrup",
+      "description": "Firm apple halves are gently poached, then chilled beneath a reduced lemon syrup.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 125,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 600,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, peel and remove every core and seed. Cut into halves.",
+        "In a snug pan, heat {{water}} with {{sugar}}, {{lemon}}, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+        "Cover and simmer gently, turning carefully halfway through, until a knife enters easily but the fruit holds its shape: about 10–20 minutes. Baste frequently; add a little water if the liquid becomes too thick before the fruit softens.",
+        "Lift the apples onto a serving dish. Simmer the liquid uncovered for 3–8 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Cool briefly, then refrigerate within 2 hours. Chill for at least 1 hour before serving."
+      ],
+      "notes": "The source cup sugar per six apples becomes 200 g; water and lemon amounts are supplied. A syrup-texture endpoint replaces the rigid extra half-hour boil, which could over-concentrate a small modern batch. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 125,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-cda7984d1940ec11751a07e6",
+    "bodySha256": "054d028f3327d5a89779c8f8c02da778c05804eb2a97a0cecac23f194e0470c3",
+    "recipe": {
+      "id": "historical-cda7984d1940ec11751a07e6",
+      "title": "Slow-Baked Brown-Sugar Apple Sauce",
+      "description": "Covered apples bake slowly with brown sugar until soft and concentrated.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 150,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 120,
+          "unit": "g",
+          "name": "light brown sugar",
+          "substitution": "Use the same weight of the other sugar for a different flavor, or reduce to taste."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 160°C (320°F). Peel and core {{apples}}, then cut into 2 cm pieces.",
+        "Put the fruit in a covered ovenproof casserole with {{sugar}} and {{water}}. Stir, cover and bake for 90 minutes.",
+        "Stir carefully and continue for 30–60 minutes, uncovering for the last 20 minutes if too wet, until very soft and reduced. Add a splash of water if the edges catch.",
+        "Mash to the desired texture and serve warm, or cool promptly in shallow containers and refrigerate."
+      ],
+      "notes": "A practical six-apple batch and controlled oven temperature are supplied. Color varies by apple variety; softness and concentration determine doneness, not a guaranteed red color. Water is supplied to prevent scorching. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 150,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-24904b50d69ba65309eccc39",
+    "bodySha256": "5de13c0b3d5da36810fb2f4955faf502d8fd827f214eddadd479c687aac5ead5",
+    "recipe": {
+      "id": "historical-24904b50d69ba65309eccc39",
+      "title": "Old-Fashioned Oven Apple Sauce",
+      "description": "Chopped apples slowly reduce in the oven with white sugar and water, developing a deeper fruit flavor.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 150,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 220,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Use the same weight of the other sugar for a different flavor, or reduce to taste."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 160°C (320°F). Peel and core {{apples}}, then cut into 2 cm pieces.",
+        "Put the fruit in a covered ovenproof casserole with {{sugar}} and {{water}}. Stir, cover and bake for 90 minutes.",
+        "Stir carefully and continue for 30–60 minutes, uncovering for the last 20 minutes if too wet, until very soft and reduced. Add a splash of water if the edges catch.",
+        "Mash to the desired texture and serve warm, or cool promptly in shallow containers and refrigerate."
+      ],
+      "notes": "The source dozen is halved. Its imprecise heaping coffeecup sugar and cup water become explicit modern amounts. Time varies with fruit moisture. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 150,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-55024d1d5515563e1581f47c",
+    "bodySha256": "8cc7836cdbed2d266f42746d6ecb78cdbb9cf274fb591efa5ec4a4ef9e567245",
+    "recipe": {
+      "id": "historical-55024d1d5515563e1581f47c",
+      "title": "Compota de Ciruelas Pasas (Cinnamon Prunes)",
+      "description": "Prunes are gently simmered with cinnamon, then chilled under their lightly sweetened cooking syrup.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 115,
+      "ingredients": [
+        {
+          "key": "prunes",
+          "amount": 500,
+          "unit": "g",
+          "name": "pitted prunes",
+          "substitution": "Use 500 g dried apricots for a different compote; check tenderness sooner."
+        },
+        {
+          "key": "water",
+          "amount": 600,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "stick",
+          "amount": 5,
+          "unit": "g",
+          "name": "cinnamon sticks",
+          "substitution": "Use 0.5 tsp ground cinnamon; it remains in the syrup."
+        },
+        {
+          "key": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Put {{prunes}}, {{water}} and {{stick}} in a saucepan. Bring to a gentle simmer and cook for 15–25 minutes until plump and soft but not breaking apart.",
+        "Lift the prunes into a shallow container. Remove the cinnamon sticks and strain the cooking liquid into a clean pan.",
+        "Add {{sugar}} to the liquid and simmer for 5–10 minutes until lightly syrupy. Pour over the prunes.",
+        "Cool briefly and refrigerate within 2 hours. Chill at least 1 hour before serving."
+      ],
+      "notes": "Source prune, cinnamon and sugar weights are retained. Water is supplied for a practical pan rather than filling a one-liter pot to the brim. An explicitly modern light syrup replaces the ambiguous 32-degree concentration notation. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "El Practicón: tratado completo de cocina (1894), Ángel Muro. https://archive.org/details/elpracticntrat00muro SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 115,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e9e191da245c8c1e2b9cacee",
+    "bodySha256": "b77eb147be47cab113e2df19bd4806d40beff23508c24f953ca15f4ffc8f1b54",
+    "recipe": {
+      "id": "historical-e9e191da245c8c1e2b9cacee",
+      "title": "Spiced Crabapple Sauce for Meat",
+      "description": "Tart crabapples are cooked with vinegar, brown sugar and warming spices into a sweet-sour condiment.",
+      "category": "Sauces",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 454,
+          "unit": "g",
+          "name": "crabapples, washed, stemmed and cored",
+          "substitution": "Use 454 g prepared tart cooking apples for a less sharp sauce."
+        },
+        {
+          "key": "vinegar",
+          "amount": 480,
+          "unit": "ml",
+          "name": "cider vinegar labeled 5% acidity",
+          "substitution": "Use the same volume of white wine vinegar for a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 454,
+          "unit": "g",
+          "name": "brown sugar",
+          "substitution": "Use 454 g granulated sugar for a lighter flavor."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.67,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half as much ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "cloves",
+          "amount": 0.67,
+          "unit": "tsp",
+          "name": "ground cloves",
+          "substitution": "Reduce or omit for a milder condiment."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.67,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "salt",
+          "amount": 0.67,
+          "unit": "tsp",
+          "name": "fine table salt",
+          "substitution": "Reduce or omit; do not substitute coarse salt by equal volume."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into small pieces and put in a nonreactive saucepan with {{vinegar}}. Simmer for 20–30 minutes until completely soft.",
+        "Press through a sieve into a clean pan, discarding coarse skins. Add {{sugar}}, {{cinnamon}}, {{cloves}}, {{pepper}} and {{salt}}.",
+        "Simmer gently for 5–10 minutes, stirring frequently, until the sugar dissolves and the sauce lightly coats a spoon. Add a little vinegar if it becomes too thick.",
+        "Transfer to shallow containers, cool briefly and refrigerate. Serve in small condiment portions."
+      ],
+      "notes": "A one-third batch retains the equal fruit-and-sugar weights. A modern 480 ml vinegar and 2/3 teaspoon spices replace uncertain quart/dessertspoon measures. Hot bottling is replaced by refrigeration; no shelf-stability is claimed. Yield is estimated condiment portions, not main servings. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ddebae22101c926049397a14",
+    "bodySha256": "51ea6bb71658c0b9466601d0edc0f3ab3f463edeb9ed2617f8b41a1c096dbd25",
+    "recipe": {
+      "id": "historical-ddebae22101c926049397a14",
+      "title": "Apple Sauce in Concentrated Cider",
+      "description": "Apples cook in reduced sweet cider for a concentrated fruit sauce without added sugar.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 90,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "cider",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "pasteurized unfermented apple cider or cloudy apple juice",
+          "substitution": "Use the same volume of unsweetened apple juice; do not substitute hard alcoholic cider without changing the flavor."
+        }
+      ],
+      "steps": [
+        "Peel and core {{apples}} and cut into quarters.",
+        "Pour {{cider}} into a wide heavy saucepan. Simmer uncovered until reduced to about one-quarter of its original depth and lightly syrupy, 25–40 minutes. Stir more frequently as it thickens.",
+        "Add the apples and cook over very low heat, stirring frequently, until very tender, about 20–30 minutes. Add small splashes of water when necessary to prevent scorching.",
+        "Mash to the desired texture and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "The cider means unfermented juice. A smaller measured batch replaces the source kettleful. Reduction is assessed by volume and texture; the source molasses-thick endpoint is lightened to reduce burning risk. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 90,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-121f0598c5d4422cbc7c3441",
+    "bodySha256": "5878465c34d673ccad50a12ee98de60c93a225ada8f7dd89075bc9757c3a18e9",
+    "recipe": {
+      "id": "historical-121f0598c5d4422cbc7c3441",
+      "title": "Long-Simmered Cider Apple Sauce",
+      "description": "Apples cook in reduced sweet cider for a concentrated fruit sauce without added sugar.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 285,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "cider",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "pasteurized unfermented apple cider or cloudy apple juice",
+          "substitution": "Use the same volume of unsweetened apple juice; do not substitute hard alcoholic cider without changing the flavor."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half as much ground allspice for a different flavor, or omit."
+        }
+      ],
+      "steps": [
+        "Peel and core {{apples}} and cut into quarters.",
+        "Pour {{cider}} into a wide heavy saucepan. Simmer uncovered until reduced to half its original depth, 15–25 minutes. Stir more frequently as it thickens.",
+        "Add the apples and cook over very low heat, stirring frequently, until deeply softened and concentrated, about 3–4 hours. Add small splashes of water when necessary to prevent scorching.",
+        "Stir in {{cinnamon}} during the final 10 minutes.",
+        "Mash to the desired texture and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "A small batch preserves the source half-reduction and long slow cook. Water may be needed during the extended simmer; timing is an estimate, not a guarantee of thickness. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 285,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-35b8cb4d874f47605ed52ea4",
+    "bodySha256": "52e8ba66d626fe8e1eb32b1fcf7e1c904a3a2281cf0d657b54b0700adf990ce8",
+    "recipe": {
+      "id": "historical-35b8cb4d874f47605ed52ea4",
+      "title": "Brown Apple Sauce with Gravy",
+      "description": "Apples simmer in brown gravy and are mashed into a savory sauce with a small cayenne finish.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "gravy",
+          "amount": 250,
+          "unit": "ml",
+          "name": "ready-to-serve low-sodium brown beef gravy",
+          "substitution": "Use 250 ml ready-to-serve vegetable gravy for a meat-free variation."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild sauce."
+        }
+      ],
+      "steps": [
+        "Peel and core {{apples}} and cut into small pieces. Put them in a heavy saucepan with {{gravy}}.",
+        "Cover and simmer gently for 20–25 minutes, stirring often, until the apples are soft. Add a small splash of water if the gravy begins to catch.",
+        "Mash until smooth and stir in {{cayenne}}. Heat until piping hot and serve."
+      ],
+      "notes": "Ready-to-serve gravy resolves the missing component without requiring a separate recipe. The source half-pint becomes a modern 250 ml choice. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e59cfc6c0635913cac7d3d09",
+    "bodySha256": "9486d5f9a3b7cbf0a97dc97de3e0dea40a9bd2b1da76d2315896c02ed350afe7",
+    "recipe": {
+      "id": "historical-e59cfc6c0635913cac7d3d09",
+      "title": "Alma-Mártás (Creamy Savory Apple Sauce)",
+      "description": "Tart apples soften in butter, then thicken a light stock sauce finished with lemon and cream.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 3,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "butter",
+          "amount": 20,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use 8 g a gluten-free flour blend suitable for sauces; texture may differ."
+        },
+        {
+          "key": "stock",
+          "amount": 150,
+          "unit": "ml",
+          "name": "unsalted beef stock",
+          "substitution": "Use 150 ml unsalted vegetable stock for a meat-free variation."
+        },
+        {
+          "key": "zest",
+          "amount": 2,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        },
+        {
+          "key": "lemon",
+          "amount": 10,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cream",
+          "amount": 30,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of plant-based cream suitable for the stated use."
+        }
+      ],
+      "steps": [
+        "Peel and core {{apples}} and slice thinly. Melt {{butter}} in a saucepan, add the apples and cook gently for 8–10 minutes, stirring, until beginning to soften.",
+        "Sprinkle in {{flour}} and stir over low heat for 2 minutes without burning. Gradually stir in {{stock}}.",
+        "Add {{zest}}, {{lemon}} and {{sugar}}. Simmer for 8–10 minutes, stirring, until the apples are tender and the sauce lightly thickened.",
+        "Stir in {{cream}}, bring just to a gentle simmer and serve."
+      ],
+      "notes": "Three apples are selected from the source two-or-three range. Missing quantities and cooking cues are supplied. Unsalted stock is used; the optional commercial meat extract is omitted from the base. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Képes budapesti szakácskönyv (1901), Rézi néni. https://archive.org/details/b28112982 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "meat-extract",
+          "label": "Meat-extract finish",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 3,
+              "unit": "",
+              "name": "medium firm apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+            },
+            {
+              "key": "butter",
+              "amount": 20,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free alternative."
+            },
+            {
+              "key": "flour",
+              "amount": 8,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "Use 8 g a gluten-free flour blend suitable for sauces; texture may differ."
+            },
+            {
+              "key": "stock",
+              "amount": 150,
+              "unit": "ml",
+              "name": "unsalted beef stock",
+              "substitution": "Use 150 ml unsalted vegetable stock for a meat-free variation."
+            },
+            {
+              "key": "zest",
+              "amount": 2,
+              "unit": "g",
+              "name": "finely grated lemon zest, yellow part only",
+              "substitution": "Use the same weight of orange zest, or omit."
+            },
+            {
+              "key": "lemon",
+              "amount": 10,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different citrus flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 15,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "cream",
+              "amount": 30,
+              "unit": "ml",
+              "name": "heavy cream",
+              "substitution": "Use the same volume of plant-based cream suitable for the stated use."
+            },
+            {
+              "key": "extract",
+              "amount": 5,
+              "unit": "g",
+              "name": "concentrated beef extract",
+              "substitution": "Omit for the base sauce; ordinary stock is not equivalent by weight."
+            }
+          ],
+          "steps": [
+            "Peel and core {{apples}} and slice thinly. Melt {{butter}} in a saucepan, add the apples and cook gently for 8–10 minutes, stirring, until beginning to soften.",
+            "Sprinkle in {{flour}} and stir over low heat for 2 minutes without burning. Gradually stir in {{stock}}.",
+            "Add {{zest}}, {{lemon}} and {{sugar}}. Simmer for 8–10 minutes, stirring, until the apples are tender and the sauce lightly thickened.",
+            "Stir in {{cream}}, bring just to a gentle simmer and serve.",
+            "Stir {{extract}} into the hot finished sauce until dissolved. Taste before adding any separate salt."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-a11e18d05e89d4e821430091",
+    "bodySha256": "610902b08a8f3367da1496314f2adcb6ed1bda2a239e1db52c9788d1cc1cb998",
+    "recipe": {
+      "id": "historical-a11e18d05e89d4e821430091",
+      "title": "Sweet Apple Sauce with Brandy",
+      "description": "Smooth apple sauce receives cinnamon, lemon and a generous brandy finish for serving with desserts.",
+      "category": "Sauces",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "lemon",
+          "amount": 10,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half as much ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "brandy",
+          "amount": 120,
+          "unit": "ml",
+          "name": "brandy",
+          "substitution": "Use 120 ml unsweetened apple juice for an alcohol-free variation; flavor differs."
+        }
+      ],
+      "steps": [
+        "Peel and core {{apples}}, cut into pieces and put in a saucepan with {{water}} and {{lemon}}. Simmer for 25–30 minutes until very soft.",
+        "Press through a sieve into a clean pan. Stir in {{sugar}} and {{cinnamon}} until dissolved.",
+        "Take the pan off the heat before adding {{brandy}}. Return to low heat and simmer gently for 5 minutes, stirring; do not ignite the alcohol. Serve warm."
+      ],
+      "notes": "The source gill is assigned 120 ml and pint 500 ml as modern choices. This brandy version is not alcohol-free after a short simmer. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-e4fab706d9684a03e33edf7b",
+    "bodySha256": "774fbb5be8165f38f1589e2914fa7f04eb65616b42d4b85f56dc133c0216360d",
+    "recipe": {
+      "id": "historical-e4fab706d9684a03e33edf7b",
+      "title": "Fint Äppelmos (Fine Lemon Apple Sauce)",
+      "description": "Thin apple slices cook in a cooled sugar syrup until they become a smooth, lemon-scented sauce.",
+      "category": "Sauces",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 900,
+          "unit": "g",
+          "name": "apples, peeled and cored",
+          "substitution": "Use another cooking apple at the same prepared weight."
+        },
+        {
+          "key": "sugar",
+          "amount": 300,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 200,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "lemon",
+          "amount": 10,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 1,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        }
+      ],
+      "steps": [
+        "Heat {{sugar}} with {{water}} until dissolved, then take off the heat and let cool for 10 minutes.",
+        "Cut {{apples}} into thin slices directly into the warm syrup. Stir in {{zest}}.",
+        "Simmer gently for 20–30 minutes, stirring often, until the fruit collapses. Mash or sieve until smooth, then add {{lemon}}.",
+        "Cool promptly in shallow containers and refrigerate, or freeze portions."
+      ],
+      "notes": "A smaller batch retains the source three-to-one apple/sugar ratio. The unclear water notation is replaced by 200 ml. Chemical preservative and historical jar-covering methods are omitted entirely. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Hemmets kokbok (1911), Fackskolan för huslig ekonomi. https://archive.org/details/hemmetskokbok_1911 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ee4d6b875bcdf401d92a4055",
+    "bodySha256": "8f65811bb68c209ec1f25b75d4fd29f0bcc6686a0ec06caa7e36db8e86961486",
+    "recipe": {
+      "id": "historical-ee4d6b875bcdf401d92a4055",
+      "title": "Meissen-Style Apple Sauce with Sour Cream",
+      "description": "Smooth cooked apples are flavored with cinnamon and lemon, then cooled and mixed with sour cream.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 115,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half as much ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "zest",
+          "amount": 2,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "sour",
+          "amount": 150,
+          "unit": "g",
+          "name": "sour cream",
+          "substitution": "Use 150 g full-fat plain yogurt for a lighter, tangier sauce."
+        }
+      ],
+      "steps": [
+        "Peel and core {{apples}}, cut into small pieces and put in a saucepan with {{sugar}}, {{cinnamon}}, {{zest}} and {{water}}.",
+        "Cover and simmer for 15–25 minutes, stirring, until very soft. Press through a sieve.",
+        "Transfer to a shallow container, cool briefly and refrigerate within 2 hours. Once cold, stir in {{sour}} and serve chilled."
+      ],
+      "notes": "A measured stovetop method replaces the unclear baking-sheet stewing instruction. Sour cream is set at 150 g because the source deciliter/spoon wording conflicts; this is a modern choice, not a recovered conversion. The optional wine finish remains a separate named variation. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Česká kuchařka (1883), Marie Dumková. https://archive.org/details/ceska_kucharka-dumkova SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 115,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "wine",
+          "label": "White-wine apple sauce",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 4,
+              "unit": "",
+              "name": "medium firm apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+            },
+            {
+              "key": "sugar",
+              "amount": 40,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "cinnamon",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground cinnamon",
+              "substitution": "Use half as much ground allspice for a different flavor, or omit."
+            },
+            {
+              "key": "zest",
+              "amount": 2,
+              "unit": "g",
+              "name": "finely grated lemon zest, yellow part only",
+              "substitution": "Use the same weight of orange zest, or omit."
+            },
+            {
+              "key": "water",
+              "amount": 60,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "wine",
+              "amount": 150,
+              "unit": "ml",
+              "name": "dry white wine",
+              "substitution": "Use 150 ml unsweetened white grape juice for an alcohol-free but sweeter version."
+            }
+          ],
+          "steps": [
+            "Peel and core {{apples}}, cut into small pieces and put in a saucepan with {{sugar}}, {{cinnamon}}, {{zest}} and {{water}}.",
+            "Cover and simmer for 15–25 minutes, stirring, until very soft. Press through a sieve.",
+            "Transfer to a shallow container, cool briefly and refrigerate within 2 hours. Once cold, stir in {{wine}} and serve chilled. This wine version contains alcohol."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-3d36293c46b111761f70dd4c",
+    "bodySha256": "d37a29c35b9fab151134733328527344a7f3608b0d012082a5ccc122711408d1",
+    "recipe": {
+      "id": "historical-3d36293c46b111761f70dd4c",
+      "title": "Chilled Apple Sauce Mould",
+      "description": "Sweetened smooth apple sauce is set with gelatin into a soft fruit mould for serving cold.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 280,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 500,
+          "unit": "g",
+          "name": "peeled and cored cooking apples",
+          "substitution": "Use the same prepared weight of another cooking apple."
+        },
+        {
+          "key": "water",
+          "amount": 80,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "bloomwater",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "gelatin",
+          "amount": 10,
+          "unit": "g",
+          "name": "unflavored powdered gelatin",
+          "substitution": "Use the same weight and strength of another powdered gelatin; vegetarian gelling agents are not direct replacements."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into small pieces and simmer with {{water}} for 15–20 minutes until very soft, stirring to prevent catching. Mash thoroughly or sieve.",
+        "Sprinkle {{gelatin}} evenly over {{bloomwater}} in a bowl and leave for 5 minutes to hydrate.",
+        "Stir {{sugar}} into the hot apple puree. Remove from the heat and stir in the hydrated gelatin until completely dissolved; do not boil after adding gelatin.",
+        "Spoon into a lightly water-rinsed 750 ml mould, or individual dishes. Cool briefly, cover and refrigerate for at least 4 hours until set. Dip the outside briefly in warm water to unmould, or serve in the dishes."
+      ],
+      "notes": "Gelatin strength and fruit moisture vary; 10 g is an explicit modern setting amount rather than an exact tablespoon conversion. The total time includes chilling. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 280,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ea5ce0f8f4e79149f7d33e75",
+    "bodySha256": "e167cdbacbb73e517b7e99a82911e3a5f8e4aaaa2948518841a3550463ab1733",
+    "recipe": {
+      "id": "historical-ea5ce0f8f4e79149f7d33e75",
+      "title": "Appelspijs Gebakken (Baked Apple and Egg Batter)",
+      "description": "Apple cubes and currants bake in an egg-rich batter scented with cinnamon and lemon.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 115,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "flour",
+          "amount": 80,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use 80 g a gluten-free all-purpose baking blend; texture may differ."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "eggs",
+          "amount": 8,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use 400 g pasteurized liquid whole egg; an egg-free substitute needs a different recipe."
+        },
+        {
+          "key": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half as much ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "zest",
+          "amount": 2,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        },
+        {
+          "key": "currants",
+          "amount": 60,
+          "unit": "g",
+          "name": "dried currants",
+          "substitution": "Use 60 g raisins, chopped if large."
+        },
+        {
+          "key": "butter",
+          "amount": 25,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free alternative."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 160°C (320°F). Use {{butter}} to grease a deep 23 cm baking dish. Peel and core {{apples}} and cut into 2 cm cubes.",
+        "Whisk {{flour}} with {{water}} until smooth. Beat in {{eggs}}, {{sugar|0.8}}, {{cinnamon|0.5}} and {{zest}}, then fold in {{currants}} and the apple cubes.",
+        "Pour into the prepared dish. Bake for 75–90 minutes until the center is set and reaches at least 71°C (160°F); cover loosely if the surface browns too soon.",
+        "Rest for 10 minutes. Mix the remaining {{sugar|0.2}} and {{cinnamon|0.5}} and sprinkle over before serving."
+      ],
+      "notes": "The source eight eggs and long gentle bake remain. Flour, water, fruit, sugar and pan size are supplied to define the previously incomplete batter. Temperature is a modern choice. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Betje de goedkoope keukenmeid (1895), author not recorded. https://archive.org/details/betje_goedkope_keukenmeid SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 115,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-c4d31f73c881c5a75da60243",
+    "bodySha256": "19bbd230dbf172eee7aa4c9e096abbf8745a3786899af382c370290e203a80c2",
+    "recipe": {
+      "id": "historical-c4d31f73c881c5a75da60243",
+      "title": "Two-Texture Apple Compote",
+      "description": "Whole poached apples sit beneath a sauce made by cooking a second portion of apples down in the same lemon syrup.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 180,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different citrus flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 2,
+          "unit": "g",
+          "name": "finely grated lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest, or omit."
+        },
+        {
+          "key": "nutmeg",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground nutmeg",
+          "substitution": "Omit or use the same small volume of cinnamon."
+        },
+        {
+          "key": "icing",
+          "amount": 10,
+          "unit": "g",
+          "name": "powdered sugar",
+          "substitution": "Omit for a less sweet finish."
+        }
+      ],
+      "steps": [
+        "Peel and core {{apples|0.5}}, keeping them whole. Peel, core and chop the remaining {{apples|0.5}}.",
+        "Heat {{sugar}}, {{water}}, {{lemon}} and {{zest}} in a snug saucepan until the sugar dissolves. Add the whole apples, cover and simmer gently for 20–35 minutes until tender, turning and basting carefully. Add a little water if needed to keep the syrup fluid. Lift onto a dish.",
+        "Add the chopped apples to the syrup and simmer for 15–20 minutes until they collapse. Mash or press through a sieve to make a smooth coating sauce.",
+        "Spoon over the whole apples and sprinkle with {{nutmeg}} and {{icing}}. Serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "The source dozen is halved, interpreting its six intact apples and six sauce apples as equal portions. Extra starting water is a modern adjustment to reduce scorching while retaining the two textures. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-37d22688ee06fe8b543edad0",
+    "bodySha256": "af48430902c84219c2621c3c600dbdb2abe9a41c08b049e278985f6f2064305f",
+    "recipe": {
+      "id": "historical-37d22688ee06fe8b543edad0",
+      "title": "Stewed Apples with Orange and Citron",
+      "description": "Peeled apple pieces poach in a rich sugar syrup flavored with orange zest and candied citron.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 1000,
+          "unit": "g",
+          "name": "apples, peeled, cored and quartered",
+          "substitution": "Use another firm cooking apple at the same prepared weight."
+        },
+        {
+          "key": "sugar",
+          "amount": 680,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "orange",
+          "amount": 3,
+          "unit": "g",
+          "name": "finely grated orange zest",
+          "substitution": "Use 3 g lemon zest."
+        },
+        {
+          "key": "citron",
+          "amount": 40,
+          "unit": "g",
+          "name": "candied citron, finely sliced",
+          "substitution": "Use 40 g candied orange peel."
+        }
+      ],
+      "steps": [
+        "Heat {{sugar}} with {{water}} in a wide saucepan, stirring until clear and dissolved.",
+        "Add {{apples}} and simmer gently for 8 minutes. Add {{orange}} and {{citron}}, then continue for 5–12 minutes until tender but still holding their shape.",
+        "Lift the fruit into a serving dish. Reduce the syrup for 5–10 minutes if desired, then spoon over the fruit. Serve warm or cool promptly and refrigerate."
+      ],
+      "notes": "Source quantities are rounded to a measured batch. Egg whites were a sugar-clarifying processing aid, not a final ingredient; modern refined sugar makes that step unnecessary, so the whites are explicitly omitted. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-01e995e1c76335ab6441ebb9",
+    "bodySha256": "9df49037ee6955905d952427c167496a33163fc39b01b7015745572abf037461",
+    "recipe": {
+      "id": "historical-01e995e1c76335ab6441ebb9",
+      "title": "Appelmoes (Sieved Apple Sauce)",
+      "description": "Cooked apples are pressed smooth and sweetened after cooking for a simple Dutch-source apple sauce.",
+      "category": "Sauces",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 1000,
+          "unit": "g",
+          "name": "apples, peeled and cored",
+          "substitution": "Use another cooking apple at the same prepared weight."
+        },
+        {
+          "key": "water",
+          "amount": 150,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into small pieces. Bring {{water}} to a boil, add the fruit and simmer uncovered for 15–25 minutes, stirring frequently, until very soft. Add a splash of water if needed.",
+        "Press through a sieve, then stir in {{sugar}} until dissolved. Serve warm or cool promptly and refrigerate."
+      ],
+      "notes": "The source fruit and sugar weights are retained with prepared fruit explicitly specified. Water and cooking endpoint are supplied. An optional egg finish is retained as a cooked variation. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "egg",
+          "label": "Cooked egg finish",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 1000,
+              "unit": "g",
+              "name": "apples, peeled and cored",
+              "substitution": "Use another cooking apple at the same prepared weight."
+            },
+            {
+              "key": "water",
+              "amount": 150,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "sugar",
+              "amount": 100,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "egg",
+              "amount": 1,
+              "unit": "",
+              "name": "large pasteurized egg",
+              "substitution": "Use 50 g pasteurized liquid whole egg; omit for the plain base version."
+            }
+          ],
+          "steps": [
+            "Cut {{apples}} into small pieces. Bring {{water}} to a boil, add the fruit and simmer uncovered for 15–25 minutes, stirring frequently, until very soft. Add a splash of water if needed.",
+            "Press through a sieve, then stir in {{sugar}} until dissolved. Serve warm or cool promptly and refrigerate.",
+            "Beat {{egg}} in a bowl. Whisk in a little hot apple sauce, return to the saucepan and stir gently until the mixture reaches 71°C (160°F). Serve immediately; the source separately whipped egg is replaced by a cooked liaison."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-fb09766da214c2ca2873e8ac",
+    "bodySha256": "dd02a845b59849e3127440fee29f39dc131d692dbaf9813283c43bddd1d2a246",
+    "recipe": {
+      "id": "historical-fb09766da214c2ca2873e8ac",
+      "title": "Smooth Apple Sauce with a Cinnamon Finish",
+      "description": "Sieved apple sauce is sweetened and finished with a light dusting of cinnamon.",
+      "category": "Sauces",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 750,
+          "unit": "g",
+          "name": "apples, peeled and cored",
+          "substitution": "Use another cooking apple at the same prepared weight."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half as much ground allspice for a different flavor, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{apples}} into pieces and simmer with {{water}} for 15–25 minutes, stirring, until very soft. Add a little water if the pan dries.",
+        "Press through a sieve. Stir in {{sugar}} until dissolved, then sprinkle with {{cinnamon}} before serving."
+      ],
+      "notes": "The source per-pint sugar advice is replaced by an explicit 750 g fruit batch with 50 g sugar. Other spice choices remain named variations. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "nutmeg",
+          "label": "Nutmeg finish",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 750,
+              "unit": "g",
+              "name": "apples, peeled and cored",
+              "substitution": "Use another cooking apple at the same prepared weight."
+            },
+            {
+              "key": "water",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "sugar",
+              "amount": 50,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "cinnamon",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground nutmeg",
+              "substitution": "Omit for plain sauce."
+            }
+          ],
+          "steps": [
+            "Cut {{apples}} into pieces and simmer with {{water}} for 15–25 minutes, stirring, until very soft. Add a little water if the pan dries.",
+            "Press through a sieve. Stir in {{sugar}} until dissolved, then sprinkle with {{cinnamon}} before serving."
+          ]
+        },
+        {
+          "id": "lemon",
+          "label": "Lemon-scented",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 750,
+              "unit": "g",
+              "name": "apples, peeled and cored",
+              "substitution": "Use another cooking apple at the same prepared weight."
+            },
+            {
+              "key": "water",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "sugar",
+              "amount": 50,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "cinnamon",
+              "amount": 1,
+              "unit": "g",
+              "name": "finely grated lemon zest",
+              "substitution": "Use 1 g orange zest."
+            }
+          ],
+          "steps": [
+            "Cut {{apples}} into pieces and simmer with {{water}} for 15–25 minutes, stirring, until very soft. Add a little water if the pan dries.",
+            "Press through a sieve. Stir in {{sugar}} until dissolved, then sprinkle with {{cinnamon}} before serving."
+          ]
+        },
+        {
+          "id": "cinnamon-infusion",
+          "label": "Cinnamon-stick infusion",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 750,
+              "unit": "g",
+              "name": "apples, peeled and cored",
+              "substitution": "Use another cooking apple at the same prepared weight."
+            },
+            {
+              "key": "water",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "sugar",
+              "amount": 50,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "stick",
+              "amount": 1,
+              "unit": "",
+              "name": "small cinnamon stick",
+              "substitution": "Use the ground-cinnamon base version instead."
+            }
+          ],
+          "steps": [
+            "Cut {{apples}} into pieces and simmer with {{water}} and {{stick}} for 15–25 minutes, stirring, until very soft. Add a little water if the pan dries.",
+            "Remove and discard the cinnamon stick, then press the fruit through a sieve. Stir in {{sugar}} until dissolved and serve."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-294c932b27eeffc6cd07685c",
+    "bodySha256": "907b96515c2a4c84a7bec1f099eef1141b306b2477305b062ee6c0b40c4eb87c",
+    "recipe": {
+      "id": "historical-294c932b27eeffc6cd07685c",
+      "title": "Orange-Spiced Stewed Apples",
+      "description": "Apple quarters soften with orange zest, mace, cinnamon and allspice into a warmly spiced compote.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm apples, about 180 g each",
+          "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+        },
+        {
+          "key": "sugar",
+          "amount": 80,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "orange",
+          "amount": 2,
+          "unit": "g",
+          "name": "finely grated orange zest",
+          "substitution": "Use 2 g lemon zest."
+        },
+        {
+          "key": "mace",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground mace",
+          "substitution": "Use the same volume of ground nutmeg."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use half as much ground allspice for a different flavor, or omit."
+        },
+        {
+          "key": "allspice",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground allspice",
+          "substitution": "Omit for a milder flavor."
+        }
+      ],
+      "steps": [
+        "Peel and core {{apples}}, cut into quarters and put in a saucepan with {{water}} and {{sugar}}.",
+        "Cover and simmer gently for 20–30 minutes, stirring carefully, until almost tender. Add a little water if the pan begins to dry.",
+        "Stir in {{orange}}, {{mace}}, {{cinnamon}} and {{allspice}}. Simmer for 5–10 minutes more until fully tender, then serve warm."
+      ],
+      "notes": "Missing sugar and spice quantities are supplied; ground mace replaces a blade. The source whole-fruit option remains a named variation. Missing quantities, yields and timings are disclosed modern estimates, not recovered historical measures. Not kitchen-tested. Scaling changes quantities, not time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; freeze for longer storage. Not a canning recipe.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T16:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "whole",
+          "label": "Whole spiced apples",
+          "ingredients": [
+            {
+              "key": "apples",
+              "amount": 6,
+              "unit": "",
+              "name": "medium firm apples, about 180 g each",
+              "substitution": "Use another firm apple of similar size; cooking time and sweetness differ."
+            },
+            {
+              "key": "water",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened apple juice for a sweeter fruit dish."
+            },
+            {
+              "key": "sugar",
+              "amount": 80,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce to taste; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "orange",
+              "amount": 2,
+              "unit": "g",
+              "name": "finely grated orange zest",
+              "substitution": "Use 2 g lemon zest."
+            },
+            {
+              "key": "mace",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground mace",
+              "substitution": "Use the same volume of ground nutmeg."
+            },
+            {
+              "key": "cinnamon",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "ground cinnamon",
+              "substitution": "Use half as much ground allspice for a different flavor, or omit."
+            },
+            {
+              "key": "allspice",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground allspice",
+              "substitution": "Omit for a milder flavor."
+            }
+          ],
+          "steps": [
+            "Peel and core {{apples}}, keep whole and put in a saucepan with {{water}} and {{sugar}}.",
+            "Cover and simmer gently for 25–40 minutes, turning and basting carefully, until almost tender. Add a little water if the pan begins to dry.",
+            "Stir in {{orange}}, {{mace}}, {{cinnamon}} and {{allspice}}. Simmer for 5–10 minutes more until fully tender, then serve warm."
+          ]
+        }
+      ]
+    }
   }
 ]

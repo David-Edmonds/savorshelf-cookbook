@@ -1,3 +1,7 @@
+## September 22 — fruit batch 008
+
+Twenty-eight measured adaptations and two compote duplicate consolidations complete the reviewed 57-source apple/prune working group, not the full catalog. Whole and cut compotes, cider reductions, gelatin-set apple sauce, savory sauces and an egg-batter dessert retain distinct methods and named variations. Current totals: 40,868 imported records, 186 completed adaptations, 40,682 remaining content repairs and 42,320 visible recipes. Modern measurements and cooking changes are disclosed; no kitchen or physical-phone testing is claimed. Android, portfolio, personal saves and automations are unchanged.
+
 ## September 22 — baked-apple batch 007
 
 Thirteen measured baked-apple adaptations and two equivalent-source consolidations retain distinct fillings, syrup styles, crumb coatings and cold or warm presentation. Pasteurized egg-white glaze and nutmeg-lemon options remain named variations. Current totals: 40,870 imported records, 158 completed adaptations, 40,712 remaining content repairs and 42,322 visible recipes. Cooking temperatures, missing amounts and timing are disclosed modern estimates, not kitchen-tested results. Android, portfolio and personal saved data are unchanged.

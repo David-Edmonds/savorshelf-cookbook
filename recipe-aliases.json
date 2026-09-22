@@ -136,5 +136,17 @@
     "canonicalId": "historical-01406f7933a04f2010ea02b9",
     "bodySha256": "53262bae706c0139042eedac622275ae3249cc9b7efb38eb44a7cb9af85dbf54",
     "reason": "Full ingredients and cooking method are equivalent transcriptions from the same book. Both source credits are retained, with any optional glaze preserved in the canonical recipe."
+  },
+  {
+    "id": "historical-740c85fcbd828d91efb8c3c8",
+    "canonicalId": "historical-b45377f685cc6c249e6bd9ec",
+    "bodySha256": "abda71428c0cb4a705587b816b45a857cba6c4e50a2b30583360ab13feb621a3",
+    "reason": "Full ingredients and methods compared: equivalent apple compote formulation. Both sources retained; softer skin-on presentation remains a named variation where relevant."
+  },
+  {
+    "id": "historical-f5c88652b27b15a051dfdff7",
+    "canonicalId": "historical-ac06c3eadccf3078be9086f2",
+    "bodySha256": "45742d187dc725bcb5f41928937e6e94fdbbb26dacdc9a21e11524c4a21b5505",
+    "reason": "Full ingredients and methods compared: equivalent apple compote formulation. Both sources retained; softer skin-on presentation remains a named variation where relevant."
   }
 ]
