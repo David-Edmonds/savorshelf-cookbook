@@ -31,7 +31,7 @@ with sync_playwright() as p:
  page.locator('[data-action=uc-next]').click();expect(page.locator('#cookbook-count')).to_contain_text(f"2 / {(visible_count+23)//24}")
  assert page.evaluate('scrollY')>200
  card=page.locator('[data-action=uc-open]').nth(2);card.scroll_into_view_if_needed();key=card.get_attribute('data-key');y=page.evaluate('scrollY');card.click()
- expect(page.locator('#modal')).to_be_visible();page.locator('[data-action=uc-back]').click();expect(page.locator('#modal')).not_to_be_visible()
+ expect(page.locator('#modal .method-panel')).to_be_visible();page.locator('#modal .recipe-topbar [data-action=uc-back]').click();expect(page.locator('#modal')).not_to_be_visible()
  expect(page.locator('#cookbook-count')).to_contain_text(f"2 / {(visible_count+23)//24}");page.wait_for_timeout(150)
  assert abs(page.evaluate('scrollY')-y)<5,(y,page.evaluate('scrollY'))
  assert page.evaluate('document.activeElement.dataset.key')==key

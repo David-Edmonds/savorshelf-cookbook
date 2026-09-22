@@ -8675,5 +8675,2702 @@
         }
       ]
     }
+  },
+  {
+    "sourceId": "historical-e405e281250c7417deac2675",
+    "bodySha256": "75e7061f6539254266cd98db94a2a4335edc6226053dd7f67a33d443600f8d70",
+    "recipe": {
+      "id": "historical-e405e281250c7417deac2675",
+      "title": "Compota de Peras de Invierno (Vanilla Winter Pears)",
+      "description": "Whole winter pears are slowly poached in vanilla syrup and served chilled.",
+      "category": "Desserts",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 300,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 5,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 300,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "vanilla",
+          "amount": 0.25,
+          "unit": "",
+          "name": "vanilla bean, split",
+          "substitution": "Use 1 ml vanilla extract, stirred in after cooking."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Scoop out the cores and seeds from the base with a melon baller, keeping the pears whole.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{vanilla}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Cool briefly in a shallow container, then refrigerate within 2 hours. Chill for at least 1 hour before serving."
+      ],
+      "notes": "Five pears are selected from the source count options. A measured modern syrup replaces the ambiguous 16/32-degree concentration instructions. Coloring is omitted; natural color varies. Remove the vanilla pod before serving. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "El Practicón: tratado completo de cocina (1894), Ángel Muro. https://archive.org/details/elpracticntrat00muro SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 300,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-9aef2d2ba3e4e7ee9208ef50",
+    "bodySha256": "db28e12ed2112545b9a99148310a2e35b38b6a0c6c0b7abbdf204b14c1965d6b",
+    "recipe": {
+      "id": "historical-9aef2d2ba3e4e7ee9208ef50",
+      "title": "Peras con Vino Tinto (Red-Wine Pears)",
+      "description": "Whole pears cook with cinnamon and cloves, with red wine added partway through for a richly flavored syrup.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 57,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "",
+          "name": "small cinnamon stick",
+          "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+        },
+        {
+          "key": "cloves",
+          "amount": 2,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        },
+        {
+          "key": "wine",
+          "amount": 240,
+          "unit": "ml",
+          "name": "dry red wine",
+          "substitution": "Use the same volume of unsweetened red grape juice for an alcohol-free but sweeter variation."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Leave the skins on. Scoop out the cores and seeds from the base with a melon baller, keeping the pears whole.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{cinnamon}}, {{cloves}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "After the first 15 minutes of gentle cooking, add {{wine}}. Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 25–45 minutes for whole pears. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "Equivalent Mexican and French formulas are consolidated. The source glasses become 240 ml each. Wine remains alcoholic after cooking. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ SavorShelf measured adaptation. Equivalent source retained: La Cuisinière bourgeoise (1801), Menon. https://archive.org/details/b22019935",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-e63157bfd6a52908036c85e3"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-96706fae3cc20a4530240f3c",
+    "bodySha256": "0efea285f20162ca53390b6212e4a95d408a2b834e62a96b01061c5773448ccc",
+    "recipe": {
+      "id": "historical-96706fae3cc20a4530240f3c",
+      "title": "Peras à Borguinhona (Burgundy-Style Pears)",
+      "description": "Unpeeled pears are gently cooked with cinnamon and cloves, then finished with a smaller red-wine addition.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 300,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "",
+          "name": "small cinnamon stick",
+          "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+        },
+        {
+          "key": "cloves",
+          "amount": 3,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        },
+        {
+          "key": "wine",
+          "amount": 120,
+          "unit": "ml",
+          "name": "dry red wine",
+          "substitution": "Use the same volume of unsweetened red grape juice for an alcohol-free but sweeter variation."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Leave the skins on. Scoop out the cores and seeds from the base with a melon baller, keeping the pears whole.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{cinnamon}}, {{cloves}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "After the first 15 minutes of gentle cooking, add {{wine}}. Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 25–45 minutes for whole pears. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "Six pears and three cloves are selected from the source ranges. Sugar and starting water are supplied; wine is a modern 120 ml half-cup. This remains separate from the equal-water-and-wine formula and is not alcohol-free. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Cozinheiro moderno, ou nova arte de cozinha (1785), Lucas Rigaud. https://archive.org/details/b28764626 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-647feb5df6d77286edfdd7f1",
+    "bodySha256": "185ca0620bb531c01173b003c08b20745f818f4a7aa8452330582a80171fe27c",
+    "recipe": {
+      "id": "historical-647feb5df6d77286edfdd7f1",
+      "title": "Pere in Composta (Lemon Pear Compote)",
+      "description": "Peeled pears poach in lemon-scented sugar syrup and are served cold.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 120,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 400,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 120,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Cool briefly in a shallow container, then refrigerate within 2 hours. Chill for at least 1 hour before serving."
+      ],
+      "notes": "The source 600 g pears becomes four small-to-medium pears, approximately 600–680 g. Two glasses become 400 ml. The companion preblanching method remains a named variation; both source credits are retained. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "La scienza in cucina e l'arte di mangiar bene (1891), Pellegrino Artusi. https://www.gutenberg.org/ebooks/59047 SavorShelf measured adaptation. Equivalent source retained: La scienza in cucina e l'arte di mangiar bene (1891), Pellegrino Artusi. https://www.gutenberg.org/ebooks/59047",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 120,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-f6a846e9eb9fc3c386d19bdd"
+      ],
+      "variants": [
+        {
+          "id": "preblanched",
+          "label": "Preblanched pears",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 4,
+              "unit": "",
+              "name": "medium firm pears, about 170 g each",
+              "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+            },
+            {
+              "key": "water",
+              "amount": 400,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 120,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "blanchwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            }
+          ],
+          "steps": [
+            "Bring {{blanchwater}} to a boil. Rinse {{pears}} and blanch whole for 4–5 minutes, then lift into cool drinking water just until safe to handle. Peel, halve and remove all cores and seeds; discard the blanching water.",
+            "Put {{water}} and {{sugar}} in a snug saucepan with {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+            "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 10–25 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+            "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Cool briefly in a shallow container, then refrigerate within 2 hours. Chill for at least 1 hour before serving."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-501dfd4f23fdae3541ab3c23",
+    "bodySha256": "fd0b70743b95e7d5ad8a77d6f52daaaf29af08e4bbef057ad6974ad0cf49f698",
+    "recipe": {
+      "id": "historical-501dfd4f23fdae3541ab3c23",
+      "title": "Compote de Bon-Chrétien (Blanched Pear Halves)",
+      "description": "Pear halves are briefly blanched before peeling, then poached in a clear lemon syrup.",
+      "category": "Desserts",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 5,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 180,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "lemon",
+          "amount": 20,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "blanchwater",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}, halve and remove the cores. Bring {{blanchwater}} to a boil and blanch the halves for 3–5 minutes. Lift into cool water briefly, peel when safe to handle and discard the blanching water.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "Two French-source blanch-then-poach methods are consolidated. Five pears define the batch; syrup and the uncertain septier measure become explicit modern amounts. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Le Cuisinier impérial (1806), A. Viard. https://archive.org/details/lecuisinierimpe00viargoog SavorShelf measured adaptation. Equivalent source retained: La Cuisinière bourgeoise (1801), Menon. https://archive.org/details/b22019935",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-cb6ea4b83411e657dcba0e72"
+      ],
+      "variants": [
+        {
+          "id": "whole",
+          "label": "Whole preblanched pears",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 5,
+              "unit": "",
+              "name": "medium firm pears, about 170 g each",
+              "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+            },
+            {
+              "key": "water",
+              "amount": 500,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 180,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "lemon",
+              "amount": 20,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "blanchwater",
+              "amount": 1000,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            }
+          ],
+          "steps": [
+            "Rinse {{pears}}. Bring {{blanchwater}} to a boil and blanch the whole pears for 5 minutes. Lift into cool water briefly, peel when safe to handle, scoop out the cores from the base and discard the blanching water.",
+            "Put {{water}} and {{sugar}} in a snug saucepan with {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+            "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 20–40 minutes for whole pears. Add a little water if the pan dries before the fruit softens.",
+            "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-73334427aae78cfa6c96ec65",
+    "bodySha256": "40ca64fe1cc4d0e810460eb1111b96a56d2335e2a98c728d4d68e85eda78dcf1",
+    "recipe": {
+      "id": "historical-73334427aae78cfa6c96ec65",
+      "title": "Compote de Catillards (Lightly Sweetened Winter Pears)",
+      "description": "Hard winter pear halves soften slowly with very little added sugar and water.",
+      "category": "Desserts",
+      "servings": 5,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 5,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "Ten grams of sugar in 60 ml water replaces the undefined spoonful of syrup and four water spoonfuls. The source low-sugar, long-cook character remains; top up water to prevent burning. Use a modern heavy nonreactive pan instead of copper. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Le Cuisinier impérial (1806), A. Viard. https://archive.org/details/lecuisinierimpe00viargoog SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-6a612f776cacf966dced9b13",
+    "bodySha256": "0eabbfd629abf32055a52126c07b06b2c7d7e154e1a3e1e6cda2abf381e9016f",
+    "recipe": {
+      "id": "historical-6a612f776cacf966dced9b13",
+      "title": "Whole Winter Pears with Cinnamon",
+      "description": "Unpeeled winter pears cook slowly in a lightly cinnamon-scented syrup.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 125,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "",
+          "name": "small cinnamon stick",
+          "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Leave the skins on. Scoop out the cores and seeds from the base with a melon baller, keeping the pears whole.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{cinnamon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "A six-pear batch supplies missing quantities. The historical tin additive is omitted entirely. No metal or non-food coloring ingredient is added, and a red color is not promised. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "La Cuisinière bourgeoise (1801), Menon. https://archive.org/details/b22019935 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-385d15f20a1c652a129c2971",
+    "bodySha256": "b40ce86aa73816066fca77b869031252598150456c228fcb3a911fe384177dc9",
+    "recipe": {
+      "id": "historical-385d15f20a1c652a129c2971",
+      "title": "Martin Sec Pears in Syrup",
+      "description": "Small firm cooking pears slowly soften in a simple sugar syrup.",
+      "category": "Desserts",
+      "servings": 15,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 15,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Leave the skins on. Scoop out the cores and seeds from the base with a melon baller, keeping the pears whole.",
+        "Put {{water}} and {{sugar}} in a snug saucepan. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "The source fifteen small pears and half-pound sugar are retained as a modern 227 g. Water is supplied; use small winter pears rather than fifteen large dessert pears. A gentle simmer replaces the final hard boil. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Le Cuisinier impérial (1806), A. Viard. https://archive.org/details/lecuisinierimpe00viargoog SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1fefc14c413ee6df4ac7b723",
+    "bodySha256": "b6ead90edf413dd6e21005526150ea5e6d251a1c7513fd052692461a5c4edbb2",
+    "recipe": {
+      "id": "historical-1fefc14c413ee6df4ac7b723",
+      "title": "Pære-Kompot (Danish-Source Pear Compote)",
+      "description": "Small peeled pears simmer in a concentrated syrup before the cooking liquid is reduced and spooned over them.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "small firm pears, about 125 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 150,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 125,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Scoop out the cores and seeds from the base with a melon baller, keeping the pears whole.",
+        "Put {{water}} and {{sugar}} in a snug saucepan. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 25–45 minutes for whole pears. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "Four small pears stand in for the source 500 g fruit; select fruit near 125 g each. The 125 g sugar and 150 ml water are retained. Sulfured-jar storage is replaced by prompt refrigeration; a holding bath is unnecessary when peeling directly before cooking. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-26bdb5d73c0cc0f51a144bea",
+    "bodySha256": "37b5e4799a0ec5ee099586004fa848c2eadafdad09b5e9ff3be0db4ec7e563af",
+    "recipe": {
+      "id": "historical-26bdb5d73c0cc0f51a144bea",
+      "title": "Birnencompote (Unsweetened Spiced Pears)",
+      "description": "Pear halves simmer with lemon peel, cinnamon and cloves without added sugar.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "thin strips of lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest; remove strips before serving."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "",
+          "name": "small cinnamon stick",
+          "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+        },
+        {
+          "key": "cloves",
+          "amount": 6,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} in a snug saucepan with {{zest}}, {{cinnamon}}, {{cloves}}. Heat gently. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until slightly reduced, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "Two matching German transcriptions are consolidated. No sugar is invented: sweetness comes from the pears. Missing fruit and water quantities are supplied. Arrange the halves in overlapping fan shapes instead of the source decorative artichokes. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Neuestes Süddeutsches Kochbuch (1858), Viktorine Schiller. https://www.gutenberg.org/ebooks/52879 SavorShelf measured adaptation. Equivalent source retained: Neuestes Süddeutsches Kochbuch (1858), Viktorine Schiller. https://www.gutenberg.org/ebooks/52879",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-80123e392934e56ea9737cf1"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-dd49b2ca85a83c9d7ecb2ede",
+    "bodySha256": "34b72df9e36de3bbf99a76f05cc95084e22f50d97bf61f51c16440e04b8b8466",
+    "recipe": {
+      "id": "historical-dd49b2ca85a83c9d7ecb2ede",
+      "title": "Compot van Peren (Slow-Cooked Winter Pears)",
+      "description": "Whole winter pears cook slowly with lemon and warm spices until tender.",
+      "category": "Desserts",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 10,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 250,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cloves",
+          "amount": 3,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "",
+          "name": "small cinnamon stick",
+          "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "thin strips of lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest; remove strips before serving."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Scoop out the cores and seeds from the base with a melon baller, keeping the pears whole.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{cloves}}, {{cinnamon}}, {{zest}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "The source twenty pears is halved; missing sugar, cinnamon, lemon and water amounts are supplied. Very hard winter pears may need up to four hours; continue until tender and keep the liquid from drying. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Betje de goedkoope keukenmeid (1895), author not recorded. https://archive.org/details/betje_goedkope_keukenmeid SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-29a726d546bdd7a711839bfb",
+    "bodySha256": "0c3728ba6ed6781f423914323fb0679f6c5a564dfc144c4118f5892aebac8763",
+    "recipe": {
+      "id": "historical-29a726d546bdd7a711839bfb",
+      "title": "Stewed Pear Quarters with Cloves",
+      "description": "Pear quarters gently stew with cloves and a modest amount of sugar.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 700,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 113,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cloves",
+          "amount": 3,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Quarter lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{cloves}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "The source dozen is halved and the sugar becomes 113 g. The cochineal coloring and peel bag are omitted; no particular color is guaranteed. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "The Jewish Manual (1846), Judith Cohen Montefiore (attr.). https://archive.org/details/b22021371 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-388b29b4f7513707bf4ee492",
+    "bodySha256": "4ebbe467da3e33d556fa38b60a1de66b35c2e2eb681d665efd47bfd6393ad093",
+    "recipe": {
+      "id": "historical-388b29b4f7513707bf4ee492",
+      "title": "Long-Stewed Pears with Vinegar and Brown Sugar",
+      "description": "Hard pear halves cook slowly in a sweet, lightly acidic syrup flavored with lemon and cloves.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 454,
+          "unit": "g",
+          "name": "brown sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "thin strips of lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest; remove strips before serving."
+        },
+        {
+          "key": "cloves",
+          "amount": 4,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "cider vinegar",
+          "substitution": "Use 30 ml white wine vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{zest}}, {{cloves}}, {{vinegar}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "The pound of sugar is retained as 454 g. A modern 500 ml water and 30 ml vinegar replace uncertain pint and spoon measures. Very hard pears may need four hours; vinegar does not guarantee a coral-red color. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "An Easy and Economical Book of Jewish Cookery (1874), Estella Atrutel. https://archive.org/details/b2807967x SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-d2857ff8613e61f5ad76277d",
+    "bodySha256": "4bd8013776b90b2c70c01273dfd4b9edb6a2ac5fdecdf129bfd62498771ab564",
+    "recipe": {
+      "id": "historical-d2857ff8613e61f5ad76277d",
+      "title": "Port-Stewed Pears with Allspice",
+      "description": "Pear halves slowly cook in port and a spiced syrup, then chill before serving.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 300,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 125,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 71,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cloves",
+          "amount": 3,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        },
+        {
+          "key": "allspice",
+          "amount": 3,
+          "unit": "",
+          "name": "whole allspice berries",
+          "substitution": "Use 0.125 tsp ground allspice; leave ground spice in the syrup."
+        },
+        {
+          "key": "wine",
+          "amount": 60,
+          "unit": "ml",
+          "name": "ruby port",
+          "substitution": "Use the same volume of unsweetened red grape juice for an alcohol-free but sweeter variation."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{cloves}}, {{allspice}}, {{wine}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Cool briefly in a shallow container, then refrigerate within 2 hours. Chill for at least 1 hour before serving."
+      ],
+      "notes": "A half source batch keeps the sugar and spice proportions with modern liquid volumes. Cochineal is omitted. Add water if needed during the long simmer. Port remains alcoholic after cooking. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 300,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-83fddb7be47353fc161e3533",
+    "bodySha256": "5c6f0b987c46ea0f9cb2432e11303574713d69410179ac344c0c597af61d2e34",
+    "recipe": {
+      "id": "historical-83fddb7be47353fc161e3533",
+      "title": "Stewed Pears with Cinnamon, Lemon and Cream",
+      "description": "Pear halves simmer with cloves, cinnamon and lemon, then are served with cream and reduced syrup.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 600,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cloves",
+          "amount": 4,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "",
+          "name": "small cinnamon stick",
+          "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "cream",
+          "amount": 150,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of a plant-based cream suited to the stated use."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{cloves}}, {{cinnamon}}, {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate.",
+        "Serve with {{cream}} poured alongside."
+      ],
+      "notes": "Two same-book versions are consolidated. Missing fruit, water and spice amounts are supplied. Cream is selected from the cream-or-custard option; the shorter source cake accompaniment is retained as a named serving version. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923 SavorShelf measured adaptation. Equivalent source retained: The Whitehouse Cookbook (1887), F.L. Gillette. https://www.gutenberg.org/ebooks/13923",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-a1ecb61a6348f52e91a3ac04"
+      ],
+      "variants": [
+        {
+          "id": "cake",
+          "label": "Served with cake",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 6,
+              "unit": "",
+              "name": "medium firm pears, about 170 g each",
+              "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+            },
+            {
+              "key": "water",
+              "amount": 600,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 200,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "cloves",
+              "amount": 4,
+              "unit": "",
+              "name": "whole cloves",
+              "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+            },
+            {
+              "key": "cinnamon",
+              "amount": 1,
+              "unit": "",
+              "name": "small cinnamon stick",
+              "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "cake",
+              "amount": 180,
+              "unit": "g",
+              "name": "ready-to-serve plain sponge cake, sliced",
+              "substitution": "Use 180 g a suitable dairy-free or gluten-free plain cake, or omit."
+            }
+          ],
+          "steps": [
+            "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+            "Put {{water}} and {{sugar}} in a snug saucepan with {{cloves}}, {{cinnamon}}, {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+            "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+            "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Rest for 5 minutes and serve warm, or cool promptly and refrigerate.",
+            "Serve with {{cake}} alongside."
+          ]
+        },
+        {
+          "id": "custard",
+          "label": "Ready-to-serve custard",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 6,
+              "unit": "",
+              "name": "medium firm pears, about 170 g each",
+              "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+            },
+            {
+              "key": "water",
+              "amount": 600,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 200,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "cloves",
+              "amount": 4,
+              "unit": "",
+              "name": "whole cloves",
+              "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+            },
+            {
+              "key": "cinnamon",
+              "amount": 1,
+              "unit": "",
+              "name": "small cinnamon stick",
+              "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+            },
+            {
+              "key": "lemon",
+              "amount": 15,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "custard",
+              "amount": 150,
+              "unit": "ml",
+              "name": "ready-to-serve vanilla custard",
+              "substitution": "Use 150 ml heavy cream instead."
+            }
+          ],
+          "steps": [
+            "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+            "Put {{water}} and {{sugar}} in a snug saucepan with {{cloves}}, {{cinnamon}}, {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+            "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+            "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Rest for 5 minutes and serve warm, or cool promptly and refrigerate.",
+            "Serve with {{custard}} alongside, warmed according to its label if desired."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-ab233635abfb32e9e68d36da",
+    "bodySha256": "2879fc4f1f35f17215b8e38feb67c7f8ca7c6ae6a2bea0fd50bf6f0b20447bf8",
+    "recipe": {
+      "id": "historical-ab233635abfb32e9e68d36da",
+      "title": "Alma- vagy Körtekompót (Pear or Apple Compote)",
+      "description": "Fruit halves poach in a light lemon syrup, with an optional berry-syrup finish.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "Pears are selected for the base; apples and berry syrup remain named variations. A glass becomes 240 ml and missing fruit and sugar amounts are supplied. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Képes budapesti szakácskönyv (1901), Rézi néni. https://archive.org/details/b28112982 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "apples",
+          "label": "Apple compote",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 4,
+              "unit": "",
+              "name": "medium firm apples",
+              "substitution": "Use the pear base version for a different fruit."
+            },
+            {
+              "key": "water",
+              "amount": 240,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 60,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            }
+          ],
+          "steps": [
+            "Rinse {{pears}}. Peel the apples. Halve lengthwise and scoop out all cores and seeds.",
+            "Put {{water}} and {{sugar}} in a snug saucepan with {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the apples in one layer, working in batches if needed.",
+            "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+            "Lift out the apples. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+          ]
+        },
+        {
+          "id": "berry",
+          "label": "Berry-syrup finish",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 4,
+              "unit": "",
+              "name": "medium firm pears, about 170 g each",
+              "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+            },
+            {
+              "key": "water",
+              "amount": 240,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 60,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "lemon",
+              "amount": 30,
+              "unit": "ml",
+              "name": "lemon juice",
+              "substitution": "Use the same volume of lime juice for a different flavor."
+            },
+            {
+              "key": "berry",
+              "amount": 30,
+              "unit": "ml",
+              "name": "redcurrant or raspberry syrup",
+              "substitution": "Use 30 ml strained berry juice for a less sweet finish."
+            }
+          ],
+          "steps": [
+            "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+            "Put {{water}} and {{sugar}} in a snug saucepan with {{lemon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+            "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+            "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+            "Rest for 5 minutes and serve warm, or cool promptly and refrigerate.",
+            "Stir {{berry}} into the finished syrup before serving."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-0169e94280e85d28e6d48187",
+    "bodySha256": "605a27f3deac9a94861f4968c000fd040347ffd599dfc45579ce433cb5359d23",
+    "recipe": {
+      "id": "historical-0169e94280e85d28e6d48187",
+      "title": "Baked Pears with Brown Sugar and Cloves",
+      "description": "Covered pear halves bake slowly in a fragrant sweet syrup until tender.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 90,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "brown sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 150,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "cloves",
+          "amount": 12,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 170°C (338°F). Peel {{pears}}, halve lengthwise and scoop out all cores and seeds.",
+        "Arrange in a snug lidded ovenproof casserole. Add {{sugar}}, {{water}}, {{cloves}} and cover.",
+        "Bake for 60–90 minutes, turning carefully halfway through, until a knife enters easily. Check earlier for dessert pears. Add small splashes of water if the syrup starts drying before the fruit softens.",
+        "Remove whole spices and zest strips. Let stand for 5 minutes and serve with the syrup, or cool promptly and refrigerate."
+      ],
+      "notes": "The source ratios are retained in a measured smaller batch. Oven temperature, missing fruit/liquid quantities and tenderness checks are supplied. Paper or old jar covers are replaced by an ovenproof lid. Coloring is omitted. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "The Jewish Manual (1846), Judith Cohen Montefiore (attr.). https://archive.org/details/b22021371 SavorShelf measured adaptation. Equivalent source retained: The Jewish Manual (1846), Judith Cohen Montefiore (attr.). https://archive.org/details/b22021371",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 90,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-3ba6ce55c910fb6c8f4c6099"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-e87aef2088003c78df49574f",
+    "bodySha256": "547a333e665c0b9d68a4cc402a5a340cea29ce491f8be2dd40861d69c4b59674",
+    "recipe": {
+      "id": "historical-e87aef2088003c78df49574f",
+      "title": "Port-Baked Pears with Lemon",
+      "description": "Covered pear halves bake slowly in a fragrant sweet syrup until tender.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 100,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "thin strips of lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest; remove strips before serving."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "",
+          "name": "small cinnamon stick",
+          "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+        },
+        {
+          "key": "wine",
+          "amount": 250,
+          "unit": "ml",
+          "name": "ruby port",
+          "substitution": "Use the same volume of unsweetened red grape juice for an alcohol-free but sweeter variation."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 170°C (338°F). Peel {{pears}}, halve lengthwise and scoop out all cores and seeds.",
+        "Arrange in a snug lidded ovenproof casserole. Add {{sugar}}, {{zest}}, {{cinnamon}}, {{wine}} and cover.",
+        "Bake for 60–90 minutes, turning carefully halfway through, until a knife enters easily. Check earlier for dessert pears. Add small splashes of water if the syrup starts drying before the fruit softens.",
+        "Remove whole spices and zest strips. Let stand for 5 minutes and serve with the syrup, or cool promptly and refrigerate."
+      ],
+      "notes": "The source ratios are retained in a measured smaller batch. Oven temperature, missing fruit/liquid quantities and tenderness checks are supplied. Paper or old jar covers are replaced by an ovenproof lid. Coloring is omitted. Equivalent port-baked sources are consolidated. Port is not alcohol-free after cooking. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "The Creole Cookery Book (1885), Christian Woman's Exchange. https://archive.org/details/creolecookerybo00unkngoog SavorShelf measured adaptation. Equivalent source retained: Miss Leslie's Complete Cookery (1851), Eliza Leslie. https://www.gutenberg.org/ebooks/60025",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 100,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-7c77303ee62200815023b31f"
+      ],
+      "variants": [
+        {
+          "id": "cloves",
+          "label": "Clove instead of cinnamon",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 6,
+              "unit": "",
+              "name": "small firm winter cooking pears, about 120 g each",
+              "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+            },
+            {
+              "key": "sugar",
+              "amount": 227,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "zest",
+              "amount": 3,
+              "unit": "g",
+              "name": "thin strips of lemon zest, yellow part only",
+              "substitution": "Use the same weight of orange zest; remove strips before serving."
+            },
+            {
+              "key": "cloves",
+              "amount": 6,
+              "unit": "",
+              "name": "whole cloves",
+              "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+            },
+            {
+              "key": "wine",
+              "amount": 250,
+              "unit": "ml",
+              "name": "ruby port",
+              "substitution": "Use the same volume of unsweetened red grape juice for an alcohol-free but sweeter variation."
+            }
+          ],
+          "steps": [
+            "Heat the oven to 170°C (338°F). Peel {{pears}}, halve lengthwise and scoop out all cores and seeds.",
+            "Arrange in a snug lidded ovenproof casserole. Add {{sugar}}, {{zest}}, {{cloves}}, {{wine}} and cover.",
+            "Bake for 60–90 minutes, turning carefully halfway through, until a knife enters easily. Check earlier for dessert pears. Add small splashes of water if the syrup starts drying before the fruit softens.",
+            "Remove whole spices and zest strips. Let stand for 5 minutes and serve with the syrup, or cool promptly and refrigerate."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-e434cbff4a1417b806ff7643",
+    "bodySha256": "678fa8e5fd1938993a1b00ece055bddbc45de9ef08a2457dddc1360a4bdf6e7f",
+    "recipe": {
+      "id": "historical-e434cbff4a1417b806ff7643",
+      "title": "Slow-Baked Pears with Lemon and Allspice",
+      "description": "Covered pear halves bake slowly in a fragrant sweet syrup until tender.",
+      "category": "Desserts",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 360,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 6,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "thin strips of lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest; remove strips before serving."
+        },
+        {
+          "key": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        },
+        {
+          "key": "cloves",
+          "amount": 3,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        },
+        {
+          "key": "allspice",
+          "amount": 5,
+          "unit": "",
+          "name": "whole allspice berries",
+          "substitution": "Use 0.25 tsp ground allspice; no straining is then needed."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 140°C (284°F). Peel {{pears}}, halve lengthwise and scoop out all cores and seeds.",
+        "Arrange in a snug lidded ovenproof casserole. Add {{sugar}}, {{water}}, {{zest}}, {{lemon}}, {{cloves}}, {{allspice}} and cover.",
+        "Bake for 4–6 hours, turning carefully halfway through, until a knife enters easily. Check earlier for dessert pears. Add small splashes of water if the syrup starts drying before the fruit softens.",
+        "Remove whole spices and zest strips. Let stand for 5 minutes and serve with the syrup, or cool promptly and refrigerate."
+      ],
+      "notes": "The source ratios are retained in a measured smaller batch. Oven temperature, missing fruit/liquid quantities and tenderness checks are supplied. Paper or old jar covers are replaced by an ovenproof lid. Coloring is omitted. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 360,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-f6eefd602cae2e8e252d4b24",
+    "bodySha256": "0cab59f11b6defd017e599a22af5082e6565c5aef7094ec239975b81d7606107",
+    "recipe": {
+      "id": "historical-f6eefd602cae2e8e252d4b24",
+      "title": "Compota de Peras Tostadas (Roasted and Poached Pears)",
+      "description": "Pears are roasted until their skins loosen, then peeled and finished in cinnamon syrup.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 90,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 113,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 1,
+          "unit": "",
+          "name": "small cinnamon stick",
+          "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+        }
+      ],
+      "steps": [
+        "Heat the oven to 220°C (428°F). Rinse {{pears}} and place on a rimmed metal tray. Roast for 20–30 minutes, turning once, until the skins blister and loosen; do not deliberately char the flesh.",
+        "Cool just enough to handle. Peel away the loosened skins, halve the pears and remove all cores and seeds.",
+        "Heat {{water}}, {{sugar}} and {{cinnamon}} in a saucepan until dissolved. Add the pear halves and simmer for 10–25 minutes until tender.",
+        "Lift out the pears, discard the cinnamon stick and simmer the liquid for 5–10 minutes until syrupy. Spoon over the fruit and serve."
+      ],
+      "notes": "Equivalent toasted-pear methods are consolidated. A four-pear batch and measured syrup replace unclear source quantities. Controlled roasting replaces burning the skins over an open fire; the roast-then-poach sequence remains. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ SavorShelf measured adaptation. Equivalent source retained: La Cuisinière bourgeoise (1801), Menon. https://archive.org/details/b22019935",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 90,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-2069abe0af9d8a1a15c2c80a"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-59de5c1fe7beee5150bbcffd",
+    "bodySha256": "bfdb78710e7c2db1d95bedf0db465d8c0590bc2972a21e5b4baf5c326b8ad50c",
+    "recipe": {
+      "id": "historical-59de5c1fe7beee5150bbcffd",
+      "title": "Caramel-Finished Pear Compote",
+      "description": "Cooked pear halves receive a caramelized sugar finish just before serving.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 400,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 80,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "caramel",
+          "amount": 60,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears. Remove any whole spices or zest strips. Simmer the liquid uncovered for 5–10 minutes until lightly syrupy, then spoon it over the fruit.",
+        "Drain the cooked pears well, retaining their syrup. Spread {{caramel}} in a clean heavy skillet and heat over medium-low heat until it melts and becomes amber; swirl gently rather than stirring dry sugar.",
+        "Take the skillet off the heat. Carefully add the drained pears cut-side down, keeping hands away from hot sugar, then spoon in a little reserved warm syrup to loosen the caramel; it may splutter. Turn gently and serve immediately."
+      ],
+      "notes": "The missing earlier-compote cross-reference is expanded to full poaching steps. A separate sugar quantity is supplied for the caramel finish. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Le Cuisinier impérial (1806), A. Viard. https://archive.org/details/lecuisinierimpe00viargoog SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-59d98977fe62eb0016585987",
+    "bodySha256": "311e6eed56904bff7debe6839d6d7e6d802b4763c677eab38c006e4e52a6bff3",
+    "recipe": {
+      "id": "historical-59d98977fe62eb0016585987",
+      "title": "Gestoofde Peren (Winter Pears with Berry Syrup)",
+      "description": "Winter pears stew gently with lemon, then their berry-flavored cooking liquid is lightly thickened.",
+      "category": "Desserts",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 240,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 8,
+          "unit": "",
+          "name": "small firm winter cooking pears, about 120 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 600,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "zest",
+          "amount": 3,
+          "unit": "g",
+          "name": "thin strips of lemon zest, yellow part only",
+          "substitution": "Use the same weight of orange zest; remove strips before serving."
+        },
+        {
+          "key": "berry",
+          "amount": 75,
+          "unit": "ml",
+          "name": "unsweetened redcurrant juice",
+          "substitution": "Use 75 ml cranberry juice, or water for the plain variation."
+        },
+        {
+          "key": "starch",
+          "amount": 8,
+          "unit": "g",
+          "name": "tapioca starch",
+          "substitution": "Use 6 g cornstarch; simmer the slurry for 1 minute."
+        },
+        {
+          "key": "slurry",
+          "amount": 30,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan with {{zest}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens. Add {{berry}} during the final 20 minutes.",
+        "Lift out the pears and remove the lemon strips. Mix {{starch}} with {{slurry}}, stir into the simmering cooking liquid and cook for 1–2 minutes until glossy and lightly thickened. Pour over the pears.",
+        "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+      ],
+      "notes": "Eight small winter pears approximate the source kilogram. The optional berry juice is selected for the base. Measured tapioca starch replaces unspecified mixed sago; do not use whole sago pearls in this short thickening step. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Kookboek van de Amsterdamse Huishoudschool (1910), C.J. Wannée. https://archive.org/details/bwb_Y0-BXP-037 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 240,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "plain",
+          "label": "Without berry juice",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 8,
+              "unit": "",
+              "name": "small firm winter cooking pears, about 120 g each",
+              "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+            },
+            {
+              "key": "water",
+              "amount": 600,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 50,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "zest",
+              "amount": 3,
+              "unit": "g",
+              "name": "thin strips of lemon zest, yellow part only",
+              "substitution": "Use the same weight of orange zest; remove strips before serving."
+            },
+            {
+              "key": "berry",
+              "amount": 75,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use 75 ml cranberry juice, or water for the plain variation."
+            },
+            {
+              "key": "starch",
+              "amount": 8,
+              "unit": "g",
+              "name": "tapioca starch",
+              "substitution": "Use 6 g cornstarch; simmer the slurry for 1 minute."
+            },
+            {
+              "key": "slurry",
+              "amount": 30,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            }
+          ],
+          "steps": [
+            "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+            "Put {{water}} and {{sugar}} in a snug saucepan with {{zest}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+            "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens. Add {{berry}} during the final 20 minutes.",
+            "Lift out the pears and remove the lemon strips. Mix {{starch}} with {{slurry}}, stir into the simmering cooking liquid and cook for 1–2 minutes until glossy and lightly thickened. Pour over the pears.",
+            "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+          ]
+        },
+        {
+          "id": "cinnamon",
+          "label": "Cinnamon instead of lemon",
+          "ingredients": [
+            {
+              "key": "pears",
+              "amount": 8,
+              "unit": "",
+              "name": "small firm winter cooking pears, about 120 g each",
+              "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+            },
+            {
+              "key": "water",
+              "amount": 600,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            },
+            {
+              "key": "sugar",
+              "amount": 50,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+            },
+            {
+              "key": "cinnamon",
+              "amount": 1,
+              "unit": "",
+              "name": "small cinnamon stick",
+              "substitution": "Use 0.25 tsp ground cinnamon per stick; leave ground spice in the sauce."
+            },
+            {
+              "key": "berry",
+              "amount": 75,
+              "unit": "ml",
+              "name": "unsweetened redcurrant juice",
+              "substitution": "Use 75 ml cranberry juice, or water for the plain variation."
+            },
+            {
+              "key": "starch",
+              "amount": 8,
+              "unit": "g",
+              "name": "tapioca starch",
+              "substitution": "Use 6 g cornstarch; simmer the slurry for 1 minute."
+            },
+            {
+              "key": "slurry",
+              "amount": 30,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+            }
+          ],
+          "steps": [
+            "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+            "Put {{water}} and {{sugar}} in a snug saucepan with {{cinnamon}}. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+            "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 1–3 hours for hard winter pears, checking after 45 minutes. Add a little water if the pan dries before the fruit softens. Add {{berry}} during the final 20 minutes.",
+            "Lift out the pears and remove the cinnamon stick. Mix {{starch}} with {{slurry}}, stir into the simmering cooking liquid and cook for 1–2 minutes until glossy and lightly thickened. Pour over the pears.",
+            "Rest for 5 minutes and serve warm, or cool promptly and refrigerate."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-a3f9e86c2e462fbb23ab563f",
+    "bodySha256": "ef441a6b7ef5eefa701db9904460c20bfdcf4c9f2028017d2e5b9fe788646033",
+    "recipe": {
+      "id": "historical-a3f9e86c2e462fbb23ab563f",
+      "title": "Peras Encartilladas (Pears in Custard Syrup)",
+      "description": "Peeled pears cook in sugar syrup, which is blended with a small cooked custard for a creamy coating.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 60,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "water",
+          "amount": 400,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 227,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and texture differ."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; an egg-free version needs a different thickening method."
+        },
+        {
+          "key": "starch",
+          "amount": 8,
+          "unit": "g",
+          "name": "cornstarch",
+          "substitution": "Use 8 g potato starch for a different texture; avoid extended boiling."
+        },
+        {
+          "key": "custardsugar",
+          "amount": 20,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "reserved",
+          "amount": 100,
+          "unit": "ml",
+          "name": "pear cooking syrup reserved from this recipe",
+          "substitution": "Use the syrup made in the earlier steps, not a separate purchased syrup."
+        },
+        {
+          "key": "ground",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground cinnamon",
+          "substitution": "Use 0.125 tsp ground nutmeg, or omit."
+        }
+      ],
+      "steps": [
+        "Rinse {{pears}}. Peel them. Halve lengthwise and scoop out all cores and seeds.",
+        "Put {{water}} and {{sugar}} in a snug saucepan. Heat gently, stirring until the sugar dissolves. Add the pears in one layer, working in batches if needed.",
+        "Cover and simmer very gently, turning and basting carefully, until a small knife enters the flesh easily: 15–30 minutes for halves. Add a little water if the pan dries before the fruit softens.",
+        "Lift out the pears and keep warm. Measure {{reserved}} from the cooking liquid for the coating; cool and refrigerate any unused syrup separately.",
+        "Whisk {{starch}} and {{custardsugar}} into {{milk}} in a small saucepan. Bring to a gentle simmer while whisking and cook for 1 minute. Remove from the heat.",
+        "Whisk {{yolks}} in a bowl. Slowly whisk in a little hot milk mixture, then return to the pan. Stir over low heat until the custard reaches 82°C (180°F), without boiling.",
+        "Whisk the reserved syrup into the warm custard. Spoon over the pears, sprinkle with {{ground}} and serve. Do not boil the finished egg custard."
+      ],
+      "notes": "A one-third fruit/sugar batch is selected. The previously prepared pears and missing custard component are supplied. Only part of the cooking syrup is used in the coating to prevent excessive dilution. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe. The custard quantity is increased from the source proportional amount to a practical 200 ml milk-based saucepan batch; this makes a creamier modern coating.",
+      "source": "Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ SavorShelf measured adaptation. Egg guidance: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 60,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-6dbf1c7aa4b6004cc3bfbd38",
+    "bodySha256": "45a0bc74ad0f4bb7b044536656c3f48d005436277d4e676741e1f81d7b4d138d",
+    "recipe": {
+      "id": "historical-6dbf1c7aa4b6004cc3bfbd38",
+      "title": "Candied Pears with Coconut Filling and Almond Custard",
+      "description": "Pears absorb syrup over three days, then are filled with coconut paste and browned under a thick almond-custard coating.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 3000,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 600,
+          "unit": "g",
+          "name": "small firm pears, weighed after peeling and coring, about four",
+          "substitution": "Use firm small pears that hold their shape; soft ripe pears are unsuitable for repeated heating."
+        },
+        {
+          "key": "sugar",
+          "amount": 600,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 600,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "coconut",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsweetened desiccated coconut",
+          "substitution": "Use 50 g finely ground almonds for a different filling, noting almonds are also in the coating."
+        },
+        {
+          "key": "fillsugar",
+          "amount": 30,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "fillwater",
+          "amount": 50,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "almonds",
+          "amount": 100,
+          "unit": "g",
+          "name": "finely ground blanched almonds",
+          "substitution": "Use 100 g finely ground sunflower seeds for a different flavor and color."
+        },
+        {
+          "key": "reserved",
+          "amount": 100,
+          "unit": "ml",
+          "name": "pear cooking syrup reserved from this recipe",
+          "substitution": "Use the syrup produced in the earlier steps."
+        },
+        {
+          "key": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and texture differ."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; an egg-free version needs a different thickening method."
+        },
+        {
+          "key": "starch",
+          "amount": 8,
+          "unit": "g",
+          "name": "cornstarch",
+          "substitution": "Use 8 g potato starch for a different texture; avoid extended boiling."
+        },
+        {
+          "key": "custardsugar",
+          "amount": 20,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        }
+      ],
+      "steps": [
+        "Day 1: Prepare {{pears}}, leaving the fruit whole with a cavity for filling. Dissolve {{sugar}} in {{water}} in a snug saucepan. Add the pears and simmer very gently for 20–35 minutes, turning carefully, until just tender but intact.",
+        "Transfer pears and syrup to shallow heatproof containers. Cool briefly and refrigerate within 2 hours at 4°C (40°F) or colder. Leave refrigerated overnight; never hold the fruit overnight at room temperature.",
+        "Day 2: Return fruit and syrup to the pan, heat gently to a simmer and cook for 10 minutes. Cool and refrigerate again as on day 1.",
+        "Day 3: Gently simmer fruit and syrup for another 10 minutes. Lift the pears onto a rack over a tray to drain. Measure {{reserved}} for the coating; cool and refrigerate the unused syrup separately.",
+        "Cook {{coconut}}, {{fillsugar}} and {{fillwater}} in a small pan for 3–5 minutes, stirring until a thick moist paste forms. Let cool enough to handle and spoon into the pear cavities.",
+        "Whisk {{starch}} and {{custardsugar}} into {{milk}} in a small saucepan. Bring to a gentle simmer while whisking and cook for 1 minute. Remove from the heat.",
+        "Whisk {{yolks}} in a bowl. Slowly whisk in a little hot milk mixture, then return to the pan. Stir over low heat until the custard reaches 82°C (180°F), without boiling.",
+        "Stir {{almonds}} and the reserved syrup into the warm custard. Cook gently, stirring for 2–3 minutes, until thick enough to coat the pears; do not boil.",
+        "Heat the oven grill/broiler. Place the filled pears in a metal baking dish, coat with the almond custard and brown briefly 15–20 cm below the heat, about 2–4 minutes, watching constantly. Serve warm."
+      ],
+      "notes": "The shorter duplicate transcription is completed from the fuller same-book recipe. Equal prepared fruit/sugar weights and three-day absorption are retained; shorter controlled reheats replace repeated multi-hour boils. Coconut paste, custard and coating quantities are supplied. Bricks, stones and the historical overhead brazier are equipment, not ingredients; a modern broiler replaces them. Total time includes two overnight refrigerator holds. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ SavorShelf measured adaptation. Reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety Equivalent source retained: Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 3000,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": [
+        "historical-0094e81f8067e2183fd2f080"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-9ae9cf59965859c5b35394d1",
+    "bodySha256": "a2ef9898f90a7a39410ddfdbb8131ff7d1675d99a4d7deb6864525128dc25604",
+    "recipe": {
+      "id": "historical-9ae9cf59965859c5b35394d1",
+      "title": "Perones Encantullados (Candied Apples with Spices)",
+      "description": "Firm apples absorb sugar syrup over three days and finish with clove and cinnamon, without the filled pear recipe’s stuffing.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 3000,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 600,
+          "unit": "g",
+          "name": "firm perón apples, peeled and cored, about four",
+          "substitution": "Use another firm tart cooking apple; avoid varieties that collapse quickly."
+        },
+        {
+          "key": "sugar",
+          "amount": 600,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 600,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "cloves",
+          "amount": 8,
+          "unit": "",
+          "name": "whole cloves",
+          "substitution": "Omit for a milder dish, or use 0.1 g ground cloves per whole clove and leave in the sauce."
+        },
+        {
+          "key": "cinnamon",
+          "amount": 3,
+          "unit": "",
+          "name": "small cinnamon sticks, broken into short pieces",
+          "substitution": "Use 0.75 tsp ground cinnamon, leaving it in the syrup."
+        }
+      ],
+      "steps": [
+        "Dissolve {{sugar}} in {{water}} in a snug saucepan. Add {{apples}} and simmer very gently for 15–25 minutes until just tender but intact, turning carefully.",
+        "Transfer fruit and syrup to shallow containers, cool briefly and refrigerate within 2 hours at 4°C (40°F) or colder. Leave overnight.",
+        "On the next day, heat fruit and syrup gently to a simmer and cook for 10 minutes. Cool and refrigerate overnight again.",
+        "On day 3, add {{cloves}} and {{cinnamon}} to the syrup and simmer gently for 10 minutes. Lift out the apples, remove all whole spices and reduce the syrup for 5–10 minutes if needed. Spoon over the fruit and serve."
+      ],
+      "notes": "Perón is identified by Mexican agricultural sources as an apple variety, correcting the English extraction’s pear label. The missing candied-fruit cross-reference is expanded. Spices infuse the syrup and are removed rather than being left as hard garnish. This modern home adaptation retains three-day absorption but is not a shelf-stable confection. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ SavorShelf measured adaptation. Reference: https://www.gob.mx/cms/uploads/attachment/file/726308/Peron.pdf",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 3000,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-cb84908619e7a91ada8a22e4",
+    "bodySha256": "e7b7cda0f2e043700f9e403a03075dda8216ccc5e26ab0d6f46050570767c78e",
+    "recipe": {
+      "id": "historical-cb84908619e7a91ada8a22e4",
+      "title": "Perones Fritos (Battered Apple Rings)",
+      "description": "Thin apple rings are coated in an egg-yolk batter and fried until crisp for a savory garnish.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "apples",
+          "amount": 3,
+          "unit": "",
+          "name": "firm perón apples",
+          "substitution": "Use three firm tart cooking apples of similar size."
+        },
+        {
+          "key": "flour",
+          "amount": 100,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use 100 g a gluten-free batter blend; texture may differ."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; an egg-free version needs a different thickening method."
+        },
+        {
+          "key": "oil",
+          "amount": 15,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of mild olive oil."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "fryingfat",
+          "amount": 500,
+          "unit": "g",
+          "name": "food-grade lard for frying",
+          "substitution": "Use 550 ml neutral high-heat vegetable oil; do not use butter."
+        }
+      ],
+      "steps": [
+        "Rinse {{apples}}, remove the cores and cut into 5 mm rings. Pat dry.",
+        "Whisk {{flour}}, {{yolks}}, {{oil}}, {{salt}} and {{water}} into a smooth batter that coats a ring lightly. Let stand for 5 minutes.",
+        "Heat {{fryingfat}} in a heavy deep pan to 175°C (347°F), using enough for about 3 cm depth but filling the pan no more than one-third.",
+        "Dip rings in batter and fry in small batches for 2–3 minutes per side until golden and the apples are tender. Maintain the frying temperature between batches. Drain on a rack and serve hot."
+      ],
+      "notes": "Perones are adapted as apples, correcting the extracted pear translation. Two yolks are selected from the source range. Frying fat is a working quantity, largely left in the pan, not a per-serving consumed amount. Batter and frying details are supplied. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ SavorShelf measured adaptation. Reference: https://www.gob.mx/cms/uploads/attachment/file/726308/Peron.pdf",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-ecfdfcfb51ecfc7123c9d41a",
+    "bodySha256": "5ccc597b3944ff0d5df7170d7faf08bc9aa19eff17dc309963756ce2dc42bcb4",
+    "recipe": {
+      "id": "historical-ecfdfcfb51ecfc7123c9d41a",
+      "title": "Coelho Ensopado com Gerumbeba (Rabbit with Cactus Pads)",
+      "description": "Rabbit marinates with tomato, garlic and pepper, then gently braises with tender edible cactus pads.",
+      "category": "Main dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 1560,
+      "ingredients": [
+        {
+          "key": "rabbit",
+          "amount": 1200,
+          "unit": "g",
+          "name": "jointed farm-raised rabbit, bone-in",
+          "substitution": "Use 1200 g bone-in chicken thighs for a different dish; cook chicken to 74°C (165°F)."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce, particularly if using salted stock."
+        },
+        {
+          "key": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "name": "peeled garlic, crushed",
+          "substitution": "Use 6 g garlic paste without added salt."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "tomatoes",
+          "amount": 300,
+          "unit": "g",
+          "name": "ripe tomatoes, chopped",
+          "substitution": "Use 300 g canned chopped tomatoes."
+        },
+        {
+          "key": "fat",
+          "amount": 40,
+          "unit": "g",
+          "name": "food-grade lard",
+          "substitution": "Use 40 g neutral vegetable oil."
+        },
+        {
+          "key": "nopales",
+          "amount": 300,
+          "unit": "g",
+          "name": "food-grade young nopales (edible cactus pads), bought fully de-spined and trimmed",
+          "substitution": "Use the same weight of green beans for a different dish; the cactus texture and flavor will be lost."
+        },
+        {
+          "key": "flour",
+          "amount": 8,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use 8 g a gluten-free flour blend suited to sauces."
+        },
+        {
+          "key": "stock",
+          "amount": 500,
+          "unit": "ml",
+          "name": "unsalted chicken stock",
+          "substitution": "Use 500 ml unsalted vegetable stock or water."
+        }
+      ],
+      "steps": [
+        "Mix {{rabbit}} with {{salt}}, {{garlic}}, {{pepper}} and {{tomatoes}} in a covered nonreactive container. Refrigerate at 4°C (40°F) or colder for 24 hours.",
+        "Lift out the rabbit, retaining the marinade. Heat {{fat}} in a heavy pot and brown the rabbit in batches. Add all the reserved marinade and cook, stirring, for 5 minutes.",
+        "Cut {{nopales}} into 2 cm pieces, add to the pot and stir in {{flour}}. Cook for 2 minutes, then stir in {{stock}}.",
+        "Bring to a simmer, cover and cook gently for 60–90 minutes until the rabbit is tender and reaches at least 71°C (160°F) in the thickest meat, away from bone. Add a little water if needed to prevent drying. Remove any loose bones before serving."
+      ],
+      "notes": "Gerumbeba is interpreted as edible cactus pads in this cookbook, correcting the fruit translation. Commercially cleaned pads replace spine-burning preparation. The missing braise and refrigerator handling are supplied; timing includes the source 24-hour marinade. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Cozinheiro Nacional (1874), author not recorded. https://archive.org/details/cozinheiro-nacional SavorShelf measured adaptation. Reference: https://come-se.blogspot.com/2015/01/jerumbeba-ou-nopal-ou-palma-coluna-do.html Reference: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 1560,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-3f464d1abcb77089fc60e418",
+    "bodySha256": "7af8e69e352fa67277b28ed6424489dee12f4f86703a05b14a5bd5053d9662dd",
+    "recipe": {
+      "id": "historical-3f464d1abcb77089fc60e418",
+      "title": "Gerumbeba Guisada (Cactus Pads with Citrus and Yolk)",
+      "description": "Tender cactus-pad pieces are lightly thickened and finished with parsley and a sour-orange egg-yolk liaison.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "nopales",
+          "amount": 500,
+          "unit": "g",
+          "name": "food-grade young nopales (edible cactus pads), bought fully de-spined and trimmed",
+          "substitution": "Use the same weight of green beans for a different dish; the cactus texture and flavor will be lost."
+        },
+        {
+          "key": "flour",
+          "amount": 15,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "Use 15 g a gluten-free flour blend suited to sauces."
+        },
+        {
+          "key": "fat",
+          "amount": 25,
+          "unit": "g",
+          "name": "food-grade lard",
+          "substitution": "Use 25 g neutral vegetable oil."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Omit for a milder dish."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use 5 g cilantro for a different herbal flavor."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; an egg-free version needs a different thickening method."
+        },
+        {
+          "key": "orange",
+          "amount": 30,
+          "unit": "ml",
+          "name": "sour orange juice",
+          "substitution": "Use 15 ml orange juice mixed with 15 ml lime juice."
+        }
+      ],
+      "steps": [
+        "Cut {{nopales}} into 2 cm pieces and pat dry. Toss with {{flour}}. Heat {{fat}} in a saucepan and sauté the coated pieces for 3–4 minutes, stirring.",
+        "Add {{water}}, {{salt}}, {{pepper}} and {{parsley}}. Simmer gently for 15 minutes, stirring occasionally, until the pads are tender and the liquid lightly thickened.",
+        "Whisk {{yolks}} with {{orange}} in a bowl. Gradually whisk in several spoonfuls of hot sauce, then return to the pan.",
+        "Stir over low heat until the sauce reaches 71°C (160°F), without boiling. Serve immediately."
+      ],
+      "notes": "The mistranslated fruit is corrected to edible cactus pads. Fully de-spined commercial pads replace open-flame spine removal. All missing quantities and controlled egg heating are supplied. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "Cozinheiro Nacional (1874), author not recorded. https://archive.org/details/cozinheiro-nacional SavorShelf measured adaptation. Reference: https://come-se.blogspot.com/2015/01/jerumbeba-ou-nopal-ou-palma-coluna-do.html Reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-662b6ec5cac2b0896de3c16c",
+    "bodySha256": "980a553913b8fa8c766f8561bd9bbf9073aa112ebd909f888cafd1634f244d38",
+    "recipe": {
+      "id": "historical-662b6ec5cac2b0896de3c16c",
+      "title": "Two-Texture Pear Compote",
+      "description": "Whole pears are served beneath a lemon syrup thickened with a second portion of cooked pear pieces.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 75,
+      "ingredients": [
+        {
+          "key": "whole",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "chopped",
+          "amount": 3,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "sugar",
+          "amount": 454,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "water",
+          "amount": 240,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        },
+        {
+          "key": "lemon",
+          "amount": 30,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use the same volume of lime juice for a different flavor."
+        }
+      ],
+      "steps": [
+        "Peel {{whole}} and scoop out the cores and seeds from the base, keeping these pears whole. Peel {{chopped}}, remove all cores and seeds and cut into small pieces.",
+        "Heat {{sugar}}, {{water}} and {{lemon}} in a snug saucepan until dissolved. Add the chopped pears and simmer for 10 minutes.",
+        "Add the whole pears and simmer gently, covered, for 25–45 minutes until tender, turning and basting carefully. Add small splashes of water if needed. Lift the whole pears onto a dish.",
+        "Mash the pear pieces into their syrup, or press through a sieve. Simmer for a few minutes until lightly thickened, then spoon over the whole pears and serve."
+      ],
+      "notes": "Seven source pears are interpreted as four whole and three for the coating, resolving the inconsistent instruction to chop four or five and still use whole pears. Starting water is increased to 240 ml from the conflicting quarter/half-cup amounts. Yield is four whole-pear portions; these choices are modern adaptations. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 75,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-a0d201246851b504a8dc21e4",
+    "bodySha256": "e4909b879b4beba3ac5f9c5d1a932f104c9fec87bdba0335fcba0db6fd731a7d",
+    "recipe": {
+      "id": "historical-a0d201246851b504a8dc21e4",
+      "title": "Sautéed Pears with Chilled Chocolate-Caramel Sauce",
+      "description": "Browned pear quarters are paired with a chilled chocolate sauce enriched with cream and a butter-caramel finish.",
+      "category": "Desserts",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 125,
+      "ingredients": [
+        {
+          "key": "pears",
+          "amount": 4,
+          "unit": "",
+          "name": "medium firm pears, about 170 g each",
+          "substitution": "Use firm pears of similar size; dessert pears soften sooner than hard winter cooking varieties. Check tenderness rather than relying only on time."
+        },
+        {
+          "key": "butter",
+          "amount": 20,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "chocolate",
+          "amount": 57,
+          "unit": "g",
+          "name": "sweet eating chocolate, chopped",
+          "substitution": "Use 57 g semisweet chocolate for a darker, less sweet sauce."
+        },
+        {
+          "key": "sugar",
+          "amount": 13,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor and texture differ."
+        },
+        {
+          "key": "arrowroot",
+          "amount": 3,
+          "unit": "g",
+          "name": "arrowroot starch",
+          "substitution": "Use 3 g cornstarch; simmer for 1 minute to cook it."
+        },
+        {
+          "key": "cream",
+          "amount": 60,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of a plant-based cream suited to the stated use."
+        },
+        {
+          "key": "salt",
+          "amount": 0.2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Omit if using salted butter."
+        },
+        {
+          "key": "caramelbutter",
+          "amount": 21,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "caramelsugar",
+          "amount": 30,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Reduce for a less sweet result; this is not a shelf-stable preserve."
+        },
+        {
+          "key": "vanilla",
+          "amount": 2.5,
+          "unit": "ml",
+          "name": "vanilla extract",
+          "substitution": "Use 1 g vanilla paste, or omit."
+        },
+        {
+          "key": "caramelwater",
+          "amount": 15,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of unsweetened pear juice in a fruit dish for a sweeter flavor."
+        }
+      ],
+      "steps": [
+        "Combine {{chocolate}}, {{sugar}} and {{milk}} in a heatproof bowl over barely simmering water, keeping the bowl above the water. Stir until melted and smooth, about 5 minutes.",
+        "Mix {{arrowroot}} with {{cream}} and whisk into the warm chocolate mixture with {{salt}}. Continue heating and stirring for 5–10 minutes until lightly thickened.",
+        "In a small light-colored saucepan, heat {{caramelsugar}} with {{caramelwater}} until the sugar dissolves. Stop stirring and cook until golden amber. Remove from the heat and carefully whisk in {{caramelbutter}}; the mixture will bubble.",
+        "Carefully whisk the warm chocolate mixture into the caramel a little at a time; it may bubble. Stir in {{vanilla}}, pour into a shallow container, cool briefly and refrigerate for at least 1 hour.",
+        "Just before serving, peel {{pears}}, quarter and remove cores. Melt {{butter}} in a skillet and sauté the quarters for 8–12 minutes, turning, until golden and tender. Serve with the chilled sauce."
+      ],
+      "notes": "Separate cooking and caramel butter quantities are supplied. Modern 300 ml milk and 60 ml cream replace source cups. Granulated sugar replaces powdered sugar in the caramel for more predictable browning; the chocolate, arrowroot and chilled-sauce character remain. Missing amounts, oven settings, yields and timings are explicit modern adaptation estimates, not exact historical conversions. Not kitchen-tested. Scaling changes quantities, not cooking time or temperature. Refrigerate in shallow containers within 2 hours at 4°C (40°F) or colder; this is not a canning recipe. The caramel sugar is cooked with a little water before the butter is added, replacing the less controlled source simultaneous butter-and-sugar browning.",
+      "source": "The Boston Cooking-School Cook Book (1896), Fannie Merritt Farmer. https://www.gutenberg.org/ebooks/65061 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 125,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T17:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]

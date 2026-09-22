@@ -148,5 +148,59 @@
     "canonicalId": "historical-ac06c3eadccf3078be9086f2",
     "bodySha256": "45742d187dc725bcb5f41928937e6e94fdbbb26dacdc9a21e11524c4a21b5505",
     "reason": "Full ingredients and methods compared: equivalent apple compote formulation. Both sources retained; softer skin-on presentation remains a named variation where relevant."
+  },
+  {
+    "id": "historical-0094e81f8067e2183fd2f080",
+    "canonicalId": "historical-6dbf1c7aa4b6004cc3bfbd38",
+    "bodySha256": "9dc29a52130426f2b4fb79b359eb98850621130fad84f3b5c7a5f59ce75824e4",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-e63157bfd6a52908036c85e3",
+    "canonicalId": "historical-9aef2d2ba3e4e7ee9208ef50",
+    "bodySha256": "02f20aa66221205310f8433dcaa047d1e85db634d5ee29b5e90057cfba2fc495",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-2069abe0af9d8a1a15c2c80a",
+    "canonicalId": "historical-f6eefd602cae2e8e252d4b24",
+    "bodySha256": "885b099ae62fe1e17d86898ca92c89441026ce4d88edf928b31bdd380677ed8c",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-f6a846e9eb9fc3c386d19bdd",
+    "canonicalId": "historical-647feb5df6d77286edfdd7f1",
+    "bodySha256": "167275f3ea33885579aef9966eb8036f86b3da4a9ac280610d6306c1501e0362",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-cb6ea4b83411e657dcba0e72",
+    "canonicalId": "historical-501dfd4f23fdae3541ab3c23",
+    "bodySha256": "c306954868c353f56e92f57afa1ddc651bf3c49211dc808e4d5312d47830d604",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-80123e392934e56ea9737cf1",
+    "canonicalId": "historical-26bdb5d73c0cc0f51a144bea",
+    "bodySha256": "3258aa4d009c2283bda369f7d8e97535c4da25d6a6fd5b7fa985b1cb63815361",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-3ba6ce55c910fb6c8f4c6099",
+    "canonicalId": "historical-0169e94280e85d28e6d48187",
+    "bodySha256": "42c569fbb103e5c440aba498d7f72998bbac456c481414b867ddc151551d8092",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-7c77303ee62200815023b31f",
+    "canonicalId": "historical-e87aef2088003c78df49574f",
+    "bodySha256": "a3b747a2b392a5e83f479516e0fd91cf1e531ed4c3a8857c81eb2f6aa073e301",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-a1ecb61a6348f52e91a3ac04",
+    "canonicalId": "historical-83fddb7be47353fc161e3533",
+    "bodySha256": "6f36ed98b07b9a7fbbecea9753d73e6cbe0df8740ce6bf2fd10f632bb84aa7d1",
+    "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
   }
 ]
