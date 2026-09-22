@@ -29373,5 +29373,633 @@
       "updatedAt": "2026-09-22T20:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-bf9836e0cd03e1a918c4319d",
+    "bodySha256": "14feeff2312b060237775cd419ddda0e2c0c2b85b740a75f55e9d0be0af59a5c",
+    "recipe": {
+      "id": "historical-bf9836e0cd03e1a918c4319d",
+      "title": "Creole Shallot Vinaigrette",
+      "description": "Finely chopped shallots and parsley make a chunky, sharp vinaigrette for vegetables, cold meat or fish.",
+      "category": "Condiments",
+      "servings": 12,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "shallots",
+          "amount": 120,
+          "unit": "g",
+          "name": "small tender shallots, peeled and trimmed",
+          "substitution": "Use the same weight of trimmed young green onions, including tender white and pale-green parts, for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 75,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "parsley",
+          "amount": 6,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Chop {{shallots}} very finely. Whisk {{vinegar}}, {{salt}} and {{pepper}} in a bowl until the salt dissolves.",
+        "Gradually whisk in {{oil}}, then stir in the chopped shallots and {{parsley}}. The result is a chunky sauce, not a smooth dressing.",
+        "Spoon a small portion over each serving, stirring so the shallots and oil are distributed evenly.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The original scan really says twelve shallots. This adaptation uses 120 g small tender shallots, an explicit modern weight rather than a claim that twelve modern large bulbs weigh that amount. The source vinegar, oil and parsley proportions are retained. The cold Ravigote reference is expanded as fine chopping and mixing; no unstated extra herbs are added. Yield is approximately 230–250 ml, depending on the chopped shallots. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-09cadb4241b1054b72343338",
+    "bodySha256": "c49a7de97e12b716b0414bb75dec9d34cc6675dc91630aeff28d30a0a643ac82",
+    "recipe": {
+      "id": "historical-09cadb4241b1054b72343338",
+      "title": "Guatemalan Parsley and Mustard Vinaigrette",
+      "description": "Ground parsley and mustard powder make a pungent green dressing with oil and vinegar.",
+      "category": "Condiments",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "name": "fresh parsley leaves and tender stems",
+          "substitution": "Use the same weight of cilantro for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 2,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use 10 ml prepared Dijon mustard for a milder, tangier adaptation."
+        },
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        }
+      ],
+      "steps": [
+        "Wash {{parsley}}, dry well and grind to a paste in a mortar, or chop very finely and crush with the flat side of a knife.",
+        "Mix {{mustard}} and {{vinegar}} in a small bowl until smooth. Stand for 5 minutes to hydrate the mustard powder.",
+        "Stir in the parsley paste and {{salt}}, then gradually whisk in {{oil}}. Serve in small amounts alongside cooked meat or vegetables.",
+        "Use promptly, or cover and refrigerate at 4°C (40°F) or colder for up to 3 days. Whisk again before serving; oil and vinegar naturally separate. This is a fresh dressing, not a shelf-stable preserve."
+      ],
+      "notes": "The source gives two undefined spoonfuls mustard powder and three spoonfuls oil, with no parsley or vinegar quantity. The modern choice is two teaspoons powder, three tablespoons oil, 15 ml vinegar and 10 g parsley. These are supplied quantities, not recovered historical spoon conversions. The dressing is intentionally pungent. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Consejos prácticos sobre cocina, pastelería y repostería al estilo del país (1922), author not recorded. https://archive.org/details/consejosprcti00lpezguate SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-fcca2ff40c75a82faceac789",
+    "bodySha256": "9db367600eb109b53b28af2acbb7d2878b6bf20b58152b65b76cf556be6a2ea8",
+    "recipe": {
+      "id": "historical-fcca2ff40c75a82faceac789",
+      "title": "Chilled Asparagus with Mustard Vinaigrette",
+      "description": "Tender asparagus is dressed while warm with mustard vinaigrette, then chilled until the flavors mingle.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 150,
+      "ingredients": [
+        {
+          "key": "asparagus",
+          "amount": 500,
+          "unit": "g",
+          "name": "fresh asparagus, tough bases snapped off",
+          "substitution": "Use the same weight of trimmed green beans; boil until tender, usually 6–10 minutes."
+        },
+        {
+          "key": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use enough drinking water to keep the vegetables covered while boiling."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt for the cooking water",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "prepared Dijon mustard",
+          "substitution": "Use the same amount of prepared yellow mustard."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild dressing."
+        },
+        {
+          "key": "sugar",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "granulated sugar",
+          "substitution": "Use the same amount of caster sugar."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} and {{boilsalt}} to a boil in a wide pan. Add {{asparagus}} and simmer for 3–7 minutes, depending on thickness, until tender when pierced but still intact. Drain well.",
+        "While the asparagus cooks, whisk {{vinegar}}, {{mustard}}, {{salt}}, {{cayenne}} and {{sugar}} until smooth, then gradually whisk in {{oil}}.",
+        "Put the warm drained asparagus in a shallow dish and spoon the dressing over it. Turn gently to coat. Let steam escape briefly, then cover and refrigerate promptly, within 2 hours of cooking.",
+        "Chill for about 2 hours at 4°C (40°F) or colder before serving. Turn gently once while chilling. Serve cold with the dressing from the dish. Refrigerate leftovers and use within 3 days."
+      ],
+      "notes": "The missing asparagus weight and complete boiling method are supplied. The source three tablespoons oil, tablespoon vinegar and teaspoon mustard are retained. One saltspoon sugar becomes a modern quarter teaspoon. The warm dressing and cold serving sequence is retained, with prompt refrigeration replacing an unspecified room-temperature wait. Total time includes chilling. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Canadian Family Cook Book (1914), Grace E. Denison. https://archive.org/details/canadianfamilyco00deni_0 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 150,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-c95e50483a8a3b7967b92fef",
+    "bodySha256": "0d2263ec344c7852f0da7d1ddbe53dcecba84ead743427568751fd322ca6ffb6",
+    "recipe": {
+      "id": "historical-c95e50483a8a3b7967b92fef",
+      "title": "Artichokes with Cooked-Yolk Shallot Vinaigrette",
+      "description": "Tender whole artichokes are served with a small bowl of thick olive-oil, shallot and cooked-yolk vinaigrette.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "artichokes",
+          "amount": 6,
+          "unit": "",
+          "name": "small young globe artichokes, about 150 g each",
+          "substitution": "Use six similar small globe artichokes; larger ones need more cooking time and more sauce."
+        },
+        {
+          "key": "water",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use enough drinking water to keep the vegetables covered while boiling."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 10,
+          "unit": "g",
+          "name": "fine salt for the artichoke water",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "egg",
+          "amount": 1,
+          "unit": "",
+          "name": "large egg",
+          "substitution": "Use a large pasteurized shell egg if preferred; cook it fully."
+        },
+        {
+          "key": "eggwater",
+          "amount": 750,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use enough drinking water to keep the vegetables covered while boiling."
+        },
+        {
+          "key": "vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "shallots",
+          "amount": 15,
+          "unit": "g",
+          "name": "small tender shallots, peeled and trimmed",
+          "substitution": "Use the same weight of trimmed young green onions, including tender white and pale-green parts, for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 45,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Trim the stems of {{artichokes}} so they stand upright. Pull away tough outer leaves, cut about 2 cm off the top and snip sharp points from remaining outer leaves. Rinse between the leaves.",
+        "Bring {{water}} and {{boilsalt}} to a boil in a deep pot. Add the artichokes, adding more hot water if needed to cover them. Cover and simmer for 25–45 minutes, or until an outer leaf pulls out easily and the base is tender when pierced. Lift out and drain upside down. Large or less tender artichokes may need longer.",
+        "While the artichokes cook, put {{egg}} in a small pan with {{eggwater}}, adding more water if needed to cover by about 2 cm. Bring to a boil, cover, remove from heat and stand for 12 minutes. Cool under cold running water, peel and cut open. The yolk must be firm throughout. Reserve the cooked white in the refrigerator for another dish.",
+        "Mash the cooked yolk with {{vinegar}}, {{salt}} and {{pepper}} until smooth. Chop {{shallots}} very finely and stir in, then gradually whisk in {{oil}}.",
+        "Serve the warm artichokes with the sauce on the side. Pull off one leaf at a time, dip the fleshy base in sauce and scrape off the soft flesh with your teeth; discard the fibrous leaf. When the inner leaves are reached, lift them out and scrape away every part of the fuzzy choke with a spoon. Eat the tender heart beneath it, not the choke.",
+        "Refrigerate leftover artichokes and dressing separately within 2 hours at 4°C (40°F) or colder, and use within 3 days."
+      ],
+      "notes": "The original page conflicts with itself: the list gives butter and two tablespoons vinegar, while the method gives olive oil and two teaspoons vinegar. This adaptation explicitly follows the method: 45 ml olive oil and 10 ml vinegar. Six young artichokes come from the full original recipe; 15 g shallot and seasonings are supplied. The full boiling cross-reference, cooked egg method and choke removal are included. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-d218ea88647bf4bee341d5c1",
+    "bodySha256": "cc0e896f7113118b12320018bce1b85665b5f3ca8819c677e8b99eb6b430c70d",
+    "recipe": {
+      "id": "historical-d218ea88647bf4bee341d5c1",
+      "title": "Chilled Canned Asparagus with Creole Vinaigrette",
+      "description": "Ready-cooked asparagus is gently warmed, drained and chilled, then served with a generous chunky shallot-and-parsley vinaigrette.",
+      "category": "Side dishes",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 90,
+      "ingredients": [
+        {
+          "key": "asparagus",
+          "amount": 400,
+          "unit": "g",
+          "name": "drained canned asparagus spears",
+          "substitution": "Use the same drained weight of jarred cooked asparagus."
+        },
+        {
+          "key": "water",
+          "amount": 250,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use enough drinking water to keep the vegetables covered while boiling."
+        },
+        {
+          "key": "shallots",
+          "amount": 120,
+          "unit": "g",
+          "name": "small tender shallots, peeled and trimmed",
+          "substitution": "Use the same weight of trimmed young green onions, including tender white and pale-green parts, for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 75,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "parsley",
+          "amount": 6,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Put {{asparagus}} in a wide pan with {{water}}. Warm gently for 2–3 minutes until heated through without boiling vigorously; the canned asparagus is already cooked. Drain well and spread in a shallow dish.",
+        "Let excess steam escape briefly, then cover and refrigerate promptly. Chill for about 1 hour at 4°C (40°F) or colder.",
+        "Chop {{shallots}} very finely. Whisk {{vinegar}}, {{salt}} and {{pepper}} in a bowl until the salt dissolves.",
+        "Gradually whisk in {{oil}}, then stir in the chopped shallots and {{parsley}}. The result is a chunky sauce, not a smooth dressing.",
+        "Serve the cold asparagus with the vinaigrette in a separate bowl, allowing diners to spoon it over the spears. This batch makes approximately 230–250 ml sauce, a generous quantity for four portions.",
+        "Refrigerate leftovers within 2 hours at 4°C (40°F) or colder and use within 3 days."
+      ],
+      "notes": "The original scan really says twelve shallots. This adaptation uses 120 g small tender shallots, an explicit modern weight rather than a claim that twelve modern large bulbs weigh that amount. The source vinegar, oil and parsley proportions are retained. The cold Ravigote reference is expanded as fine chopping and mixing; no unstated extra herbs are added. The original boiling cross-reference explicitly says canned asparagus is already cooked and only needs heating. A modern drained can weight of 400 g is supplied. The complete sauce batch approximates the source half-pint quantity; it is served separately because it is generous. Total time includes chilling. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 90,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b77e750c943aec1255246c0a",
+    "bodySha256": "4cd7519c469a5c367835df4af921905504a5134dc2d1504df60f5d86b7602e52",
+    "recipe": {
+      "id": "historical-b77e750c943aec1255246c0a",
+      "title": "Green Beans with Creole Vinaigrette",
+      "description": "Boiled green beans are dressed with chopped shallots and parsley, then garnished with lemon slices and gherkin fans.",
+      "category": "Side dishes",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 35,
+      "ingredients": [
+        {
+          "key": "beans",
+          "amount": 750,
+          "unit": "g",
+          "name": "fresh green beans, stalk ends trimmed",
+          "substitution": "Use the same weight of yellow wax beans; cook until tender."
+        },
+        {
+          "key": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use enough drinking water to keep the vegetables covered while boiling."
+        },
+        {
+          "key": "boilsalt",
+          "amount": 8,
+          "unit": "g",
+          "name": "fine salt for the bean water",
+          "substitution": "Reduce or omit."
+        },
+        {
+          "key": "shallots",
+          "amount": 120,
+          "unit": "g",
+          "name": "small tender shallots, peeled and trimmed",
+          "substitution": "Use the same weight of trimmed young green onions, including tender white and pale-green parts, for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 75,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        },
+        {
+          "key": "parsley",
+          "amount": 6,
+          "unit": "tsp",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same amount of finely chopped chives."
+        },
+        {
+          "key": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "lemon",
+          "amount": 1,
+          "unit": "",
+          "name": "small lemon, washed",
+          "substitution": "Use one small lime for a different flavor."
+        },
+        {
+          "key": "garnishparsley",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "fresh parsley, finely chopped for garnish",
+          "substitution": "Use the same amount of chopped chives."
+        },
+        {
+          "key": "gherkins",
+          "amount": 6,
+          "unit": "",
+          "name": "small pickled gherkins, drained",
+          "substitution": "Use six cornichons."
+        }
+      ],
+      "steps": [
+        "Bring {{water}} and {{boilsalt}} to a boil in a large pot. Add {{beans}}, returning to a gentle boil, and cook for 6–10 minutes until tender. Drain thoroughly.",
+        "Chop {{shallots}} very finely. Whisk {{vinegar}}, {{salt}} and {{pepper}} in a bowl until the salt dissolves.",
+        "Gradually whisk in {{oil}}, then stir in the chopped shallots and {{parsley}}. The result is a chunky sauce, not a smooth dressing.",
+        "Toss the warm drained beans with the vinaigrette and arrange in a shallow serving dish.",
+        "Cut {{lemon}} into six thin slices, removing any seeds, and cut any remaining lemon into wedges. Put {{garnishparsley}} on a small plate and press one edge of each lemon slice into it. Make several lengthwise cuts in {{gherkins}}, keeping one end joined, then spread the cuts gently into fans.",
+        "Arrange the lemon and gherkins around the beans and serve. Refrigerate leftovers within 2 hours at 4°C (40°F) or colder and use within 3 days."
+      ],
+      "notes": "The original scan really says twelve shallots. This adaptation uses 120 g small tender shallots, an explicit modern weight rather than a claim that twelve modern large bulbs weigh that amount. The source vinegar, oil and parsley proportions are retained. The cold Ravigote reference is expanded as fine chopping and mixing; no unstated extra herbs are added. Two source quarts of beans become an explicitly estimated modern 750 g; this is not a verified volume-to-weight conversion. The butter-sauce reference supplies the boiling method only: butter is not added to this vinaigrette dish. The lemon, parsley and gherkin garnish is retained with supplied quantities. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The Picayune's Creole Cook Book (1910), author not recorded. https://archive.org/details/cu31924073878708 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 35,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-62fb93178917337b99c4404f",
+    "bodySha256": "de1d9097489ab7b6a62efa0f3ea47e4f6d104d037d8a0b7b402f13253934d7ab",
+    "recipe": {
+      "id": "historical-62fb93178917337b99c4404f",
+      "title": "Tomato and Lettuce Salad with Sweet French Dressing",
+      "description": "Thinly sliced ripe tomatoes rest on lettuce and are dressed just before serving with a lightly sweet paprika vinaigrette.",
+      "category": "Salads",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 15,
+      "ingredients": [
+        {
+          "key": "tomatoes",
+          "amount": 900,
+          "unit": "g",
+          "name": "firm ripe red tomatoes, about six medium",
+          "substitution": "Use the same weight of mixed ripe tomatoes; slice larger ones and halve small ones."
+        },
+        {
+          "key": "lettuce",
+          "amount": 100,
+          "unit": "g",
+          "name": "lettuce leaves",
+          "substitution": "Use the same weight of romaine leaves."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "granulated sugar",
+          "substitution": "Use the same amount of caster sugar."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the same amount of smoked paprika for a different flavor."
+        },
+        {
+          "key": "vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "oil",
+          "amount": 60,
+          "unit": "ml",
+          "name": "olive oil",
+          "substitution": "Use the same volume of a mild sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Wash {{tomatoes}} and pat dry. Remove their cores and slice thinly with a sharp knife. Wash {{lettuce}}, dry well and line a serving bowl or platter with the leaves. Arrange the tomatoes over them.",
+        "Whisk {{vinegar}}, {{salt}}, {{pepper}}, {{sugar}} and {{paprika}} in a small bowl until the salt and sugar dissolve. Gradually whisk in {{oil}} until blended.",
+        "Just before serving, spoon the dressing over the tomatoes and lettuce. Serve immediately so the lettuce stays crisp. Refrigerate any leftovers within 2 hours at 4°C (40°F) or colder and use within 1 day; the salad will soften."
+      ],
+      "notes": "The full French dressing component comes from the same Greenbaum book: four tablespoons oil, two vinegar, a teaspoon sugar, half-teaspoon salt, quarter-teaspoon pepper and a dash of paprika. Tomato and lettuce weights are supplied. Salt and pepper are included once in the dressing instead of adding a second unmeasured seasoning to the tomatoes. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "The International Jewish Cook Book (1918), Florence Kreisler Greenbaum. https://archive.org/details/cu31924003580952 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 15,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]

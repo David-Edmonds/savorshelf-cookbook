@@ -1,3 +1,7 @@
+# Recipe content batch 019 — September 22, 2026
+
+Seven complete adaptations supply dressed asparagus, whole artichokes, green beans, tomato salad, Guatemalan mustard-parsley vinaigrette and Creole shallot vinaigrette. All vegetable preparation and sauce components are self-contained. Original-page conflicts are explicitly resolved as modern choices, with twelve small shallots distinguished from twelve large bulbs and the canned asparagus cooking reference restored. Totals: 40,835 imported recipes, 378 completed adaptations, 40,457 remaining content repairs and 42,287 visible recipes. No new duplicate merge. The full collection remains unfinished; kitchen and physical-phone testing remain unverified. No Android, portfolio, personal-data or automation changes.
+
 # Recipe content batch 018 — September 22, 2026
 
 Thirteen measured dressing adaptations and one duplicate consolidation resolve fourteen source entries. Original scans correct the Finnish-American green-pepper and black-pepper fractions. Complete lemon, onion and Roquefort variations, a cooked-yolk method, and properly identified small pickled hot peppers are included. Totals: 40,835 imported recipes, 371 completed adaptations, 40,464 remaining content repairs and 42,287 visible recipes. Modern choices are disclosed; these recipes are not kitchen-tested. The full collection remains unfinished. Saved IDs and credits are retained; no Android, portfolio, personal-data or automation changes.
