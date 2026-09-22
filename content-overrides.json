@@ -11372,5 +11372,1402 @@
       "updatedAt": "2026-09-22T17:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-94a0b583751c69e21b3c3f0e",
+    "bodySha256": "2ae8ed733e5a3f3889237cbae7fbf6e9d84d0409e885090ad68e5f68468c7384",
+    "recipe": {
+      "id": "historical-94a0b583751c69e21b3c3f0e",
+      "title": "Carrot Soup with Light Bone Stock",
+      "description": "A light, thin carrot soup with a little butter and sugar, simmered slowly and passed through a sieve.",
+      "category": "Soups",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 80,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Omit for a less sweet soup."
+        },
+        {
+          "key": "salt",
+          "amount": 5,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "stock",
+          "amount": 3000,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        }
+      ],
+      "steps": [
+        "Slice {{carrot}} thinly. Melt {{butter}} in a large saucepan, add the carrots, {{sugar}}, {{salt}} and {{pepper}}, and stir over medium-low heat for 5 minutes without browning.",
+        "Add {{stock}}, bring to a simmer and cook gently for 1 hour, partly covered, until the carrots are very tender.",
+        "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+        "Return to a gentle boil, stir well and serve. This is a thin stock-based soup, not a thick carrot purée."
+      ],
+      "notes": "Six carrots become 600 g prepared carrot. The source three quarts is standardized to a modern 3 L batch, not claimed as an exact historical quart conversion. Its light stock-to-carrot ratio is retained. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Art of Living in Australia (1893), Philip E. Muskett. https://archive.org/details/artoflivinginaus00muskiala SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 80,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-7ed3fa5b6b7169959c26d0b3",
+    "bodySha256": "cf91d8b2c693774f0a403448b67eb4199da9f113b2c6e5b658eec2f2fed0b1cb",
+    "recipe": {
+      "id": "historical-7ed3fa5b6b7169959c26d0b3",
+      "title": "Sieved Carrot Soup with Fried Bread",
+      "description": "Smooth carrot pulp is stirred into stock with cayenne and served with crisp fried bread squares.",
+      "category": "Soups",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 350,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "stock",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "salt",
+          "amount": 2,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a milder soup."
+        },
+        {
+          "key": "bread",
+          "amount": 80,
+          "unit": "g",
+          "name": "plain bread",
+          "substitution": "Use the same weight of gluten-free bread suitable for toasting."
+        },
+        {
+          "key": "oil",
+          "amount": 20,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Slice {{carrot}} into 1 cm rounds. Bring {{water}} to a boil in a saucepan, add the carrots and simmer for 20–30 minutes until very soft. Drain well.",
+        "Press all the cooked carrots through a sieve, retaining the pulp for the soup.",
+        "Gradually whisk {{stock}} into the pulp with {{salt}} and {{cayenne}}. Bring to a gentle simmer and cook for 5 minutes.",
+        "Cut {{bread}} into 1 cm cubes. Heat {{oil}} in a skillet and fry the cubes for 4–6 minutes, turning often, until crisp and golden. Drain on a rack and serve alongside the hot soup."
+      ],
+      "notes": "The carrot count and weighed pulp describe the same ingredient, not two additions. The modern recipe uses the whole peeled carrot instead of discarding the core. The modern 350 g prepared raw carrot replaces the source 12–13 ounces of cooked outer-flesh pulp; this is a disclosed practical adjustment, not an exact yield equivalence. The quart becomes 1 L and the missing fried-bread component is supplied. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Canadian Family Cook Book (1914), Grace E. Denison. https://archive.org/details/canadianfamilyco00deni_0 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-f12d3f03ad6befe5bed9cfee",
+    "bodySha256": "ac37436c642e18194f8da761ab5f74285922d11f5ed1f36ebf640191eb46e79b",
+    "recipe": {
+      "id": "historical-f12d3f03ad6befe5bed9cfee",
+      "title": "Cream of Grated Carrot Soup",
+      "description": "Finely grated carrots simmer with onion and bay before milk and a little starch create a light creamy soup.",
+      "category": "Soups",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 300,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "water",
+          "amount": 500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "onion",
+          "amount": 20,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "bay",
+          "amount": 1,
+          "unit": "",
+          "name": "dried bay leaf",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "milk",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of unsweetened soy milk; flavor differs."
+        },
+        {
+          "key": "starch",
+          "amount": 8,
+          "unit": "g",
+          "name": "cornstarch",
+          "substitution": "Use 8 g potato starch and avoid prolonged boiling."
+        },
+        {
+          "key": "slurry",
+          "amount": 30,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        }
+      ],
+      "steps": [
+        "Finely grate {{carrot}}. Put in a saucepan with {{water}}, {{onion}} kept as one thick slice and {{bay}}. Cover and simmer for 30 minutes until tender.",
+        "Lift out and discard the onion slice and bay leaf. Stir in {{milk}} and heat gently until steaming.",
+        "Mix {{starch}} with {{slurry}} until smooth. Stir into the soup with {{salt}} and {{pepper}}. Bring to a gentle simmer and stir for 1 minute until lightly thickened.",
+        "Stir in {{butter}} immediately before serving."
+      ],
+      "notes": "Three carrots become 300 g; the source pint and quart become modern 500 ml and 1 L quantities. The missing slurry water is explicit. Grated texture is retained rather than turning this into a different blended soup. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-30e75f40b63a90deffdd6591",
+    "bodySha256": "694b505ed9d2f05343927f6ee4b6e410fd791fd7559f723357ec58721c3a46d3",
+    "recipe": {
+      "id": "historical-30e75f40b63a90deffdd6591",
+      "title": "Sopa de Zanahorias with Fried Pastry and Chayote",
+      "description": "Carrots, chayote, peas and cheese are layered with small fried yolk pastries, then moistened with hot broth.",
+      "category": "Soups",
+      "servings": 4,
+      "yieldUnit": "servings",
+      "minutes": 65,
+      "ingredients": [
+        {
+          "key": "flour",
+          "amount": 113,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "yolks",
+          "amount": 3,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+        },
+        {
+          "key": "water",
+          "amount": 20,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "fryoil",
+          "amount": 350,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        },
+        {
+          "key": "carrot",
+          "amount": 250,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "chayote",
+          "amount": 200,
+          "unit": "g",
+          "name": "young chayote, peeled and seed removed",
+          "substitution": "Use 200 g zucchini; simmer only 4–6 minutes until tender."
+        },
+        {
+          "key": "peas",
+          "amount": 100,
+          "unit": "g",
+          "name": "frozen green peas",
+          "substitution": "Use the same weight of fresh shelled peas and cook until tender."
+        },
+        {
+          "key": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "cheese",
+          "amount": 50,
+          "unit": "g",
+          "name": "grated mild firm cheese",
+          "substitution": "Use the same weight of a firm dairy-free cheese that suits your needs, or omit."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley, finely chopped",
+          "substitution": "Use the same weight of cilantro for a different flavor."
+        }
+      ],
+      "steps": [
+        "Mix {{flour}}, {{yolks}}, {{salt}} and softened {{butter}}. Add {{water}} a little at a time, only as needed to make a firm pliable dough. Knead for 15 minutes, cover and rest for 15 minutes.",
+        "Meanwhile, cut {{carrot}} and {{chayote}} into 1 cm cubes. Bring {{stock}} to a simmer, add both vegetables and cook for 12–18 minutes until tender. Add {{peas}} for the final 3–5 minutes. Lift out the vegetables with a slotted spoon, keeping the broth hot.",
+        "Roll the rested dough about 2 mm thick between sheets of baking parchment and cut into small 3 cm shapes.",
+        "Put {{fryoil}} in a heavy narrow saucepan, no more than one-third full. Heat to 175°C (347°F). Fry the pastry in small batches for 2–3 minutes, turning, until golden and cooked through. Drain on a rack. Do not leave hot oil unattended.",
+        "Divide half the fried pastry among heatproof serving bowls. Layer with {{cheese}}, the cooked carrot and chayote, then the remaining pastry and peas.",
+        "Bring the reserved broth back to a simmer, stir in {{pepper}} and {{parsley}}, and ladle over the layers. Serve immediately while some pastry remains crisp."
+      ],
+      "notes": "The source fried pastry and layered presentation are retained. Vegetable, stock, cheese and frying amounts are supplied; oil replaces the source frying lard. The 350 ml oil is a cooking medium, not all consumed. Water is a maximum dough allowance; yolk size and flour absorption vary. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Consejos prácticos sobre cocina, pastelería y repostería al estilo del país (1922), author not recorded. https://archive.org/details/consejosprcti00lpezguate SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 65,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-b4af167cc1d44ee4cd95e461",
+    "bodySha256": "2570534578e98186bc0057e227da73d82c7da758b186eb7b0ff6289a9803509c",
+    "recipe": {
+      "id": "historical-b4af167cc1d44ee4cd95e461",
+      "title": "Sopa de Sustancia de Zanahoria (Carrot Essence Soup)",
+      "description": "Carrots slowly simmer in broth with a little lard and sugar, producing a light strained soup poured over toast.",
+      "category": "Soups",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 150,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 800,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "lard",
+          "amount": 30,
+          "unit": "g",
+          "name": "food-grade lard",
+          "substitution": "Use 30 g unsalted butter or neutral vegetable oil."
+        },
+        {
+          "key": "stock",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Omit for a less sweet soup."
+        },
+        {
+          "key": "bread",
+          "amount": 120,
+          "unit": "g",
+          "name": "plain bread",
+          "substitution": "Use the same weight of gluten-free bread suitable for toasting."
+        }
+      ],
+      "steps": [
+        "Chop {{carrot}} finely. Heat {{lard}} in a large saucepan and sauté the carrots for 5 minutes, stirring.",
+        "Add {{stock}} and {{sugar}}. Cover loosely and simmer very gently for at least 2 hours until the carrots are falling apart. Add small splashes of water if evaporation exposes the carrots.",
+        "Strain through a fine sieve, pressing gently to extract liquid but leaving most solids behind. Reserve the carrot solids for another use. Return the strained soup to a saucepan and bring to a gentle boil; skim any foam. It should remain thin.",
+        "Toast {{bread}} until crisp, cut into pieces and divide among heatproof bowls. Pour the hot soup over the toast and serve."
+      ],
+      "notes": "A smaller eight-carrot equivalent batch replaces the source 30–40 carrots. The undefined quarter of lard and broth quantity become explicit modern amounts. Straining with most pulp held back is a disclosed interpretation of the source thin carrot essence; the original wording is preserved separately. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Diccionario de cocina, ó El nuevo cocinero mexicano (1845), Mariano Galván Rivera. https://archive.org/details/bub_gb_NdQqAAAAYAAJ SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 150,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-dc08b1508cce39c3156caa88",
+    "bodySha256": "456e0f921e59cac00326c8094e7ad05beac7c4bb1d9752b3b8c1df00891d3ff9",
+    "recipe": {
+      "id": "historical-dc08b1508cce39c3156caa88",
+      "title": "Gulerod-Suppe with Browned Roux and Croutons",
+      "description": "Carrots and onions simmer with a herb bundle, then a browned butter-and-flour roux lightly thickens the strained soup.",
+      "category": "Soups",
+      "servings": 10,
+      "yieldUnit": "servings",
+      "minutes": 65,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 500,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "onion",
+          "amount": 225,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "stock",
+          "amount": 2500,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "name": "fresh parsley stalks",
+          "substitution": "Use the same weight of fresh celery leaves."
+        },
+        {
+          "key": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "name": "fresh thyme sprigs",
+          "substitution": "Use 0.25 tsp dried thyme in a tied food-safe spice bag."
+        },
+        {
+          "key": "bay",
+          "amount": 1,
+          "unit": "",
+          "name": "dried bay leaf",
+          "substitution": "Omit if unavailable."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground white pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "butter",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "flour",
+          "amount": 50,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "bread",
+          "amount": 150,
+          "unit": "g",
+          "name": "plain bread",
+          "substitution": "Use the same weight of gluten-free bread suitable for toasting."
+        },
+        {
+          "key": "oil",
+          "amount": 20,
+          "unit": "ml",
+          "name": "neutral vegetable oil",
+          "substitution": "Use the same volume of refined sunflower or rapeseed oil."
+        }
+      ],
+      "steps": [
+        "Slice {{carrot}} and {{onion}}. Tie {{parsley}}, {{thyme}} and {{bay}} in a food-safe herb bundle or bag. Put all in a saucepan with {{stock|0.4}}, {{salt}} and {{pepper}}. Simmer, partly covered, for 30–40 minutes until very soft.",
+        "Remove and discard the herb bundle. Press the vegetables and cooking liquid through a coarse sieve into a bowl.",
+        "In the emptied saucepan, melt {{butter}}, stir in {{flour}} and cook over medium-low heat for 4–6 minutes, stirring, until light golden brown. Do not let it burn.",
+        "Remove briefly from the heat and gradually whisk in the strained vegetable mixture and {{stock|0.6}}. Return to a simmer and cook for 8–10 minutes, stirring, until smooth and lightly thickened.",
+        "While the soup finishes, cut {{bread}} into cubes, toss with {{oil}} and bake on a tray at 180°C (356°F) for 10–15 minutes, turning once, until crisp. Serve the croutons alongside."
+      ],
+      "notes": "Two matching transcriptions are consolidated. The mistranslated whisk is a herb bundle. The original 2 L initial broth belongs within the 5 L total; it is not additional. This half batch uses 1 L first and 1.5 L later. Explicit source grams take precedence over corrupt skein/quintal parentheticals. Missing crouton instructions are supplied. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens SavorShelf measured adaptation. Equivalent source retained: Frøken Jensens kogebog (1921), Kristine Marie Jensen. https://archive.org/details/frkenjensensko00jens",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 65,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [
+        "historical-dafc110ffcf3b0438d3b101c"
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-9d86da2200ba66fd47fd677d",
+    "bodySha256": "e5f7d3e2072255d80f3da395562fbd137bf7b4e0220ce7503a2b807d6211efa7",
+    "recipe": {
+      "id": "historical-9d86da2200ba66fd47fd677d",
+      "title": "Gulerod-Suppe Thickened with Rice Flour",
+      "description": "Whole carrots are cooked in meat stock, sieved and lightly thickened with rice flour, with toast served alongside.",
+      "category": "Soups",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 80,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 800,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "stock",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "riceflour",
+          "amount": 60,
+          "unit": "g",
+          "name": "finely ground white rice flour",
+          "substitution": "Use the same weight of brown rice flour; flavor and texture differ."
+        },
+        {
+          "key": "slurry",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "bread",
+          "amount": 160,
+          "unit": "g",
+          "name": "plain bread",
+          "substitution": "Use the same weight of gluten-free bread suitable for toasting."
+        }
+      ],
+      "steps": [
+        "Put {{carrot}} in a saucepan with {{stock}} and {{salt}}. Keep small carrots whole; halve very thick ones lengthwise. Cover and simmer for 40–60 minutes until very tender.",
+        "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+        "Mix {{riceflour}} with {{slurry}} until smooth. Whisk into the simmering soup and cook gently for 8–10 minutes, stirring, until the flour is cooked and the soup lightly thickened.",
+        "Toast {{bread}} until crisp and serve alongside."
+      ],
+      "notes": "The source half-pint of rice flour is not treated as a reliable mass conversion: 60 g is an explicit modern thickening choice. Stock, salt and toast amounts are supplied. Its separate browned-vegetable and white-root method remains a complete named variation instead of being mixed into this base. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Skandinavisk illustreret kogebog (1884), author not recorded. https://archive.org/details/skandinaviskillu00chic SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 80,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "white-roots",
+          "label": "Browned vegetable broth with white roots and meatballs",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 20,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "onion",
+              "amount": 10,
+              "unit": "g",
+              "name": "peeled onion",
+              "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+            },
+            {
+              "key": "butter",
+              "amount": 25,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "stock",
+              "amount": 1500,
+              "unit": "ml",
+              "name": "unsalted prepared beef stock",
+              "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+            },
+            {
+              "key": "parsnip",
+              "amount": 150,
+              "unit": "g",
+              "name": "peeled parsnip, diced 1 cm",
+              "substitution": "Use the same weight of peeled parsley root."
+            },
+            {
+              "key": "turnip",
+              "amount": 150,
+              "unit": "g",
+              "name": "peeled turnip",
+              "substitution": "Use the same weight of peeled rutabaga; allow extra cooking time until tender."
+            },
+            {
+              "key": "celeriac",
+              "amount": 150,
+              "unit": "g",
+              "name": "peeled celeriac, diced 1 cm",
+              "substitution": "Use the same weight of peeled turnip."
+            },
+            {
+              "key": "meatballs",
+              "amount": 250,
+              "unit": "g",
+              "name": "fully cooked small meatballs, refrigerated",
+              "substitution": "Use the same weight of fully cooked vegetarian balls; follow their heating directions."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            }
+          ],
+          "steps": [
+            "Finely chop {{carrot}} and {{onion}}. Melt {{butter}} in a saucepan and cook the vegetables for 5–7 minutes until lightly browned.",
+            "Add {{stock}} and {{salt}}, then simmer for 15–20 minutes until the carrot can be mashed. Press through a fine sieve and return the strained broth to the pan.",
+            "Add {{parsnip}}, {{turnip}} cut into 1 cm dice and {{celeriac}}. Simmer for 15–20 minutes until tender.",
+            "Add {{meatballs}} and heat according to their package instructions until piping hot throughout, at least 74°C (165°F). Serve with the diced roots in the broth."
+          ]
+        },
+        {
+          "id": "meatballs",
+          "label": "Rice-flour soup with meatballs",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 800,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "stock",
+              "amount": 2000,
+              "unit": "ml",
+              "name": "unsalted prepared beef stock",
+              "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+            },
+            {
+              "key": "riceflour",
+              "amount": 60,
+              "unit": "g",
+              "name": "finely ground white rice flour",
+              "substitution": "Use the same weight of brown rice flour; flavor and texture differ."
+            },
+            {
+              "key": "slurry",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "meatballs",
+              "amount": 250,
+              "unit": "g",
+              "name": "fully cooked small meatballs, refrigerated",
+              "substitution": "Use the same weight of fully cooked vegetarian balls; follow their heating directions."
+            }
+          ],
+          "steps": [
+            "Put {{carrot}} in a saucepan with {{stock}} and {{salt}}. Keep small carrots whole; halve very thick ones lengthwise. Cover and simmer for 40–60 minutes until very tender.",
+            "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+            "Mix {{riceflour}} with {{slurry}} until smooth. Whisk into the simmering soup and cook gently for 8–10 minutes, stirring, until the flour is cooked and the soup lightly thickened.",
+            "Add {{meatballs}} and heat according to their package instructions until piping hot throughout, at least 74°C (165°F)."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-5dd6e8e1be51c8bfa663dbf0",
+    "bodySha256": "123587f5f1df733be08022528e3201a1a548c65de9045735ace259a4b4e2c67d",
+    "recipe": {
+      "id": "historical-5dd6e8e1be51c8bfa663dbf0",
+      "title": "Carrot and Celery Soup with Lemon",
+      "description": "Grated carrots, celery and onion make a vegetable-rich soup finished with a small squeeze of lemon.",
+      "category": "Soups",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "celery",
+          "amount": 200,
+          "unit": "g",
+          "name": "trimmed celery stalks",
+          "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "stock",
+          "amount": 1000,
+          "unit": "ml",
+          "name": "unsalted prepared vegetable stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "lemon",
+          "amount": 10,
+          "unit": "ml",
+          "name": "lemon juice",
+          "substitution": "Use 10 ml mild wine vinegar for the source alternative."
+        }
+      ],
+      "steps": [
+        "Grate {{carrot}} coarsely. Thinly slice {{celery}} and {{onion}}. Put in a large saucepan with {{stock}}, {{salt}} and {{pepper}}.",
+        "Bring to a simmer, cover and cook for 30–40 minutes until all vegetables are very tender.",
+        "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+        "Return to a gentle simmer, stir in {{lemon}} and serve."
+      ],
+      "notes": "This half-sized adaptation uses the whole peeled carrot rather than discarding the core. Celery heads and missing seasonings become explicit modern weights. Vegetable stock is chosen for this version; no certification or dietary suitability of purchased ingredients is implied. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Jewish Manual (1846), Judith Cohen Montefiore (attr.). https://archive.org/details/b22021371 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-65d673d12ed4c49108491448",
+    "bodySha256": "aacd9e3c3ceb2fdda50fb8068f6a13d0632ee7e690e13131d88c509f2e60d817",
+    "recipe": {
+      "id": "historical-65d673d12ed4c49108491448",
+      "title": "Porkkana-soppa with Turnip and Cream",
+      "description": "Light carrot and turnip soup is sieved, lightly thickened with flour and finished with a cooked egg-yolk and cream liaison.",
+      "category": "Soups",
+      "servings": 14,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 454,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "onion",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "celery",
+          "amount": 160,
+          "unit": "g",
+          "name": "trimmed celery stalks",
+          "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "stock",
+          "amount": 4000,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+        },
+        {
+          "key": "cream",
+          "amount": 240,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of unsweetened plant cream suitable for cooking."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "turnip",
+          "amount": 200,
+          "unit": "g",
+          "name": "peeled turnip",
+          "substitution": "Use the same weight of peeled rutabaga; allow extra cooking time until tender."
+        },
+        {
+          "key": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "name": "granulated sugar",
+          "substitution": "Omit for a less sweet soup."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}}, {{onion}} and {{celery}} and {{turnip}} into small pieces. Melt {{butter|0.5}} in a large saucepan and cook the vegetables with {{salt}} and {{sugar}} for 8–10 minutes, stirring, until lightly browned.",
+        "Add {{stock}} and {{pepper}}, bring to a simmer and cook for 25–35 minutes until the vegetables are very soft.",
+        "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+        "In a separate small pan, melt {{butter|0.5}}. Stir in {{flour}} and cook for 2 minutes. Whisk in several ladlefuls of hot soup until smooth, then stir this mixture back into the main pan. Simmer for 5 minutes.",
+        "Whisk {{yolks}} with {{cream}} in a bowl. Gradually whisk in several spoonfuls of hot soup. Reduce the soup to low heat and slowly stir the egg mixture into it.",
+        "Cook gently, stirring, until the soup reaches 71°C (160°F). Do not boil after adding the egg mixture. Serve immediately."
+      ],
+      "notes": "Modern liquid volumes replace quarts/cups. The 454 g carrot quantity retains this source version's light vegetable-to-stock ratio. The source uses butter in two stages without separately accounting for it; the listed 28 g is divided equally. This is distinct from the other Finnish-source formula. Egg heating is made explicit. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Suomalais-amerikalainen keittokirja (1914), author not recorded. https://archive.org/details/suomalaisamerika00wall SavorShelf measured adaptation. Reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "milk",
+          "label": "Milk instead of cream",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 454,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "onion",
+              "amount": 150,
+              "unit": "g",
+              "name": "peeled onion",
+              "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+            },
+            {
+              "key": "celery",
+              "amount": 160,
+              "unit": "g",
+              "name": "trimmed celery stalks",
+              "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "stock",
+              "amount": 4000,
+              "unit": "ml",
+              "name": "unsalted prepared beef stock",
+              "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+            },
+            {
+              "key": "flour",
+              "amount": 16,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "yolks",
+              "amount": 2,
+              "unit": "",
+              "name": "large pasteurized egg yolks",
+              "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+            },
+            {
+              "key": "cream",
+              "amount": 240,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of unsweetened soy milk; flavor and richness differ."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "turnip",
+              "amount": 200,
+              "unit": "g",
+              "name": "peeled turnip",
+              "substitution": "Use the same weight of peeled rutabaga; allow extra cooking time until tender."
+            },
+            {
+              "key": "sugar",
+              "amount": 4,
+              "unit": "g",
+              "name": "granulated sugar",
+              "substitution": "Omit for a less sweet soup."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}}, {{onion}} and {{celery}} and {{turnip}} into small pieces. Melt {{butter|0.5}} in a large saucepan and cook the vegetables with {{salt}} and {{sugar}} for 8–10 minutes, stirring, until lightly browned.",
+            "Add {{stock}} and {{pepper}}, bring to a simmer and cook for 25–35 minutes until the vegetables are very soft.",
+            "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+            "In a separate small pan, melt {{butter|0.5}}. Stir in {{flour}} and cook for 2 minutes. Whisk in several ladlefuls of hot soup until smooth, then stir this mixture back into the main pan. Simmer for 5 minutes.",
+            "Whisk {{yolks}} with {{cream}} in a bowl. Gradually whisk in several spoonfuls of hot soup. Reduce the soup to low heat and slowly stir the egg mixture into it.",
+            "Cook gently, stirring, until the soup reaches 71°C (160°F). Do not boil after adding the egg mixture. Serve immediately."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-caaed4420b446b54bd138835",
+    "bodySha256": "83ad0187b670e281c35b6bcfb4e3a27bab570366999beaf7411bc2fb7906f691",
+    "recipe": {
+      "id": "historical-caaed4420b446b54bd138835",
+      "title": "Porkkanasoppa with Celery and Egg-Cream Finish",
+      "description": "Light carrot and celery soup is sieved, lightly thickened with flour and finished with a cooked egg-yolk and cream liaison.",
+      "category": "Soups",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 70,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 140,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "onion",
+          "amount": 100,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "celery",
+          "amount": 80,
+          "unit": "g",
+          "name": "trimmed celery stalks",
+          "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+        },
+        {
+          "key": "butter",
+          "amount": 28,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "stock",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "flour",
+          "amount": 16,
+          "unit": "g",
+          "name": "all-purpose flour",
+          "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+        },
+        {
+          "key": "yolks",
+          "amount": 2,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g pasteurized liquid yolk per large yolk; omitting yolk changes the recipe."
+        },
+        {
+          "key": "cream",
+          "amount": 240,
+          "unit": "ml",
+          "name": "heavy cream",
+          "substitution": "Use the same volume of unsweetened plant cream suitable for cooking."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}}, {{onion}} and {{celery}} into small pieces. Melt {{butter|0.5}} in a large saucepan and cook the vegetables with {{salt}} for 8–10 minutes, stirring, until lightly browned.",
+        "Add {{stock}} and {{pepper}}, bring to a simmer and cook for 25–35 minutes until the vegetables are very soft.",
+        "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+        "In a separate small pan, melt {{butter|0.5}}. Stir in {{flour}} and cook for 2 minutes. Whisk in several ladlefuls of hot soup until smooth, then stir this mixture back into the main pan. Simmer for 5 minutes.",
+        "Whisk {{yolks}} with {{cream}} in a bowl. Gradually whisk in several spoonfuls of hot soup. Reduce the soup to low heat and slowly stir the egg mixture into it.",
+        "Cook gently, stirring, until the soup reaches 71°C (160°F). Do not boil after adding the egg mixture. Serve immediately."
+      ],
+      "notes": "Modern liquid volumes replace quarts/cups. The 140 g carrot quantity retains this source version's light vegetable-to-stock ratio. The source uses butter in two stages without separately accounting for it; the listed 28 g is divided equally. This is distinct from the other Finnish-source formula. Egg heating is made explicit. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "Keittokirja = Cook Book (1928), author not recorded. https://archive.org/details/keittokirjacookb00wall SavorShelf measured adaptation. Reference: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 70,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "plain",
+          "label": "Without egg yolks or cream",
+          "ingredients": [
+            {
+              "key": "carrot",
+              "amount": 140,
+              "unit": "g",
+              "name": "carrots, peeled and trimmed",
+              "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+            },
+            {
+              "key": "onion",
+              "amount": 100,
+              "unit": "g",
+              "name": "peeled onion",
+              "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+            },
+            {
+              "key": "celery",
+              "amount": 80,
+              "unit": "g",
+              "name": "trimmed celery stalks",
+              "substitution": "Use the same weight of peeled celeriac, cut small and cooked until tender."
+            },
+            {
+              "key": "butter",
+              "amount": 28,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+            },
+            {
+              "key": "stock",
+              "amount": 2000,
+              "unit": "ml",
+              "name": "unsalted prepared beef stock",
+              "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+            },
+            {
+              "key": "flour",
+              "amount": 16,
+              "unit": "g",
+              "name": "all-purpose flour",
+              "substitution": "For a sauce, use the same weight of a gluten-free blend labeled for sauces; pastry requires a separate tested gluten-free dough."
+            },
+            {
+              "key": "salt",
+              "amount": 3,
+              "unit": "g",
+              "name": "fine salt",
+              "substitution": "Reduce or omit, especially if using salted stock."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            }
+          ],
+          "steps": [
+            "Cut {{carrot}}, {{onion}} and {{celery}} into small pieces. Melt {{butter|0.5}} in a large saucepan and cook the vegetables with {{salt}} for 8–10 minutes, stirring, until lightly browned.",
+            "Add {{stock}} and {{pepper}}, bring to a simmer and cook for 25–35 minutes until the vegetables are very soft.",
+            "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+            "In a separate small pan, melt {{butter|0.5}}. Stir in {{flour}} and cook for 2 minutes. Whisk in several ladlefuls of hot soup until smooth, then stir this mixture back into the main pan. Simmer for 5 minutes.",
+            "Serve the lightly thickened soup hot, without an egg or cream finish."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-8d7258d57944bde35a4f39a8",
+    "bodySha256": "d96c57e29822cf9def71843f8ad77af3225bd781027034979da38ca30d73db88",
+    "recipe": {
+      "id": "historical-8d7258d57944bde35a4f39a8",
+      "title": "Carrot Soup with Long-Simmered Beef-Bone Stock",
+      "description": "Beef bones, onion and turnip enrich the stock before carrots are cooked in it and sieved into a smooth soup.",
+      "category": "Soups",
+      "servings": 6,
+      "yieldUnit": "servings",
+      "minutes": 270,
+      "ingredients": [
+        {
+          "key": "stock",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "bones",
+          "amount": 500,
+          "unit": "g",
+          "name": "food-grade beef soup bones",
+          "substitution": "Omit the bones and use a rich prepared beef stock; flavor differs."
+        },
+        {
+          "key": "onion",
+          "amount": 200,
+          "unit": "g",
+          "name": "peeled onion",
+          "substitution": "Use the same weight of trimmed leek, rinsing away any grit."
+        },
+        {
+          "key": "turnip",
+          "amount": 150,
+          "unit": "g",
+          "name": "peeled turnip",
+          "substitution": "Use the same weight of peeled rutabaga; allow extra cooking time until tender."
+        },
+        {
+          "key": "carrot",
+          "amount": 600,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a milder soup."
+        }
+      ],
+      "steps": [
+        "Put {{stock}}, {{bones}}, quartered {{onion}}, diced {{turnip}}, {{salt}} and {{pepper}} in a large saucepan. Bring to a gentle simmer, skim any foam, cover loosely and simmer for 3 hours. Add water as needed to keep the bones covered.",
+        "Strain through a fine sieve into a clean saucepan. Discard the bones and spent vegetables, checking carefully that no bone fragments remain.",
+        "Thinly slice {{carrot}}, add to the strained stock and simmer for 30–45 minutes until very soft. Press the carrots and liquid through a sieve, using the whole peeled carrot.",
+        "Return to the pan with {{cayenne}} and simmer uncovered for 10–20 minutes until the soup is as thick as desired. Stir often; serve warm."
+      ],
+      "notes": "A smaller modern batch supplies a bone weight and uses 600 g carrots for a fuller consistency. The full three-hour stock enrichment is retained. Whole peeled carrots replace outer flesh only. Serving immediately is permitted; making it a day ahead is optional and requires prompt refrigeration, not room-temperature storage. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 270,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-66e3e7761817cecab45b2949",
+    "bodySha256": "983631c0972b61aef0ae9fbf64cec04c46b380eaa7bce7d83a2690a42cb1271d",
+    "recipe": {
+      "id": "historical-66e3e7761817cecab45b2949",
+      "title": "Slow Butter-Stewed Carrot Soup",
+      "description": "Carrots soften slowly in butter before a second gentle simmer in stock, giving a smooth soup with a rich carrot flavor.",
+      "category": "Soups",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 140,
+      "ingredients": [
+        {
+          "key": "carrot",
+          "amount": 907,
+          "unit": "g",
+          "name": "carrots, peeled and trimmed",
+          "substitution": "Use the same weight of a different carrot variety; color and sweetness will change."
+        },
+        {
+          "key": "butter",
+          "amount": 85,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of a block-style dairy-free butter alternative."
+        },
+        {
+          "key": "stock",
+          "amount": 2000,
+          "unit": "ml",
+          "name": "unsalted prepared beef stock",
+          "substitution": "Use the same volume of unsalted vegetable stock for a different flavor; check other ingredients before treating the whole recipe as vegetarian."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "g",
+          "name": "fine salt",
+          "substitution": "Reduce or omit, especially if using salted stock."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a milder soup."
+        },
+        {
+          "key": "water",
+          "amount": 60,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water; water for dough or starch slurry should remain cold."
+        }
+      ],
+      "steps": [
+        "Cut {{carrot}} into 6 mm slices. Melt {{butter}} in a heavy saucepan over low heat. Add the carrot slices and {{water}}, cover and cook very gently for 1 hour, stirring every 10 minutes. Keep them from browning; add a small splash of water if the pan begins to dry.",
+        "Add {{stock}} and simmer, partly covered, for 45–60 minutes until the carrots are completely soft.",
+        "Press the vegetables and their liquid through a coarse sieve into a clean saucepan, or use an immersion blender directly in the deep pan with its head submerged. Do not seal hot soup in a countertop blender.",
+        "Add {{salt}} and {{cayenne}}. Simmer gently for 5 minutes, skim any foam and serve."
+      ],
+      "notes": "The source two pounds carrot and three ounces butter become rounded modern 907 g and 85 g. The stock is standardized to 2 L. A small measured water addition and a lid protect the source long butter-stewing stage from scorching; the distinctive two-stage method remains. Missing amounts, yields and timings are modern adaptation estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes quantities, not cooking times. Cool leftovers promptly in shallow containers and refrigerate within 2 hours at 4°C (40°F) or colder.",
+      "source": "The Book of Household Management (1861), Isabella Beeton. https://www.gutenberg.org/ebooks/10136 SavorShelf measured adaptation.",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 140,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T18:00:00Z",
+      "sourceAliases": []
+    }
   }
 ]

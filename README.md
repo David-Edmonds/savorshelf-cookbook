@@ -1,3 +1,7 @@
+# Carrot soup repair batch 010
+
+Twelve distinct soups now have measured modern adaptations, full cooking steps, substitutions and named method variations. One duplicate Danish transcription is consolidated; a herb-bundle mistranslation and double-counted broth are corrected. Fried pastry and crouton components are supplied. Current totals: 40,858 imported records, 228 completed adaptations, 40,630 remaining content repairs and 42,310 visible recipes. Modern quantity choices are disclosed; these recipes have not been kitchen-tested. The full collection remains unfinished. Android, portfolio, personal saves and automations are unchanged.
+
 ## September 22 — pear and related-source batch 009
 
 Thirty measured adaptations and nine duplicate consolidations resolve all 39 sources in this review group. Missing custards, coconut filling, overnight refrigerator handling, chocolate-caramel sauce and two-texture compotes are supplied. Peron apples and edible cactus pads correct mistranslated fruit labels, with references and source credits retained. Current totals: 40,859 imported records, 216 completed adaptations, 40,643 remaining content repairs and 42,311 visible recipes. The full collection remains unfinished. Modern choices and untested cooking status are disclosed. Android, portfolio, personal saves and automations are unchanged.

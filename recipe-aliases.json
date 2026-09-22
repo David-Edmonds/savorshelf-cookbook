@@ -202,5 +202,11 @@
     "canonicalId": "historical-83fddb7be47353fc161e3533",
     "bodySha256": "6f36ed98b07b9a7fbbecea9753d73e6cbe0df8740ce6bf2fd10f632bb84aa7d1",
     "reason": "Full source ingredients and methods compared; equivalent pear preparation or shorter transcription. Both credits retained, with meaningful blanching or serving differences preserved as named variations."
+  },
+  {
+    "id": "historical-dafc110ffcf3b0438d3b101c",
+    "canonicalId": "historical-dc08b1508cce39c3156caa88",
+    "bodySha256": "acb360500af252925fbf9a3dc371ca9e3e7acdf0e68e8f64e9310533b06db2e1",
+    "reason": "Identical source soup and proportions, with a herb-bundle translation correction. Initial broth is included within the total. Both source credits retained."
   }
 ]
