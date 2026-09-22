@@ -55059,5 +55059,1109 @@
       "updatedAt": "2026-09-22T20:00:00Z",
       "sourceAliases": []
     }
+  },
+  {
+    "sourceId": "historical-376e4e260a232efdefe94453",
+    "bodySha256": "b511f825e64d67dc216c314c808468b1c9ba54f913f347e30181fdbc0bb59431",
+    "recipe": {
+      "id": "historical-376e4e260a232efdefe94453",
+      "title": "Canadian Sweet Mustard Dressing for Cabbage",
+      "description": "A sweet, tangy egg dressing is thickened with a little flour and enriched with cream and butter.",
+      "category": "Condiments",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 45,
+      "ingredients": [
+        {
+          "key": "vinegar",
+          "amount": 180,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "sugar",
+          "amount": 4,
+          "unit": "tbsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "flour",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "plain wheat flour",
+          "substitution": "Use the same volume of a plain gluten-free flour blend; thickening may vary."
+        },
+        {
+          "key": "cream",
+          "amount": 30,
+          "unit": "ml",
+          "name": "pouring cream",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        },
+        {
+          "key": "butter",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}} with {{cream}} in a small bowl until completely smooth. In a saucepan, whisk {{eggs}}, {{sugar}}, {{salt}} and {{mustard}}, then gradually whisk in {{vinegar}} and the flour-cream mixture.",
+        "Add {{butter}} in small pieces and cook over low heat, whisking constantly, until the butter melts and the dressing thickens. Bring just to a gentle bubbling, cook for about 1 minute while whisking and check that the egg mixture has reached at least 71°C (160°F). Remove promptly; do not let it boil hard or catch on the pan.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Stir the cold dressing and spoon over finely shredded cabbage just before serving, adding only enough to coat the amount of salad being prepared.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The scanned Mrs. John Forsyth recipe gives three-quarter cup vinegar, four tablespoons sugar, one egg, one teaspoon salt, about one teaspoon each mustard and flour, two tablespoons cream and egg-size butter. The full scan confirms the 180 ml vinegar and flour mixed smooth with cream. The unstandardized butter size becomes a chosen 50 g; this is not a recovered weight. The terse mixing order is expanded to incorporate every ingredient. Twenty-four small dressing portions and total time including cooling are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 45,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-39c4296a8b86819a4a9ad354",
+    "bodySha256": "f2056e52918691e1e0dcb3065585c3975da291a27db46d3682fdb5770580cdf5",
+    "recipe": {
+      "id": "historical-39c4296a8b86819a4a9ad354",
+      "title": "Canadian Brown-Sugar Double-Boiler Dressing",
+      "description": "Brown sugar and mustard flavor a cooked egg dressing, with diluted vinegar and a little butter for a gentler texture.",
+      "category": "Condiments",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        },
+        {
+          "key": "sugar",
+          "amount": 4,
+          "unit": "tbsp",
+          "name": "soft brown sugar",
+          "substitution": "Use the same volume of white sugar for a less caramel-like flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 2,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "cayenne",
+          "amount": 0.0625,
+          "unit": "tsp",
+          "name": "ground cayenne pepper",
+          "substitution": "Omit for a mild mayonnaise."
+        },
+        {
+          "key": "butter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        },
+        {
+          "key": "flour",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "plain wheat flour",
+          "substitution": "Use the same volume of a plain gluten-free flour blend; thickening may vary."
+        },
+        {
+          "key": "vinegar",
+          "amount": 80,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "water",
+          "amount": 160,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        }
+      ],
+      "steps": [
+        "Whisk {{flour}}, {{sugar}}, {{mustard}}, {{salt}} and {{cayenne}} in a heatproof bowl. Beat in {{eggs}}, then gradually whisk in {{vinegar}} and {{water}}. Add {{butter}} in small pieces.",
+        "Set the bowl over gently simmering water with its base above the water. Whisk continuously until the butter melts and the dressing thickens enough to coat a spoon, about 8–12 minutes. It must reach at least 71°C (160°F); continue stirring gently for about 2 minutes after thickening so the flour is cooked. Do not boil the egg mixture hard.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Stir before using and add to a prepared salad just before serving.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The scanned Mrs. Bell recipe specifies one cup mixed vinegar and water with more water than vinegar, but no ratio. The chosen 80 ml vinegar plus 160 ml water totals a modern 240 ml cup and satisfies that instruction. Walnut-size butter is represented by a working 15 g. The two eggs, four tablespoons brown sugar, two teaspoons mustard, one-and-a-half teaspoons salt, one teaspoon flour and water-bath method are retained. Cayenne, twenty-four portions and timing are supplied. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-8723ee4cc41324edc1041317",
+    "bodySha256": "20961b32ae8bc47d6db1075ca97caddf5fbddb4e8fbce7fd3276bec508ebbf6f",
+    "recipe": {
+      "id": "historical-8723ee4cc41324edc1041317",
+      "title": "Canadian Fluffy Milk-and-Mustard Dressing",
+      "description": "A cooked milk, yolk and butter dressing is finished with warm vinegar, cooled, then lightened with whipped pasteurized egg white.",
+      "category": "Condiments",
+      "servings": 20,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "sugar",
+          "amount": 3,
+          "unit": "tbsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 2,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "butter",
+          "amount": 50,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        },
+        {
+          "key": "yolks",
+          "amount": 1,
+          "unit": "",
+          "name": "large pasteurized egg yolks",
+          "substitution": "Use 18 g commercially pasteurized liquid egg yolk per yolk; do not substitute unpasteurized raw egg."
+        },
+        {
+          "key": "flour",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "plain wheat flour",
+          "substitution": "Use the same volume of a plain gluten-free flour blend; thickening may vary."
+        },
+        {
+          "key": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of lactose-free dairy milk."
+        },
+        {
+          "key": "vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "white",
+          "amount": 30,
+          "unit": "g",
+          "name": "commercially pasteurized egg white suitable for whipping, about one large white",
+          "substitution": "Use a pasteurized shell-egg white of the same weight; do not use unpasteurized raw white."
+        }
+      ],
+      "steps": [
+        "Mix {{flour}}, {{sugar}}, {{mustard}} and {{salt}} in a heatproof bowl. Whisk in {{yolks}} and {{milk}} until smooth, then add {{butter}} in small pieces.",
+        "Set over gently simmering water, keeping the bowl above the water, and stir continuously until the butter melts and the mixture thickens, about 8–12 minutes. Check that it reaches at least 71°C (160°F), then stir gently for about 2 minutes after thickening to cook the flour. Remove from heat.",
+        "Warm {{vinegar}} in a small pan until hot but not boiling and stir it gradually into the thick dressing.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "When the dressing is fully cold, whisk {{white}} in a clean bowl until it holds soft peaks. Fold it gently into the dressing. Keep cold and use the same day; the air will gradually subside."
+      ],
+      "notes": "The scanned Mrs. I. C. Dickson recipe gives three tablespoons sugar, two teaspoons mustard, half a teaspoon salt, egg-size butter, one yolk, one tablespoon flour, eight tablespoons milk and one tablespoon heated vinegar. The butter is restored explicitly to the cooking method. A working 50 g butter, 120 ml milk and 15 ml vinegar are used. The white is folded in only after the dressing is cold; commercially pasteurized whipping white replaces the original unspecified raw white. Twenty portions and fifty-five minutes including cooling are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures . Raw-yolk handling uses commercially pasteurized egg: https://www.foodsafety.gov/people-at-risk .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-1bbdb85234e9b760958f2d14",
+    "bodySha256": "88d82c28375958ba6d21b4985071eb40e802fee519ea3cf70145eb5581f88601",
+    "recipe": {
+      "id": "historical-1bbdb85234e9b760958f2d14",
+      "title": "Canadian Vinegar-and-Cream Egg Dressing",
+      "description": "A sharp vinegar-and-egg base is sweetened, gently cooked and finished with cream for a smooth salad dressing.",
+      "category": "Condiments",
+      "servings": 32,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "vinegar",
+          "amount": 240,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        },
+        {
+          "key": "sugar",
+          "amount": 120,
+          "unit": "ml",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "cream",
+          "amount": 120,
+          "unit": "ml",
+          "name": "pouring cream",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        }
+      ],
+      "steps": [
+        "Beat {{eggs}}, {{sugar}}, {{salt}} and {{pepper}} in a heatproof bowl. Heat {{vinegar}} in a small saucepan until steaming but not boiling, then pour it very gradually into the eggs while whisking continuously.",
+        "Set the bowl over gently simmering water with the bowl above the water. Whisk until the mixture coats a spoon and reaches 71°C (160°F), about 5–10 minutes; remove promptly before it scrambles. Pouring hot vinegar over eggs alone does not verify that the eggs are cooked.",
+        "Gradually stir in {{cream}} until smooth.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Stir and spoon over the prepared salad shortly before serving.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The printed Mrs. Byron Jenvey formula has HALF a cup sugar and HALF a teaspoon pepper, not the extracted three-quarter cup and one-sixth teaspoon. The scan also confirms one cup vinegar, two eggs, one teaspoon salt and half a cup cream. Modern measures are 240 ml vinegar, 120 ml sugar measured by volume and 120 ml cream. The sugar has not been mislabeled as a liquid or converted to an unsupported gram weight. The source’s hot-vinegar tempering is retained and a complete water-bath cooking endpoint is added. Thirty-two small portions and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-742f9b3ecd12552055f7b9ed",
+    "bodySha256": "9eae8ecfcd9a7082149db09e9404cfaecc3300ae455e2d5bdfae42aa15e67402",
+    "recipe": {
+      "id": "historical-742f9b3ecd12552055f7b9ed",
+      "title": "Canadian Roux-Based Paprika Salad Dressing",
+      "description": "A milk-and-butter sauce is enriched with egg and mustard, then finished with paprika and vinegar after thickening.",
+      "category": "Condiments",
+      "servings": 28,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "flour",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "plain wheat flour",
+          "substitution": "Use the same volume of a plain gluten-free flour blend; thickening may vary."
+        },
+        {
+          "key": "butter",
+          "amount": 14,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        },
+        {
+          "key": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of lactose-free dairy milk."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "paprika",
+          "amount": 0.25,
+          "unit": "tsp",
+          "name": "sweet paprika",
+          "substitution": "Use the complete red-pepper variation for the source’s hotter option."
+        },
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        },
+        {
+          "key": "vinegar",
+          "amount": 120,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Melt {{butter}} in a small saucepan over medium-low heat. Stir in {{flour}} and cook for about 1 minute without browning. Gradually whisk in {{milk}} until smooth. Bring to a gentle simmer and stir for 2 minutes to cook the flour.",
+        "In a heatproof bowl, whisk {{eggs}}, {{sugar}}, {{salt}}, {{mustard}} and {{paprika}}. Whisk a few spoonfuls of the hot milk sauce into the egg mixture, then gradually return this mixture to the saucepan while stirring.",
+        "Cook over low heat, stirring constantly, until thickened and at least 71°C (160°F). Remove from heat and gradually whisk in {{vinegar}}. Do not add the vinegar to the milk before making the sauce.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Stir before spooning over the prepared salad.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The scanned Mrs. M. B. Rawlston recipe specifies HALF a teaspoon salt and QUARTER a teaspoon paprika or red pepper, not three-quarter teaspoon amounts. Half a cup vinegar is also confirmed. The flour-and-butter milk sauce is made first, the seasoned egg is tempered in next, and vinegar is added last. A tablespoon butter is represented by a modern working 14 g; milk and vinegar are 240 ml and 120 ml. Twenty-eight small portions and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "red-pepper",
+          "label": "With the source’s hotter red-pepper option",
+          "ingredients": [
+            {
+              "key": "flour",
+              "amount": 1,
+              "unit": "tbsp",
+              "name": "plain wheat flour",
+              "substitution": "Use the same volume of a plain gluten-free flour blend; thickening may vary."
+            },
+            {
+              "key": "butter",
+              "amount": 14,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "milk",
+              "amount": 240,
+              "unit": "ml",
+              "name": "whole milk",
+              "substitution": "Use the same volume of lactose-free dairy milk."
+            },
+            {
+              "key": "sugar",
+              "amount": 1,
+              "unit": "tbsp",
+              "name": "white sugar",
+              "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "redpepper",
+              "amount": 0.25,
+              "unit": "tsp",
+              "name": "ground cayenne pepper, the hotter red-pepper option",
+              "substitution": "Use the sweet-paprika base recipe for a mild dressing."
+            },
+            {
+              "key": "eggs",
+              "amount": 1,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+            },
+            {
+              "key": "vinegar",
+              "amount": 120,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            }
+          ],
+          "steps": [
+            "Melt {{butter}} in a small saucepan over medium-low heat. Stir in {{flour}} and cook for about 1 minute without browning. Gradually whisk in {{milk}} until smooth. Bring to a gentle simmer and stir for 2 minutes to cook the flour.",
+            "In a heatproof bowl, whisk {{eggs}}, {{sugar}}, {{salt}}, {{mustard}} and {{redpepper}}. Whisk a few spoonfuls of the hot milk sauce into the egg mixture, then gradually return this mixture to the saucepan while stirring.",
+            "Cook over low heat, stirring constantly, until thickened and at least 71°C (160°F). Remove from heat and gradually whisk in {{vinegar}}. Do not add the vinegar to the milk before making the sauce.",
+            "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+            "Stir before spooning over the prepared salad.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-a3208bca1857d7a43b706f65",
+    "bodySha256": "2af21a7b94d14fa2105a0c5fa831442d1e70c8d1e86f77a366d61f85c1d75496",
+    "recipe": {
+      "id": "historical-a3208bca1857d7a43b706f65",
+      "title": "Canadian Cooked Dressing for Chicken Salad",
+      "description": "A sweet mustard-and-vinegar egg dressing is thinned with milk or cream after cooking for use with cold chicken salad.",
+      "category": "Condiments",
+      "servings": 24,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "butter",
+          "amount": 15,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        },
+        {
+          "key": "sugar",
+          "amount": 120,
+          "unit": "ml",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "vinegar",
+          "amount": 120,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "milk",
+          "amount": 60,
+          "unit": "ml",
+          "name": "whole milk",
+          "substitution": "Use the same volume of lactose-free dairy milk."
+        }
+      ],
+      "steps": [
+        "Whisk {{eggs}}, {{mustard}}, {{salt}}, {{sugar}} and {{pepper}} in a heatproof bowl. Gradually whisk in {{vinegar}} and add {{butter}} in small pieces.",
+        "Set over gently simmering water, keeping the bowl above the water, and stir continuously until the butter melts and the dressing thickens enough to coat a spoon, about 8–12 minutes. Check that it reaches at least 71°C (160°F), then remove without boiling the egg mixture hard.",
+        "Gradually stir in {{milk}} to loosen the dressing.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Use to dress cold cooked chicken or another prepared salad just before serving.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The scanned Miss Florence Campbell recipe has HALF a teaspoon salt and HALF a cup sugar, not three-quarter amounts. The method’s half cup vinegar is restored explicitly before cooking. Nut-size butter becomes a working 15 g and the unspecified thinning milk or cream becomes 60 ml, with both options supplied in full. The modern half-cup sugar measure is 120 ml by volume, not a liquid ingredient or claimed weight. Pepper, twenty-four dressing portions and timing are supplied. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cream",
+          "label": "Thinned with cream",
+          "ingredients": [
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "butter",
+              "amount": 15,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "sugar",
+              "amount": 120,
+              "unit": "ml",
+              "name": "white sugar",
+              "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "vinegar",
+              "amount": 120,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "cream",
+              "amount": 60,
+              "unit": "ml",
+              "name": "pouring cream",
+              "substitution": "Use the same volume of lactose-free dairy cream."
+            }
+          ],
+          "steps": [
+            "Whisk {{eggs}}, {{mustard}}, {{salt}}, {{sugar}} and {{pepper}} in a heatproof bowl. Gradually whisk in {{vinegar}} and add {{butter}} in small pieces.",
+            "Set over gently simmering water, keeping the bowl above the water, and stir continuously until the butter melts and the dressing thickens enough to coat a spoon, about 8–12 minutes. Check that it reaches at least 71°C (160°F), then remove without boiling the egg mixture hard.",
+            "Gradually stir in {{cream}} to loosen the dressing.",
+            "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+            "Use to dress cold cooked chicken or another prepared salad just before serving.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-b6ded7e4c06d878bd388e432",
+    "bodySha256": "261c430dcfcbd2dc9c032d208be4b8600bc2e0be9e0d85026d4dc5715a4513d1",
+    "recipe": {
+      "id": "historical-b6ded7e4c06d878bd388e432",
+      "title": "Canadian Rich Cream-and-Mustard Dressing",
+      "description": "Cream, eggs, mustard and melted butter make a rich cooked dressing, with vinegar added gradually before a gentle water-bath cook.",
+      "category": "Condiments",
+      "servings": 60,
+      "yieldUnit": "servings",
+      "minutes": 55,
+      "ingredients": [
+        {
+          "key": "butter",
+          "amount": 45,
+          "unit": "ml",
+          "name": "unsalted butter, measured after melting",
+          "substitution": "Use the same measured melted volume of salted butter and reduce the added salt."
+        },
+        {
+          "key": "sugar",
+          "amount": 1,
+          "unit": "tbsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 6,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 3,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "starch",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "cornstarch",
+          "substitution": "Use the same volume of arrowroot powder; thickening may vary."
+        },
+        {
+          "key": "eggs",
+          "amount": 4,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        },
+        {
+          "key": "cream",
+          "amount": 480,
+          "unit": "ml",
+          "name": "pouring cream",
+          "substitution": "Use the same volume of lactose-free dairy cream."
+        },
+        {
+          "key": "vinegar",
+          "amount": 220,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        }
+      ],
+      "steps": [
+        "Melt enough butter to measure {{butter}}, then let it cool until just warm. In a heatproof bowl, mix {{sugar}}, {{mustard}}, {{salt}} and {{starch}}, then stir in the measured melted butter until smooth.",
+        "Beat {{eggs}} separately and whisk them into the butter mixture gradually. Whisk in {{cream}}, then add {{vinegar}} a little at a time while whisking.",
+        "Set the bowl over gently simmering water with its base above the water. Stir continuously, scraping the bottom and sides, until it thickens like pouring cream and reaches at least 71°C (160°F), about 12–18 minutes. Remove promptly; do not let the egg-and-cream mixture boil hard.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Stir and use small portions to dress prepared salads; this is a strongly seasoned dressing.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The full scanned Estelle M. Record recipe runs across pages172–173: three tablespoons MELTED butter, two tablespoons mustard, one tablespoon salt, half a teaspoon cornstarch, four eggs, one pint cream and one scant cup vinegar. Sugar appears only in the method and has no printed amount; this adaptation deliberately supplies one modern tablespoon, not a recovered measurement. Butter stays a melted volume of 45 ml. The pint is represented by two modern 240 ml cups, 480 ml, and scant cup vinegar by a chosen 220 ml; these are working modern measures, not proof of the book’s historical pint/cup capacity. The substantial source mustard and salt remain six and three modern teaspoons. Sixty small portions and timing are estimates. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 55,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": []
+    }
+  },
+  {
+    "sourceId": "historical-4f4770b57dc817363c42109a",
+    "bodySha256": "29a576f7097dd0be82ec14d0a18c552f6afc772bb387c44028647e7c91463b37",
+    "recipe": {
+      "id": "historical-4f4770b57dc817363c42109a",
+      "title": "Canadian Chopped Beet Salad with Mustard Dressing",
+      "description": "Tender chopped beetroot is dressed with a tangy cooked egg-and-mustard sauce and chilled before serving.",
+      "category": "Salads",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 140,
+      "ingredients": [
+        {
+          "key": "beets",
+          "amount": 800,
+          "unit": "g",
+          "name": "raw beetroot, similar-sized roots",
+          "substitution": "Use the ready-cooked beet variation if preferred."
+        },
+        {
+          "key": "beetwater",
+          "amount": 1500,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "vinegar",
+          "amount": 240,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.125,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "sugar",
+          "amount": 2,
+          "unit": "tsp",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "mustard",
+          "amount": 2,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "eggs",
+          "amount": 1,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        }
+      ],
+      "steps": [
+        "Scrub {{beets}} and trim the leaves, leaving about 2 cm of stalk and the root tips intact. Put in a saucepan with {{beetwater}}, adding more drinking water only if necessary to cover. Bring to a boil, cover and simmer for about 35–60 minutes until a skewer enters the largest beet easily.",
+        "Drain and cool just enough to handle safely, then rub or peel away the skins and trim the ends. Chop the cooked beetroot into small pieces, as the scanned recipe directs, and place in a clean shallow serving bowl.",
+        "Whisk {{eggs}}, {{sugar}}, {{mustard}} and {{salt}} in a heatproof bowl, then gradually whisk in {{vinegar}}. Set over gently simmering water with the bowl above the water and stir continuously until lightly thickened and at least 71°C (160°F), about 5–10 minutes. Remove promptly rather than boiling the egg mixture hard.",
+        "Pour the warm dressing over the chopped beetroot and toss gently. Let the shallow bowl lose its heat briefly over ice water, then cover and refrigerate promptly for about 1 hour until cold. Serve chilled.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The scanned Maggie Ebbs recipe says beet cooked and CHOPPED, not the extracted sliced. It gives one cup vinegar, a pinch of salt, one dessertspoon each sugar and mustard and one egg, but no beet quantity. This complete salad uses a chosen 800 g raw beetroot and full cooking instructions. A dessertspoon is represented by two modern teaspoons, 10 ml, as an explicit working measure. Poaching water, salt, eight side servings and total time including chilling are supplied. A measured water-bath egg cook replaces the terse boil-all-together instruction. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 140,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "cooked-beets",
+          "label": "Starting with cooked beetroot",
+          "ingredients": [
+            {
+              "key": "beets",
+              "amount": 700,
+              "unit": "g",
+              "name": "plain cooked peeled beetroot, chilled and drained",
+              "substitution": "Use the fresh-beet base recipe instead; pickled beetroot would add extra acidity."
+            },
+            {
+              "key": "vinegar",
+              "amount": 240,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.125,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "sugar",
+              "amount": 2,
+              "unit": "tsp",
+              "name": "white sugar",
+              "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+            },
+            {
+              "key": "mustard",
+              "amount": 2,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "eggs",
+              "amount": 1,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+            }
+          ],
+          "steps": [
+            "Chop {{beets}} into small pieces and put in a clean shallow bowl. Keep refrigerated while preparing the dressing.",
+            "Whisk {{eggs}}, {{sugar}}, {{mustard}} and {{salt}} in a heatproof bowl, then gradually whisk in {{vinegar}}. Set over gently simmering water with the bowl above the water and stir continuously until lightly thickened and at least 71°C (160°F), about 5–10 minutes. Remove promptly rather than boiling the egg mixture hard.",
+            "Pour the warm dressing over the chopped beetroot and toss gently. Let the shallow bowl lose its heat briefly over ice water, then cover and refrigerate promptly for about 1 hour until cold. Serve chilled.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "sourceId": "historical-5e38cb2ff53b27506cde311b",
+    "bodySha256": "54ce71a8f660401d6da1529fa40dd7f907fd285075940a61984abed0d9ce91eb",
+    "recipe": {
+      "id": "historical-5e38cb2ff53b27506cde311b",
+      "title": "Canadian Cabbage Salad with Sweet Cooked Dressing",
+      "description": "Finely shredded cabbage is tossed with a chilled sweet-and-tangy egg dressing flavored with mustard and black pepper.",
+      "category": "Salads",
+      "servings": 8,
+      "yieldUnit": "servings",
+      "minutes": 50,
+      "ingredients": [
+        {
+          "key": "vinegar",
+          "amount": 120,
+          "unit": "ml",
+          "name": "white wine vinegar",
+          "substitution": "Use the same volume of cider vinegar for a different flavor."
+        },
+        {
+          "key": "water",
+          "amount": 120,
+          "unit": "ml",
+          "name": "drinking water",
+          "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+        },
+        {
+          "key": "sugar",
+          "amount": 120,
+          "unit": "ml",
+          "name": "white sugar",
+          "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+        },
+        {
+          "key": "butter",
+          "amount": 5,
+          "unit": "g",
+          "name": "unsalted butter",
+          "substitution": "Use the same weight of salted butter and reduce the added salt."
+        },
+        {
+          "key": "eggs",
+          "amount": 2,
+          "unit": "",
+          "name": "large eggs",
+          "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+        },
+        {
+          "key": "mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "name": "dry mustard powder",
+          "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+        },
+        {
+          "key": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "fine salt",
+          "substitution": "Reduce or omit to taste."
+        },
+        {
+          "key": "pepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "name": "ground black pepper",
+          "substitution": "Use the same amount of ground white pepper, or omit."
+        },
+        {
+          "key": "pastevinegar",
+          "amount": 5,
+          "unit": "ml",
+          "name": "additional white wine vinegar for the mustard paste",
+          "substitution": "Use the same volume of cider vinegar."
+        },
+        {
+          "key": "cabbage",
+          "amount": 800,
+          "unit": "g",
+          "name": "green cabbage, trimmed weight",
+          "substitution": "Use the complete lettuce variation if preferred."
+        }
+      ],
+      "steps": [
+        "Put {{vinegar}}, {{water}}, {{sugar}} and {{butter}} in a small saucepan. Heat gently, stirring until the sugar dissolves and the butter melts, then bring just to a simmer.",
+        "Beat {{eggs}} in a heatproof bowl. In a small dish, mix {{mustard}}, {{salt}} and {{pepper}} with {{pastevinegar}} to make a smooth paste, then whisk the paste into the eggs.",
+        "Whisk the hot vinegar mixture into the eggs slowly in a thin stream. Return to the saucepan and stir over low heat until lightly thickened and at least 71°C (160°F). Remove promptly without boiling hard.",
+        "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+        "Wash {{cabbage}}, remove the core and shred finely. Just before serving, toss the cold dressing with the shredded cabbage until evenly coated. Serve immediately for crisp cabbage.",
+        "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+      ],
+      "notes": "The scanned Mrs. G. A. Scott recipe specifies HALF a cup each vinegar, water and white sugar, and HALF a teaspoon each salt and black pepper. This corrects the extracted three-quarter cup water, full cup sugar and three-quarter teaspoon pepper. The three half-cups become 120 ml each, with sugar explicitly a dry ingredient measured by volume. The additional little vinegar for the mustard paste becomes a working 5 ml; it is not silently added to the main vinegar quantity. The source names lettuce or cabbage, then directs finely chopped cabbage; a chosen 800 g cabbage makes a complete eight-serving salad and a full lettuce version preserves the alternative. Five grams butter and timing are modern choices. Spoon measures use the app’s modern 15 ml tablespoon and 5 ml teaspoon. Yields, missing quantities and preparation times are modern estimates, not recovered historical measurements. Not kitchen-tested. Scaling changes ingredient amounts, not preparation times.",
+      "source": "Canadian Farm Cook Book (1911), author not recorded. https://archive.org/details/canadianfarmcook00unse SavorShelf measured adaptation. Modern egg cooking endpoint: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "sourceStatus": "adapted",
+      "country": "",
+      "cuisine": "",
+      "cuisineTags": [],
+      "totalMinutes": 50,
+      "versionNote": "Modern measured adaptation",
+      "updatedAt": "2026-09-22T20:00:00Z",
+      "sourceAliases": [],
+      "variants": [
+        {
+          "id": "lettuce",
+          "label": "With lettuce instead of cabbage",
+          "ingredients": [
+            {
+              "key": "vinegar",
+              "amount": 120,
+              "unit": "ml",
+              "name": "white wine vinegar",
+              "substitution": "Use the same volume of cider vinegar for a different flavor."
+            },
+            {
+              "key": "water",
+              "amount": 120,
+              "unit": "ml",
+              "name": "drinking water",
+              "substitution": "Use the same volume of drinking water, topping up to cover as directed."
+            },
+            {
+              "key": "sugar",
+              "amount": 120,
+              "unit": "ml",
+              "name": "white sugar",
+              "substitution": "Use the same volume of caster sugar; brown sugar gives a different flavor."
+            },
+            {
+              "key": "butter",
+              "amount": 5,
+              "unit": "g",
+              "name": "unsalted butter",
+              "substitution": "Use the same weight of salted butter and reduce the added salt."
+            },
+            {
+              "key": "eggs",
+              "amount": 2,
+              "unit": "",
+              "name": "large eggs",
+              "substitution": "Use the same number of large pasteurized shell eggs if preferred."
+            },
+            {
+              "key": "mustard",
+              "amount": 1,
+              "unit": "tsp",
+              "name": "dry mustard powder",
+              "substitution": "Use the same volume of prepared Dijon mustard for a milder flavor."
+            },
+            {
+              "key": "salt",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "fine salt",
+              "substitution": "Reduce or omit to taste."
+            },
+            {
+              "key": "pepper",
+              "amount": 0.5,
+              "unit": "tsp",
+              "name": "ground black pepper",
+              "substitution": "Use the same amount of ground white pepper, or omit."
+            },
+            {
+              "key": "pastevinegar",
+              "amount": 5,
+              "unit": "ml",
+              "name": "additional white wine vinegar for the mustard paste",
+              "substitution": "Use the same volume of cider vinegar."
+            },
+            {
+              "key": "lettuce",
+              "amount": 600,
+              "unit": "g",
+              "name": "tender lettuce leaves, trimmed weight",
+              "substitution": "Use the cabbage base recipe instead."
+            }
+          ],
+          "steps": [
+            "Put {{vinegar}}, {{water}}, {{sugar}} and {{butter}} in a small saucepan. Heat gently, stirring until the sugar dissolves and the butter melts, then bring just to a simmer.",
+            "Beat {{eggs}} in a heatproof bowl. In a small dish, mix {{mustard}}, {{salt}} and {{pepper}} with {{pastevinegar}} to make a smooth paste, then whisk the paste into the eggs.",
+            "Whisk the hot vinegar mixture into the eggs slowly in a thin stream. Return to the saucepan and stir over low heat until lightly thickened and at least 71°C (160°F). Remove promptly without boiling hard.",
+            "Transfer to a clean shallow bowl and set over a larger bowl of cold water, keeping water out of the dressing. Stir until no longer warm, then cover and refrigerate for about 30 minutes until cold.",
+            "Wash {{lettuce}}, dry thoroughly and tear into bite-size pieces. Toss with the cold dressing immediately before serving, adding it gradually so the leaves remain lightly coated. Refrigerate any extra dressing separately for use within 2 days.",
+            "Cover and refrigerate promptly at 4°C (40°F) or colder. Use within 2 days and refrigerate within 2 hours of preparation."
+          ]
+        }
+      ]
+    }
   }
 ]
