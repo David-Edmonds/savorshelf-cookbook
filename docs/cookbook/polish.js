@@ -1,9 +1,9 @@
-/* SavorShelf 0.4 — presentation, editable version names and keyless-creator handoff. */
+/* Leggacy 0.4 — presentation, editable version names and keyless-creator handoff. */
 'use strict';
 const V=window.RecipeVersions;
 const shellBeforePolish=shell;
 shell=content=>shellBeforePolish(content)
- .replace(`<span class="brand-mark">${icon('chef')}</span>SavorShelf`,`<span class="brand-mark"><img class="brand-logo" src="icon.svg" alt=""></span><span class="brand-word">SavorShelf</span>`)
+ .replace(`<span class="brand-mark">${icon('chef')}</span>Leggacy`,`<span class="brand-mark"><img class="brand-logo" src="icon.svg" alt=""></span><span class="brand-word">Leggacy</span>`)
  .replace('On this device · 0.16.0','Saved on device');
 const optionsBeforePolish=optionsPanel;
 optionsPanel=(r,base)=>{
@@ -37,12 +37,12 @@ function historyModal(){
  const r=current();modal(`<h2>Your saved versions</h2><p class="small">Restoring an earlier recipe keeps the current one in history. Your ratings, photos, pins and custom names stay with the card.</p>${button('Rename versions','version-names','soft')}${(r.history||[]).length?r.history.map((h,i)=>`<div class="history-item"><strong>${esc(V.name(r,V.historyKey(h)))}</strong><p class="small">${date(h.updatedAt)} · ${esc(h.notes?.slice(0,160)||'No extra notes.')}</p>${button('Make this current','restore','',`data-index="${i}"`)}</div>`).join(''):'<p>Edit and save this recipe to start its history.</p>'}<div class="dialog-actions">${button('Close','close-modal')}</div>`);
 }
 function creatorPageSettings(){
- modal(`<h2>Keyless recipe creator</h2><p>Puter can generate recipes through a small website without your own AI key or private server.</p><p class="small">The included <strong>puter-creator</strong> folder is ready to host on GitHub Pages or another HTTPS static host. The dedicated SavorShelf companion is published. You can use its address or another compatible HTTPS creator.</p><label class="field">Your hosted creator page<input id="creator-page-url" type="url" maxlength="1000" placeholder="https://yourname.github.io/savorshelf-creator/" value="${esc(state.creatorPageUrl||'')}"></label><p class="small">The page opens in your browser, where you sign in with Puter. Only the request and dietary choices you submit are shared. Puter has a limited free allowance; extra usage may cost money. Your saved library is not sent.</p><p id="creator-page-error" class="inline-error" role="status"></p><div class="dialog-actions">${button('Save page address','save-creator-page','primary')}${button('Remove address','remove-creator-page')}${button('Close','close-modal')}</div>`);
+ modal(`<h2>Keyless recipe creator</h2><p>Puter can generate recipes through a small website without your own AI key or private server.</p><p class="small">The included <strong>puter-creator</strong> folder is ready to host on GitHub Pages or another HTTPS static host. The dedicated Leggacy companion is published. You can use its address or another compatible HTTPS creator.</p><label class="field">Your hosted creator page<input id="creator-page-url" type="url" maxlength="1000" placeholder="https://yourname.github.io/savorshelf-creator/" value="${esc(state.creatorPageUrl||'')}"></label><p class="small">The page opens in your browser, where you sign in with Puter. Only the request and dietary choices you submit are shared. Puter has a limited free allowance; extra usage may cost money. Your saved library is not sent.</p><p id="creator-page-error" class="inline-error" role="status"></p><div class="dialog-actions">${button('Save page address','save-creator-page','primary')}${button('Remove address','remove-creator-page')}${button('Close','close-modal')}</div>`);
 }
 function creatorConsent(){
  keepCreationDraft();const text=T.prompt(makerPrompt,{servings:makerServings,dairy:makerDairy,sugar:makerSugar,avoid:makerAvoid});
  if(!state.creatorPageUrl){creatorPageSettings();return;}
- modal(`<h2>Create with Puter</h2><p>Your browser will open the creator page. Sign in to Puter there, generate a draft, then use <strong>Send to SavorShelf</strong> to review and save it.</p><p class="small">Only this request and its cooking preferences will be sent. Puter and its model provider process it. Their free allowance and usage charges apply. This is a browser handoff, not AI running inside the app.</p><details><summary>Review the request</summary><p class="notes">${esc(text)}</p></details><div class="dialog-actions">${button('Open creator page','open-creator-page','primary')}${button('Cancel','close-modal')}</div>`);
+ modal(`<h2>Create with Puter</h2><p>Your browser will open the creator page. Sign in to Puter there, generate a draft, then use <strong>Send to Leggacy</strong> to review and save it.</p><p class="small">Only this request and its cooking preferences will be sent. Puter and its model provider process it. Their free allowance and usage charges apply. This is a browser handoff, not AI running inside the app.</p><details><summary>Review the request</summary><p class="notes">${esc(text)}</p></details><div class="dialog-actions">${button('Open creator page','open-creator-page','primary')}${button('Cancel','close-modal')}</div>`);
 }
 const creatorBeforePolish=creator;
 creator=()=>creatorBeforePolish()
