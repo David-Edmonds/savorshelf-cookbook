@@ -1,16 +1,18 @@
 {
-  "version": "0.25.0",
-  "versionCode": 27,
+  "version": "0.25.1",
+  "versionCode": 28,
   "applicationId": "com.recipekeeper.ourtable",
   "targetSdk": 36,
   "contentMode": "public-samples",
   "certificateSha256": "f6eac7b4b42570c9c29a73504a73a0f228e09d4a645651c7d9ff2370581b5eb3",
   "assetsMatched": 81,
-  "apkSha256": "f973e233d58a831576a999eda480751773ee6439f98bd3a0f8b48e73cdc5d0f0",
-  "aabSha256": "d31b953c95e36c015643abc9a1b0275b964ba48c8d7103fb78209fe7664383aa",
+  "apkSha256": "f2547009076752e0e09f41a797ec84f6db9b1107e0869a093f738f54334dfcbb",
+  "aabSha256": "96a170a3717b63aa6db8b965013bdd7b9527e729cbe86317801d590062620b2e",
   "bundleValidated": true,
   "bundleApkSignatureVerified": true,
   "finalLogoSupplied": true,
   "storeStatus": "prepared",
-  "physicalPhoneTested": false
+  "physicalPhoneTested": false,
+  "connectedAiEnabled": false,
+  "internetPermission": false
 }

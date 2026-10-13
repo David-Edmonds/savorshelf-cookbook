@@ -189,6 +189,7 @@ public class MainActivity extends Activity {
         }
         @JavascriptInterface public String consumeSharedRecipe(){return sharedRecipe.getAndSet("");}
         @JavascriptInterface public void requestChatGPT(String text){
+            if(!ReleaseFeatures.CONNECTED_AI_ENABLED){message("Connected AI is not included in this beta.");return;}
             if(text==null||text.length()>200000){message("That request is too large to share.");return;}
             runOnUiThread(()->{
                 ClipboardManager manager=(ClipboardManager)getSystemService(CLIPBOARD_SERVICE);
@@ -200,6 +201,7 @@ public class MainActivity extends Activity {
 
         /** Open the optional creator in the external browser; never load remote code in the privileged WebView. */
         @JavascriptInterface public String openCreatorPage(String url) {
+            if(!ReleaseFeatures.CONNECTED_AI_ENABLED)return "Connected AI is not included in this beta.";
             try {
                 if(url==null||url.length()>16000)return "The creator request is too long.";
                 java.net.URI uri=new java.net.URI(url);String host=uri.getHost();
@@ -221,10 +223,12 @@ public class MainActivity extends Activity {
         }
         /** Configured URL is public; the app token is encrypted with Android Keystore. */
         @JavascriptInterface public synchronized String getAiConfig() {
+            if(!ReleaseFeatures.CONNECTED_AI_ENABLED)return "{\"configured\":false,\"url\":\"\",\"available\":false}";
             try {org.json.JSONObject result=new org.json.JSONObject();String url=getPreferences(0).getString("aiUrl","");result.put("url",url);result.put("configured",!url.isEmpty()&&!readAiToken().isEmpty());return result.toString();}
             catch(Exception e){return "{\"configured\":false,\"url\":\"\"}";}
         }
         @JavascriptInterface public synchronized String setAiConfig(String url,String token) {
+            if(!ReleaseFeatures.CONNECTED_AI_ENABLED)return "Connected AI is not included in this beta.";
             try {
                 if(url==null||url.isEmpty()){getPreferences(0).edit().remove("aiUrl").remove("aiToken").remove("aiIv").apply();return "";}
                 java.net.URI uri=new java.net.URI(url);String host=uri.getHost();
@@ -243,6 +247,7 @@ public class MainActivity extends Activity {
             } catch(Exception e){return "The connection could not be stored securely. Please try again.";}
         }
         @JavascriptInterface public void generateRecipe(String requestId,String payload) {
+            if(!ReleaseFeatures.CONNECTED_AI_ENABLED){aiResult(requestId,"{\"error\":\"Connected AI is not included in this beta.\"}");return;}
             if(requestId==null||!requestId.matches("[a-zA-Z0-9-]{1,100}"))return;
             String url=getPreferences(0).getString("aiUrl",""), token=readAiToken();
             if(url.isEmpty()||token.isEmpty()){aiResult(requestId,"{\"error\":\"Configure the private AI connection first.\"}");return;}

@@ -11,5 +11,6 @@
   "bundledFoodPhotosIncluded": 0,
   "personalStorageUnchanged": true,
   "kitchenTested": false,
-  "finalLogoSupplied": false
+  "finalLogoSupplied": true,
+  "connectedAiEnabled": false
 }

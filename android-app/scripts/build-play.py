@@ -31,9 +31,16 @@ with tempfile.TemporaryDirectory(prefix='leggacy-private-build-') as directory:
  cert=subprocess.check_output([str(a.jdk/'bin/keytool.exe'),'-exportcert','-keystore',str(t/'signing.jks'),'-storepass:file',str(t/'password.txt'),'-alias','ourtable-preview'],stderr=subprocess.PIPE)
  assert hashlib.sha256(cert).hexdigest()==CERT,'Original signing identity required'
  for n in ['classes','dex','generated']:(t/n).mkdir()
+ build_manifest=ET.parse(ROOT/'android/AndroidManifest.xml')
+ if a.public_samples:
+  for permission in list(build_manifest.getroot().findall('uses-permission')):
+   if permission.get(ns+'name')=='android.permission.INTERNET':build_manifest.getroot().remove(permission)
+ manifest=t/'AndroidManifest.xml';build_manifest.write(manifest,encoding='utf-8',xml_declaration=True)
+ feature=t/'generated/com/recipekeeper/app/ReleaseFeatures.java';feature.parent.mkdir(parents=True,exist_ok=True)
+ feature.write_text('package com.recipekeeper.app; public final class ReleaseFeatures { public static final boolean CONNECTED_AI_ENABLED = '+('false' if a.public_samples else 'true')+'; }','utf-8')
  run([aapt,'compile','--dir',ROOT/'android/res','-o',t/'res.zip'])
  for proto in [False,True]:
-  cmd=[aapt,'link','-o',t/('proto.apk' if proto else 'base.apk'),'-I',a.platform/'android.jar','--manifest',ROOT/'android/AndroidManifest.xml','-A',web,t/'res.zip']
+  cmd=[aapt,'link','-o',t/('proto.apk' if proto else 'base.apk'),'-I',a.platform/'android.jar','--manifest',manifest,'-A',web,t/'res.zip']
   if proto:cmd.append('--proto-format')
   else:cmd+=['--java',t/'generated']
   run(cmd)
@@ -63,11 +70,12 @@ with tempfile.TemporaryDirectory(prefix='leggacy-private-build-') as directory:
   bundle_apk=out/f'Leggacy-{version}-from-bundle.apk';bundle_apk.write_bytes(z.read('universal.apk'))
  assert CERT in run([java,'-jar',a.tools/'lib/apksigner.jar','verify','--verbose','--print-certs',bundle_apk])
  info=run([aapt,'dump','badging',apk]);assert f"versionCode='{code}' versionName='{version}'" in info and "application-label:'Leggacy'" in info and "targetSdkVersion:'36'" in info
+ if a.public_samples:assert "uses-permission: name='android.permission.INTERNET'" not in info
  assets=list(x for x in web.rglob('*') if x.is_file())
  for file in [apk,bundle]:
   with zipfile.ZipFile(file) as z:
    assert z.testzip() is None
    prefix='base/assets/' if file==bundle else 'assets/'
    for x in assets:assert z.read(prefix+x.relative_to(web).as_posix())==x.read_bytes()
- report={'version':version,'versionCode':code,'applicationId':m.get('package'),'targetSdk':36,'contentMode':'public-samples' if a.public_samples else 'private-review-only','certificateSha256':CERT,'assetsMatched':len(assets),'apkSha256':hashlib.sha256(apk.read_bytes()).hexdigest(),'aabSha256':hashlib.sha256(bundle.read_bytes()).hexdigest(),'bundleValidated':True,'bundleApkSignatureVerified':True,'finalLogoSupplied':True,'storeStatus':'prepared','physicalPhoneTested':False}
+ report={'version':version,'versionCode':code,'applicationId':m.get('package'),'targetSdk':36,'contentMode':'public-samples' if a.public_samples else 'private-review-only','certificateSha256':CERT,'assetsMatched':len(assets),'apkSha256':hashlib.sha256(apk.read_bytes()).hexdigest(),'aabSha256':hashlib.sha256(bundle.read_bytes()).hexdigest(),'bundleValidated':True,'bundleApkSignatureVerified':True,'finalLogoSupplied':True,'storeStatus':'prepared','physicalPhoneTested':False,'connectedAiEnabled':not a.public_samples,'internetPermission':not a.public_samples}
  (out/'verification.json').write_text(json.dumps(report,indent=2),'utf-8');print(json.dumps(report,indent=2))
