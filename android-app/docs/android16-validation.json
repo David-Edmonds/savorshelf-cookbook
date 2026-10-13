@@ -1,0 +1,25 @@
+{
+  "environment": "Android 16 / API 36 official default x86_64 emulator",
+  "upgradeFrom": "0.24.0/code 26",
+  "upgradeTo": "0.25.0/code 27 bundle-derived public APK",
+  "legacyRecipeCount": 31,
+  "upgradeJsonEqual": true,
+  "relaunchJsonEqual": true,
+  "freshSampleCount": 3,
+  "renderedCleanAndUpgrade": true,
+  "detailAndBackPassed": true,
+  "physicalPhoneTested": false,
+  "webView": [
+    "Current WebView Update Service state",
+    "  Current WebView package (name, version): (com.android.webview, 133.0.6943.137)",
+    "  Minimum targetSdkVersion: 33",
+    "  Minimum WebView version code: 694313707",
+    "  Number of relros started: 1",
+    "  Number of relros finished: 1",
+    "  WebView package dirty: false",
+    "  Any WebView package installed: true",
+    "  Preferred WebView package (name, version): (com.android.webview, 133.0.6943.137)",
+    "  WebView packages:",
+    "    Valid package com.android.webview (versionName: 133.0.6943.137, versionCode: 694313707, targetSdkVersion: 34) is  installed/enabled for all users"
+  ]
+}

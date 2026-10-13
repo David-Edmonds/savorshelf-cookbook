@@ -6,11 +6,11 @@
   "contentMode": "public-samples",
   "certificateSha256": "f6eac7b4b42570c9c29a73504a73a0f228e09d4a645651c7d9ff2370581b5eb3",
   "assetsMatched": 81,
-  "apkSha256": "a4c16e58ab50c769fad3c180d8fd87edba0ea09d4c132485443d038296c1b970",
-  "aabSha256": "4a863fe324a9bde3ff9a6e07743a45ab202999fe3c093031c19a74368cfc2c7c",
+  "apkSha256": "f973e233d58a831576a999eda480751773ee6439f98bd3a0f8b48e73cdc5d0f0",
+  "aabSha256": "d31b953c95e36c015643abc9a1b0275b964ba48c8d7103fb78209fe7664383aa",
   "bundleValidated": true,
   "bundleApkSignatureVerified": true,
-  "finalLogoSupplied": false,
+  "finalLogoSupplied": true,
   "storeStatus": "prepared",
   "physicalPhoneTested": false
 }

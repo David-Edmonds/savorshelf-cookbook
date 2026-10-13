@@ -69,5 +69,5 @@ with tempfile.TemporaryDirectory(prefix='leggacy-private-build-') as directory:
    assert z.testzip() is None
    prefix='base/assets/' if file==bundle else 'assets/'
    for x in assets:assert z.read(prefix+x.relative_to(web).as_posix())==x.read_bytes()
- report={'version':version,'versionCode':code,'applicationId':m.get('package'),'targetSdk':36,'contentMode':'public-samples' if a.public_samples else 'private-review-only','certificateSha256':CERT,'assetsMatched':len(assets),'apkSha256':hashlib.sha256(apk.read_bytes()).hexdigest(),'aabSha256':hashlib.sha256(bundle.read_bytes()).hexdigest(),'bundleValidated':True,'bundleApkSignatureVerified':True,'finalLogoSupplied':False,'storeStatus':'prepared','physicalPhoneTested':False}
+ report={'version':version,'versionCode':code,'applicationId':m.get('package'),'targetSdk':36,'contentMode':'public-samples' if a.public_samples else 'private-review-only','certificateSha256':CERT,'assetsMatched':len(assets),'apkSha256':hashlib.sha256(apk.read_bytes()).hexdigest(),'aabSha256':hashlib.sha256(bundle.read_bytes()).hexdigest(),'bundleValidated':True,'bundleApkSignatureVerified':True,'finalLogoSupplied':True,'storeStatus':'prepared','physicalPhoneTested':False}
  (out/'verification.json').write_text(json.dumps(report,indent=2),'utf-8');print(json.dumps(report,indent=2))
