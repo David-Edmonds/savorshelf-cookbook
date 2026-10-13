@@ -1,6 +1,7 @@
 {
-  "version": "0.25.1",
-  "versionCode": 28,
+  "version": "0.25.2",
+  "versionCode": 29,
+  "missingNewerApisSimulated": true,
   "offlineDraftBuiltAndSaved": true,
   "connectedControlsAbsent": true,
   "offDeviceRequests": [],

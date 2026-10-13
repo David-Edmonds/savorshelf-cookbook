@@ -6,10 +6,10 @@
   "appRendered": true,
   "recipeDetailPassed": true,
   "environment": "Android 16/API 36 emulator",
-  "apkSha256": "daf6713974dce8b68b1f15022d9b3d7eb9e6798b3597d6f952a907262ae03668",
+  "apkSha256": "030f6ef73b0e7ff12716ab2cd34ecf3802415b54dff598c4239565220bfdef34",
   "physicalPhoneTested": false,
-  "version": "0.25.1",
-  "versionCode": 28,
+  "version": "0.25.2",
+  "versionCode": 29,
   "offlineCreateScreenRendered": true,
   "connectedControlsAbsent": true
 }
