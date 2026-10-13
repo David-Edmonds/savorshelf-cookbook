@@ -1,0 +1,15 @@
+{
+  "mode": "public-samples",
+  "sampleIds": [
+    "leggacy-sample-tomato-pasta",
+    "leggacy-sample-oatmeal",
+    "leggacy-sample-roast-carrots"
+  ],
+  "sampleCount": 3,
+  "privateOriginalEntriesIncluded": 0,
+  "importedRecipeEntriesIncluded": 0,
+  "bundledFoodPhotosIncluded": 0,
+  "personalStorageUnchanged": true,
+  "kitchenTested": false,
+  "finalLogoSupplied": false
+}

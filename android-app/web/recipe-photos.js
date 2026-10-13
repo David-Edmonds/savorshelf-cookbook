@@ -1,0 +1,1 @@
+(function(root){const api={entries:{},count:0,resolve:r=>r&&r.photo?{kind:'personal',src:r.photo}:null};if(typeof module==='object'&&module.exports)module.exports=api;else root.RecipePhotos=api;})(typeof window==='undefined'?globalThis:window);
