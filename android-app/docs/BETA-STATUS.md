@@ -1,22 +1,32 @@
-# Leggacy closed-beta review — 13 October 2026
+# Leggacy closed-beta submission — 13 October 2026
 
-Final candidate: **0.25.0/code 27**, `com.recipekeeper.ourtable`, target API 36. Final owner-supplied logo is integrated into web icons, Android adaptive and themed icons, Android 12+ splash, both website drafts and store artwork. Public installs contain three original clearly labelled untested sample recipes. Private/imported corpus and food photographs are excluded. Existing stored collections are preserved.
+**Leggacy 0.25.2 (29) was submitted to Google Play for closed Alpha testing.** Play displays **Changes in review**, with automated quick checks still running. This records acceptance of the submission request; Google approval and tester availability remain pending. The app is not live or publicly searchable.
 
-**Play state: saved unpublished Alpha release draft with name and notes; no bundle uploaded, no review submitted, no rollout.** The selected owner list contains only leftfieldstudioapps@gmail.com. United Kingdom and United States country availability is saved as unpublished Play changes; opt-in link is inactive. Zero genuine opt-ins have been established.
+The 14 submitted changes include the version 29 release, United Kingdom and United States availability, the one-address Leggacy owner beta list, feedback channel, final store listing/artwork, rating, audience, privacy policy, ads, Data safety, health declaration and Food & Drink category. Additional access, Advertising ID, government and financial declarations are saved. Managed publishing is off, so the closed beta can become available to eligible testers after approval. No tester invitations were sent. Zero genuine opt-ins have been established.
 
-Checks: original certificate verified, APK/AAB validated and staged assets matched; 20/20 public-source tests passed. Final public browser checks passed for three samples, legacy JSON equality, scaling and offline reload. Final bundle-derived APK installed in Android 16, retained its saved JSON and rendered final logo, recipe detail, four-serving scaling and cooking mode. Previous full-source 193/193 regressions and Android 15/16 signed baseline upgrades preserved all 31 synthetic recipes and complete saved JSON. Physical-phone and kitchen checks remain unperformed. The cookbook repository retains an inherited formatter test failure reproduced on its unchanged baseline.
+The approved final logo is integrated into native icons/splash, web assets and store artwork. Icon and feature graphic carry the AI disclosure. Four screenshots show actual app screens. IARC terms were accepted with owner approval; ratings include ESRB Everyone and PEGI 3. Publisher support and rating contact: leftfieldstudioapps@gmail.com.
 
-## Signing gate discovered in Play
+The encrypted original signing key was enrolled with Google Play. The displayed app-signing certificate matches the retained original SHA-256: f6eac7b4b42570c9c29a73504a73a0f228e09d4a645651c7d9ff2370581b5eb3. Package com.recipekeeper.ourtable, storage identifiers, backup compatibility and saved collections are preserved. No replacement signing key was generated. The private backup was not uploaded or included in source packages.
 
-Play automatically provisioned a key for the new listing. Its displayed SHA-256 fingerprint is 59:39:F2:66:59:50:2C:34:F0:F0:69:EB:0D:FE:F7:CD:76:ED:71:05:A2:65:93:E0:2B:63:AD:E5:36:62:6B:2D. It differs from the retained existing certificate f6eac7b4b42570c9c29a73504a73a0f228e09d4a645651c7d9ff2370581b5eb3. The console offers Change key before any bundle has been uploaded. No key was transmitted or changed. Use the existing signing identity before first upload. Sending an encrypted export of that original private signing key to Google Play requires owner approval; never upload the private backup ZIP.
+The first beta is offline: connected AI is omitted with owner approval, native connection bridges are guarded and the public manifest has no Internet permission. It includes three original clearly labelled untested sample recipes and excludes the private/imported corpus and bundled food photographs. Existing saved recipes remain intact. Offline recipe creation, editing, scaling, cooking, shopping and backup workflows remain available.
 
-Automatic Play protection is currently on. Its installer-check consequences require review before distribution outside Play; it has not been disabled.
+[Live privacy policy](https://david-edmonds.github.io/savorshelf-cookbook/android-privacy.html)
 
-## Approval scope and remaining actions
+## Verification and limits
 
-Review the candidate build, final store assets, descriptions and release notes. Approval of these materials does not mean the beta is live. Separately approve enrollment of the existing signing identity with Google Play. Finish public privacy-page deployment and accurate content rating, audience, Data safety, health and reviewer-access declarations; country availability is already saved. Upload only the approved public AAB, then show Play's actual final review before submitting/rolling out.
+Current version 29: 20/20 public-source tests passed; browser sample, scaling, offline reload, complete legacy JSON equality and offline draft creation/save passed. Creation also passed with newer text/DOM methods, Object.hasOwn and structuredClone disabled. No off-device requests or page errors were observed. APK/AAB original signatures, bundle validation and all 81 staged asset matches passed. Android 16 signed upgrade preserved complete saved JSON and showed offline creation. Earlier full-source 193/193 regressions and Android 15/16 baseline upgrades preserved all 31 synthetic saved recipes.
 
-Closed testing is available through the opt-in flow for eligible allowlisted Google accounts once published. It is not public search visibility. This account requires 12 genuine testers continuously opted in for 14 days and production-access approval before open testing.
+Physical-phone and kitchen tests have not been performed. Full execution on Android 8/WebView 80 was not performed; missing newer browser methods were simulated. The existing cookbook website retains an inherited formatter/source-data test failure reproduced on unchanged baseline f37b5ff. Play's only release warning concerns an optional deobfuscation map; this build does not use R8/Proguard obfuscation.
 
-[Official testing requirements](https://support.google.com/googleplay/android-developer/answer/14151465)
-[Official asset requirements](https://support.google.com/googleplay/android-developer/answer/9866151)
+The earlier version 28 submission was withdrawn before availability; its draft release was discarded and replaced with version 29 after a compatibility fix. Only version 29 is in the final release. Older artifacts remain historical.
+
+This is a restricted closed beta. Production/open-testing eligibility still requires the account's genuine tester requirement and production-access approval. Full cookbook and creator rebrand PRs remain drafts; policy-only PRs #2 and #3 are merged and the privacy policy is live.
+
+## Deliverables
+
+- Leggacy-0.25.2.apk and Leggacy-0.25.2.aab: verified final build.
+- play-submission.json and play-beta-submitted.jpg: submission receipt and Console proof.
+- Leggacy-0.25.2-public-source.zip: sanitized public source.
+- Leggacy-0.25.2-PRIVATE-source.zip: private source recovery, excluding signing credentials.
+- Leggacy-local-history.bundle: recoverable local Git history.
+- Leggacy-store-assets-final.zip: final store artwork, copy and release status.
