@@ -1,3 +1,15 @@
+# Leggacy closed-test display update — 15 October 2026
+
+Google Play accepted Leggacy 0.25.3 (30) and the tester-access change to testers-community@googlegroups.com. Publishing overview displays **Changes in review**, with automated quick checks running. Checks must finish successfully before Google review. This is a closed Alpha update, not a public production release. Managed publishing is off; eligible testers can receive the update after approval. Existing country coverage is unchanged (178 regions including Rest of World).
+
+The update removes the two deprecated system-bar colour calls Play identified, improves edge-to-edge and display-cutout handling, and keeps controls clear of system bars and the keyboard. Package, original signer, saved recipes and backups remain compatible. The final logo, three labelled untested samples and offline-only configuration are retained.
+
+Validation: 193/193 full-source tests and 20/20 public-source tests passed. APK/AAB signatures, bundle validation and 81 staged asset matches passed. An actual signed 29-to-30 Android 16 emulator upgrade preserved the complete saved JSON, including after relaunch. Light/dark, portrait/landscape cutouts, keyboard and both navigation modes were checked. Physical-phone and older Android execution were not performed for this update. Play's separate display-warning reanalysis has not yet been confirmed.
+
+See play-submission.json, DISPLAY-UPDATE-0.25.3.txt and display-update-native-validation.json. The dated delivery folder contains build artifacts, test logs and play-submitted.png. The record below describes the original beta submission and remains historical.
+
+---
+
 # Leggacy closed-beta submission — 13 October 2026
 
 **Leggacy 0.25.2 (29) was submitted to Google Play for closed Alpha testing.** Play displays **Changes in review**, with automated quick checks still running. This records acceptance of the submission request; Google approval and tester availability remain pending. The app is not live or publicly searchable.

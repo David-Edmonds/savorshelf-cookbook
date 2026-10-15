@@ -1,0 +1,10 @@
+Leggacy 0.25.3 / version code 30 — Android display maintenance
+15 October 2026
+
+Removed Window.setStatusBarColor and Window.setNavigationBarColor, the two deprecated calls identified by Play in MainActivity.applyAppearance. System bars are transparent and the root surface supplies their background. Modern Android uses WindowInsetsController for icon appearance; older Android retains its compatible flags. Explicit edge-to-edge setup is used below API 35, where Android does not enforce it automatically. Insets account for system bars, display cutouts and the keyboard. The WebView-update help screen uses the same safe container.
+
+Package, original signing identity, local storage, backup compatibility and saved recipes are preserved. The public sample collection and offline-only configuration are unchanged. No connected AI, billing, ads or new data collection was enabled.
+
+Verification: 193/193 full-source regression tests; 20/20 public-source tests; original APK/AAB signatures and bundle validation; all 81 packaged assets match staged source. Actual signed 29-to-30 Android 16 emulator upgrade preserved complete saved JSON, including after force-stop/relaunch. Inspected light/dark, portrait, landscape with a cutout, portrait cutout, visible keyboard, three-button and gesture navigation. Physical phones and the older Android paths were not executed in this release check. Play's post-submission display-warning reanalysis remains separate from local verification. The release-preview validation has only the conditional optional deobfuscation warning; this build is not R8/Proguard-obfuscated.
+
+See build-verification.json and native-validation.json in the dated delivery folder. Final Play submission status will be recorded separately.

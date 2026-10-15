@@ -1,6 +1,6 @@
 # Leggacy Android beta
 
-Leggacy 0.25.2/code 29 continues the existing Java WebView app. Target API 36; minimum Android API 26 and WebView 80. Preserve com.recipekeeper.ourtable, the original signing certificate, native recipes-v1.json, browser our-table-v1, local asset origin and legacy backup markers.
+Leggacy 0.25.3/code 30 continues the existing Java WebView app. Target API 36; minimum Android API 26 and WebView 80. Preserve com.recipekeeper.ourtable, the original signing certificate, native recipes-v1.json, browser our-table-v1, local asset origin and legacy backup markers.
 
 The public build contains three original labelled untested samples. It excludes private history, imported corpus and food photographs. Connected AI is omitted from the owner-approved first beta: Internet permission is absent, native connection bridges are disabled and UI connection controls are removed. Stored recipes, photos, notes, preferences and legacy connection settings are not reset. Offline template creation and imports remain available.
 
