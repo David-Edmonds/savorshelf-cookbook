@@ -1,0 +1,14 @@
+{
+  "finalLogoSupplied": true,
+  "finalBundleInstalled": true,
+  "savedJsonEqual": true,
+  "sampleCount": 3,
+  "appRendered": true,
+  "recipeDetailPassed": true,
+  "environment": "Android 16/API 36 emulator",
+  "apkSha256": "348549e8bd9945f120d6d7b88bc95c9be6bc29a12f95a107ea76bdc82ae5290a",
+  "physicalPhoneTested": false,
+  "portionsFourDisplayed": true,
+  "cookingModeRendered": true,
+  "frameworkBackPassed": true
+}

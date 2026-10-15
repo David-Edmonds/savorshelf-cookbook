@@ -23,3 +23,6 @@ header,footer{border-color:#5d6d79}nav a,footer a{color:#faf6ee}
 .reading-page{margin-top:28px;margin-bottom:28px;border-radius:18px;border:1px solid #c2b8a8}
 .reading-page .button{color:#fff;background:#843c29}.reading-page .button-secondary{color:#142d3d;background:transparent}
 .skip-link{color:#142d3d}
+
+/* Leggacy display palette; legacy URLs and data are unchanged. */
+:root{--ink:#25272b;--cream:#fff9ef;--clay:#244fc4;--muted:#62646b;--line:#dedbd4}.brand{color:#244fc4}

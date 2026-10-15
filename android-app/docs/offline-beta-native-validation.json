@@ -1,0 +1,15 @@
+{
+  "finalLogoSupplied": true,
+  "finalBundleInstalled": true,
+  "savedJsonEqual": true,
+  "sampleCount": 3,
+  "appRendered": true,
+  "recipeDetailPassed": true,
+  "environment": "Android 16/API 36 emulator",
+  "apkSha256": "030f6ef73b0e7ff12716ab2cd34ecf3802415b54dff598c4239565220bfdef34",
+  "physicalPhoneTested": false,
+  "version": "0.25.2",
+  "versionCode": 29,
+  "offlineCreateScreenRendered": true,
+  "connectedControlsAbsent": true
+}

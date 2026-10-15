@@ -1,0 +1,7 @@
+/* Leggacy presentation; canonical recipes and stored preferences are unchanged. */
+:root:not([data-theme=dark]){--bg:#fff9ef;--paper:#fffdf8;--ink:#25272b;--muted:#62646b;--brand:#244fc4;--accent:#244fc4;--green:#244fc4;--focus:#244fc4;--terracotta:#244fc4;--amber:#aa822f;--line:#dedbd4;--light:#eef2fc;--soft:#f4efe4}
+:root:not([data-theme=dark]) .btn.primary{background:#244fc4;color:#fff;border-color:#244fc4}
+:root:not([data-theme=dark]) .brand-word{color:#244fc4}
+.brand-mark{border-radius:12px}.brand-word{letter-spacing:-.025em}
+
+.food-illustration{background:#eef2fc url("sample-art.svg") center/contain no-repeat!important}

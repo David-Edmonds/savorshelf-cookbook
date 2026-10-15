@@ -1,0 +1,11 @@
+/* Recover explicit source quantities. Missing amounts remain unknown, never guesses. */
+(function(root){'use strict';
+const C=typeof module!=='undefined'?require('./core.js'):root.RecipeCore;
+const number='(?:\\d+\\s+\\d+/\\d+|\\d+/\\d+|\\d+(?:\\.\\d+)?(?:[½¼¾⅓⅔⅛⅜⅝⅞⅙⅚])?|[½¼¾⅓⅔⅛⅜⅝⅞⅙⅚])';
+const range=new RegExp('^('+number+')\\s*(?:[-–—]|to)\\s*('+number+')\\s+(.+)$','i');
+const exact=new RegExp('^('+number+')\\s+(.+)$','i');
+const unit=/^(fluid ounces?|fl\.?\s*oz\.?|cups?|tablespoons?|tbsp|teaspoons?|tsp|kilograms?|kg|grams?|g|millilit(?:er|re)s?|ml|lit(?:er|re)s?|l|ounces?|oz|pounds?|lbs?|cloves?|cans?|slices?|pieces?|shots?)\b\.?\s*/i;
+function recover(input){const i={...input};if(i.amount!==null)return i;const original=i.name;let text=original.replace(/^(?:(?:about|approximately|approx\.?)\s+|[~≈]\s*)/i,'');text=text.replace(/^(finely grated zest and juice|zest and juice|juice|zest|peel) of (one|1|½|1\/2) (lemon|lime|orange)(\s+or\s+(?:lemon|lime|orange))?$/i,(_,part,n,fruit,alternative)=>`${n==='one'?'1':n} ${fruit}${alternative||''} (${part})`);text=text.replace(/^A large loaf of (.+)$/i,'1 large loaf of $1');const counted=text.match(/^(.+) \(about (\d+) (.+)\)$/i);if(counted)return {...i,amount:Number(counted[2]),unit:/drumsticks/i.test(counted[3])?counted[3]:'',name:counted[1]+' ('+counted[3]+'; approximate source amount)',quantitySource:original};let low,high,rest;const r=text.match(range),m=text.match(exact);if(r){low=C.quantity(r[1]);high=C.quantity(r[2]);rest=r[3];}else if(m){low=C.quantity(m[1]);rest=m[2];}else return i;if(!Number.isFinite(low)||low<0||high!==undefined&&(!Number.isFinite(high)||high<low))return i;const u=rest.match(unit);i.amount=low;if(high!==undefined)i.amountMax=high;i.unit=u?C.unit(u[1]):'';i.name=u?rest.slice(u[0].length):rest;if(!i.name.trim())return {...input};i.quantitySource=original;return i;}
+function status(i){if(i.amount!==null)return i.amountMax===undefined?'measured':'recorded-range';return /to taste|as (?:needed|desired|much as)|for (?:garnish|greasing|frying)|to garnish|enough to cover|optional|pinch|dash|dusting|drizzle|sprinkle|handful|a little|a few/i.test(i.name+' '+i.unit)?'source-variable':'missing';}
+const api={recover,status};if(typeof module!=='undefined')module.exports=api;else root.QuantityRecovery=api;
+})(globalThis);

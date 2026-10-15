@@ -1,0 +1,12 @@
+{
+  "contentMode": "public-samples",
+  "environment": "Android 15 / API 35 read-only emulator overlay",
+  "upgradeFrom": "0.24.0/code 26",
+  "upgradeTo": "0.25.0/code 27 bundle-derived APK",
+  "legacyRecipeCount": 31,
+  "savedJsonEqual": true,
+  "relaunchJsonEqual": true,
+  "freshSampleCount": 3,
+  "physicalPhoneTested": false,
+  "android16Tested": false
+}

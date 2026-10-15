@@ -1,4 +1,4 @@
-/* SavorShelf 0.8: display-only local image integration. No migration or network. */
+/* Leggacy 0.8: display-only local image integration. No migration or network. */
 (function(){
   'use strict';
   const earlierArt=recipeArt;

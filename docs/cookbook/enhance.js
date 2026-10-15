@@ -1,4 +1,4 @@
-/* SavorShelf 0.2: additive enhancements over the original, tested offline UI. */
+/* Leggacy 0.2: additive enhancements over the original, tested offline UI. */
 'use strict';
 const K=window.Kitchen;
 const originalRecipeArt=recipeArt;

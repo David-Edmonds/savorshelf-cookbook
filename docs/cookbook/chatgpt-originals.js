@@ -34,7 +34,7 @@ document.addEventListener('click',async e=>{
  e.preventDefault();e.stopImmediatePropagation();
  if(b.dataset.action==='browse-originals')originalsList();
  if(b.dataset.action==='read-original')readOriginal(b.dataset.sourceId);
- if(b.dataset.action==='export-originals')exportText('SavorShelf-ChatGPT-originals.json',JSON.stringify(sourceArchive,null,2),'application/json');
+ if(b.dataset.action==='export-originals')exportText('Leggacy-ChatGPT-originals.json',JSON.stringify(sourceArchive,null,2),'application/json');
  if(b.dataset.action==='copy-original'){
   const entry=sourceArchive.entries.find(x=>x.id===b.dataset.sourceId);
   try{await navigator.clipboard.writeText(entry.text);toast('Original text copied.');}catch(_){toast('Clipboard unavailable. Export your originals from Settings.');}

@@ -1,0 +1,53 @@
+{
+  "version": "0.25.3",
+  "versionCode": 30,
+  "environment": "Android 16/API 36 private emulator",
+  "savedJsonEqual": true,
+  "physicalPhoneTested": false,
+  "layouts": {
+    "portraitLight": [
+      0,
+      63,
+      1080,
+      1796
+    ],
+    "keyboard": [
+      0,
+      63,
+      1080,
+      1022
+    ],
+    "portraitDark": [
+      0,
+      63,
+      1080,
+      1796
+    ],
+    "portraitCutout": [
+      0,
+      126,
+      1080,
+      1857
+    ],
+    "landscapeCutout": [
+      126,
+      63,
+      1796,
+      1080
+    ],
+    "threeButton": [
+      0,
+      126,
+      1080,
+      1796
+    ],
+    "gesture": [
+      0,
+      126,
+      1080,
+      1859
+    ]
+  },
+  "relaunchSavedJsonEqual": true,
+  "portraitCutoutAppliedAndVerified": true
+}
